@@ -22,6 +22,11 @@ class Settings(BaseSettings):
     JWT_ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     JWT_REFRESH_TOKEN_EXPIRE_DAYS: int = 7
 
+    # JWT token values
+    COOKIE_SECURE: bool = True
+    COOKIE_HTTPONLY: bool = True
+    COOKIE_SAMESITE: str = "strict"
+
     @property
     def DATABASE_URL(self):
         return f"postgresql+psycopg2://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"

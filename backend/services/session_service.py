@@ -34,4 +34,4 @@ class SessionService:
 
     @staticmethod
     def invalidate_session(db, session):
-        return SessionRepository.invalidate(db, session)
+        return SessionRepository.invalidate_session(db, session)

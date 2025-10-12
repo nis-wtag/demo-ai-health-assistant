@@ -3,7 +3,7 @@ from logging.config import fileConfig
 from alembic import context
 from core.config import settings
 from core.database import Base
-from models import Chamber, Doctor, DoctorChamber, User
+from models import Chamber, Doctor, DoctorChamber, User, Session
 from sqlalchemy import engine_from_config, pool
 
 # this is the Alembic Config object, which provides
