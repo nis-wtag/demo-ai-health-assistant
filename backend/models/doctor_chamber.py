@@ -47,6 +47,14 @@ class DoctorChamber(Base):
         cascade="all, delete-orphan",
     )
 
+    @property
+    def chamber_name(self):
+        return self.chamber.chamber_name
+
+    @property
+    def address(self):
+        return self.chamber.address
+
     def __repr__(self):
         return (
             f"<DoctorChamber(doctor_id={self.doctor_id}, chamber_id={self.chamber_id})>"

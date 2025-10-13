@@ -1,7 +1,7 @@
-from sqlalchemy import ARRAY, Column, DateTime, Integer, String, func
-from sqlalchemy.orm import relationship
-
 from core.database import Base
+from sqlalchemy import Column, DateTime, Integer, String, func
+from sqlalchemy.dialects.postgresql import ARRAY
+from sqlalchemy.orm import relationship
 
 
 class Doctor(Base):
