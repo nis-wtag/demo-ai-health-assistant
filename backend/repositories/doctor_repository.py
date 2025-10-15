@@ -1,7 +1,9 @@
 from models.doctor import Doctor as DoctorModel
-from models.doctor_chamber import DoctorChamber
+from models.doctor_chamber import DoctorChamber, DoctorChamberVisitingHour
 from schemas.doctor_schema import DoctorCreate, DoctorSearch, DoctorUpdate
+from sqlalchemy import and_, func
 from sqlalchemy.orm import Session, selectinload
+from sqlalchemy.sql import exists
 
 from repositories.base_repository import BaseRepository
 
@@ -23,37 +25,72 @@ class DoctorRepository(BaseRepository[DoctorModel, DoctorCreate, DoctorUpdate]):
     def search(
         self, db: Session, search_params: DoctorSearch, skip: int = 0, limit: int = 5
     ) -> list[DoctorModel]:
-        query = db.query(self.model).distinct()
-
-        query = query.options(
-            selectinload(self.model.chambers).selectinload(DoctorChamber.chamber),
-            selectinload(self.model.chambers).selectinload(
-                DoctorChamber.visiting_hours
-            ),
+        query = (
+            db.query(self.model)
+            .distinct()
+            .options(
+                selectinload(self.model.chambers).selectinload(DoctorChamber.chamber),
+                selectinload(self.model.chambers).selectinload(
+                    DoctorChamber.visiting_hours
+                ),
+            )
         )
 
-        # DoctorModel profile filters
+        # Full-text search setup
+        query_terms = []
         if search_params.full_name:
-            query = query.filter(
-                self.model.full_name.ilike(f"%{search_params.full_name}%")
-            )
+            query_terms.append(search_params.full_name.lower())
         if search_params.degrees:
-            query = query.filter(self.model.degrees.overlap(search_params.degrees))
+            query_terms.extend(deg.lower() for deg in search_params.degrees)
         if search_params.specialization:
-            query = query.filter(
-                self.model.specialization.ilike(f"%{search_params.specialization}%")
-            )
+            query_terms.append(search_params.specialization.lower())
         if search_params.designation:
-            query = query.filter(
-                self.model.designation.ilike(f"%{search_params.designation}%")
-            )
+            query_terms.append(search_params.designation.lower())
         if search_params.affiliated_hospital:
-            query = query.filter(
-                self.model.affiliated_hospital.ilike(
-                    f"%{search_params.affiliated_hospital}%"
-                )
-            )
+            query_terms.append(search_params.affiliated_hospital.lower())
+        if search_params.chamber_name:
+            query_terms.append(search_params.chamber_name.lower())
+        if search_params.chamber_address:
+            query_terms.append(search_params.chamber_address.lower())
 
+        # Apply FTS if terms exist
+        if query_terms:
+            ts_query = func.plainto_tsquery("english", " ".join(query_terms))
+            query = query.filter(self.model.search_vector.op("@@")(ts_query))
+
+        # Visiting hours filter (keep — structural logic)
+        if any(
+            [
+                search_params.visiting_day,
+                search_params.visiting_start_time,
+                search_params.visiting_end_time,
+            ]
+        ):
+            vh_exists = exists().where(
+                DoctorChamberVisitingHour.doctor_chamber_id == DoctorChamber.id,
+                DoctorChamber.doctor_id == self.model.id,
+            )
+            if search_params.visiting_day:
+                vh_exists = vh_exists.where(
+                    DoctorChamberVisitingHour.day == search_params.visiting_day
+                )
+            if search_params.visiting_start_time and search_params.visiting_end_time:
+                vh_exists = vh_exists.where(
+                    and_(
+                        DoctorChamberVisitingHour.start_time
+                        <= search_params.visiting_end_time,
+                        DoctorChamberVisitingHour.end_time
+                        >= search_params.visiting_start_time,
+                    )
+                )
+            elif search_params.visiting_start_time:
+                vh_exists = vh_exists.where(
+                    DoctorChamberVisitingHour.start_time
+                    <= search_params.visiting_start_time
+                )
+            query = query.filter(vh_exists)
+
+        # Pagination
         query = query.offset(skip).limit(limit)
 
         return query.all()

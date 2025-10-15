@@ -1,6 +1,6 @@
 from core.database import Base
 from sqlalchemy import Column, DateTime, Integer, String, func
-from sqlalchemy.dialects.postgresql import ARRAY
+from sqlalchemy.dialects.postgresql import ARRAY, TSVECTOR
 from sqlalchemy.orm import relationship
 
 
@@ -17,6 +17,8 @@ class Doctor(Base):
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )
     updated_at = Column(DateTime(timezone=True), onupdate=func.now(), nullable=True)
+
+    search_vector = Column(TSVECTOR, nullable=True)
 
     # Relationships
     chambers = relationship(
