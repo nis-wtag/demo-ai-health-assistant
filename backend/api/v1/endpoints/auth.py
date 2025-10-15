@@ -2,7 +2,7 @@ from core.config import settings
 from core.database import get_db
 from fastapi import APIRouter, Cookie, Depends, HTTPException, Response
 from schemas.user_schema import UserCreate, UserLogin, UserRead
-from services.auth_service import AuthService
+from services import auth_service
 from sqlalchemy.orm import Session
 
 router = APIRouter(prefix="/auth", tags=["Auth"])
@@ -11,7 +11,7 @@ router = APIRouter(prefix="/auth", tags=["Auth"])
 @router.post("/register", response_model=UserRead)
 def register(user_data: UserCreate, db: Session = Depends(get_db)):
     try:
-        user = AuthService.register_user(
+        user = auth_service.register_user(
             db,
             email=user_data.email,
             password=user_data.password,
@@ -25,7 +25,7 @@ def register(user_data: UserCreate, db: Session = Depends(get_db)):
 @router.post("/login")
 def login(user_data: UserLogin, response: Response, db: Session = Depends(get_db)):
     try:
-        tokens = AuthService.login(
+        tokens = auth_service.login(
             db, email=user_data.email, password=user_data.password
         )
 
@@ -60,7 +60,7 @@ def logout(
     response: Response, access_token: str = Cookie(None), db: Session = Depends(get_db)
 ):
     try:
-        AuthService.logout(db, access_token)
+        auth_service.logout(db, access_token)
         response.delete_cookie("access_token")
         response.delete_cookie("refresh_token")
         return {"detail": "Logged out successfully"}
@@ -74,7 +74,7 @@ def refresh(
     response: Response, refresh_token: str = Cookie(None), db: Session = Depends(get_db)
 ):
     try:
-        tokens = AuthService.refresh(db, refresh_token=refresh_token)
+        tokens = auth_service.refresh(db, refresh_token=refresh_token)
 
         # Update access token cookie
         response.set_cookie(

@@ -1,4 +1,4 @@
-from models.doctor import Doctor
+from models.doctor import Doctor as DoctorModel
 from models.doctor_chamber import DoctorChamber
 from schemas.doctor_schema import DoctorCreate, DoctorSearch, DoctorUpdate
 from sqlalchemy.orm import Session, selectinload
@@ -6,8 +6,8 @@ from sqlalchemy.orm import Session, selectinload
 from repositories.base_repository import BaseRepository
 
 
-class DoctorRepository(BaseRepository[Doctor, DoctorCreate, DoctorUpdate]):
-    def get_details(self, db: Session, id: int) -> Doctor | None:
+class DoctorRepository(BaseRepository[DoctorModel, DoctorCreate, DoctorUpdate]):
+    def get_details(self, db: Session, id: int) -> DoctorModel | None:
         return (
             db.query(self.model)
             .filter(self.model.id == id)
@@ -22,7 +22,7 @@ class DoctorRepository(BaseRepository[Doctor, DoctorCreate, DoctorUpdate]):
 
     def search(
         self, db: Session, search_params: DoctorSearch, skip: int = 0, limit: int = 5
-    ) -> list[Doctor]:
+    ) -> list[DoctorModel]:
         query = db.query(self.model).distinct()
 
         query = query.options(
@@ -32,7 +32,7 @@ class DoctorRepository(BaseRepository[Doctor, DoctorCreate, DoctorUpdate]):
             ),
         )
 
-        # Doctor profile filters
+        # DoctorModel profile filters
         if search_params.full_name:
             query = query.filter(
                 self.model.full_name.ilike(f"%{search_params.full_name}%")
@@ -59,4 +59,4 @@ class DoctorRepository(BaseRepository[Doctor, DoctorCreate, DoctorUpdate]):
         return query.all()
 
 
-doctor_repository = DoctorRepository(Doctor)
+doctor_repository = DoctorRepository(DoctorModel)

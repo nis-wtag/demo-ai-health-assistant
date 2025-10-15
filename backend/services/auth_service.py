@@ -5,10 +5,10 @@ from datetime import datetime, timedelta, timezone
 from core.config import settings
 from models.user import User
 from passlib.context import CryptContext
-from repositories.user_repository import UserRepository
+from repositories.user_repository import user_repository
 from sqlalchemy.orm import Session
 
-from services.session_service import SessionService
+from services import session_service
 
 pwd_context = CryptContext(schemes=["argon2"], deprecated="auto")
 
@@ -32,95 +32,92 @@ def generate_token(user: User, iat: datetime, exp: datetime):
     return hashlib.sha256(raw_string.encode()).hexdigest()
 
 
-class AuthService:
-    @staticmethod
-    def register_user(db: Session, email: str, password: str, full_name: str):
-        existing_user = UserRepository.get_by_email(db, email=email)
-        if existing_user:
-            raise Exception("Email already registered")
+# -------------------------------
+# Services
+# -------------------------------
+def register_user(db: Session, email: str, password: str, full_name: str):
+    existing_user = user_repository.get_by_email(db, email=email)
+    if existing_user:
+        raise Exception("Email already registered")
 
-        hashed_password = get_password_hash(password)
-        return UserRepository.create(
-            db, email=email, hashed_password=hashed_password, full_name=full_name
-        )
+    hashed_password = get_password_hash(password)
+    return user_repository.create(
+        db, email=email, hashed_password=hashed_password, full_name=full_name
+    )
 
-    @staticmethod
-    def authenticate_user(db: Session, email: str, password: str):
-        user = UserRepository.get_by_email(db, email=email)
-        if not user or not verify_password(password, user.hashed_password):
-            raise Exception("Invalid credentials")
-        return user
 
-    @staticmethod
-    def login(db: Session, email: str, password: str):
-        user = AuthService.authenticate_user(db, email=email, password=password)
+def authenticate_user(db: Session, email: str, password: str):
+    user = user_repository.get_by_email(db, email=email)
+    if not user or not verify_password(password, user.hashed_password):
+        raise Exception("Invalid credentials")
+    return user
 
-        access_token_iat = refresh_token_iat = datetime.now(timezone.utc)
-        access_token_exp = access_token_iat + timedelta(
-            minutes=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES
-        )
-        refresh_token_exp = refresh_token_iat + timedelta(
-            days=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
-        )
 
-        access_token = generate_token(user, iat=access_token_iat, exp=access_token_exp)
-        refresh_token = generate_token(
-            user, iat=refresh_token_iat, exp=refresh_token_exp
-        )
+def login(db: Session, email: str, password: str):
+    user = authenticate_user(db, email=email, password=password)
 
-        SessionService.create_session(
-            db,
-            user_id=user.id,
-            access_token=access_token,
-            refresh_token=refresh_token,
-            access_expires_at=access_token_exp,
-            refresh_expires_at=refresh_token_exp,
-        )
+    access_token_iat = refresh_token_iat = datetime.now(timezone.utc)
+    access_token_exp = access_token_iat + timedelta(
+        minutes=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES
+    )
+    refresh_token_exp = refresh_token_iat + timedelta(
+        days=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
+    )
 
-        return {"access_token": access_token, "refresh_token": refresh_token}
+    access_token = generate_token(user, iat=access_token_iat, exp=access_token_exp)
+    refresh_token = generate_token(user, iat=refresh_token_iat, exp=refresh_token_exp)
 
-    @staticmethod
-    def logout(db: Session, access_token: str):
-        session = SessionService.get_by_access_token(db, access_token)
-        if session:
-            SessionService.invalidate_session(db, session)
-        else:
-            raise Exception("Invalid access token")
+    session_service.create_session(
+        db,
+        user_id=user.id,
+        access_token=access_token,
+        refresh_token=refresh_token,
+        access_expires_at=access_token_exp,
+        refresh_expires_at=refresh_token_exp,
+    )
 
-    @staticmethod
-    def refresh(db: Session, refresh_token: str):
-        old_session = SessionService.get_by_refresh_token(db, refresh_token)
+    return {"access_token": access_token, "refresh_token": refresh_token}
 
-        if not old_session or old_session.refresh_expires_at < datetime.now(
-            timezone.utc
-        ):
-            raise Exception("Invalid or expired refresh token")
 
-        SessionService.invalidate_session(db, old_session)
+def logout(db: Session, access_token: str):
+    session = session_service.get_by_access_token(db, access_token)
+    if session:
+        session_service.invalidate_session(db, session)
+    else:
+        raise Exception("Invalid access token")
 
-        user = UserRepository.get_by_id(db, old_session.user_id)
-        new_access_token_iat = new_refresh_token_iat = datetime.now(timezone.utc)
-        new_access_token_exp = new_access_token_iat + timedelta(
-            minutes=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES
-        )
-        new_refresh_token_exp = new_refresh_token_iat + timedelta(
-            days=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
-        )
 
-        new_access_token = generate_token(
-            user, iat=new_access_token_iat, exp=new_access_token_exp
-        )
-        new_refresh_token = generate_token(
-            user, iat=new_refresh_token_iat, exp=new_refresh_token_exp
-        )
+def refresh(db: Session, refresh_token: str):
+    old_session = session_service.get_by_refresh_token(db, refresh_token)
 
-        SessionService.create_session(
-            db,
-            user_id=user.id,
-            access_token=new_access_token,
-            refresh_token=new_refresh_token,
-            access_expires_at=new_access_token_exp,
-            refresh_expires_at=new_refresh_token_exp,
-        )
+    if not old_session or old_session.refresh_expires_at < datetime.now(timezone.utc):
+        raise Exception("Invalid or expired refresh token")
 
-        return {"access_token": new_access_token, "refresh_token": new_refresh_token}
+    session_service.invalidate_session(db, old_session)
+
+    user = user_repository.get_by_id(db, old_session.user_id)
+    new_access_token_iat = new_refresh_token_iat = datetime.now(timezone.utc)
+    new_access_token_exp = new_access_token_iat + timedelta(
+        minutes=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES
+    )
+    new_refresh_token_exp = new_refresh_token_iat + timedelta(
+        days=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
+    )
+
+    new_access_token = generate_token(
+        user, iat=new_access_token_iat, exp=new_access_token_exp
+    )
+    new_refresh_token = generate_token(
+        user, iat=new_refresh_token_iat, exp=new_refresh_token_exp
+    )
+
+    session_service.create_session(
+        db,
+        user_id=user.id,
+        access_token=new_access_token,
+        refresh_token=new_refresh_token,
+        access_expires_at=new_access_token_exp,
+        refresh_expires_at=new_refresh_token_exp,
+    )
+
+    return {"access_token": new_access_token, "refresh_token": new_refresh_token}

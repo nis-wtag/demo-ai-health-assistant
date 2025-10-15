@@ -1,11 +1,13 @@
 from models.user import User as UserModel
+from schemas.user_schema import UserCreate, UserUpdate
 from sqlalchemy.orm import Session
 
+from repositories.base_repository import BaseRepository
 
-class UserRepository:
-    @staticmethod
+
+class UserRepository(BaseRepository[UserModel, UserCreate, UserUpdate]):
     def create(
-        db: Session, email: str, hashed_password: str, full_name: str
+        self, db: Session, email: str, hashed_password: str, full_name: str
     ) -> UserModel:
         user = UserModel(
             email=email, full_name=full_name, hashed_password=hashed_password
@@ -15,15 +17,12 @@ class UserRepository:
         db.refresh(user)
         return user
 
-    @staticmethod
-    def get_by_email(db: Session, email: str) -> UserModel | None:
+    def get_by_email(self, db: Session, email: str) -> UserModel | None:
         return db.query(UserModel).filter(UserModel.email == email).first()
 
-    @staticmethod
-    def get_by_id(db: Session, id: int) -> UserModel | None:
+    def get_by_id(self, db: Session, id: int) -> UserModel | None:
         return db.query(UserModel).filter(UserModel.id == id).first()
 
-    @staticmethod
     def update_password(
         db: Session, user: UserModel, hashed_new_password: str
     ) -> UserModel:
@@ -31,3 +30,6 @@ class UserRepository:
         db.commit()
         db.refresh(user)
         return user
+
+
+user_repository = UserRepository(UserModel)

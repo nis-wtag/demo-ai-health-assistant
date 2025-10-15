@@ -4,7 +4,7 @@ from core.database import get_db
 from fastapi import Cookie, Depends, HTTPException, status
 from models.user import User, UserRole
 from repositories.session_repository import SessionRepository
-from repositories.user_repository import UserRepository
+from repositories.user_repository import user_repository
 from sqlalchemy.orm import Session
 
 
@@ -27,7 +27,7 @@ def get_current_user(
             status_code=status.HTTP_401_UNAUTHORIZED, detail="Access token expired"
         )
 
-    user: User = UserRepository.get_by_id(db, session.user_id)
+    user: User = user_repository.get_by_id(db, session.user_id)
     if not user:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
