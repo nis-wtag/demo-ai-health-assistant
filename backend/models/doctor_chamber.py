@@ -55,6 +55,14 @@ class DoctorChamber(Base):
     def address(self):
         return self.chamber.address
 
+    @property
+    def longitude(self):
+        return self.chamber.longitude
+
+    @property
+    def latitude(self):
+        return self.chamber.latitude
+
     def __repr__(self):
         return (
             f"<DoctorChamber(doctor_id={self.doctor_id}, chamber_id={self.chamber_id})>"

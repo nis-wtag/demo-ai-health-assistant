@@ -2,13 +2,12 @@ import json
 from datetime import time
 from pathlib import Path
 
+from core.database import SessionLocal
+from models.chamber import Chamber
+from models.doctor import Doctor
+from models.doctor_chamber import DAY, DoctorChamber, DoctorChamberVisitingHour
 from sqlalchemy.future import select
 from sqlalchemy.orm import Session
-
-from backend.core.database import SessionLocal
-from backend.models.chamber import Chamber
-from backend.models.doctor import Doctor
-from backend.models.doctor_chamber import DAY, DoctorChamber, DoctorChamberVisitingHour
 
 DATA_DIR = Path(__file__).parent.parent / "static" / "doctors"
 
