@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AI Health Assistant - Login</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+    <div class="login-container">
+        <h1>Login</h1>
+
+        <p id="error"></p>
+
+        <form id="login-form">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Login</button>
+        </form>
+
+        <p>Don't have an account? <a href="/registration">Register here</a></p>
+    </div>
+    <script>
+        const form = document.getElementById('login-form');
+        const errorEl = document.getElementById('error');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault(); // prevent normal form submit
+
+            const formData = new FormData(form);
+            const data = Object.fromEntries(formData.entries());
+
+            try {
+                const response = await fetch('/api/v1/auth/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data),
+                    credentials: 'include'
+                });
+
+                if (response.ok) {
+                    window.location.href = '/';
+                } else {
+                    const resData = await response.json();
+                    errorEl.textContent = resData.detail || 'Login failed';
+                }
+            } catch (err) {
+                errorEl.textContent = 'Network error';
+                console.error(err);
+            }
+        });
+    </script>
+</body>
+
+</html>

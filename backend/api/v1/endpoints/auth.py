@@ -22,17 +22,17 @@ def register(user_data: UserCreate, db: Session = Depends(get_db)):
         raise HTTPException(400, "Email already registered")
 
 
-@router.post("/login")
+@router.post("/login", response_model=UserRead)
 def login(user_data: UserLogin, response: Response, db: Session = Depends(get_db)):
     try:
-        tokens = auth_service.login(
+        user, access_token, refresh_token = auth_service.login(
             db, email=user_data.email, password=user_data.password
         )
 
         # Set access token cookie
         response.set_cookie(
             "access_token",
-            tokens["access_token"],
+            access_token,
             httponly=settings.COOKIE_HTTPONLY,
             secure=settings.COOKIE_SECURE,
             samesite=settings.COOKIE_SAMESITE,
@@ -42,16 +42,15 @@ def login(user_data: UserLogin, response: Response, db: Session = Depends(get_db
         # Set refresh token cookie
         response.set_cookie(
             "refresh_token",
-            tokens["refresh_token"],
+            refresh_token,
             httponly=settings.COOKIE_HTTPONLY,
             secure=settings.COOKIE_SECURE,
             samesite=settings.COOKIE_SAMESITE,
             max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS * 24 * 60 * 60,
         )
 
-        return {"detail": "Logged in successfully"}
+        return user
     except Exception as e:
-        print(e)
         raise HTTPException(status_code=401, detail="Invalid credentials")
 
 

@@ -9,7 +9,7 @@ from models.doctor_chamber import DAY, DoctorChamber, DoctorChamberVisitingHour
 from sqlalchemy.future import select
 from sqlalchemy.orm import Session
 
-DATA_DIR = Path(__file__).parent.parent / "static" / "doctors"
+DATA_DIR = Path(__file__).parent.parent / "data" / "doctors"
 
 
 def seed_database():

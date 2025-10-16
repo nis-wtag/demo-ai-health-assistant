@@ -76,7 +76,7 @@ def login(db: Session, email: str, password: str):
         refresh_expires_at=refresh_token_exp,
     )
 
-    return {"access_token": access_token, "refresh_token": refresh_token}
+    return user, access_token, refresh_token
 
 
 def logout(db: Session, access_token: str):

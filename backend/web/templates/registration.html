@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AI Health Assistant - Registration</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+    <div class="login-container">
+        <h1>Register</h1>
+
+        <p class="error" id="error"></p>
+        <p class="success" id="success"></p>
+
+        <form id="register-form">
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirm_password">Confirm Password:</label>
+            <input type="password" id="confirm_password" name="confirm_password" required>
+
+            <label for="full_name">Full Name:</label>
+            <input type="text" id="full_name" name="full_name" required>
+
+            <button type="submit">Register</button>
+        </form>
+
+        <p>Already have an account? <a href="/login">Login here</a></p>
+    </div>
+    <script>
+        const form = document.getElementById("register-form");
+        const errorEl = document.getElementById("error");
+        const successEl = document.getElementById("success");
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            // Gather form data
+            const formData = {
+                email: document.getElementById("email").value,
+                password: document.getElementById("password").value,
+                full_name: document.getElementById("full_name").value
+            };
+
+            // Reset messages
+            errorEl.textContent = "";
+            successEl.textContent = "";
+
+            try {
+                const response = await fetch("/api/v1/auth/register", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(formData),
+                    credentials: "include"
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    successEl.textContent = data.message || "Registration successful!";
+                    setTimeout(() => {
+                        window.location.href = "/login";
+                    }, 1500);
+                } else {
+                    const errData = await response.json();
+                    errorEl.textContent = errData.detail || "Registration failed!";
+                }
+            } catch (err) {
+                console.error(err);
+                errorEl.textContent = "Network error!";
+            }
+        });
+    </script>
+</body>
+
+</html>
