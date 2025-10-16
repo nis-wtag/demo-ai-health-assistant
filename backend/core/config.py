@@ -32,7 +32,7 @@ class Settings(BaseSettings):
         return f"postgresql+psycopg2://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
 
     # Pydantic model configuration to load from the .env file
-    env_file_path: ClassVar[Path] = Path(__file__).parent.parent / ".env"
+    env_file_path: ClassVar[Path] = Path(__file__).parent.parent.parent / ".env"
 
     model_config = SettingsConfigDict(
         env_file=env_file_path, env_file_encoding="utf-8", case_sensitive=True
