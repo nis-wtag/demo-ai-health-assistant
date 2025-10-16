@@ -7,7 +7,7 @@ class ChatQuery(BaseModel):
     query: str
 
 
-class ChatReponse(BaseModel):
+class ChatResponse(BaseModel):
     disclaimer: str
     remedy: str
     recommended_doctors: list[DoctorRead]

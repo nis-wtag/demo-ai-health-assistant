@@ -13,6 +13,7 @@ def get_doctor_by_id(db: Session, doctor_id: int):
 def search_doctors(
     db: Session, search_params: DoctorSearch, skip: int = 0, limit: int = 100
 ) -> list[Doctor]:
+    print(search_params)
     return doctor_repository.search(
         db, search_params=search_params, skip=skip, limit=limit
     )

@@ -1,16 +1,17 @@
-from core.database import get_db
 from fastapi import APIRouter, Cookie, Depends, HTTPException, Request
-from models.user import User, UserRole
-from schemas.chat_schema import ChatQuery, ChatReponse
-from schemas.user_schema import UserRead
+from models.user import User
+from schemas.chat_schema import ChatQuery, ChatResponse
 from services.dependencies.auth_dependencies import get_current_user, require_roles
+from services.llm_query_service import QueryService
 
 router = APIRouter(prefix="/chat", tags=["Chat"])
 
 
-@router.post("/", response_model=ChatReponse)
+@router.post("/", response_model=ChatResponse)
 def process_chat_query(
-    chat: ChatQuery, request: Request, current_user: User = Depends(get_current_user)
+    chat_in: ChatQuery,
+    current_user: User = Depends(get_current_user),
+    query_service: QueryService = Depends(),
 ):
     output = {
         "disclaimer": "This is AI-generated advice and not a substitute for professional medical consultation. Please see a certified doctor for any health concerns.",
@@ -91,4 +92,6 @@ def process_chat_query(
         ],
     }
 
-    return ChatReponse(**output)
+    return ChatResponse(**output)
+
+    # return query_service.process_user_query(user_query=chat_in.query)
