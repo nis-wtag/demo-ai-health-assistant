@@ -35,7 +35,6 @@ class QueryService:
         and provide a structured response in JSON format. The user's query will be in English, Bangla, or a mix (Banglish).
 
         Current Date: {current_date}
-        User's Approximate Location: Dhaka, Bangladesh
 
         Analyze the following user query:
         <query>
@@ -75,12 +74,12 @@ class QueryService:
         except Exception as e:
             # Fallback if the LLM fails to generate valid JSON
             print(f"LLM parsing failed: {e}")
-            search_params = DoctorSearch(specialization="General Practitioner")
+            search_params = DoctorSearch(specialization="General")
             remedy = "I had trouble understanding the specifics of your query. It's always best to consult with a General Practitioner for any health concerns."
 
         # 3. Use the structured data to find doctors
         recommended_doctors = search_doctors(
-            self.db, search_params=search_params, limit=4
+            self.db, search_params=search_params, limit=6
         )
 
         # 4. Assemble the final response

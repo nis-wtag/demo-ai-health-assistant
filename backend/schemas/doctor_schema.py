@@ -2,13 +2,15 @@ from datetime import time
 from typing import List, Optional
 
 from models.doctor_chamber import DAY
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 
 class VisitingHour(BaseModel):
     day: DAY
     start_time: Optional[time] = None
     end_time: Optional[time] = None
+
+    model_config = ConfigDict(from_attributes=True)
 
 
 class Chamber(BaseModel):
@@ -19,6 +21,8 @@ class Chamber(BaseModel):
     latitude: Optional[float] = None
     contact_number: Optional[str] = None
     visiting_hours: Optional[List[VisitingHour]] = []
+
+    model_config = ConfigDict(from_attributes=True)
 
 
 class DoctorBase(BaseModel):
@@ -46,8 +50,8 @@ class DoctorUpdate(BaseModel):
 class DoctorRead(DoctorBase):
     id: int
 
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(from_attributes=True)
+
 
 class DoctorSearch(BaseModel):
     full_name: Optional[str] = None
