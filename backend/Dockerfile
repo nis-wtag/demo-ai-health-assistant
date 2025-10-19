@@ -33,9 +33,11 @@ COPY --from=builder /usr/local/bin /usr/local/bin
 # Copy app code
 COPY . .
 
+# Make script executable
+RUN chmod +x start.sh
+
 # Expose port
 EXPOSE 8000
 
-# Run FastAPI app
-ENTRYPOINT ["uvicorn", "main:app"]
-CMD ["--host", "0.0.0.0", "--port", "8000"]
+# Run the start script
+CMD ["./start.sh"]
