@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": {
+                "name": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+                "longitude": 91.83449949999999,
+                "latitude": 22.3657935
+            },
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Shamima Akter",
+    "speciality": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
+    "workplace": "Chittagong International Medical College & Hospital",
+    "image": "image/dr-shamima-akter-gynecology.jpg"
+}

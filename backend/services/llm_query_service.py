@@ -21,7 +21,7 @@ class QueryService:
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.5-flash",
             google_api_key=settings.GEMINI_API_KEY,
-            temperature=0.0,
+            temperature=0.5,
         )
         self.parser = JsonOutputParser(pydantic_object=StructuredAIResponse)
         self.prompt = self._create_prompt_template()

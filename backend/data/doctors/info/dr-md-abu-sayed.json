@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "10674",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, Panthapath, Dhaka – 1215, Bangladesh",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "+8809611996699",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Professor of Neurosurgery",
+    "name": "Prof. Dr. Md. Abu Sayed",
+    "speciality": "Neurosurgery (Brain, Spine, Nerve & Stroke) Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-abu-sayed-munsi.jpg"
+}

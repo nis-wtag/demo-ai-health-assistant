@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Kidney Foundation Hospital & Research Institute",
+            "address": "Plot - 5/2, Road - 1 (Main Road), Section 2, Mirpur, Dhaka",
+            "contact": "+8801623324850",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "FRCP",
+        "MD",
+        "PhD"
+    ],
+    "designation": "Professor & Chief Consultant (Nephrology)",
+    "name": "Prof. Dr. Harun-Ur-Rashid",
+    "speciality": "Kidney Diseases & Medicine Specialist (Nephrologist)",
+    "workplace": "Kidney Foundation Hospital & Research Institute",
+    "image": "image/prof-dr-harun-ur-rashid.jpg"
+}

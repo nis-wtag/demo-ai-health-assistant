@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Jolly Dental & Orthodontics",
+            "address": {
+                "name": "Opposite to Sarak Bhaban, Jail Road, Dhap Rangpur",
+                "longitude": 89.235204,
+                "latitude": 25.762494
+            },
+            "contact": "+8801749427316",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS (Orthodontics)",
+        "WHO Fellow (USA)"
+    ],
+    "designation": "Vice Principal, Associate Professor & Head, Orthodontics Department",
+    "name": "Dr. Marina Akther Jolly",
+    "speciality": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
+    "workplace": "Rangpur Community Dental College",
+    "image": "image/dr-marina-akther-jolly.jpg"
+}

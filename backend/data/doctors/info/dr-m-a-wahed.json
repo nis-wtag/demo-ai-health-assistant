@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Royal Hospital, Chittagong",
+            "address": {
+                "name": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+                "longitude": 91.82858859999999,
+                "latitude": 22.36043685
+            },
+            "contact": "+880241355934",
+            "visiting_hours": null
+        },
+        {
+            "place": "Bangladesh Eye Hospital, Chittagong",
+            "address": {
+                "name": "Probartak Sangha Building, Probartak Circle, Panchlaish, Chattogram",
+                "longitude": -84.746951,
+                "latitude": 35.628407
+            },
+            "contact": "+8801839392525",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO",
+        "Fellowship in Glaucoma (LVPEI) India"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. M. A. Wahed",
+    "speciality": "Ophthalmologist & Glaucoma Specialist",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-m-a-wahed.jpg"
+}

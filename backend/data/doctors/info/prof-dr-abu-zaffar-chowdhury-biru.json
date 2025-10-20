@@ -1,0 +1,72 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8801816147144",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Uttara Crescent Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+                "longitude": 90.4001501,
+                "latitude": 23.8678692
+            },
+            "contact": "+8801917704150",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Fellow in Arthroscopy & Replacement Surgery (UK)",
+        "Fellow in Arthroscopy & Sports Medicine (India)"
+    ],
+    "designation": "Professor & Head, Orthopedic Surgery",
+    "name": "Prof. Dr. Abu Zaffar Chowdhury Biru",
+    "speciality": "Orthopedics, Arthroscopy, Arthroplasty & Trauma Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-abu-zaffar-chowdhury-biru.jpg"
+}

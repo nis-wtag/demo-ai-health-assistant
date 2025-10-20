@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Medical College & Hospital",
+            "address": {
+                "name": "Nowdapara, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801810000120",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor & Head, Medicine",
+    "name": "Prof. Dr. Md. Motiur Rahman",
+    "speciality": "Medicine, Diabetes & Hormonal Diseases Specialist",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/prof-dr-md-motiur-rahman.jpg"
+}

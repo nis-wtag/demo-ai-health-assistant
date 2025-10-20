@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801814651077",
+            "visiting_hours": null
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Tahera Begum",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Southern Medical College & Hospital",
+    "image": "image/dr-tahera-begum.jpg"
+}

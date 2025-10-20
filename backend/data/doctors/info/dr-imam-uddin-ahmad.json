@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Gomati Hospital, Comilla",
+            "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
+            "contact": "+8801958422817",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD (NIDCH)",
+        "FCCP (USA)"
+    ],
+    "designation": "Senior Consultant, Chest Diseases",
+    "name": "Dr. Imam Uddin Ahmad",
+    "speciality": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+    "workplace": "Gomati Hospital, Comilla",
+    "image": "image/dr-imam-uddin-ahmad.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MSc (Norway)",
+        "DDS (BSMMU)",
+        "PGT",
+        "MCPS",
+        "FICD (USA)"
+    ],
+    "designation": "Professor, Dental",
+    "name": "Prof. Dr. Mohammad Shafi Ullah",
+    "speciality": "Root Canal Specialist & Dental Cosmetic Surgeon",
+    "workplace": "Mandy Dental College & Hospital",
+    "image": "image/prof-dr-mohammad-shafi-ullah.jpg"
+}

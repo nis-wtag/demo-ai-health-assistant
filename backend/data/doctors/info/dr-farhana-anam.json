@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Harvest Infertility Care, Dhaka",
+            "address": {
+                "name": "House # 100, Road # 06, Block # B, Pallabi, Mirpur 12, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801817146640",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCU (USA)"
+    ],
+    "designation": "Medical Director, Female Infertility",
+    "name": "Dr. Farhana Anam",
+    "speciality": "Infertility (ICSI, IVF & FET) Specialist",
+    "workplace": "Harvest Infertility Care, Dhaka",
+    "image": "image/dr-farhana-anam.jpg"
+}

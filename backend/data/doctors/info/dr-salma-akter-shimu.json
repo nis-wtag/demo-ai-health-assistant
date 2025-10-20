@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Treatment Health Care, Chittagong",
+            "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+            "contact": "+8801323337344",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Shajinaz Hospital Ltd.",
+            "address": {
+                "name": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+                "longitude": 91.79968016367557,
+                "latitude": 22.38510865
+            },
+            "contact": "+8801886338811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Associate Professor (Gyne & Obs)",
+    "name": "Dr. Salma Akter Shimu",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-salma-akter-shimu.jpg"
+}

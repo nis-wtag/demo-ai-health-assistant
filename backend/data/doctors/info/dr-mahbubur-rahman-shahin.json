@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": {
+                "name": "1/1 B, Kallyanpur, Dhaka",
+                "longitude": 90.3613321,
+                "latitude": 23.7806848
+            },
+            "contact": "+8801703725590",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (Eye)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Mahbubur Rahman Shahin",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "President Abdul Hamid Medical College & Hospital",
+    "image": "image/dr-mahbubur-rahman-shahin.jpg"
+}

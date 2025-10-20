@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rangpur",
+            "address": {
+                "name": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+                "longitude": 89.241459,
+                "latitude": 25.7569808
+            },
+            "contact": "+8809666787813",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Rheumatology)",
+        "MRCP (UK)"
+    ],
+    "designation": "Rheumatology Specialist",
+    "name": "Dr. Golam Rabbani",
+    "speciality": "Rheumatology Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-golam-rabbani.jpg"
+}

@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801921308090",
+            "visiting_hours": null
+        },
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+88031658501",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Surgery)",
+        "MS (Child Surgery)"
+    ],
+    "designation": "Consultant, Pediatric Surgery",
+    "name": "Dr. Nandan Kumar Majumder",
+    "speciality": "Child Surgery Specialist",
+    "workplace": "BGC Trust Medical College, Chittagong",
+    "image": "image/dr-nandan-kumar-majumder.jpg"
+}

@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": null
+        },
+        {
+            "place": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+            "address": {
+                "name": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8801701560011",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Resident Physician, Gastroenterology",
+    "name": "Dr. Al Mahmood Appolo",
+    "speciality": "Gastroenterology & Liver Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-al-mahmood-appolo.jpg"
+}

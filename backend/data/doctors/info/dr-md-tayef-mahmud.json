@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "01810-004550",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Assistant Registrar, Orthopedic Surgery Dept",
+    "name": "Dr. Md. Tayef Mahmud",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma, Paralysis) Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-tayef-mahmud.jpg"
+}

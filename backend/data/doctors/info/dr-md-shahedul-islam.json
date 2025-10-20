@@ -1,0 +1,22 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801714-306390",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FRCP (UK)",
+        "FCPS (Psychiatry)",
+        "MCPS (Psychiatry)"
+    ],
+    "designation": "Associate Professor, Psychiatry",
+    "name": "Dr. Md. Shahedul Islam",
+    "speciality": "Mental Diseases & Drug Addiction Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-shahedul-islam.jpg"
+}

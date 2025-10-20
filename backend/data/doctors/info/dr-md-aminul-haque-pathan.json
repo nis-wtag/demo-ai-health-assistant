@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Mirpur",
+            "address": {
+                "name": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+                "longitude": 90.36164,
+                "latitude": 23.8244224
+            },
+            "contact": "+8801847262996",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Orthopedic Specialist & Trauma Surgeon",
+    "name": "Dr. Md. Aminul Haque Pathan",
+    "speciality": "Orthopedic",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-md-aminul-haque-pathan.jpg"
+}

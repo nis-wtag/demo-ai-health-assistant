@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Dhaka)",
+        "MSc (Orthodontics, Malaysia)"
+    ],
+    "designation": "Consultant Dental Surgeon, Dental & Maxillofacial Surgery",
+    "name": "Dr. Riaz Mohammad Adham",
+    "speciality": "Oral & Dental Surgeon (Root Canal & Braces System Expert)",
+    "workplace": "Evercare Hospital, Chattogram",
+    "image": "image/dr-riaz-mohammad-adham.jpg"
+}

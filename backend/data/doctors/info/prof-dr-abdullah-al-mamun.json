@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Professor & Head, Dept. of Psychiatry",
+    "name": "Prof. Dr. Abdullah Al Mamun",
+    "speciality": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-abdullah-al-mamun.jpg"
+}

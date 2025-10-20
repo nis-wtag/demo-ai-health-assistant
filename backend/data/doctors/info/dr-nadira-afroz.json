@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DCH",
+        "FCPS (Ped)"
+    ],
+    "designation": "Child Specialist",
+    "name": "Dr. Nadira Afroz",
+    "speciality": "Child Specialist",
+    "workplace": "Maternal & Child Health Training Institute",
+    "image": "image/dr-nadira-afroz.jpg"
+}

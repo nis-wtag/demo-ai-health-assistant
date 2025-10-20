@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "PhD (USA)",
+        "Fellow-Hepatobiliary, Laparoscopy & Minimally Invasive Surgery (Malaysia)",
+        "Fellow-EMU (Singapore)"
+    ],
+    "designation": "Professor & Head of the Department of Surgery",
+    "name": "Prof. Dr. Md. Nasir Uddin",
+    "speciality": "General, Laparoscopic, & Hepatobiliary Surgeon",
+    "workplace": "Faridpur Medical College & Hospital",
+    "image": "image/prof-dr-md-nasir-uddin-ortho.jpg"
+}

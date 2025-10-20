@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 146, Road # 02, Block # B, Pallabi, Mirpur-12, Dhaka",
+                "longitude": 90.4263005,
+                "latitude": 23.748104
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor (Cardiology)",
+    "name": "Dr. A.B.M. Riaz Kawsar",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-a-b-m-riaz-kawsar.jpg"
+}

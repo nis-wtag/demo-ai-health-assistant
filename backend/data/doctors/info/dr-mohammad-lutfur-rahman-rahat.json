@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Zyona Laser & Skin Care Center",
+            "address": "House # 499/685, Siddique Valley, 3rd Floor, Agrabad Access Road, Chattogram",
+            "contact": "+8801307842071",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (SKIN & VD, BSMMU)"
+    ],
+    "designation": "Dermatologist, Dermatology & Venereology",
+    "name": "Dr. Mohammad Lutfur Rahman Rahat",
+    "speciality": "Skin, Sexual Diseases, Leprosy, STD, Aesthetics & Dermatosurgery Specialist",
+    "workplace": "Central Skin & Social Hygiene Center (American Hospital), Chittagong",
+    "image": "image/dr-mohammad-lutfur-rahman-rahat.jpg"
+}

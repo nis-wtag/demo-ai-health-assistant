@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "General & Laparoscopic Surgeon",
+    "name": "Prof. Dr. Md. Aminul Islam",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/prof-dr-md-aminul-islam-cancer.jpg"
+}

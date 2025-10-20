@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Super Specialized Hospital",
+            "address": {
+                "name": "(Beside Bangladesh Eye Hospital) Dhanmondi 27, Dhaka - 1205",
+                "longitude": 90.3745787,
+                "latitude": 23.7464981
+            },
+            "contact": "+8801720601503",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Laser Chain & Skin Center",
+            "address": {
+                "name": "(Beside Sobhanbagh Mosque) Dhanmondi 28, Dhaka – 1205",
+                "longitude": 90.379521,
+                "latitude": 23.738978
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Zainul Haque Sikder Women’s Medical College & Hospital",
+            "address": {
+                "name": "Road # 104, House # 5, Gulshan-2, Dhaka",
+                "longitude": 90.4107728,
+                "latitude": 23.7966618
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Plastic Surgeon, Plastic Surgery",
+    "name": "Dr. Tamanna Ahmed",
+    "speciality": "Plastic, Aesthetic, Breast, Hand, Burn & Cosmetic Surgery Specialist",
+    "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "image": "image/dr-tamanna-ahmed.jpg"
+}

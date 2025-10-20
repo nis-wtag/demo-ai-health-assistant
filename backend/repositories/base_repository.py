@@ -3,6 +3,7 @@ from typing import Any, Generic, TypeVar
 from core.database import Base
 from fastapi.encoders import jsonable_encoder
 from pydantic import BaseModel
+from sqlalchemy import func
 from sqlalchemy.orm import Session
 
 ModelType = TypeVar("ModelType", bound=Base)
@@ -13,6 +14,12 @@ UpdateSchemaType = TypeVar("UpdateSchemaTyep", bound=BaseModel)
 class BaseRepository(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
     def __init__(self, model: ModelType):
         self.model = model
+
+    def get_count(self, db: Session) -> int:
+        """
+        Returns the total number of unique doctors in the database.
+        """
+        return db.query(func.count(self.model.id)).scalar()
 
     def get(self, db: Session, id: Any) -> ModelType | None:
         return db.query(self.model).filter(self.model.id == id).first()

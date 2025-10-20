@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Model Hospital",
+            "address": "United Plaza, Laxmipur Mor, Rajshahi",
+            "contact": "+8801773844844",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)"
+    ],
+    "designation": "Associate Professor & Head, Gyne & Obs",
+    "name": "Dr. Abeda Khatun Shima",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-abeda-khatun-shima.jpg"
+}

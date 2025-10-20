@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Cardiac Hospital, Dhanmondi",
+            "address": {
+                "name": "Room - 439, House # 01, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801936217759",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "00:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MD (Hematology)",
+        "MRCP (Internal Medicine - UK)",
+        "MCPS (Internal Medicine)",
+        "Fellowship in Advanced Hematology and Bone Marrow, Stem Cell Transplantation (Singapore)"
+    ],
+    "designation": "Consultant, Hematology, Blood Cancer and Medicine",
+    "name": "Dr. Tanzia Khanum Tompa",
+    "speciality": "Hematology, Blood Cancer & Medicine Specialist",
+    "workplace": "Labaid Specialized Hospital, Dhanmondi",
+    "image": "image/dr-tanzia-khanum-tompa.jpg"
+}

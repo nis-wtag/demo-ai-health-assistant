@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Hospital, Mirpur",
+            "address": {
+                "name": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801301254924",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatric Hematology & Oncology)",
+        "MRCP (UK)",
+        "Fellowship in Palliative Care (India)"
+    ],
+    "designation": "Assistant Professor, Pediatric Hematology & Oncology",
+    "name": "Dr. Momena Begum",
+    "speciality": "Child Blood Diseases & Cancer Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-momena-begum.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP",
+        "FMD",
+        "Fellow IAGP (India)",
+        "Fellow RSH (UK)"
+    ],
+    "designation": "Captain",
+    "name": "Dr. Captain Sarwar Jahan Faiz",
+    "speciality": "Medicine Specialist",
+    "workplace": "Armed Forces Medical College, Dhaka",
+    "image": "image/dr-captain-sarwar-jahan-faiz.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mou-Shafi Hospital, Mymensingh",
+            "address": {
+                "name": "Dhaka-Mymensingh Road, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801711958137",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (SURGERY)"
+    ],
+    "designation": "Senior Consultant, Dept of Surgery",
+    "name": "Dr. Md. Shafiqul Islam",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "Directorate General of Health Services",
+    "image": "image/dr-md-shafiqul-islam-surgeon.jpg"
+}

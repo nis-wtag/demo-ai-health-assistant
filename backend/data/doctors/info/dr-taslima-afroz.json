@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Taslima Afroz",
+    "speciality": "Cardiology, Hypertension & Medicine Specialist",
+    "workplace": "US Bangla Medical College & Hospital",
+    "image": "image/dr-taslima-afroz.jpg"
+}

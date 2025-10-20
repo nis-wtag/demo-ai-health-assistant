@@ -1,0 +1,72 @@
+{
+    "chambers": [
+        {
+            "place": "Ispahani Islamia Eye Institute & Hospital",
+            "address": {
+                "name": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
+                "longitude": 90.387863,
+                "latitude": 23.758585
+            },
+            "contact": "+8809610998333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Bashundhara Eye Hospital & Research Institute",
+            "address": {
+                "name": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+                "longitude": 90.40753001848913,
+                "latitude": 23.7519999
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "MS (EYE)",
+        "Fellowship (Pediatric Ophthalmology)"
+    ],
+    "designation": "Senior Consultant, Pediatric Ophthalmology",
+    "name": "Dr. Md. Mostafa Hossain",
+    "speciality": "Pediatric Ophthalmology Specialist",
+    "workplace": "Ispahani Islamia Eye Institute & Hospital",
+    "image": "image/dr-md-mostafa-hossain.jpg"
+}

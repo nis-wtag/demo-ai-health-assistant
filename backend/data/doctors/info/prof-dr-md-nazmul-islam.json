@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801715944733",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                }
+            ]
+        },
+        {
+            "place": "Maraim Ishaque Hospital, Sylhet",
+            "address": "Al-Fazal Plaza, Sunamgonj Road, Dorshon Dewri, Amberkhana, Sylhet",
+            "contact": "+8801725-276777",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSc (London)"
+    ],
+    "designation": "Professor, Nephrology",
+    "name": "Prof. Dr. Md. Nazmul Islam",
+    "speciality": "Kidney Diseases Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-md-nazmul-islam.jpg"
+}

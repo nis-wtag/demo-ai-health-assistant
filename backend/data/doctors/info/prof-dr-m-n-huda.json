@@ -1,0 +1,88 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+            "contact": "+8809666787805",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Banglamotor Chamber",
+            "address": "Nurjahan Tower, 2 Link Road, Banglamotor, Dhaka",
+            "contact": "+8801915848333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "DDV (DU)",
+        "FCPS (Skin & Sex)"
+    ],
+    "designation": "Professor (Ex), Dermatology & Venereology",
+    "name": "Prof. Dr. M.N. Huda",
+    "speciality": "Expert Dermatologist, Sexologist & Venereologist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-m-n-huda.jpg"
+}

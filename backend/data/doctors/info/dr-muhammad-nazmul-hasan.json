@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Room # 661, Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+                "longitude": -76.382147,
+                "latitude": 36.441377
+            },
+            "contact": "+8801841678735",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Consultant & Surgeon, Pediatric Surgery",
+    "name": "Dr. Muhammad Nazmul Hasan",
+    "speciality": "Neonatal, Pediatric & Adolescent Surgery Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-muhammad-nazmul-hasan.jpg"
+}

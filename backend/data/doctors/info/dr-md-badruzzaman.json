@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS, (DU)",
+        "MS (CVTS)"
+    ],
+    "designation": "Cardiovascular & Thoracic Surgeon",
+    "name": "Dr. Md. Badruzzaman",
+    "speciality": "Cardiovascular & Thoracic Surgeon",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-md-badruzzaman.jpg"
+}

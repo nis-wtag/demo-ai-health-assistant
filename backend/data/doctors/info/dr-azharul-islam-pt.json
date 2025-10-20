@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Mayfair Wellness Clinic, Gulshan",
+            "address": {
+                "name": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+                "longitude": 90.417157,
+                "latitude": 23.7841611
+            },
+            "contact": "+8801986660000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "Bachelor of Physiotherapy (DU) NITOR",
+        "Professional Master’s in Speech & Language Pathology - PMSLP (DU)"
+    ],
+    "designation": "Senior Consultant",
+    "name": "Dr. Azharul Islam (PT)",
+    "speciality": "Pain, Paralysis, Disability & Urological Health Physiotherapy Specialist",
+    "workplace": "Mayfair Wellness Clinic, Gulshan",
+    "image": "image/dr-azharul-islam-pt.jpg"
+}

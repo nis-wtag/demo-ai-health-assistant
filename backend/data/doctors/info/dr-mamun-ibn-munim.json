@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Trust Medical Services, Sylhet",
+            "address": {
+                "name": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801794261032",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SOMC)",
+        "MS (General Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Mamun Ibn Munim",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-mamun-ibn-munim.jpg"
+}

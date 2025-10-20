@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Belleview Imaging & Diagnostic Center",
+            "address": {
+                "name": "Shershah Road, West Side of Laxmipur Mor, Rajapara, Rajshahi",
+                "longitude": 89.1898,
+                "latitude": 23.91035
+            },
+            "contact": "+8801723060124",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Pabna",
+            "address": {
+                "name": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801766661901",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DLO (BSMMU)",
+        "FCPS (ENT)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. Md. Al Mahmud",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-al-mahmud.jpg"
+}

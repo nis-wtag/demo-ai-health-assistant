@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": "+8801796586561",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "D-Ortho (Dhaka)",
+        "Member (APOA & APSS)"
+    ],
+    "designation": "Associate Professor & Unit Head, Orthopedic Surgery",
+    "name": "Dr. Mamunur Rashid Chowdhury",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-mamunur-rashid-chowdhury.jpg"
+}

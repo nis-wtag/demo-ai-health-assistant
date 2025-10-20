@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP (BD)",
+        "CCD (BIRDEM)",
+        "MRSH (London)"
+    ],
+    "designation": "Diabetes Specialist doctor",
+    "name": "Dr. Lt. Col. Amzad Hossain",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Ibn Sina Diagnostic & Consultation Center",
+    "image": "image/dr-lt-col-amzad-hossain.jpg"
+}

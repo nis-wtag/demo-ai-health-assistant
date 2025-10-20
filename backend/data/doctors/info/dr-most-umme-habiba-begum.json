@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Children)"
+    ],
+    "designation": "Child Specialist",
+    "name": "Dr. Most. Umme Habiba Begum",
+    "speciality": "Child Specialist",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-most-umme-habiba-begum.jpg"
+}

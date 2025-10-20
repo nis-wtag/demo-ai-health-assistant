@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Lab, Chittagong",
+            "address": {
+                "name": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801940876810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedics)",
+        "NITOR"
+    ],
+    "designation": "Assistant Professor, Orthopedics",
+    "name": "Dr. Naimul Alam",
+    "speciality": "Orthopedics, Trauma, Spine, Sports Injury Specialist & Surgeon",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/dr-naimul-alam.jpg"
+}

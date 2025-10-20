@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Pediatric Surgeon",
+    "name": "Dr. Bablu Kumar Saha",
+    "speciality": "Pediatric Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-bablu-kumar-saha.jpg"
+}

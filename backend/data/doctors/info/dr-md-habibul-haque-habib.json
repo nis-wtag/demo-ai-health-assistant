@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Shafique Hospital, Pabna",
+            "address": {
+                "name": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+                "longitude": 89.198787,
+                "latitude": 23.445755
+            },
+            "contact": "+8801701654390",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Resident Physician, Department of Medicine",
+    "name": "Dr. Md. Habibul Haque Habib",
+    "speciality": "Medicine, Gastro-Liver & Diabetes Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-habibul-haque-habib.jpg"
+}

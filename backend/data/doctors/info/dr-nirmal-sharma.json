@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 1, Road # 4, Dhanmondi , Dhaka - 1205",
+                "longitude": 90.3835029,
+                "latitude": 23.7415091
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (RMC)",
+        "DDS (BSMMU)"
+    ],
+    "designation": "Dental Specialist",
+    "name": "Dr. Nirmal Sharma",
+    "speciality": "Dental Specialist",
+    "workplace": "Labaid Dental Clinic, Dhaka",
+    "image": "image/dr-nirmal-sharma.jpg"
+}

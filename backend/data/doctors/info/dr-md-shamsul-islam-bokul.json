@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801757980098",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DA (BSMMU)",
+        "FCPS (Physical Medicine)",
+        "Fellowship in Pain Medicine (India)"
+    ],
+    "designation": "Assistant Professor (Physical Medicine & Rehabilitation)",
+    "name": "Dr. Md. Shamsul Islam (Bokul)",
+    "speciality": "Pain, Arthritis, Paralysis & Sports Medicine Specialist",
+    "workplace": "Central Medical College & Hospital, Cumilla",
+    "image": "image/dr-md-shamsul-islam-bokul.jpg"
+}

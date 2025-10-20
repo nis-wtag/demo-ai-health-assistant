@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Lions Charitable Eye Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Nasirabad, Khulsi, Chattogram",
+                "longitude": 67.916566,
+                "latitude": 27.381011
+            },
+            "contact": "+8801511624052",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Medical Officer, Ophthalmology",
+    "name": "Dr. Shahid Kamal Tipu",
+    "speciality": "Eye Diseases Specialist",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-shahid-kamal-tipu.jpg"
+}

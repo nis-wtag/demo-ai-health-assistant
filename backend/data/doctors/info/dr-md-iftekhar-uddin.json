@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Midland Hospital, Comilla",
+            "address": "Laksam Road, Ramghat, Kandirpar, Cumilla",
+            "contact": "+8801711795740",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Md. Iftekhar Uddin",
+    "speciality": "Cardiology, Rheumatic Fever, Hypertension & Medicine Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-iftekhar-uddin.jpg"
+}

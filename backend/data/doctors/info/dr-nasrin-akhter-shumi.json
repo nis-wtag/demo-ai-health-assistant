@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sirajul Islam Medical College & Hospital",
+            "address": {
+                "name": "12/3, New Circular Road, Malibag, Dhaka - 1217",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+88-02-8322121",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SOMC)",
+        "MD (Haematology)"
+    ],
+    "designation": "Hematologist, Department of Haematology and Bone Marrow Transplant",
+    "name": "Dr. Nasrin Akhter (Shumi)",
+    "speciality": "Hematology, Blood Cancer & BMT Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-nasrin-akhter-shumi.jpg"
+}

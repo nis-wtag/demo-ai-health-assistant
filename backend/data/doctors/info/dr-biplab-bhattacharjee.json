@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "MD (Cardiology)"
+    ],
+    "designation": "Cardiology Specialist",
+    "name": "Dr. Biplab Bhattacharjee",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-biplab-bhattacharjee.jpg"
+}

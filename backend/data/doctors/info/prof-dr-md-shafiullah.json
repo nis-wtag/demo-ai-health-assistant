@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": "10658",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "Fellowship Training in Clinical Nephrology (UK)"
+    ],
+    "designation": "Founder & Professor, Nephrology",
+    "name": "Prof. Dr. Md. Shafiullah",
+    "speciality": "Medicine & Kidney Diseases Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-md-shafiullah.jpg"
+}

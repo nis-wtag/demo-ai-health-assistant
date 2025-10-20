@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Savar",
+            "address": {
+                "name": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+                "longitude": 90.35976,
+                "latitude": 23.76493
+            },
+            "contact": "+8809610009613",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Super Medical Hospital, Savar",
+            "address": {
+                "name": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+                "longitude": 90.246659,
+                "latitude": 23.841412
+            },
+            "contact": "+8801711266169",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil (Psychiatry)"
+    ],
+    "designation": "Associate Professor, Psychiatry",
+    "name": "Dr. Md. Jahangir Hossain",
+    "speciality": "Mental Health, Drug Addiction & Brain Disorder Specialist",
+    "workplace": "Monno Medical College & Hospital",
+    "image": "image/dr-jahangir-hossain.jpg"
+}

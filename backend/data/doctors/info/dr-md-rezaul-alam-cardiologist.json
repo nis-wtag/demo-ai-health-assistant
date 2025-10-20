@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Hema Digital Diagnostic Centre",
+            "address": "68, Shorolipi Manson, Bangabondhu Sarak, Dhap City Bazar, Rangpur",
+            "contact": "+8801711907192",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "D. Card (BSMMU)",
+        "PhD",
+        "FIACC (Cardiology) India"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Md. Rezaul Alam",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "M Abdur Rahim Medical College, Dinajpur",
+    "image": "image/dr-md-rezaul-alam-cardiologist.jpg"
+}

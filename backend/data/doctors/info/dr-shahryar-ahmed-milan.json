@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DEM (BIRDEM)"
+    ],
+    "designation": "Assistant Professor, Endocrinology",
+    "name": "Dr. Shahryar Ahmed Milan",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-shahryar-ahmed-milan.jpg"
+}

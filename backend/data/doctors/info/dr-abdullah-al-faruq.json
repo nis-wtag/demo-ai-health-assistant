@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Enam Medical College & Hospital",
+            "address": {
+                "name": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801716358146",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS (Oral & Maxillofacial Surgery)",
+        "MCPS (Dental Surgery)"
+    ],
+    "designation": "Assistant Professor, Dental",
+    "name": "Dr. Abdullah-Al-Faruq",
+    "speciality": "Dental, Oral & Maxillofacial Specialist Surgeon",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-abdullah-al-faruq.jpg"
+}

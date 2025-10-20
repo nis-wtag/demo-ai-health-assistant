@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801894853897",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Assistant Professor, Hepatology",
+    "name": "Dr. Md. Forhad Abedin",
+    "speciality": "Liver Diseases, Medicine, Transplant & Liver Cancer Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-forhad-abedin.jpg"
+}

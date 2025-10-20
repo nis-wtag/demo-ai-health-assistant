@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Chittagong",
+            "address": {
+                "name": "Probartak Sangha Building, Probartak Circle, Panchlaish, Chattogram",
+                "longitude": -84.746951,
+                "latitude": 35.628407
+            },
+            "contact": "+8801839392525",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (EYE)",
+        "FCPS (EYE)"
+    ],
+    "designation": "Registrar, Ophthalmology",
+    "name": "Dr. Utpal Sen",
+    "speciality": "Pediatric Ophthalmologist (Child Eye Diseases Specialist) & Phaco Surgeon",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-utpal-sen.jpg"
+}

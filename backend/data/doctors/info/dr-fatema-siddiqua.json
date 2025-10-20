@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Motherland Infertility Center & Hospital, Rajshahi",
+            "address": "East Side of GPO, Ibrahim Plaza, Rajpara, Laxmipur, Rajhsahi",
+            "contact": "+880721775266",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Associate Professor & Head, Obstetrics & Gynecology",
+    "name": "Dr. Fatema Siddiqua",
+    "speciality": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-fatema-siddiqua.jpg"
+}

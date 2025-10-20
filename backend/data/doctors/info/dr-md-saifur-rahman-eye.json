@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Md. Saifur Rahman's Chamber",
+            "address": {
+                "name": "Uposhohor Moor, Dorikhorbona, Rajshahi",
+                "longitude": 14.096477,
+                "latitude": 53.386096
+            },
+            "contact": "+8801752054292",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Ex. Assistant Professor, Eye",
+    "name": "Dr. Md. Saifur Rahman",
+    "speciality": "Cataract Surgery & General Ophthalmology Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-saifur-rahman-eye.jpg"
+}

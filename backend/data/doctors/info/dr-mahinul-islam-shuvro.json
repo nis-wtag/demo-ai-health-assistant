@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Bornali Mor, Rajshahi",
+                "longitude": 88.593041,
+                "latitude": 24.375441
+            },
+            "contact": "+8801711359480",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Junior Consultant, Surgery",
+    "name": "Dr. Md. Mahinul Islam (Shuvro)",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-mahinul-islam-shuvro.jpg"
+}

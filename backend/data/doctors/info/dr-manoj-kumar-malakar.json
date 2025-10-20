@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "(Health)",
+        "DCH (BSMMU)",
+        "MAAP (USA)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Manoj Kumar Malakar",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Fakirhat Upazila Health Complex, Bagerhat",
+    "image": "image/dr-manoj-kumar-malakar.jpg"
+}

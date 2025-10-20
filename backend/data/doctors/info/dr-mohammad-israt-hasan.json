@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "D Lab Medical Services, Barisal",
+            "address": {
+                "name": "Sarkari Mohila College Goli, Sadar Road, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801729208433",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Physical Medicine)"
+    ],
+    "designation": "Consultant Physiatrist, Physical Medicine & Rehabilitation",
+    "name": "Dr. Mohammad Israt Hasan",
+    "speciality": "Arthritis, Paralysis, Rheumatological Diseases, Injury & Rehabilitation Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-mohammad-israt-hasan.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Habib Ahmed",
+    "speciality": "Gastroenterology & Liver Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-habib-ahmed.jpg"
+}

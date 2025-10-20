@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (ENT)"
+    ],
+    "designation": "ENT Specialist & Head Neck Surgeon",
+    "name": "Dr. Md. Asaduzzaman Liton",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-asaduzzaman-liton.jpg"
+}

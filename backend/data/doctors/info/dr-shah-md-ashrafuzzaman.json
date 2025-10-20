@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "BCS (Health)",
+        "MD (Medicine)",
+        "PGT (Cardiology & Neurology)"
+    ],
+    "designation": "Assistant Professor, Department of Medicine",
+    "name": "Dr. Shah Md. Ashrafuzzaman",
+    "speciality": "Medicine, Neurology & Cardiology Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-shah-md-ashrafuzzaman.jpg"
+}

@@ -1,0 +1,86 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Infertility Care & Research Center (ICRC)",
+            "address": {
+                "name": "5/13 Humayun Road, Block # B, Mohammadpur, Dhaka",
+                "longitude": 90.3673537,
+                "latitude": 23.7681518
+            },
+            "contact": "+8801753599504",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "Diploma (Reproductive Medicine & Embryology)"
+    ],
+    "designation": "Ex. Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Hosne Ara Baby",
+    "speciality": "Gynecology, Infertility & Obstetrics Specialist",
+    "workplace": "Shahabuddin Medical College & Hospital, Dhaka",
+    "image": "image/prof-dr-hosne-ara-baby.jpg"
+}

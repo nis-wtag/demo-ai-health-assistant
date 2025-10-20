@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Malibagh",
+            "address": {
+                "name": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801844141717",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Gastroenterology & Medicine Specialist",
+    "name": "Dr. Rokanuzzaman Bhuyian",
+    "speciality": "Gastroenterology & Medicine Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-rokanuzzaman-bhuyian.jpg"
+}

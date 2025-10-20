@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712685297",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO"
+    ],
+    "designation": "ENT Specialist",
+    "name": "Dr. Md. Enamul Haque",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-enamul-haque-faisal.jpg"
+}

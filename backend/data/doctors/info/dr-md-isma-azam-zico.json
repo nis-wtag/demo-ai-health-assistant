@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "22:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "22:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "22:00",
+                    "end_time": "00:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FRCS (UK)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Assistant Registrar of Neurosurgery",
+    "name": "Dr. Md. Isma Azam (Zico)",
+    "speciality": "Neurosurgery (Brain, Stroke, Nerve & Spine) Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-isma-azam-zico.jpg"
+}

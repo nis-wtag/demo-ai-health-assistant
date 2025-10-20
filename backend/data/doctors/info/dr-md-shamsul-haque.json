@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Digital Diagnostic Center, Pabna",
+            "address": {
+                "name": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801746343270",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DA"
+    ],
+    "designation": "Former Associate Professor, Anesthesiology",
+    "name": "Dr. Md. Shamsul Haque",
+    "speciality": "Anesthesiology, Pain & Intensive Care Medicine Specialist",
+    "workplace": "Pabna Medical College & Hospital",
+    "image": "image/dr-md-shamsul-haque.jpg"
+}

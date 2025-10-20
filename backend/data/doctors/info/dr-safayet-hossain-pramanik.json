@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": "Room No: 806, Bhaban 01, Laxmipur, Rajshahi",
+            "contact": "+8801711051046",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant (Nephrology)",
+    "name": "Dr. Safayet Hossain Pramanik",
+    "speciality": "Kidney Diseases Specialist (Nephrologist)",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-safayet-hossain-pramanik.jpg"
+}

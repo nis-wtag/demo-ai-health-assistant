@@ -1,0 +1,136 @@
+{
+    "chambers": [
+        {
+            "place": "Easy Cure & Medicine Shop",
+            "address": {
+                "name": "New Monsurabad. Colonel Hat, Chittagong",
+                "longitude": 91.779381,
+                "latitude": 22.367393
+            },
+            "contact": "+8801819380013",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "11:45"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:30",
+                    "end_time": "23:00"
+                }
+            ]
+        },
+        {
+            "place": "Economic Medical Hall",
+            "address": "Gawsia Bhaban, 3no Fakirhat Road, Bandar, Chittagong",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Md. Enayet Ullah (Rubel)",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-md-enayet-ullah-rubel.jpg"
+}

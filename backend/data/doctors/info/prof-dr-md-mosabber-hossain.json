@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Urology)",
+        "DMU (Ultra)"
+    ],
+    "designation": "Professor, Urology",
+    "name": "Prof. Dr. Md. Mosabber Hossain",
+    "speciality": "Urology Specialist & Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/prof-dr-md-mosabber-hossain.jpg"
+}

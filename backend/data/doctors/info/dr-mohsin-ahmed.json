@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Doyagonj",
+            "address": {
+                "name": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "longitude": 90.402917,
+                "latitude": 23.720652
+            },
+            "contact": "+8801878115751",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Cardiology)",
+        "FIC",
+        "FACC",
+        "FESC (USA)",
+        "FSCAI",
+        "FAPSIC"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Mohsin Ahmed",
+    "speciality": "Cardiology, Rheumatic Fever, Hypertension & Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mohsin-ahmed.jpg"
+}

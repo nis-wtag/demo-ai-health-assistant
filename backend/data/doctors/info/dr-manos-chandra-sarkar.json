@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Savar",
+            "address": {
+                "name": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787808",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho)"
+    ],
+    "designation": "Orthopedic Surgeon",
+    "name": "Dr. Manos Chandra Sarkar",
+    "speciality": "Orthopedic Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-manos-chandra-sarkar.jpg"
+}

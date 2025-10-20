@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Halishahar",
+            "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+            "contact": "+8801701229090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Medicine)",
+        "PGT (Cardiology)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Mohammad Mamun Reza",
+    "speciality": "Medicine & Cardiology Specialist",
+    "workplace": "Chevron Clinical Laboratory, Halishahar",
+    "image": "image/dr-mohammad-mamun-reza.jpg"
+}

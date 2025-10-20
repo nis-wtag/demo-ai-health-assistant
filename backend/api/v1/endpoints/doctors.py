@@ -8,6 +8,13 @@ from sqlalchemy.orm import Session
 router = APIRouter(prefix="/doctors", tags=["Doctors"])
 
 
+@router.get("/", response_model=list[DoctorRead])
+def get_doctors(
+    offset: int = 0, limit: int = 10, db: Session = Depends(get_db)
+) -> list[DoctorRead]:
+    return doctor_service.get_doctors(db, offset=offset, limit=limit)
+
+
 @router.get("/{doctor_id}", response_model=DoctorRead)
 def get_doctor_details(doctor_id: int, db: Session = Depends(get_db)) -> DoctorRead:
     return doctor_service.get_doctor_by_id(db, doctor_id=doctor_id)

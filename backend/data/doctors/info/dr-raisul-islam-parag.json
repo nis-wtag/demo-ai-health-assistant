@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Prescription Point, Banani",
+            "address": {
+                "name": "House - 105, Road - 12, Block - E, Banani, Dhaka",
+                "longitude": 90.4099103,
+                "latitude": 23.7543364
+            },
+            "contact": "+8802222297222",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Registrar, Psychiatry",
+    "name": "Dr. Raisul Islam Parag",
+    "speciality": "Psychiatry (Mental Diseases, Depression, Sexual Problem) Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-raisul-islam-parag.jpg"
+}

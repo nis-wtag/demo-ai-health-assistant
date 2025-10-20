@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Padma Diagnostic Center, Malibagh",
+            "address": {
+                "name": "245/2 New Circular Road, West Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809617444222",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Kidney & Medicine Specialist",
+    "name": "Dr. Md. Ehasun Uddin Khan",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-ehasun-uddin-khan.jpg"
+}

@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": {
+                "name": "Room - 201, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+                "longitude": 90.39493591302184,
+                "latitude": 23.71982905
+            },
+            "contact": "+8801681006412",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MRCP (UK)",
+        "FACP (USA)",
+        "FRCP (UK)"
+    ],
+    "designation": "Associate Professor, Department of Medicine",
+    "name": "Dr. Abul Fazal Mohammad Helal Uddin",
+    "speciality": "Medicine Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-afm-helal-uddin.jpg"
+}

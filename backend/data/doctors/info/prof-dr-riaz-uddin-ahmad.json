@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "MCPS",
+        "FCPS"
+    ],
+    "designation": "Skin, Sex, Allergy & Leprosy Specialist",
+    "name": "Prof. Dr. Riaz Uddin Ahmad",
+    "speciality": "Dermatologist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-riaz-uddin-ahmad.jpg"
+}

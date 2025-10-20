@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Upasham Health Point (Pvt.) Ltd",
+            "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+            "contact": "+8801932200200",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Surgical Oncology)"
+    ],
+    "designation": "Assistant Professor, Surgical Oncology",
+    "name": "Dr. K M Reaz Morshed",
+    "speciality": "General, Laparoscopic & Cancer Surgery Specialist (Surgical Oncologist)",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-k-m-reaz-morshed.jpg"
+}

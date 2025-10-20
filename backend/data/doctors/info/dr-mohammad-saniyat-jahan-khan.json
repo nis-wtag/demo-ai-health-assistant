@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Aichi Hospital Limited, Uttara",
+            "address": {
+                "name": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+                "longitude": 90.427168,
+                "latitude": 23.767562
+            },
+            "contact": "+8801689956599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Plastic Surgery)",
+        "Fellow (JBMA)"
+    ],
+    "designation": "Consultant & Surgeon, Burn, Plastic & Reconstructive Surgery",
+    "name": "Dr. Mohammad Saniyat Jahan Khan",
+    "speciality": "Burn, Plastic & Cosmetic Specialist Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mohammad-saniyat-jahan-khan.jpg"
+}

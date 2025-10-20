@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center, Sylhet",
+            "address": {
+                "name": "New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801782105440",
+            "visiting_hours": null
+        },
+        {
+            "place": "Medi-Aid Diagnostic & Consultation Center",
+            "address": {
+                "name": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100",
+                "longitude": 91.85357672746755,
+                "latitude": 24.90202515
+            },
+            "contact": "+8801711275902",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)"
+    ],
+    "designation": "Assistant Professor, Urology",
+    "name": "Dr. Md. Shafiqul Islam Leon",
+    "speciality": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-shafiqul-islam-leon.jpg"
+}

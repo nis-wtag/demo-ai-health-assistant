@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DCO"
+    ],
+    "designation": "Associate Professor & Head, Ophthalmology",
+    "name": "Dr. Md. Masudul Haque",
+    "speciality": "Eye Specialist and Phaco Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-md-masudul-haque.jpg"
+}

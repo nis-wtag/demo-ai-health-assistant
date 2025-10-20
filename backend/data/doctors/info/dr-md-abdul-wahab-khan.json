@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Kidney Specialist",
+    "name": "Dr. Md. Abdul Wahab Khan",
+    "speciality": "Nephrologist",
+    "workplace": "Bangladesh Specialized Hospital",
+    "image": "image/dr-md-abdul-wahab-khan.jpg"
+}

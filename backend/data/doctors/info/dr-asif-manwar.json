@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (UK)",
+        "MSc Cardiology (UK)",
+        "Fellow, Pediatric Cardiology & Fetal Echocardiography (India)"
+    ],
+    "designation": "Associate Consultant, Cardiology",
+    "name": "Dr. Asif Manwar",
+    "speciality": "Cardiology & Child Cardiology Specialist",
+    "workplace": "Square Hospital, Dhaka",
+    "image": "image/dr-asif-manwar.jpg"
+}

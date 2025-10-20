@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "AMZ Hospital, Badda",
+            "address": {
+                "name": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801847331012",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor, Medicine",
+    "name": "Md. Robed Amin",
+    "speciality": "Medicine (All Diseases of Adults) Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-robed-amin.gif"
+}

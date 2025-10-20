@@ -1,0 +1,109 @@
+{
+    "chambers": [
+        {
+            "place": "Alfaz MediAid Physiotherapy & Homeopathy Center",
+            "address": {
+                "name": "205, Newpaltan Line (Beside Dutch Bangla Bank Booth), Azimpur, Dhaka",
+                "longitude": -84.94972,
+                "latitude": 34.50543
+            },
+            "contact": "+8801796205569",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Sirajdikhan Chamber",
+            "address": {
+                "name": "Ichapura Hospital Road, Sirajdikhan, Munshigonj",
+                "longitude": 90.296108,
+                "latitude": 23.54292
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BPT",
+        "BHMS (1st Place, DU)",
+        "MDMR",
+        "CDMed (BUP)",
+        "DMUD",
+        "Trained on Cardio Pulmonary Resuscitation (CPR) & Introductory Course in Palliative Care (BSMMU)"
+    ],
+    "designation": "Consultant, Physiotherapist & Homeopathic Medicine",
+    "name": "Dr. Razia Sultana",
+    "speciality": "Physiotherapy, Pain, Injury, Paralysis, Disability (Autism), Rehabilitation & Homeopathic Medicine Specialist",
+    "workplace": "Alfaz MediAid Physiotherapy & Homeopathy Center",
+    "image": "image/dr-razia-sultana-pt.jpg"
+}

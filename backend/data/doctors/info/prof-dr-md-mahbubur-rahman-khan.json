@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Internal Medicine) BSMMU"
+    ],
+    "designation": "Professor & Head, Department of Medicine",
+    "name": "Prof. Dr. Md. Mahbubur Rahman Khan",
+    "speciality": "Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/prof-dr-md-mahbubur-rahman-khan.jpg"
+}

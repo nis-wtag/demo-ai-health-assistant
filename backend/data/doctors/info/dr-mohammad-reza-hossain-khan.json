@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Advance Hospital, Banasree",
+            "address": {
+                "name": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+                "longitude": 90.359409,
+                "latitude": 23.77451
+            },
+            "contact": "+8801999242424",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "BCS (Health)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Mohammad Reza Hossain Khan",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis) Specialist, Trauma & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopaedic Rehabilitation",
+    "image": "image/dr-mohammad-reza-hossain-khan.jpg"
+}

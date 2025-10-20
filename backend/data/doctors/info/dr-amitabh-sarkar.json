@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "BellView Hospital & Medical Services, Barisal",
+            "address": {
+                "name": "114, Sadar Road, Barisal",
+                "longitude": 90.370699,
+                "latitude": 22.705246
+            },
+            "contact": "+8801733063692",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)"
+    ],
+    "designation": "Consultant, Neurology",
+    "name": "Dr. Amitabh Sarkar",
+    "speciality": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-amitabh-sarkar.jpg"
+}

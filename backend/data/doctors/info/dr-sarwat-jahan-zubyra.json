@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Keraniganj",
+            "address": {
+                "name": "Maa Plaza, Kadomtoli Mor, Zinzira, Keraniganj, Dhaka",
+                "longitude": 88.386682,
+                "latitude": 22.541622
+            },
+            "contact": "+8801730599171",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801730918408",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Sarwat Jahan Zubyra",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+    "image": "image/dr-sarwat-jahan-zubyra.jpg"
+}

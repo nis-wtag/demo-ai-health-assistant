@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Medinet Medical Services",
+            "address": "Plot-1,2,3, BNSB Bhaban, Kolwalapara, Section 1, Mirpur, Dhaka-1216",
+            "contact": "+8801976516473",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                }
+            ]
+        },
+        {
+            "place": "Dr. Amanat Khan Hospital & Diagnostic Center",
+            "address": {
+                "name": "House # 02, Road # 03, Block-E, Kalwalapara, Mirpur-1, Dhaka",
+                "longitude": 90.374074,
+                "latitude": 23.792005
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Colorectal Surgery) (BSMMU)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Chowdhury Sazzad Hyder",
+    "speciality": "Colorectal, General & Laparoscopic Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-chowdhury-sazzad-hyder.jpg"
+}

@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Insaf Barakah Kidney & General Hospital",
+            "address": {
+                "name": "11, Shahid Tazuddin Ahmed Shoroni, Mogbazar, Dhaka – 1217",
+                "longitude": 90.4105097,
+                "latitude": 23.7539635
+            },
+            "contact": "+8801913669218",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MRCS (UK)"
+    ],
+    "designation": "Consultant, Dept of Surgery",
+    "name": "Dr. Mosammat Mira Pervin",
+    "speciality": "Laparoscopic, Breast & Laser Piles Surgeon, Colorectal Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-mosammat-mira-pervin.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+88031656565",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FRCS (UK)"
+    ],
+    "designation": "Former Professor & Head, Surgery",
+    "name": "Prof. Dr. Khondker A.K. Azad",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-khondker-a-k-azad.jpg"
+}

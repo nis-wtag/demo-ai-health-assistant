@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Lancet Diagnostic Center, Chittagong",
+            "address": {
+                "name": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192333,
+                "latitude": 23.7034311
+            },
+            "contact": "+8801552674425",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (CVTS)"
+    ],
+    "designation": "Assistant Professor, Cardiac Surgery",
+    "name": "Dr. Md. Abdul Quaium Chowdhury",
+    "speciality": "Cardiovascular, Thoracic & Cardiac Surgery Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-abdul-quaium-chowdhury.jpg"
+}

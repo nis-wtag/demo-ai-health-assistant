@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Jamal Khan Bellevue (Azad Bhaban)",
+            "address": {
+                "name": "79/A, Azad Bhaban, Jamal Khan Road, Chattogram",
+                "longitude": 91.8341089,
+                "latitude": 22.3457221
+            },
+            "contact": "01772667768",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Chittagong Medical College)",
+        "BCS (Health)",
+        "ADS",
+        "FCPS",
+        "OMS (Part ll)"
+    ],
+    "designation": "Consultant (Dental)",
+    "name": "Dr. Moh’d Faridul Islam",
+    "speciality": "Dental and Maxillofacial Surgeon",
+    "workplace": "Jamal Khan Bellevue (Azad Bhaban)",
+    "image": "image/dr-mohd-faridul-islam.jpg"
+}

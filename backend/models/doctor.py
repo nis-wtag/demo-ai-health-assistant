@@ -9,6 +9,7 @@ class Doctor(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     full_name = Column(String, nullable=False)
+    image = Column(String, nullable=True)
     degrees = Column(ARRAY(String), nullable=True)
     specialization = Column(String, nullable=True, index=True)
     designation = Column(String, nullable=True)

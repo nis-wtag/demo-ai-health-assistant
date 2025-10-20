@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": {
+                "name": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+                "longitude": 90.422801,
+                "latitude": 23.710957
+            },
+            "contact": "+8809666787805",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Registrar, Orthopedic Surgery",
+    "name": "Dr. Ananta Kumar Bhakta",
+    "speciality": "Orthopedics (Bone, Joint, Injury, Accident) Specialist & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-ananta-kumar-bhakta.jpg"
+}

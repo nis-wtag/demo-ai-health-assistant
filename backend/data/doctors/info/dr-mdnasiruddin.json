@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, Oxygen - Kuwaish Rd, Hathazari, Chattogram",
+                "longitude": 91.833192,
+                "latitude": 22.398373
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)",
+        "World Skull Base Fellow (Bangalore, India)",
+        "Endoscopic Spine Surgery Fellow (South Korea)"
+    ],
+    "designation": "Attending Consultant",
+    "name": "Dr. Md. Nasir Uddin",
+    "speciality": "Microscopic & Endoscopic Brain & Spine Surgeon",
+    "workplace": "Evercare Hospital, Chattogram",
+    "image": "image/dr-mdnasiruddin.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "Training (Rheumatology)"
+    ],
+    "designation": "Assistant Professor, Medicine",
+    "name": "Dr. Iqbal Ahmed Chowdhury",
+    "speciality": "Medicine & Rheumatology Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-iqbal-ahmed-chowdhury.jpg"
+}

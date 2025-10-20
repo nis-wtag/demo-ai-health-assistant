@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MS (Oral & Maxillofacial Surgeon)"
+    ],
+    "designation": "Oral & Maxillofacial Surgeon",
+    "name": "Dr. Md. Mubashirul Haque",
+    "speciality": "Oral & Maxillofacial Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-md-mubashirul-haque.jpg"
+}

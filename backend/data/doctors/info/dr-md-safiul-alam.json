@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Medicine Specialist doctor",
+    "name": "Dr. Md. Safiul Alam",
+    "speciality": "Medicine Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-safiul-alam.jpg"
+}

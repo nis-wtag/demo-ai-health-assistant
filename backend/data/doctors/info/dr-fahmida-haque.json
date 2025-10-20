@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Malibagh",
+            "address": {
+                "name": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801844141717",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Skin & VD)"
+    ],
+    "designation": "Skin & Sexual Disease Specialist",
+    "name": "Dr. Fahmida Haque",
+    "speciality": "Skin & Sexual Disease Specialist",
+    "workplace": "East West Medical College & Hospital",
+    "image": "image/dr-fahmida-haque.jpg"
+}

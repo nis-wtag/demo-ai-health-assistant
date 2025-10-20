@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Lions Charitable Eye Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Nasirabad, Khulsi, Chattogram",
+                "longitude": 67.916566,
+                "latitude": 27.381011
+            },
+            "contact": "+8801511624052",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Consultant, Medical Retina",
+    "name": "Dr. Sumona Sarker",
+    "speciality": "Eye Diseases (Retina) Specialist & Phaco Surgeon",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-sumona-sarker.jpg"
+}

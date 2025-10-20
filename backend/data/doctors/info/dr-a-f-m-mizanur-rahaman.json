@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": {
+                "name": "Room 107, Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram",
+                "longitude": 91.8702789,
+                "latitude": 22.4293749
+            },
+            "contact": "+8801643424293",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV(BSMMU)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. A.F.M. Mizanur Rahaman",
+    "speciality": "Dermatologist & Venereologist",
+    "workplace": "BGC Trust Medical College, Chittagong",
+    "image": "image/dr-a-f-m-mizanur-rahaman.jpg"
+}

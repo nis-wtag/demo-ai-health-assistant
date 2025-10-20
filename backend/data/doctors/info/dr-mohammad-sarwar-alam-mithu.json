@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801798290211",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Mohammad Sarwar Alam Mithu",
+    "speciality": "Cardiology (Heart Diseases, Hypertension & Medicine) Specialist",
+    "workplace": "Upazila Health Complex, Comilla",
+    "image": "image/dr-mohammad-sarwar-alam-mithu.jpg"
+}

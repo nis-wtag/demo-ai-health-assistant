@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Pabna",
+            "address": {
+                "name": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801766-661901",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Resident Psychiatrist (Ex), Mental Hospital, Pabna",
+    "name": "Dr. Md. Masud Rana Sarkar",
+    "speciality": "Psychiatry (Brain, Mental Health & Drug Addiction) Specialist",
+    "workplace": "Assistant Professor & Head (Psychiatry Department), Naogaon Medical College Hospital",
+    "image": "image/dr-md-masud-rana-sarkar.jpg"
+}

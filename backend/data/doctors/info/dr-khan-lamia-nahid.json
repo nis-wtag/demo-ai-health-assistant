@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Shin Shin Japan Hospital, Uttara",
+            "address": {
+                "name": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801929478565",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Pediatrics)",
+        "MD (Pediatrics Gastroenterology)"
+    ],
+    "designation": "Associate Professor, Pediatric Gastroenterology & Nutrition",
+    "name": "Dr. Khan Lamia Nahid",
+    "speciality": "Child Diseases & Child Gastroenterology Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-khan-lamia-nahid.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Belle Vue Hospital, Chittagong",
+            "address": {
+                "name": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.83005755928912,
+                "latitude": 22.3634534
+            },
+            "contact": "+8801999409270",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Associate Professor, Pediatric Gastroenterology & Nutrition",
+    "name": "Dr. Anwarul Azim",
+    "speciality": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-anwarul-azim.jpg"
+}

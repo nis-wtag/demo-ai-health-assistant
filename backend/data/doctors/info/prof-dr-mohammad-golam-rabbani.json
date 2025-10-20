@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Lancet Diagnostic Center, Chittagong",
+            "address": {
+                "name": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192333,
+                "latitude": 23.7034311
+            },
+            "contact": "+8801552674425",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Hematology)",
+        "Clinical Fellow (Hemato-Oncology, SG)"
+    ],
+    "designation": "Professor & Head, Hepatology",
+    "name": "Prof. Dr. Mohammad Golam Rabbani",
+    "speciality": "Blood Diseases & Blood Cancer Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-mohammad-golam-rabbani.jpg"
+}

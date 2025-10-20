@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Sylhet Eye Hospital & Laser Center",
+            "address": "Block D/1, Syed Plaza, Multiplan Shahjalal City, Uposhohor, Sylhet",
+            "contact": "+8801793673094",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)"
+    ],
+    "designation": "Registrar, Ophthalmology",
+    "name": "Dr. Nizam Jamil Hussain",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-nizam-jamil-hussain.jpg"
+}

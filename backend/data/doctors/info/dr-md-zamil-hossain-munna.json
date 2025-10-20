@@ -1,0 +1,108 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Royal Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Laxmipur Mor, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801762685090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Bashundhara Hospital & Diagnostic Center",
+            "address": {
+                "name": "Laxmipur, Rajshahi",
+                "longitude": 86.35789,
+                "latitude": 26.1584251
+            },
+            "contact": "+8801713468450",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Assort Specialised Hospital, Pabna",
+            "address": {
+                "name": "Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna",
+                "longitude": 89.2448341,
+                "latitude": 24.0068082
+            },
+            "contact": "+8801322931500",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Pediatric Surgery)",
+        "FACS (USA)"
+    ],
+    "designation": "Resident Surgeon, Department of Pediatric Surgery",
+    "name": "Dr. Md. Zamil Hossain",
+    "speciality": "Child, Adolescent & Newborn Surgeon, Child Urology and Endo-Laparoscopic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-zamil-hossain-munna.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Chittagong",
+            "address": {
+                "name": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801850415494",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "CO (Surgery)",
+        "PhD (Surgery)"
+    ],
+    "designation": "Former Associate Professor of Surgery",
+    "name": "Dr. Ashish Kumar Chowdhury",
+    "speciality": "General, Laparoscopy and Colorectal Surgery Specialist",
+    "workplace": "University of Science and Technology Chittagong",
+    "image": "image/dr-ashish-kumar-chowdhury.jpg"
+}

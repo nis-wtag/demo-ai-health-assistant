@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "The Brain & Mind, Khulna",
+            "address": {
+                "name": "145, Khanjahan Ali Road, Khulna",
+                "longitude": 89.505067,
+                "latitude": 22.898744
+            },
+            "contact": "+8801712338140",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPM (DU)",
+        "FRSH (UK)",
+        "WHO-Fellow (Bangalore)"
+    ],
+    "designation": "Former Professor & Head, Psychiatry",
+    "name": "Prof. Dr. Dhiraj Mohon Biswas",
+    "speciality": "Brain, Nerve, Mental Diseases Specialist & Neuropsychiatrist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/prof-dr-dhiraj-mohon-biswas.jpg"
+}

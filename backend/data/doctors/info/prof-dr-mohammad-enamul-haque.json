@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Chest Diseases)",
+        "DTCD"
+    ],
+    "designation": "Professor, Chest Diseases & Respiratory Medicine",
+    "name": "Prof. Dr. Mohammad Enamul Haque",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-mohammad-enamul-haque.jpg"
+}

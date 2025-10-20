@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services Ltd.",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801727041923",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Chest Diseases)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Md. Shahjahan Siddike Shakil",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-shahjahan-siddike-shakil.jpg"
+}

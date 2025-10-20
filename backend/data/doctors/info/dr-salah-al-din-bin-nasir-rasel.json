@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DCH",
+        "CCD (BIRDEM)",
+        "DLP in Asthma (UK & ICDDRB)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Salah-Al-Din-Bin-Nasir (Rasel)",
+    "speciality": "Newborn & Child Disease Specialist",
+    "workplace": "General Hospital, Jhalkathi",
+    "image": "image/dr-salah-al-din-bin-nasir-rasel.jpg"
+}

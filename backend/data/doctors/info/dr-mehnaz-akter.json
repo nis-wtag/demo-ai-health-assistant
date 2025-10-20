@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Hospital, Mirpur",
+            "address": {
+                "name": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801301254924",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Al- Manar Specialized Hospital",
+            "address": {
+                "name": "House No- 6/9, Block No: F, Lalmatia, Satmasjid Road, Dhaka",
+                "longitude": 90.3639734,
+                "latitude": 23.7549709
+            },
+            "contact": "+8801875557666",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatric Hematology & Oncology)"
+    ],
+    "designation": "Associate Professor, Paediatric Haematology & Oncology",
+    "name": "Dr. Mehnaz Akter",
+    "speciality": "Child Cancer, Blood Cancer, Child Blood Disease (Thalassemia & Other) & Palliative Care Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-mehnaz-akter.jpg"
+}

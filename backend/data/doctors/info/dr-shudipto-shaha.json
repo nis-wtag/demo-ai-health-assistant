@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Shudipto Shaha",
+    "speciality": "Cardiology & Diabetes Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-shudipto-shaha.jpg"
+}

@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10658",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Assistant Professor, Liver & Gastroenterology",
+    "name": "Dr. A.M. Abdullah Al Yeusuf",
+    "speciality": "Liver, Gastroenterology & Pancreas Specialist",
+    "workplace": "Dhaka Central International Medical College & Hospital",
+    "image": "image/dr-a-m-abdullah-al-yeusuf.jpg"
+}

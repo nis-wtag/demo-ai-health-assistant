@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "York Hospital, Banani",
+            "address": {
+                "name": "House #12 & 13, Road # 22, Block # K, Banani, Dhaka-1213",
+                "longitude": 90.4078948,
+                "latitude": 23.7959775
+            },
+            "contact": "+8801719183307",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "MS",
+        "FACS"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. M Fardil Hossain Faisal",
+    "speciality": "Laparoscopic, Laser Procto-Surgery & General Surgeon",
+    "workplace": "Shahabuddin Medical College & Hospital",
+    "image": "image/dr-m-fardil-hossain-faisal.jpg"
+}

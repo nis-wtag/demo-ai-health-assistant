@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8809666787821",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Registrar, Surgery",
+    "name": "Dr. Milton Mallick",
+    "speciality": "General, Colorectal, Breast & Laparoscopic Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-milton-mallick.jpg"
+}

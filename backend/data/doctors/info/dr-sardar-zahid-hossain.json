@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Fortis Escorts Heart Institute, Khulna",
+            "address": {
+                "name": "A-17, Majid Sarani, Sonadanga, Khulna - 9001",
+                "longitude": 89.5477849,
+                "latitude": 22.8190577
+            },
+            "contact": "+8801755660067",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Principal Consultant, Cardiology",
+    "name": "Dr. Sardar Zahid Hossain",
+    "speciality": "Clinical & Interventional Cardiology Specialist",
+    "workplace": "Fortis Escorts Heart Institute, Khulna",
+    "image": "image/dr-sardar-zahid-hossain.jpg"
+}

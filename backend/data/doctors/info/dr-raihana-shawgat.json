@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
+            "address": {
+                "name": "House No # 79/1E, Demra Road, Bibir Bagicha, Uttor Jatrabari, Dhaka",
+                "longitude": 90.451604,
+                "latitude": 23.747201
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Platinum Hospital Ltd, Panthapath",
+            "address": {
+                "name": "69/M/1, GH Tower, Panthapath, Opposite to Bashundhara Shopping Mall, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801987851647",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "The Barakah Hospital Modonpur Ltd",
+            "address": {
+                "name": "05, Muradpur, Modonpur, Bandar, Narayanganj",
+                "longitude": 105.259475,
+                "latitude": -5.373767
+            },
+            "contact": "+8801868-800280",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "FCPS (Gynae & Obs)",
+        "FCPS (Reproductive Endocrinology & Infertility)"
+    ],
+    "designation": "Consultant, Department of Reproductive Endocrinology and Infertility",
+    "name": "Dr. Raihana Shawgat",
+    "speciality": "Gynaecologist and Infertility Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-raihana-shawgat.jpg"
+}

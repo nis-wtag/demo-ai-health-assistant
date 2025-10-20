@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+            "contact": "+8801812828126",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Al Amin Hospital & Diagnostic Center, Chittagong",
+            "address": {
+                "name": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
+                "longitude": 90.366049,
+                "latitude": 23.757151
+            },
+            "contact": "+8801683076070",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:30",
+                    "end_time": "14:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)",
+        "FCGP",
+        "FIPM (India & Taiwan)"
+    ],
+    "designation": "Associate Professor, Physical Medicine",
+    "name": "Dr. Mohammad Ilias",
+    "speciality": "Arthritis, Pain, Paralysis, Sports Injury, Physical Medicine & Rehabilitation Specialist",
+    "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+    "image": "image/dr-mohammad-ilias.jpg"
+}

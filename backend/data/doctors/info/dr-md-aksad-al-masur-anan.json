@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "MRCS (UK)",
+        "FOS (Thailand)"
+    ],
+    "designation": "Consultant, Orthopedics",
+    "name": "Dr. Md. Aksad Al Masur Anan",
+    "speciality": "Orthopedics, Bone, Joint, Injury, Trauma Specialist & Surgeon",
+    "workplace": "Pabna Medical College & Hospital",
+    "image": "image/dr-md-aksad-al-masur-anan.jpg"
+}

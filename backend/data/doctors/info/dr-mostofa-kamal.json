@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Lancet Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Room: 304, 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192333,
+                "latitude": 23.7034311
+            },
+            "contact": "+8801824919849",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Asperia Treatment (Treatment Hospital)",
+            "address": {
+                "name": "100, O.R. Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.8273847,
+                "latitude": 22.3595531
+            },
+            "contact": "+8801323337344",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-ORTHO (BSMMU)"
+    ],
+    "designation": "Registrar (Orthopedic Surgery)",
+    "name": "Dr. Mostofa Kamal",
+    "speciality": "Orthopedics (Bone, Joint, Paralysis) Specialist, Trauma & Spine Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mostofa-kamal.jpg"
+}

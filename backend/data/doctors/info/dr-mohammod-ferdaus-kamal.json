@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCP (Clinical Pathology)"
+    ],
+    "designation": "Associate Consultant, Clinical Pathology and Hematology",
+    "name": "Dr. Mohammod Ferdaus Kamal",
+    "speciality": "Clinical Pathology & Hematology Specialist",
+    "workplace": "Apollo Imperial Hospital, Chittagong",
+    "image": "image/dr-mohammod-ferdaus-kamal.jpg"
+}

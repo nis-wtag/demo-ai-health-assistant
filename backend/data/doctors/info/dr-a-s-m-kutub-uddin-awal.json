@@ -1,0 +1,103 @@
+{
+    "chambers": [
+        {
+            "place": "Shafique Hospital, Pabna",
+            "address": {
+                "name": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+                "longitude": 89.198787,
+                "latitude": 23.445755
+            },
+            "contact": "+8801744690481",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Assort Specialised Hospital, Pabna",
+            "address": {
+                "name": "Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna",
+                "longitude": 89.2448341,
+                "latitude": 24.0068082
+            },
+            "contact": "+8801322931500",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS",
+        "FCPS (Surgery)",
+        "MS (Urology)"
+    ],
+    "designation": "Consultant, Urology",
+    "name": "Dr. A.S.M. Kutub Uddin Awal",
+    "speciality": "Urology (Kidney, Urethra, Bladder, Prostate, Male Sexuality) Specialist & Surgeon",
+    "workplace": "250 Bedded General Hospital, Pabna",
+    "image": "image/dr-a-s-m-kutub-uddin-awal.jpg"
+}

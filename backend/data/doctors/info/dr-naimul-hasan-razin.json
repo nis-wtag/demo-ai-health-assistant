@@ -1,0 +1,89 @@
+{
+    "chambers": [
+        {
+            "place": "Tooth Castle, Sylhet",
+            "address": {
+                "name": "Shwapnonir (Ground floor), 17/A, Block-C, Main Road, Shahjalal Uposhohor, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+88 01749075420",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT(OMS), BSMMU & CONSERVATIVE DENTISTRY (MMCH)"
+    ],
+    "designation": "Former Medical Officer (Dental) & Lecturer",
+    "name": "Dr. Naimul Hasan Razin",
+    "speciality": "Oral, Dental & Maxillofacial Specialist Surgeon",
+    "workplace": "Sylhet Central Dental college & Hospital, Sylhet",
+    "image": "image/dr-naimul-hasan-razin.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Woodland Diagnostic Center",
+            "address": {
+                "name": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801818154533",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV"
+    ],
+    "designation": "Former Associate Professor, Dermatology & Venereology",
+    "name": "Dr. Md. Nasim Hyder",
+    "speciality": "Skin, Allergy, Hair, Scalp & Sexual Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-nasim-hyder.jpg"
+}

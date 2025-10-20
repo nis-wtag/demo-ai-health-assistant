@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Nazmul's Chamber",
+            "address": {
+                "name": "137/12, B-4, Priyangong R/A, Mazar Road, Mirpur 1, Dhaka",
+                "longitude": 90.3485571,
+                "latitude": 23.7918058
+            },
+            "contact": "+8801713520172",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "Diploma (Chinese Medicine)",
+        "MSc (Microbiology)",
+        "M.Phil"
+    ],
+    "designation": "Private Practitioner, Homeopathy",
+    "name": "Dr. Nazmul Hasan Jamson",
+    "speciality": "Homeopathic Doctor & Consultant",
+    "workplace": "Dr. Nazmul's Chamber",
+    "image": "image/dr-nazmul-hasan-jamson.jpg"
+}

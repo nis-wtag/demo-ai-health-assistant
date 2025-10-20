@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)",
+        "CCD (BIRDEM)",
+        "FDPC (Pain Management)"
+    ],
+    "designation": "Assistant Professor, Physical Medicine & Rehabilitation",
+    "name": "Dr. Mahfuzur Rahman",
+    "speciality": "Pain, Arthritis, Paralysis & Sports Injury Specialist",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/dr-mahfuzur-rahman.jpg"
+}

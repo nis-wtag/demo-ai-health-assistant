@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Retina Glaucoma Center & Superspecialty Eye Hospital",
+            "address": {
+                "name": "57/E Panthapath, East Side of BRB Hospital, Dhaka 1215",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801733747575",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRCS (UK)",
+        "MRCS (UK)",
+        "FICO (UK)",
+        "FCPS"
+    ],
+    "designation": "Associate Professor, Glaucoma & Cataract",
+    "name": "Dr. Bipul Kumer Sarker",
+    "speciality": "Eye Disease, Cataract, Glaucoma Specialist & Phaco Surgeon",
+    "workplace": "Ispahani Islamia Eye Institute & Hospital",
+    "image": "image/dr-bipul-kumer-sarker.jpg"
+}

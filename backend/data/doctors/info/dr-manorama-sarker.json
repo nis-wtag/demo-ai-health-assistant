@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Diagnostic Center, Kushtia",
+            "address": "Sono Tower, College Mor, Court Para, Kushtia",
+            "contact": "+8801930543929",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "DGO (DU)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Manorama Sarker",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-manorama-sarker.jpg"
+}

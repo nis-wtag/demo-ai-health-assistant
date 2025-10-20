@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Ghoshpara Mor, Sipaipara, Rajshahi",
+                "longitude": 88.780293,
+                "latitude": 23.209685
+            },
+            "contact": "+8801718282696",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "FCPS (Dermatology & Venereology)"
+    ],
+    "designation": "Skin, Sexual Diseases & Allergy Specialist",
+    "name": "Dr. M. A. A. Mamun",
+    "speciality": "Skin, Sexual Diseases & Allergy Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-m-a-a-mamun.jpg"
+}

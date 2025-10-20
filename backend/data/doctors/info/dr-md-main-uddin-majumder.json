@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": {
+                "name": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+                "longitude": 91.83449949999999,
+                "latitude": 22.3657935
+            },
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS-ORTHO (NITOR)",
+        "AO (Basic)"
+    ],
+    "designation": "Assistant Professor, Orthopedics & Traumatology",
+    "name": "Dr. Md. Mayen Uddin Majumder",
+    "speciality": "Orthopedics (Bone, Joint, Fractures, Sports Injury, Trauma) & Spine Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-main-uddin-majumder.jpg"
+}

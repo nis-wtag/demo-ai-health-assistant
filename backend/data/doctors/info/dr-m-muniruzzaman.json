@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Barisal",
+            "address": {
+                "name": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801734-535555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. M. Muniruzzaman (Hira)",
+    "speciality": "Bone, Joint, Arthritis, Trauma, Paralysis Specialist & Surgeon",
+    "workplace": "Patuakhali Medical College & Hospital",
+    "image": "image/dr-m-muniruzzaman.jpg"
+}

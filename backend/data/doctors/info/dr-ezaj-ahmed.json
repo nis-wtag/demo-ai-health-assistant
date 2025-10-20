@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DO (DU)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Ezaj Ahmed",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-ezaj-ahmed.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Amin Diagnostic & Medical Services, Kushtia",
+            "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+            "contact": "+8801712243514",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (CHILD)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Md. Firoz Ahmed",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-md-firoz-ahmed.jpg"
+}

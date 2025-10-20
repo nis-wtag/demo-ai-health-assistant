@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "United Pharmacy & Doctors Chamber",
+            "address": {
+                "name": "Nurjahan Road, Boyra, Khulna - 9100",
+                "longitude": 89.5316336,
+                "latitude": 22.8350823
+            },
+            "contact": "+8801717889125",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)",
+        "FRCOG (London)",
+        "FMAS (India)"
+    ],
+    "designation": "Consultant, Gynecology",
+    "name": "Dr. Sumona Jahan Tisha",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "United Pharmacy & Doctors Chamber",
+    "image": "image/dr-sumona-jahan-tisha.jpg"
+}

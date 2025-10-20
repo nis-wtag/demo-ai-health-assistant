@@ -4,34 +4,17 @@ from typing import List, Optional
 from models.doctor_chamber import DAY
 from pydantic import BaseModel, ConfigDict
 
-
-class VisitingHour(BaseModel):
-    day: DAY
-    start_time: Optional[time] = None
-    end_time: Optional[time] = None
-
-    model_config = ConfigDict(from_attributes=True)
-
-
-class Chamber(BaseModel):
-    id: int
-    chamber_name: str
-    address: str
-    longitude: Optional[float] = None
-    latitude: Optional[float] = None
-    contact_number: Optional[str] = None
-    visiting_hours: Optional[List[VisitingHour]] = []
-
-    model_config = ConfigDict(from_attributes=True)
+from schemas.chamber_schema import ChamberUpdate, DoctorChamberRead
 
 
 class DoctorBase(BaseModel):
     full_name: str
+    image: Optional[str] = None
     degrees: Optional[List[str]] = []
     specialization: Optional[str] = []
     designation: Optional[str] = []
     affiliated_hospital: Optional[str] = None
-    chambers: Optional[List[Chamber]] = []
+    chambers: Optional[List[DoctorChamberRead]] = []
 
 
 class DoctorCreate(DoctorBase):
@@ -39,12 +22,14 @@ class DoctorCreate(DoctorBase):
 
 
 class DoctorUpdate(BaseModel):
+    id: int
+    image: Optional[str] = None
     full_name: Optional[str]
     degrees: Optional[List[str]]
     specialization: Optional[str]
     designation: Optional[str]
     affiliated_hospital: Optional[str]
-    chambers: Optional[List[Chamber]]
+    chambers: Optional[List[ChamberUpdate]]
 
 
 class DoctorRead(DoctorBase):

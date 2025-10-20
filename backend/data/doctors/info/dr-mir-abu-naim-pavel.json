@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Anika Dental Care",
+            "address": {
+                "name": "26/3, Zigatola Puran Kacha Bazar (1st floor), Dhanmondi, Dhaka",
+                "longitude": 90.3827314,
+                "latitude": 23.7410364
+            },
+            "contact": "+8801977359445",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Rasel’s Dental Centre",
+            "address": "Sepaipara, Infront of Rajshahi Medical College",
+            "contact": "+8801740004004",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS (RMC)",
+        "FCPS (Orthodontics & Dentofacial Orthopedics)"
+    ],
+    "designation": "Associate Professor & Head, Orthodontics",
+    "name": "Dr. Mir Abu Naim (Pavel)",
+    "speciality": "Orthodontist",
+    "workplace": "Udayan Dental College, Rajshahi",
+    "image": "image/dr-mir-abu-naim-pavel.jpg"
+}

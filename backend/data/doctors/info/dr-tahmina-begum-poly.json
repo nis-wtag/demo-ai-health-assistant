@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Nayasarak, Sylhet",
+            "address": {
+                "name": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801842497395",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Gynae & Obst)"
+    ],
+    "designation": "Assistant Professor (Gyne & Obs Dept)",
+    "name": "Dr. Tahmina Begum Poly",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "North East Medical College & Hospital, Sylhet",
+    "image": "image/dr-tahmina-begum-poly.jpg"
+}

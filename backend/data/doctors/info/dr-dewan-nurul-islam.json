@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Dewan Nurul Islam",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Government of the People's Republic of Bangladesh",
+    "image": "image/dr-dewan-nurul-islam.jpg"
+}

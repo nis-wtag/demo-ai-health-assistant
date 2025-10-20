@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "South Zone (Pvt.) Hospital, Khulna",
+            "address": {
+                "name": "N H Tower, Hafiz Nagar More, Outer Bypass Road, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801324-166608",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Resident Surgeon, Surgery",
+    "name": "Dr. Subrata Kumar Mondal",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-subrata-kumar-mondal.jpg"
+}

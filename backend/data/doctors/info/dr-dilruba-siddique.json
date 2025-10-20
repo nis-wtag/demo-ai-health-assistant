@@ -1,0 +1,33 @@
+{
+    "chambers": [
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": null
+        },
+        {
+            "place": "Dr. Dilruba’s Home Chamber",
+            "address": {
+                "name": "Opposite of Path Fair School, Hospital Road, Pabna",
+                "longitude": 89.2448341,
+                "latitude": 24.0068082
+            },
+            "contact": "+88073164652",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DCH (BSMMU)"
+    ],
+    "designation": "Consultant (Ex), Pediatrics",
+    "name": "Dr. Dilruba Siddique",
+    "speciality": "Neonatal, Adolescent & Child Diseases Specialist",
+    "workplace": "250 Bedded General Hospital, Pabna",
+    "image": "image/dr-dilruba-siddique.jpg"
+}

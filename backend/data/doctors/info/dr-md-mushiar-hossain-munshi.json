@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (DU)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Mushiar Hossain Munshi",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-md-mushiar-hossain-munshi.jpg"
+}

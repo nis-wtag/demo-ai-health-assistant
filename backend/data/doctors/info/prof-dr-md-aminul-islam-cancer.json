@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DMRT (DU)",
+        "FACP (USA)"
+    ],
+    "designation": "Professor & Head, Radiotherapy",
+    "name": "Prof. Dr. Md. Aminul Islam",
+    "speciality": "Cancer Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/prof-dr-md-aminul-islam-cancer.jpg"
+}

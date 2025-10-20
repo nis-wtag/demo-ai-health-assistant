@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (Neurosurgery)",
+        "Fellow Endovascular Neurosurgery & Stroke (Mumbai)",
+        "Training in Modern Neurosurgery (Japan & Turkey)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Md. Rokibul Islam (Rokib)",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine & Stroke Surgery) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-rokibul-islam-rokib.jpg"
+}

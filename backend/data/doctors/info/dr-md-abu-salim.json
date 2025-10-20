@@ -1,0 +1,38 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801976646227",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "MD (Cardiology)",
+        "Fellowship Training on Interventional Cardiology (India)",
+        "Fellowship on Electrophysiology & Pacing (India)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Md. Abu Salim",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-abu-salim.jpg"
+}

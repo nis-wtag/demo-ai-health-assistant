@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Good Health Hospital, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801717974488",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Plastic Surgery)"
+    ],
+    "designation": "Associate Professor & Head, Burn & Plastic Surgery",
+    "name": "Dr. M.A. Hamid Palash",
+    "speciality": "Plastic Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-m-a-hamid-palash.jpg"
+}

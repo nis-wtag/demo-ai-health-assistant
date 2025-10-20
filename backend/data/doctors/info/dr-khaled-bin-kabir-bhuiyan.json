@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "International Homeo Clinic, Chittagong",
+            "address": "450/A, Abdul Hamid Road, Sholokbahar (Near Rawshan Boarding), Chattogram",
+            "contact": "+8801818196333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "23:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS",
+        "BHB (Dhaka)"
+    ],
+    "designation": "Consultant, Homeopathy",
+    "name": "Dr. Khaled Bin Kabir Bhuiyan",
+    "speciality": "Chronic Diseases (Homeopathy) Specialist",
+    "workplace": "International Homeo Clinic, Chittagong",
+    "image": "image/dr-khaled-bin-kabir-bhuiyan.jpg"
+}

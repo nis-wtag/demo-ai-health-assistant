@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Life Line Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "191, South Side of Education Board, Laxmipur, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801738139328",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Professor & Head, Pediatrics",
+    "name": "Prof. Dr. Shahida Yeasmin",
+    "speciality": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-shahida-yeasmin.jpg"
+}

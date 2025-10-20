@@ -1,7 +1,10 @@
-# from models.doctor import Doctor
 from repositories.doctor_repository import doctor_repository
 from schemas.doctor_schema import DoctorCreate, DoctorRead, DoctorSearch, DoctorUpdate
 from sqlalchemy.orm import Session
+
+
+def get_doctors(db: Session, offset: int, limit: int):
+    return doctor_repository.get_multi(db, skip=offset, limit=limit)
 
 
 def get_doctor_by_id(db: Session, doctor_id: int):

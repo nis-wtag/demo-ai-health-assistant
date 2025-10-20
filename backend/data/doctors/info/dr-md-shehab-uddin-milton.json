@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rajshahi",
+            "address": {
+                "name": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801868590872",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "ENT Specialist & Head Neck Surgeon, ENT",
+    "name": "Dr. Md. Shehab Uddin Milton",
+    "speciality": "ENT (Ear, Nose, Throat Diseases) Specialist & Head Neck Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shehab-uddin-milton.jpg"
+}

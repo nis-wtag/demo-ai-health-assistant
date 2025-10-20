@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": [
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Md. Nurunnabi",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-nurunnabi.jpg"
+}

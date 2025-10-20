@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sarjana's Kids & Family Dentistry",
+            "address": {
+                "name": "IPL City Centre, # 162, O, R, Nizam Road, Goal Pahar More, Chattogram",
+                "longitude": 91.825096,
+                "latitude": 22.359088
+            },
+            "contact": "+8801815949016",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Dr. Sarjana’s Dental Surgery",
+            "address": {
+                "name": "Star Lab, Abul Hosain Market, Chatori Chowmuhani, Anowara, Chittagong",
+                "longitude": 23.729514,
+                "latitude": 37.989612
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS (Pediatric Dentistry)",
+        "Advanced Pediatric Dentistry Training (Mahidol University, Bangkok, Thailand)",
+        "Specialized Interceptive & Myofunctional Orthodontics Training (India)"
+    ],
+    "designation": "Assistant Professor, Pediatric Dentistry",
+    "name": "Dr. Sarjana Yeasmin",
+    "speciality": "Oral & Dental Diseases Specialist",
+    "workplace": "Chattogram International dental College & Hospital",
+    "image": "image/dr-sarjana-yeasmin.jpg"
+}

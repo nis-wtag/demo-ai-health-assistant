@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": {
+                "name": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
+                "longitude": 91.7915352,
+                "latitude": 22.3025908
+            },
+            "contact": "+8801882534499",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Shiuly Chakma",
+    "speciality": "Gynecologist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-shiuly-chakma.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Mirpur",
+            "address": {
+                "name": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+                "longitude": 90.35710284999999,
+                "latitude": 23.8071276
+            },
+            "contact": "+8801300550448",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-ORTHO (NITOR)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Saifullah Al Noman",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Spine, Paralysis) Specialist & Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-saifullah-al-noman.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "R. R. Medical Hospital",
+            "address": {
+                "name": "Kazi Ilias Road, Zindabazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801765883782",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "MS (USA)"
+    ],
+    "designation": "Former Professor & Head, Psychiatry",
+    "name": "Prof. Dr. Md. Rezaul Karim",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/prof-dr-md-rezaul-karim.jpg"
+}

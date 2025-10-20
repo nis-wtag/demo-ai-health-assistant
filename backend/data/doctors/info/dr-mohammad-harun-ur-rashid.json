@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8801726072231",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Associate Professor & Head, Neurosurgery",
+    "name": "Dr Mohammad Harun Ur Rashid",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine & Stroke Surgery) Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mohammad-harun-ur-rashid.jpg"
+}

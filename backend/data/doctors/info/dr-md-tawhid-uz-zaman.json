@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Khulna",
+            "address": "9B, Opposite to KDA Mosque, Majid Sharani, Shibbri, Khulna",
+            "contact": "+8801799209075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (EYE)",
+        "DO (EYE)",
+        "PGT (SICS)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Tawhid Uz Zaman",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Kapotakkho Lions Eye & Diabetic Hospital, Jessore",
+    "image": "image/dr-md-tawhid-uz-zaman.jpg"
+}
