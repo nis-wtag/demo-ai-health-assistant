@@ -1,4 +1,4 @@
-from core.database import get_db
+from core.database import DbSession
 from fastapi import APIRouter, Cookie, Depends, HTTPException, Request
 from models.user import User, UserRole
 from schemas.user_schema import UserRead

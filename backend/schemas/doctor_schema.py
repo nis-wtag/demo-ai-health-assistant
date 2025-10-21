@@ -2,7 +2,7 @@ from datetime import time
 from typing import List, Optional
 
 from models.doctor_chamber import DAY
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
 
 from schemas.chamber_schema import ChamberUpdate, DoctorChamberRead
 
@@ -10,11 +10,11 @@ from schemas.chamber_schema import ChamberUpdate, DoctorChamberRead
 class DoctorBase(BaseModel):
     full_name: str
     image: Optional[str] = None
-    degrees: Optional[List[str]] = []
-    specialization: Optional[str] = []
-    designation: Optional[str] = []
+    degrees: List[str] = Field(default_factory=list)
+    specialization: Optional[str] = None
+    designation: Optional[str] = None
     affiliated_hospital: Optional[str] = None
-    chambers: Optional[List[DoctorChamberRead]] = []
+    chambers: List[DoctorChamberRead] = Field(default_factory=list)
 
 
 class DoctorCreate(DoctorBase):
@@ -22,7 +22,6 @@ class DoctorCreate(DoctorBase):
 
 
 class DoctorUpdate(BaseModel):
-    id: int
     image: Optional[str] = None
     full_name: Optional[str]
     degrees: Optional[List[str]]

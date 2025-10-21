@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 
-from core.database import get_db
+from core.database import DbSession
 from fastapi import Cookie, Depends, HTTPException, status
 from models.user import User, UserRole
 from repositories.session_repository import SessionRepository
@@ -8,9 +8,7 @@ from repositories.user_repository import user_repository
 from sqlalchemy.orm import Session
 
 
-def get_current_user(
-    access_token: str = Cookie(None), db: Session = Depends(get_db)
-) -> User:
+def get_current_user(db: DbSession, access_token: str = Cookie(None)) -> User:
     if not access_token:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED, detail="Access token missing"

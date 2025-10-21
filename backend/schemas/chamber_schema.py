@@ -31,11 +31,11 @@ class ChamberCreate(ChamberBase):
 
 
 class ChamberUpdate(BaseModel):
-    id: int
-    chamber_name: Optional[str]
-    address: Optional[str]
+    chamber_name: Optional[str] = None
+    address: Optional[str] = None
     longitude: Optional[float] = None
     latitude: Optional[float] = None
+
 
 class DoctorChamberRead(ChamberBase):
     contact_number: Optional[str] = None

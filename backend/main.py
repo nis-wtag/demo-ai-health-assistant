@@ -1,3 +1,4 @@
+import uvicorn
 from api.v1.api import api_router as api_v1_router
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles

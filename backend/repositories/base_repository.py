@@ -38,23 +38,30 @@ class BaseRepository(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
         return db_obj
 
     def update(
-        self,
-        db: Session,
-        *,
-        db_obj: ModelType,
-        obj_in: UpdateSchemaType | dict[str, Any],
+        self, db: Session, *, obj_id: Any, obj_in: UpdateSchemaType | dict[str, Any]
     ) -> ModelType:
-        obj_data = jsonable_encoder(db_obj)
+        db_obj = db.query(self.model).filter(self.model.id == obj_id).first()
+        if not db_obj:
+            raise ValueError(f"{self.model.__name__} with id {obj_id} not found")
+
         if isinstance(obj_in, dict):
             update_data = obj_in
         else:
             update_data = obj_in.model_dump(exclude_unset=True)
-        for field in obj_data:
-            if field in update_data:
-                setattr(db_obj, field, update_data[field])
-        db.add(db_obj)
-        db.commit()
-        db.refresh(db_obj)
+
+        obj_data = jsonable_encoder(db_obj)
+        for field, value in update_data.items():
+            if field in obj_data and field != "id":
+                setattr(db_obj, field, value)
+
+        try:
+            db.add(db_obj)
+            db.commit()
+            db.refresh(db_obj)
+        except Exception as e:
+            db.rollback()
+            raise e
+
         return db_obj
 
     def remove(self, db: Session, *, id: int) -> ModelType | None:

@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from core.config import settings
-from core.database import get_db
+from core.database import DbSession
 from fastapi import Depends
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import ChatPromptTemplate
@@ -11,11 +11,11 @@ from schemas.chat_schema import ChatResponse
 from schemas.doctor_schema import DoctorSearch
 from sqlalchemy.orm import Session
 
-from services.doctor_service import search_doctors
+from services.doctor_service import formatted_search_doctors
 
 
 class QueryService:
-    def __init__(self, db: Session = Depends(get_db)):
+    def __init__(self, db: DbSession):
         self.db = db
         # Initialize the LLM and the output parser
         self.llm = ChatGoogleGenerativeAI(
@@ -78,7 +78,7 @@ class QueryService:
             remedy = "I had trouble understanding the specifics of your query. It's always best to consult with a General Practitioner for any health concerns."
 
         # 3. Use the structured data to find doctors
-        recommended_doctors = search_doctors(
+        recommended_doctors = formatted_search_doctors(
             self.db, search_params=search_params, limit=6
         )
 

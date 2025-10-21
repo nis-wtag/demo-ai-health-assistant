@@ -22,7 +22,20 @@ class DoctorRepository(BaseRepository[DoctorModel, DoctorCreate, DoctorUpdate]):
             .first()
         )
 
-    def search(
+    def search(self, db: Session, params: str):
+        search_term = f"%{params}%"
+        return (
+            db.query(self.model)
+            .filter(
+                (self.model.full_name.ilike(search_term))
+                | (self.model.specialization.ilike(search_term))
+                | (self.model.designation.ilike(search_term))
+            )
+            .limit(10)
+            .all()
+        )
+
+    def formatted_search(
         self, db: Session, search_params: DoctorSearch, skip: int = 0, limit: int = 5
     ) -> list[DoctorModel]:
         query = (
