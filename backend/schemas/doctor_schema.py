@@ -14,11 +14,12 @@ class DoctorBase(BaseModel):
     specialization: Optional[str] = None
     designation: Optional[str] = None
     affiliated_hospital: Optional[str] = None
-    chambers: List[DoctorChamberRead] = Field(default_factory=list)
+
+    model_config = ConfigDict(from_attributes=True)
 
 
 class DoctorCreate(DoctorBase):
-    pass
+    chambers: List[DoctorChamberRead] = Field(default_factory=list)
 
 
 class DoctorUpdate(BaseModel):
@@ -33,6 +34,7 @@ class DoctorUpdate(BaseModel):
 
 class DoctorRead(DoctorBase):
     id: int
+    chambers: List[DoctorChamberRead] = Field(default_factory=list)
 
     model_config = ConfigDict(from_attributes=True)
 

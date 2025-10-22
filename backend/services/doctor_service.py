@@ -1,5 +1,17 @@
+from typing import Optional
+
+from fastapi import HTTPException
+from models.chamber import Chamber
+from models.doctor import Doctor
+from models.doctor_chamber import DoctorChamber, DoctorChamberVisitingHour
 from repositories.doctor_repository import doctor_repository
-from schemas.doctor_schema import DoctorCreate, DoctorRead, DoctorSearch, DoctorUpdate
+from schemas.doctor_schema import (
+    DoctorBase,
+    DoctorCreate,
+    DoctorRead,
+    DoctorSearch,
+    DoctorUpdate,
+)
 from sqlalchemy.orm import Session
 
 
@@ -14,8 +26,46 @@ def get_doctor_by_id(db: Session, doctor_id: int):
     return doctor
 
 
-def add_doctor(db: Session, doctor_data: DoctorCreate):
-    return doctor_repository.create(db=db, obj_in=doctor_data)
+def add_doctor(
+    db: Session, doctor_data: DoctorBase, chamber_data: Optional[list[dict]]
+):
+    doctor = Doctor(**doctor_data.model_dump())
+    db.add(doctor)
+    db.flush()
+
+    if chamber_data:
+        for chamber_info in chamber_data:
+            chamber_id = chamber_info.get("id")
+            contact_number = chamber_info.get("contact_number")
+            visiting_hours = chamber_info.get("visiting_hours", [])
+
+            chamber = db.query(Chamber).filter(Chamber.id == chamber_id).first()
+            if not chamber:
+                raise HTTPException(
+                    status_code=404, detail=f"Chamber {chamber_id} not found"
+                )
+
+            doctor_chamber = DoctorChamber(
+                doctor_id=doctor.id,
+                chamber_id=chamber_id,
+                contact_number=contact_number,
+            )
+            db.add(doctor_chamber)
+            db.flush()
+
+            for vh in visiting_hours:
+                db.add(
+                    DoctorChamberVisitingHour(
+                        doctor_chamber_id=doctor_chamber.id,
+                        day=vh["day"],
+                        start_time=vh.get("start_time"),
+                        end_time=vh.get("end_time"),
+                    )
+                )
+
+    db.commit()
+    db.refresh(doctor)
+    return doctor
 
 
 def search_doctors(db: Session, params: str):

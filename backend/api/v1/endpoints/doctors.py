@@ -1,3 +1,4 @@
+import json
 import shutil
 from pathlib import Path
 from typing import Optional
@@ -5,6 +6,7 @@ from typing import Optional
 from core.database import DbSession
 from fastapi import (
     APIRouter,
+    Body,
     Cookie,
     Depends,
     File,
@@ -14,7 +16,8 @@ from fastapi import (
     Request,
     UploadFile,
 )
-from schemas.doctor_schema import DoctorCreate, DoctorRead, DoctorSearch
+
+from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch
 from services import doctor_service
 from services.dependencies.auth_dependencies import get_current_user, require_roles
 from sqlalchemy.orm import Session
@@ -39,27 +42,33 @@ def add_doctor(
     specialization: Optional[str] = Form(None),
     designation: Optional[str] = Form(None),
     affiliated_hospital: Optional[str] = Form(None),
-    chambers: Optional[list[int]] = Form(None),
+    chambers: Optional[str] = Form(None),
     db: DbSession = None,
 ) -> DoctorRead:
     try:
-        image_path = None
+        image_url = None
         if image:
             filename = image.filename.replace(" ", "_")
             image_path = UPLOAD_DIR / filename
             with image_path.open("wb") as f:
                 shutil.copyfileobj(image.file, f)
+            image_url = f"image/{filename}"
 
-        doctor_data = DoctorCreate(
+        degree_list = [d.strip() for d in degrees.split(",")] if degrees else []
+
+        doctor_data = DoctorBase(
             full_name=full_name,
-            image=str(image_path) if image_path else None,
-            degrees=[d.strip() for d in degrees.split(",") if d.strip()],
+            image=image_url,
+            degrees=degree_list,
             specialization=specialization,
             designation=designation,
-            affiliated_hospital=affiliated_hospital
+            affiliated_hospital=affiliated_hospital,
         )
 
-        return doctor_service.add_doctor(db, doctor_data)
+        chamber_data = json.loads(chambers) if chambers else None
+
+        return doctor_service.add_doctor(db, doctor_data=doctor_data, chamber_data=chamber_data)
+
     except Exception as e:
         raise HTTPException(400, e)
 

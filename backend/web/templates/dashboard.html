@@ -153,41 +153,54 @@
 
             <!-- Add Doctor Modal -->
             <div id="add-doctor-modal"
-                class="fixed inset-0 bg-black bg-opacity-40 hidden items-center justify-center z-50">
-                <div class="bg-white rounded-lg p-6 w-128 max-w-xl">
-                    <h2 class="text-xl font-semibold mb-4">Add New Doctor</h2>
+                class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center z-50">
+                <div class="bg-white rounded-xl p-6 w-128 max-w-2xl max-h-[90vh] overflow-auto shadow-lg">
+                    <h2 class="text-2xl font-bold mb-4 text-center">Add New Doctor</h2>
                     <form id="add-doctor-form" class="space-y-4">
-                        <input type="text" name="full_name" placeholder="Full Name" required
-                            class="w-full px-3 py-2 border rounded-lg">
 
-                        <input type="text" name="image" placeholder="Image URL"
-                            class="w-full px-3 py-2 border rounded-lg">
+                        <!-- Doctor Info -->
+                        <div class="space-y-2">
+                            <input type="text" name="full_name" placeholder="Full Name" required
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="file" name="image" placeholder="Image"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="degrees" placeholder="Degrees (comma separated)"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="specialization" placeholder="Specialization"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="designation" placeholder="Designation"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="affiliated_hospital" placeholder="Affiliated Hospital"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                        </div>
 
-                        <input type="text" name="degrees" placeholder="Degrees (comma separated)"
-                            class="w-full px-3 py-2 border rounded-lg">
+                        <!-- Chamber Search -->
+                        <div class="mt-4">
+                            <input type="text" id="doctor-chamber-search" placeholder="Search Chamber..."
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <div id="doctor-chamber-results"
+                                class="border rounded-lg mt-1 max-h-40 overflow-auto bg-white shadow-sm"></div>
+                        </div>
 
-                        <input type="text" name="specialization" placeholder="Specialization"
-                            class="w-full px-3 py-2 border rounded-lg">
+                        <!-- Selected Chambers -->
+                        <div id="selected-chambers" class="space-y-3 mt-4"></div>
 
-                        <input type="text" name="designation" placeholder="Designation"
-                            class="w-full px-3 py-2 border rounded-lg">
-
-                        <input type="text" name="affiliated_hospital" placeholder="Affiliated Hospital"
-                            class="w-full px-3 py-2 border rounded-lg">
-
-                        <div class="flex justify-end gap-2 pt-4">
+                        <!-- Action Buttons -->
+                        <div class="flex justify-end gap-3 pt-4">
                             <button type="button" id="cancel-doctor-btn"
-                                class="px-4 py-2 bg-gray-200 rounded-lg">Cancel</button>
-                            <button type="submit" class="px-4 py-2 bg-blue-600 text-white rounded-lg">Save</button>
+                                class="px-5 py-2 bg-gray-300 hover:bg-gray-400 rounded-lg transition">Cancel</button>
+                            <button type="submit"
+                                class="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition">Save</button>
                         </div>
                     </form>
                 </div>
             </div>
 
 
+
             <!-- Add Chamber Modal -->
             <div id="add-chamber-modal"
-                class="fixed inset-0 bg-black bg-opacity-40 hidden items-center justify-center z-50">
+                class="fixed inset-0 bg-black bg-opacity-40 hidden flex items-center justify-center z-50">
                 <div class="bg-white rounded-lg p-6 w-128">
                     <h2 class="text-xl font-semibold mb-4">Add New Chamber</h2>
                     <form id="add-chamber-form" class="space-y-4">
@@ -369,66 +382,6 @@
             tabDoctors.classList.remove("bg-blue-600", "text-white");
         });
 
-        // Grab elements
-        const addDoctorBtn = document.getElementById("add-doctor-btn");
-        const doctorModal = document.getElementById("add-doctor-modal");
-        const cancelDoctorBtn = document.getElementById("cancel-doctor-btn");
-        const addDoctorForm = document.getElementById("add-doctor-form");
-
-        // Open modal on button click
-        addDoctorBtn.addEventListener("click", () => {
-            doctorModal.classList.remove("hidden");
-            doctorModal.classList.add("flex");
-        });
-
-        // Close modal
-        cancelDoctorBtn.addEventListener("click", () => {
-            doctorModal.classList.add("hidden");
-            doctorModal.classList.remove("flex");
-        });
-
-        // Handle form submission
-        addDoctorForm.addEventListener("submit", async (e) => {
-            e.preventDefault();
-
-            const formData = new FormData(addDoctorForm);
-            const payload = Object.fromEntries(formData.entries());
-
-            // Convert degrees string to array
-            if (payload.degrees) {
-                payload.degrees = payload.degrees.split(",").map(d => d.trim()).filter(Boolean);
-            } else {
-                payload.degrees = [];
-            }
-
-            // chambers can be empty for now
-            payload.chambers = [];
-
-            try {
-                const response = await fetch("/api/v1/doctors/", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(payload),
-                });
-
-                if (!response.ok) throw new Error("Failed to add doctor");
-
-                const data = await response.json();
-                console.log("Doctor added:", data);
-
-                addDoctorForm.reset();
-                doctorModal.classList.add("hidden");
-                doctorModal.classList.remove("flex");
-                showToast("Doctor added successfully", "success");
-
-                // Optionally, reload the doctor table here
-                loadDoctorData();
-            } catch (err) {
-                console.error(err);
-                showToast(err.message, "error");
-            }
-        });
-
 
         // Grab elements
         const addChamberBtn = document.getElementById("add-chamber-btn");
@@ -478,12 +431,6 @@
         });
 
 
-        document.getElementById("add-doctor-btn").addEventListener("click", handleAddDoctor);
-
-        function handleAddDoctor() {
-            console.log("Add Doctor clicked!");
-            // your logic here
-        }
         // --- Functions ---
         async function handleLogout() {
             try {
@@ -845,6 +792,163 @@
             }
         }
 
+        // Add new Doctor 
+
+        const addDoctorBtn = document.getElementById('add-doctor-btn');
+        const addDoctorModal = document.getElementById('add-doctor-modal');
+        const addDoctorForm = document.getElementById('add-doctor-form');
+        const cancelDoctorBtn = document.getElementById('cancel-doctor-btn');
+        const doctorChamberSearch = document.getElementById('doctor-chamber-search');
+        const doctorChamberResults = document.getElementById('doctor-chamber-results');
+        const selectedChambersDiv = document.getElementById('selected-chambers');
+
+        addDoctorBtn.addEventListener('click', () => {
+            addDoctorModal.classList.remove('hidden');
+        });
+
+
+        let selectedChambers = [];
+
+        cancelDoctorBtn.addEventListener('click', () => {
+            addDoctorModal.classList.add('hidden');
+            addDoctorForm.reset();
+            selectedChambers = [];
+            selectedChambersDiv.innerHTML = '';
+        });
+
+        // --- Debounce function ---
+        function debounce(fn, delay) {
+            let timeout;
+            return function (...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => fn.apply(this, args), delay);
+            }
+        }
+
+        // --- Search chambers ---
+        const fetchChambers = debounce(async (query) => {
+            if (!query) {
+                doctorChamberResults.innerHTML = '';
+                return;
+            }
+            try {
+                const res = await fetch(`/api/v1/chambers/search?params=${encodeURIComponent(query)}`);
+                const data = await res.json();
+                doctorChamberResults.innerHTML = '';
+                data.forEach(chamber => {
+                    const div = document.createElement('div');
+                    div.textContent = chamber.chamber_name;
+                    div.className = 'p-2 cursor-pointer hover:bg-gray-100';
+                    div.addEventListener('click', () => addChamber(chamber));
+                    doctorChamberResults.appendChild(div);
+                });
+            } catch (err) {
+                console.error(err);
+            }
+        }, 300);
+
+        doctorChamberSearch.addEventListener('input', (e) => {
+            fetchChambers(e.target.value);
+        });
+
+        // --- Add chamber ---
+        function addChamber(chamber) {
+            if (selectedChambers.find(c => c.id === chamber.id)) return;
+
+            const chamberObj = { id: chamber.id, contact_number: '', visiting_hours: [] };
+            selectedChambers.push(chamberObj);
+
+            const chamberDiv = document.createElement('div');
+            chamberDiv.className = 'border p-3 rounded-lg bg-gray-50 shadow-sm space-y-2';
+
+            chamberDiv.innerHTML = `
+      <div class="flex justify-between items-center">
+        <strong class="text-lg">${chamber.chamber_name}</strong>
+        <button type="button" class="remove-chamber-btn text-red-500 font-bold">X</button>
+      </div>
+      <input type="text" placeholder="Contact Number" class="border p-2 w-full rounded-lg chamber-contact">
+      <button type="button" class="add-hour-btn px-3 py-1 bg-gray-200 rounded hover:bg-gray-300">Add Visiting Hour</button>
+      <div class="visiting-hours mt-2 space-y-2"></div>
+    `;
+
+            const contactInput = chamberDiv.querySelector('.chamber-contact');
+            contactInput.addEventListener('input', e => chamberObj.contact_number = e.target.value);
+
+            // Remove chamber button
+            const removeBtn = chamberDiv.querySelector('.remove-chamber-btn');
+            removeBtn.addEventListener('click', () => {
+                selectedChambers = selectedChambers.filter(c => c.id !== chamber.id);
+                selectedChambersDiv.removeChild(chamberDiv);
+            });
+
+            const addHourBtn = chamberDiv.querySelector('.add-hour-btn');
+            const hoursDiv = chamberDiv.querySelector('.visiting-hours');
+
+            addHourBtn.addEventListener('click', () => {
+                const index = chamberObj.visiting_hours.length;
+                chamberObj.visiting_hours.push({ day: 'MONDAY', start_time: '', end_time: '' });
+
+                const vhDiv = document.createElement('div');
+                vhDiv.className = 'flex gap-2 items-center bg-white p-2 rounded border';
+
+                vhDiv.innerHTML = `
+          <select class="day-select border p-1 rounded">
+            <option>MONDAY</option>
+            <option>TUESDAY</option>
+            <option>WEDNESDAY</option>
+            <option>THURSDAY</option>
+            <option>FRIDAY</option>
+            <option>SATURDAY</option>
+            <option>SUNDAY</option>
+          </select>
+          <input type="time" class="start-time border p-1 rounded">
+          <input type="time" class="end-time border p-1 rounded">
+          <button type="button" class="remove-hour-btn bg-red-200 px-2 rounded hover:bg-red-300">X</button>
+        `;
+                hoursDiv.appendChild(vhDiv);
+
+                const daySelect = vhDiv.querySelector('.day-select');
+                const startInput = vhDiv.querySelector('.start-time');
+                const endInput = vhDiv.querySelector('.end-time');
+                const removeHourBtn = vhDiv.querySelector('.remove-hour-btn');
+
+                daySelect.addEventListener('change', e => chamberObj.visiting_hours[index].day = e.target.value);
+                startInput.addEventListener('change', e => chamberObj.visiting_hours[index].start_time = e.target.value);
+                endInput.addEventListener('change', e => chamberObj.visiting_hours[index].end_time = e.target.value);
+                removeHourBtn.addEventListener('click', () => {
+                    hoursDiv.removeChild(vhDiv);
+                    chamberObj.visiting_hours.splice(index, 1);
+                });
+            });
+
+            selectedChambersDiv.appendChild(chamberDiv);
+            doctorChamberResults.innerHTML = '';
+            doctorChamberSearch.value = '';
+        }
+
+
+        // --- Submit form ---
+        addDoctorForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(addDoctorForm);
+            formData.append('chambers', JSON.stringify(selectedChambers));
+
+            const res = await fetch('/api/v1/doctors/', {
+                method: 'POST',
+                body: formData
+            });
+
+            if (res.ok) {
+                showToast("Doctor added successfully", "success")
+                addDoctorModal.classList.add('hidden');
+                addDoctorForm.reset();
+                selectedChambers = [];
+                selectedChambersDiv.innerHTML = '';
+            } else {
+                const err = await res.json();
+                showToast(err, "error")
+            }
+        });
 
     </script>
 </body>
