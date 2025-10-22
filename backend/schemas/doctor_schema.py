@@ -25,11 +25,11 @@ class DoctorCreate(DoctorBase):
 class DoctorUpdate(BaseModel):
     image: Optional[str] = None
     full_name: Optional[str]
-    degrees: Optional[List[str]]
-    specialization: Optional[str]
-    designation: Optional[str]
-    affiliated_hospital: Optional[str]
-    chambers: Optional[List[ChamberUpdate]]
+    degrees: Optional[List[str]] = Field(default_factory=list)
+    specialization: Optional[str] = None
+    designation: Optional[str] = None
+    affiliated_hospital: Optional[str] = None
+    chambers: Optional[List[ChamberUpdate]] = Field(default_factory=list)
 
 
 class DoctorRead(DoctorBase):

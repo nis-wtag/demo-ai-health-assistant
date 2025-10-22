@@ -1,4 +1,5 @@
 import json
+import os
 import shutil
 from pathlib import Path
 from typing import Optional
@@ -16,8 +17,7 @@ from fastapi import (
     Request,
     UploadFile,
 )
-
-from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch
+from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
 from services import doctor_service
 from services.dependencies.auth_dependencies import get_current_user, require_roles
 from sqlalchemy.orm import Session
@@ -27,6 +27,9 @@ router = APIRouter(prefix="/doctors", tags=["Doctors"])
 
 UPLOAD_DIR = Path("data/doctors/image")
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+
+MAX_FILE_SIZE = 20 * 1024 * 1024
+ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png"}
 
 
 @router.get("/", response_model=list[DoctorRead])
@@ -48,6 +51,17 @@ def add_doctor(
     try:
         image_url = None
         if image:
+            ext = image.filename.split(".")[-1].lower()
+            if ext not in ALLOWED_EXTENSIONS:
+                raise HTTPException(400, f"Invalid file type: {ext}")
+
+            image.file.seek(0, os.SEEK_END)
+            file_size = image.file.tell()
+            image.file.seek(0)
+
+            if file_size > MAX_FILE_SIZE:
+                raise HTTPException(400, "File too large. Max 20 MB allowed.")
+
             filename = image.filename.replace(" ", "_")
             image_path = UPLOAD_DIR / filename
             with image_path.open("wb") as f:
@@ -67,10 +81,13 @@ def add_doctor(
 
         chamber_data = json.loads(chambers) if chambers else None
 
-        return doctor_service.add_doctor(db, doctor_data=doctor_data, chamber_data=chamber_data)
-
+        return doctor_service.add_doctor(
+            db, doctor_data=doctor_data, chamber_data=chamber_data
+        )
+    except HTTPException as e:
+        raise e
     except Exception as e:
-        raise HTTPException(400, e)
+        raise HTTPException(400, str(e))
 
 
 @router.get("/search", response_model=list[DoctorRead])
@@ -92,6 +109,18 @@ def formatted_search_doctors(
 @router.get("/{doctor_id}", response_model=DoctorRead)
 def get_doctor_details(doctor_id: int, db: DbSession) -> DoctorRead:
     return doctor_service.get_doctor_by_id(db, doctor_id=doctor_id)
+
+
+@router.put("/{doctor_id}", response_model=DoctorRead)
+def update_doctor(
+    doctor_id: int, doctor_data: DoctorUpdate, db: DbSession
+) -> DoctorRead:
+    try:
+        return doctor_service.update_doctor(
+            db=db, doctor_id=doctor_id, doctor_data=doctor_data
+        )
+    except Exception as e:
+        raise HTTPException(400, str(e))
 
 
 @router.delete("/{doctor_id}")

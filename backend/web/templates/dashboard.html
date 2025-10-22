@@ -163,7 +163,8 @@
                             <input type="text" name="full_name" placeholder="Full Name" required
                                 class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
                             <input type="file" name="image" placeholder="Image"
-                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400"
+                                accept="image/png, image/jpg, image/jpeg">
                             <input type="text" name="degrees" placeholder="Degrees (comma separated)"
                                 class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
                             <input type="text" name="specialization" placeholder="Specialization"
@@ -196,6 +197,55 @@
                 </div>
             </div>
 
+            <!-- edit Doctor Modal -->
+            <div id="edit-doctor-modal"
+                class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center z-50">
+                <div class="bg-white rounded-xl p-6 w-128 max-w-2xl max-h-[90vh] overflow-auto shadow-lg">
+                    <h2 class="text-2xl font-bold mb-4 text-center">Edit Doctor Info</h2>
+                    <form id="edit-doctor-form" class="space-y-4">
+
+                        <input type="hidden" name="doctor_id" id="edit-doctor-id">
+
+                        <input type="text" name="full_name" id="edit-full-name" placeholder="Full Name" required
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="file" name="image" id="edit-image" placeholder="Image"
+                            accept="image/png, image/jpg, image/jpeg"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="degrees" id="edit-degrees" placeholder="Degrees (comma separated)"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="specialization" id="edit-specialization" placeholder="Specialization"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="designation" id="edit-designation" placeholder="Designation"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="affiliated_hospital" id="edit-affiliated-hospital"
+                            placeholder="Affiliated Hospital"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <!-- Chamber Search -->
+                        <!-- <div>
+                            <input type="text" id="edit-chamber-search" placeholder="Search Chamber..."
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <div id="update-chamber-results"
+                                class="border rounded-lg mt-1 max-h-40 overflow-auto bg-white shadow-sm"></div>
+                        </div> -->
+
+                        <!-- Selected Chambers -->
+                        <div id="edit-selected-chambers" class="space-y-3 mt-4"></div>
+
+                        <div class="flex justify-end gap-3 pt-4">
+                            <button type="button" id="cancel-edit-doctor-btn"
+                                class="px-5 py-2 bg-gray-300 hover:bg-gray-400 rounded-lg transition">Cancel</button>
+                            <button type="submit"
+                                class="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition">Update</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
 
 
             <!-- Add Chamber Modal -->
@@ -949,6 +999,179 @@
                 showToast(err, "error")
             }
         });
+
+        const updateDoctorModal = document.getElementById('edit-doctor-modal');
+        const updateForm = document.getElementById('edit-doctor-form');
+        const updateSelectedChambersDiv = document.getElementById('edit-selected-chambers');
+        let updateSelectedChambers = [];
+
+        // Cancel button
+        document.getElementById('cancel-edit-doctor-btn').addEventListener('click', () => {
+            updateDoctorModal.classList.add('hidden');
+            updateForm.reset();
+            updateSelectedChambers = [];
+            updateSelectedChambersDiv.innerHTML = '';
+        });
+
+        // Function to populate existing data
+        function openUpdateDoctorModal(doctor) {
+            updateDoctorModal.classList.remove('hidden');
+            document.getElementById('edit-doctor-id').value = doctor.id;
+            document.getElementById('edit-full-name').value = doctor.full_name;
+            document.getElementById('edit-degrees').value = doctor.degrees.join(', ');
+            document.getElementById('edit-specialization').value = doctor.specialization || '';
+            document.getElementById('edit-designation').value = doctor.designation || '';
+            document.getElementById('edit-affiliated-hospital').value = doctor.affiliated_hospital || '';
+
+            // Pre-fill selected chambers
+            updateSelectedChambers = [];
+            updateSelectedChambersDiv.innerHTML = '';
+            doctor.chambers.forEach(ch => addUpdateChamber(ch));
+        }
+
+        // Add a chamber to the selected list
+        function addUpdateChamber(chamber) {
+            if (updateSelectedChambers.find(c => c.id === chamber.id)) return;
+
+            const chamberObj = {
+                id: chamber.id,
+                name: chamber.chamber_name,
+                contact_number: chamber.contact_number || '',
+                visiting_hours: chamber.visiting_hours || []
+            };
+            updateSelectedChambers.push(chamberObj);
+
+            const chamberDiv = document.createElement('div');
+            chamberDiv.className = 'border p-3 rounded-lg bg-gray-50 shadow-sm space-y-2';
+
+            chamberDiv.innerHTML = `
+      <div class="flex justify-between items-center">
+        <strong class="text-lg">${chamberObj.name}</strong>
+        <button type="button" class="remove-chamber-btn text-red-500 font-bold">X</button>
+      </div>
+      <input type="text" placeholder="Contact Number" class="border p-2 w-full rounded-lg chamber-contact" value="${chamberObj.contact_number}">
+      <button type="button" class="add-hour-btn px-3 py-1 bg-gray-200 rounded hover:bg-gray-300">Add Visiting Hour</button>
+      <div class="visiting-hours mt-2 space-y-2"></div>
+    `;
+
+            const contactInput = chamberDiv.querySelector('.chamber-contact');
+            contactInput.addEventListener('input', e => chamberObj.contact_number = e.target.value);
+
+            // Remove chamber
+            const removeBtn = chamberDiv.querySelector('.remove-chamber-btn');
+            removeBtn.addEventListener('click', () => {
+                updateSelectedChambers = updateSelectedChambers.filter(c => c.id !== chamberObj.id);
+                updateSelectedChambersDiv.removeChild(chamberDiv);
+            });
+
+            const addHourBtn = chamberDiv.querySelector('.add-hour-btn');
+            const hoursDiv = chamberDiv.querySelector('.visiting-hours');
+
+            // Pre-fill visiting hours
+            chamberObj.visiting_hours.forEach(vh => addUpdateVisitingHour(hoursDiv, chamberObj, vh));
+
+            // Add new visiting hour
+            addHourBtn.addEventListener('click', () => {
+                const newVH = { day: 'MONDAY', start_time: '', end_time: '' };
+                chamberObj.visiting_hours.push(newVH);
+                addUpdateVisitingHour(hoursDiv, chamberObj, newVH);
+            });
+
+            updateSelectedChambersDiv.appendChild(chamberDiv);
+        }
+
+        // Add a single visiting hour card
+        function addUpdateVisitingHour(hoursDiv, chamberObj, vh) {
+            const vhDiv = document.createElement('div');
+            vhDiv.className = 'flex gap-2 items-center bg-white p-2 rounded border';
+
+            vhDiv.innerHTML = `
+      <select class="day-select border p-1 rounded">
+          <option value="MONDAY">MONDAY</option>
+        <option value="TUESDAY">TUESDAY</option>
+        <option value="WEDNESDAY">WEDNESDAY</option>
+        <option value="THURSDAY">THURSDAY</option>
+        <option value="FRIDAY">FRIDAY</option>
+        <option value="SATURDAY">SATURDAY</option>
+        <option value="SUNDAY">SUNDAY</option>
+      </select>
+      <input type="time" class="start-time border p-1 rounded">
+      <input type="time" class="end-time border p-1 rounded">
+      <button type="button" class="remove-hour-btn bg-red-200 px-2 rounded hover:bg-red-300">X</button>
+    `;
+
+            hoursDiv.appendChild(vhDiv);
+
+            const daySelect = vhDiv.querySelector('.day-select');
+            const startInput = vhDiv.querySelector('.start-time');
+            const endInput = vhDiv.querySelector('.end-time');
+            const removeBtn = vhDiv.querySelector('.remove-hour-btn');
+
+            // Pre-fill existing values
+            const dayValue = vh.day?.trim().toUpperCase() || 'MONDAY';
+            if ([...daySelect.options].some(opt => opt.value === dayValue)) {
+                daySelect.value = dayValue;
+            }
+            startInput.value = vh.start_time || '';
+            endInput.value = vh.end_time || '';
+
+            // Update the object directly
+            daySelect.addEventListener('change', e => vh.day = e.target.value);
+            startInput.addEventListener('change', e => vh.start_time = e.target.value);
+            endInput.addEventListener('change', e => vh.end_time = e.target.value);
+
+            // Remove visiting hour
+            removeBtn.addEventListener('click', () => {
+                hoursDiv.removeChild(vhDiv);
+                const idx = chamberObj.visiting_hours.indexOf(vh);
+                if (idx > -1) chamberObj.visiting_hours.splice(idx, 1);
+            });
+        }
+
+        // --- Form submission ---
+        updateForm.addEventListener('submit', async e => {
+            e.preventDefault();
+            const doctorId = document.getElementById('edit-doctor-id').value;
+            const payload = {
+                full_name: document.getElementById('edit-full-name').value,
+                degrees: document.getElementById('edit-degrees').value.split(',').map(d => d.trim()),
+                specialization: document.getElementById('edit-specialization').value,
+                designation: document.getElementById('edit-designation').value,
+                affiliated_hospital: document.getElementById('edit-affiliated-hospital').value,
+                chambers: updateSelectedChambers
+            };
+
+            try {
+                const res = await fetch(`/api/v1/doctors/${doctorId}`, {
+                    method: 'PUT',
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(payload)
+                });
+                if (res.ok) {
+                    showToast('Doctor updated successfully!', "success");
+                    updateDoctorModal.classList.add('hidden');
+                } else {
+                    const err = await res.json();
+                    showToast('Failed to update doctor', "error");
+                }
+            } catch (err) {
+                showToast('Error: ' + err.message, "error");
+            }
+        });
+
+        // Main edit function
+        async function editDoctor(id) {
+            // 1️⃣ Fetch existing doctor data
+            try {
+                const response = await fetch(`/api/v1/doctors/${id}`);
+                if (!response.ok) throw new Error('Failed to fetch doctor data');
+                const doctor = await response.json();
+                openUpdateDoctorModal(doctor)
+            }
+            catch (err) {
+                showToast(err, "error")
+            }
+        }
 
     </script>
 </body>

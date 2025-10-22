@@ -83,3 +83,7 @@ def formatted_search_doctors(
 
 def delete_doctor(db: Session, doctor_id: int):
     doctor_repository.remove(db, id=doctor_id)
+
+
+def update_doctor(db: Session, doctor_id: int, doctor_data: DoctorUpdate):
+    return doctor_repository.update(db=db, obj_id=doctor_id, obj_in=doctor_data)
