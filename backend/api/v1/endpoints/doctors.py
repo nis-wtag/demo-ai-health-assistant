@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Optional
 
 from core.database import DbSession
+from core.exceptions import AppException
 from core.limiter import limiter
 from fastapi import APIRouter, File, Form, HTTPException, Query, Request, UploadFile
 from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
@@ -43,46 +44,41 @@ def add_doctor(
     chambers: Optional[str] = Form(None),
     db: DbSession = None,
 ) -> DoctorRead:
-    try:
-        image_url = None
-        if image:
-            ext = image.filename.split(".")[-1].lower()
-            if ext not in ALLOWED_EXTENSIONS:
-                raise HTTPException(400, f"Invalid file type: {ext}")
+    image_url = None
+    if image:
+        ext = image.filename.split(".")[-1].lower()
+        if ext not in ALLOWED_EXTENSIONS:
+            raise AppException(detail=f"Invalid file type: {ext}")
 
-            image.file.seek(0, os.SEEK_END)
-            file_size = image.file.tell()
-            image.file.seek(0)
+        image.file.seek(0, os.SEEK_END)
+        file_size = image.file.tell()
+        image.file.seek(0)
 
-            if file_size > MAX_FILE_SIZE:
-                raise HTTPException(400, "File too large. Max 20 MB allowed.")
+        if file_size > MAX_FILE_SIZE:
+            raise AppException(detail="File too large. Max 20 MB allowed.")
 
-            filename = image.filename.replace(" ", "_")
-            image_path = UPLOAD_DIR / filename
-            with image_path.open("wb") as f:
-                shutil.copyfileobj(image.file, f)
-            image_url = f"image/{filename}"
+        filename = image.filename.replace(" ", "_")
+        image_path = UPLOAD_DIR / filename
+        with image_path.open("wb") as f:
+            shutil.copyfileobj(image.file, f)
+        image_url = f"image/{filename}"
 
-        degree_list = [d.strip() for d in degrees.split(",")] if degrees else []
+    degree_list = [d.strip() for d in degrees.split(",")] if degrees else []
 
-        doctor_data = DoctorBase(
-            full_name=full_name,
-            image=image_url,
-            degrees=degree_list,
-            specialization=specialization,
-            designation=designation,
-            affiliated_hospital=affiliated_hospital,
-        )
+    doctor_data = DoctorBase(
+        full_name=full_name,
+        image=image_url,
+        degrees=degree_list,
+        specialization=specialization,
+        designation=designation,
+        affiliated_hospital=affiliated_hospital,
+    )
 
-        chamber_data = json.loads(chambers) if chambers else None
+    chamber_data = json.loads(chambers) if chambers else None
 
-        return doctor_service.add_doctor(
-            db, doctor_data=doctor_data, chamber_data=chamber_data
-        )
-    except HTTPException as e:
-        raise e
-    except Exception as e:
-        raise HTTPException(400, str(e))
+    return doctor_service.add_doctor(
+        db, doctor_data=doctor_data, chamber_data=chamber_data
+    )
 
 
 @router.get("/search", response_model=list[DoctorRead])
@@ -116,19 +112,13 @@ def get_doctor_details(request: Request, doctor_id: int, db: DbSession) -> Docto
 def update_doctor(
     request: Request, doctor_id: int, doctor_data: DoctorUpdate, db: DbSession
 ) -> DoctorRead:
-    try:
-        return doctor_service.update_doctor(
-            db=db, doctor_id=doctor_id, doctor_data=doctor_data
-        )
-    except Exception as e:
-        raise HTTPException(400, str(e))
+    return doctor_service.update_doctor(
+        db=db, doctor_id=doctor_id, doctor_data=doctor_data
+    )
 
 
 @router.delete("/{doctor_id}")
 @limiter.limit("3/minute")
 def delete_doctor(request: Request, doctor_id: int, db: DbSession):
-    try:
-        doctor_service.delete_doctor(db, doctor_id=doctor_id)
-        return {"message": f"Doctor {doctor_id} deleted"}
-    except Exception as e:
-        raise HTTPException(400, e)
+    doctor_service.delete_doctor(db, doctor_id=doctor_id)
+    return {"detail": f"Doctor {doctor_id} deleted"}

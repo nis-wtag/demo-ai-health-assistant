@@ -3,6 +3,7 @@ import uuid
 from datetime import datetime, timedelta, timezone
 
 from core.config import settings
+from core.exceptions import EmailAlreadyRegisteredException, InvalidCredentialsException
 from models.user import User
 from passlib.context import CryptContext
 from repositories.user_repository import user_repository
@@ -38,7 +39,7 @@ def generate_token(user: User, iat: datetime, exp: datetime):
 def register_user(db: Session, email: str, password: str, full_name: str):
     existing_user = user_repository.get_by_email(db, email=email)
     if existing_user:
-        raise Exception("Email already registered")
+        raise EmailAlreadyRegisteredException()
 
     hashed_password = get_password_hash(password)
     return user_repository.create(
@@ -49,7 +50,7 @@ def register_user(db: Session, email: str, password: str, full_name: str):
 def authenticate_user(db: Session, email: str, password: str):
     user = user_repository.get_by_email(db, email=email)
     if not user or not verify_password(password, user.hashed_password):
-        raise Exception("Invalid credentials")
+        raise InvalidCredentialsException()
     return user
 
 
@@ -84,14 +85,14 @@ def logout(db: Session, access_token: str):
     if session:
         session_service.invalidate_session(db, session)
     else:
-        raise Exception("Invalid access token")
+        raise InvalidCredentialsException(detail="Invalid access token")
 
 
 def refresh(db: Session, refresh_token: str):
     old_session = session_service.get_by_refresh_token(db, refresh_token)
 
     if not old_session or old_session.refresh_expires_at < datetime.now(timezone.utc):
-        raise Exception("Invalid or expired refresh token")
+        raise InvalidCredentialsException("Invalid or expired refresh token")
 
     session_service.invalidate_session(db, old_session)
 

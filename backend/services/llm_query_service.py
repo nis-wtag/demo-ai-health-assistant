@@ -10,7 +10,7 @@ from schemas.ai_response_schema import StructuredAIResponse
 from schemas.chat_schema import ChatResponse
 from schemas.doctor_schema import DoctorSearch
 from sqlalchemy.orm import Session
-
+from middleware.logger import logger
 from services.doctor_service import formatted_search_doctors
 
 
@@ -73,7 +73,7 @@ class QueryService:
             )
         except Exception as e:
             # Fallback if the LLM fails to generate valid JSON
-            print(f"LLM parsing failed: {e}")
+            logger.debug(f"LLM parsing failed: {e}")
             search_params = DoctorSearch(specialization="General")
             remedy = "I had trouble understanding the specifics of your query. It's always best to consult with a General Practitioner for any health concerns."
 

@@ -1,5 +1,6 @@
 from typing import Optional
 
+from core.exceptions import AppException
 from fastapi import HTTPException
 from models.chamber import Chamber
 from models.doctor import Doctor
@@ -7,7 +8,6 @@ from models.doctor_chamber import DoctorChamber, DoctorChamberVisitingHour
 from repositories.doctor_repository import doctor_repository
 from schemas.doctor_schema import (
     DoctorBase,
-    DoctorCreate,
     DoctorRead,
     DoctorSearch,
     DoctorUpdate,
@@ -22,7 +22,7 @@ def get_doctors(db: Session, offset: int, limit: int):
 def get_doctor_by_id(db: Session, doctor_id: int):
     doctor = doctor_repository.get_details(db, id=doctor_id)
     if not doctor:
-        raise Exception("Doctor not found")
+        raise AppException(detail="Doctor not found")
     return doctor
 
 
@@ -41,7 +41,7 @@ def add_doctor(
 
             chamber = db.query(Chamber).filter(Chamber.id == chamber_id).first()
             if not chamber:
-                raise HTTPException(
+                raise AppException(
                     status_code=404, detail=f"Chamber {chamber_id} not found"
                 )
 
@@ -82,8 +82,14 @@ def formatted_search_doctors(
 
 
 def delete_doctor(db: Session, doctor_id: int):
+    doctor = doctor_repository.get_details(db, doctor_id)
+    if not doctor:
+        raise AppException(status_code=404, detail="Doctor not found")
     doctor_repository.remove(db, id=doctor_id)
 
 
 def update_doctor(db: Session, doctor_id: int, doctor_data: DoctorUpdate):
+    doctor = doctor_repository.get_details(db, doctor_id)
+    if not doctor:
+        raise AppException(status_code=404, detail="Doctor not found")
     return doctor_repository.update(db=db, obj_id=doctor_id, obj_in=doctor_data)
