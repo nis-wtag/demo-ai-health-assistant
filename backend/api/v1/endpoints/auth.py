@@ -46,6 +46,8 @@ def login(request: Request, user_data: UserLogin, response: Response, db: DbSess
         max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS * 24 * 60 * 60,
     )
 
+    return user
+
 
 @router.post("/logout")
 def logout(
