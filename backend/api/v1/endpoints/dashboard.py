@@ -11,7 +11,7 @@ router = APIRouter(prefix="/dashboard", tags=["Dashboard"])
 
 @router.get("/stats", response_model=DashboardStats)
 @limiter.limit("50/minute")
-def get_dashboard_stats(db: DbSession) -> DashboardStats:
+def get_dashboard_stats(request: Request, db: DbSession) -> DashboardStats:
     return DashboardStats(
         doctor_count=get_doctor_count(db), chamber_count=get_chamber_count(db)
     )

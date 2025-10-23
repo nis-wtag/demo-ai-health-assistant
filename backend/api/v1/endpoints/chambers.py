@@ -10,13 +10,17 @@ router = APIRouter(prefix="/chambers", tags=["Chambers"])
 
 @router.get("/", response_model=list[ChamberRead])
 @limiter.limit("50/minute")
-def get_chambers(db: DbSession, offset: int = 0, limit: int = 10) -> list[ChamberRead]:
+def get_chambers(
+    request: Request, db: DbSession, offset: int = 0, limit: int = 10
+) -> list[ChamberRead]:
     return chamber_service.get_chambers(db, offset=offset, limit=limit)
 
 
 @router.post("/", response_model=ChamberRead)
 @limiter.limit("50/minute")
-def add_chamber(chamber_data: ChamberCreate, db: DbSession) -> ChamberRead:
+def add_chamber(
+    request: Request, chamber_data: ChamberCreate, db: DbSession
+) -> ChamberRead:
     try:
         return chamber_service.add_chamber(db, chamber_data)
     except Exception as e:
@@ -26,7 +30,9 @@ def add_chamber(chamber_data: ChamberCreate, db: DbSession) -> ChamberRead:
 @router.get("/search", response_model=list[ChamberRead])
 @limiter.limit("20/minute")
 def search_chambers(
-    params: str = Query(description="Search term for chambers"), db: DbSession = None
+    request: Request,
+    params: str = Query(description="Search term for chambers"),
+    db: DbSession = None,
 ) -> list[ChamberRead]:
     print(params)
     try:
@@ -37,7 +43,7 @@ def search_chambers(
 
 @router.delete("/{chamber_id}")
 @limiter.limit("3/minute")
-def delete_chamber(chamber_id: int, db: DbSession):
+def delete_chamber(request: Request, chamber_id: int, db: DbSession):
     try:
         chamber_service.delete_chamber(db, chamber_id=chamber_id)
         return {"message": f"Chamber {chamber_id} deleted"}
@@ -47,7 +53,9 @@ def delete_chamber(chamber_id: int, db: DbSession):
 
 @router.get("/{chamber_id}", response_model=ChamberRead)
 @limiter.limit("50/minute")
-def get_chamber_details(chamber_id: int, db: DbSession) -> ChamberRead:
+def get_chamber_details(
+    request: Request, chamber_id: int, db: DbSession
+) -> ChamberRead:
     try:
         return chamber_service.get_chamber_by_id(db, chamber_id=chamber_id)
     except Exception as e:
@@ -57,7 +65,7 @@ def get_chamber_details(chamber_id: int, db: DbSession) -> ChamberRead:
 @router.put("/{chamber_id}", response_model=ChamberRead)
 @limiter.limit("5/minute")
 def update_chamber(
-    chamber_id: int, chamber_data: ChamberUpdate, db: DbSession
+    request: Request, chamber_id: int, chamber_data: ChamberUpdate, db: DbSession
 ) -> ChamberRead:
     try:
         return chamber_service.update_chamber(

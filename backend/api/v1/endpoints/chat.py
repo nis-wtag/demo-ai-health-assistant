@@ -11,6 +11,7 @@ router = APIRouter(prefix="/chat", tags=["Chat"])
 @router.post("/", response_model=ChatResponse)
 @limiter.limit("10/minute")
 def process_chat_query(
+    request: Request,
     chat_in: ChatQuery,
     current_user: User = Depends(get_current_user),
     query_service: QueryService = Depends(),

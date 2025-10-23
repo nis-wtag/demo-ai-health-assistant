@@ -2,13 +2,16 @@ from api.v1.api import api_router as api_v1_router
 from core.limiter import limiter, rate_limit_exceeded_handler
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
+from middleware.logger import LoggingMiddleware
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 from web.routes import router as web_router
 
 app = FastAPI(title="AI Health Assistant", version="0.1.0")
 app.state.limiter = limiter
-app.add_event_handler(RateLimitExceeded, rate_limit_exceeded_handler)
+app.add_exception_handler(RateLimitExceeded, rate_limit_exceeded_handler)
+
+app.add_middleware(LoggingMiddleware)
 app.add_middleware(SlowAPIMiddleware)
 
 app.include_router(api_v1_router)

@@ -1,7 +1,7 @@
 from core.config import settings
 from core.database import DbSession
 from core.limiter import limiter
-from fastapi import APIRouter, Cookie, HTTPException, Response
+from fastapi import APIRouter, Cookie, HTTPException, Request, Response
 from schemas.user_schema import UserCreate, UserLogin, UserRead
 from services import auth_service
 
@@ -10,7 +10,7 @@ router = APIRouter(prefix="/auth", tags=["Auth"])
 
 @router.post("/register", response_model=UserRead)
 @limiter.limit("5/minute")
-def register(user_data: UserCreate, db: DbSession):
+def register(request: Request, user_data: UserCreate, db: DbSession):
     try:
         user = auth_service.register_user(
             db,
@@ -25,7 +25,7 @@ def register(user_data: UserCreate, db: DbSession):
 
 @router.post("/login", response_model=UserRead)
 @limiter.limit("5/minute")
-def login(user_data: UserLogin, response: Response, db: DbSession):
+def login(request: Request, user_data: UserLogin, response: Response, db: DbSession):
     try:
         user, access_token, refresh_token = auth_service.login(
             db, email=user_data.email, password=user_data.password
@@ -57,7 +57,12 @@ def login(user_data: UserLogin, response: Response, db: DbSession):
 
 
 @router.post("/logout")
-def logout(response: Response, db: DbSession, access_token: str = Cookie(None)):
+def logout(
+    request: Request,
+    response: Response,
+    db: DbSession,
+    access_token: str = Cookie(None),
+):
     try:
         auth_service.logout(db, access_token)
         response.delete_cookie("access_token")
@@ -70,7 +75,12 @@ def logout(response: Response, db: DbSession, access_token: str = Cookie(None)):
 
 @router.post("/refresh")
 @limiter.limit("30/10minute")
-def refresh(response: Response, db: DbSession, refresh_token: str = Cookie(None)):
+def refresh(
+    request: Request,
+    response: Response,
+    db: DbSession,
+    refresh_token: str = Cookie(None),
+):
     try:
         tokens = auth_service.refresh(db, refresh_token=refresh_token)
 

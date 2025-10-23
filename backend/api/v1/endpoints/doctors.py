@@ -6,14 +6,7 @@ from typing import Optional
 
 from core.database import DbSession
 from core.limiter import limiter
-from fastapi import (
-    APIRouter,
-    File,
-    Form,
-    HTTPException,
-    Query,
-    UploadFile,
-)
+from fastapi import APIRouter, File, Form, HTTPException, Query, Request, UploadFile
 from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
 from services import doctor_service
 from services.dependencies.auth_dependencies import get_current_user, require_roles
@@ -31,13 +24,16 @@ ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png"}
 
 @router.get("/", response_model=list[DoctorRead])
 @limiter.limit("50/minute")
-def get_doctors(db: DbSession, offset: int = 0, limit: int = 10) -> list[DoctorRead]:
+def get_doctors(
+    request: Request, db: DbSession, offset: int = 0, limit: int = 10
+) -> list[DoctorRead]:
     return doctor_service.get_doctors(db, offset=offset, limit=limit)
 
 
 @router.post("/", response_model=DoctorRead)
 @limiter.limit("50/minute")
 def add_doctor(
+    request: Request,
     full_name: str = Form(...),
     image: Optional[UploadFile] = File(None),
     degrees: Optional[str] = Form(None),
@@ -92,7 +88,9 @@ def add_doctor(
 @router.get("/search", response_model=list[DoctorRead])
 @limiter.limit("50/minute")
 def search_doctors(
-    params: str = Query(description="Search term for doctors"), db: DbSession = None
+    request: Request,
+    params: str = Query(description="Search term for doctors"),
+    db: DbSession = None,
 ) -> list[DoctorRead]:
     return doctor_service.search_doctors(db, params=params)
 
@@ -100,7 +98,7 @@ def search_doctors(
 @router.post("/search", response_model=list[DoctorRead])
 @limiter.limit("50/minute")
 def formatted_search_doctors(
-    search_params: DoctorSearch, db: DbSession
+    request: Request, search_params: DoctorSearch, db: DbSession
 ) -> list[DoctorRead]:
     return doctor_service.formatted_search_doctors(
         db, search_params=search_params, limit=5
@@ -109,14 +107,14 @@ def formatted_search_doctors(
 
 @router.get("/{doctor_id}", response_model=DoctorRead)
 @limiter.limit("50/minute")
-def get_doctor_details(doctor_id: int, db: DbSession) -> DoctorRead:
+def get_doctor_details(request: Request, doctor_id: int, db: DbSession) -> DoctorRead:
     return doctor_service.get_doctor_by_id(db, doctor_id=doctor_id)
 
 
 @router.put("/{doctor_id}", response_model=DoctorRead)
 @limiter.limit("5/minute")
 def update_doctor(
-    doctor_id: int, doctor_data: DoctorUpdate, db: DbSession
+    request: Request, doctor_id: int, doctor_data: DoctorUpdate, db: DbSession
 ) -> DoctorRead:
     try:
         return doctor_service.update_doctor(
@@ -128,7 +126,7 @@ def update_doctor(
 
 @router.delete("/{doctor_id}")
 @limiter.limit("3/minute")
-def delete_doctor(doctor_id: int, db: DbSession):
+def delete_doctor(request: Request, doctor_id: int, db: DbSession):
     try:
         doctor_service.delete_doctor(db, doctor_id=doctor_id)
         return {"message": f"Doctor {doctor_id} deleted"}
