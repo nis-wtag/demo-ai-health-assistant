@@ -2,14 +2,12 @@ from datetime import datetime
 
 from core.config import settings
 from core.database import DbSession
-from fastapi import Depends
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from schemas.ai_response_schema import StructuredAIResponse
 from schemas.chat_schema import ChatResponse
 from schemas.doctor_schema import DoctorSearch
-from sqlalchemy.orm import Session
 from middleware.logger import logger
 from services.doctor_service import formatted_search_doctors
 

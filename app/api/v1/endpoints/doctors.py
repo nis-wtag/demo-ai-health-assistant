@@ -7,11 +7,9 @@ from typing import Optional
 from core.database import DbSession
 from core.exceptions import AppException
 from core.limiter import limiter
-from fastapi import APIRouter, File, Form, HTTPException, Query, Request, UploadFile
+from fastapi import APIRouter, File, Form, Query, Request, UploadFile
 from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
 from services import doctor_service
-from services.dependencies.auth_dependencies import get_current_user, require_roles
-from sqlalchemy.orm import Session
 
 router = APIRouter(prefix="/doctors", tags=["Doctors"])
 

@@ -1,8 +1,8 @@
 from core.limiter import limiter
-from fastapi import APIRouter, Cookie, Depends, HTTPException, Request
+from fastapi import APIRouter, Depends, Request
 from models.user import User
 from schemas.chat_schema import ChatQuery, ChatResponse
-from services.dependencies.auth_dependencies import get_current_user, require_roles
+from services.dependencies.auth_dependencies import get_current_user
 from services.llm_query_service import QueryService
 
 router = APIRouter(prefix="/chat", tags=["Chat"])

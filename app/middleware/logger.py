@@ -32,7 +32,6 @@ class LoggingMiddleware(BaseHTTPMiddleware):
             response = await call_next(request)
         except Exception as e:
             logger.error(f"Error processing request: {e}", exc_info=True)
-            raise e
 
         process_time = time.time() - start_time
         logger.info(

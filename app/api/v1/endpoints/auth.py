@@ -1,7 +1,7 @@
 from core.config import settings
 from core.database import DbSession
 from core.limiter import limiter
-from fastapi import APIRouter, Cookie, HTTPException, Request, Response
+from fastapi import APIRouter, Cookie, Request, Response
 from schemas.user_schema import UserCreate, UserLogin, UserRead
 from services import auth_service
 
@@ -45,6 +45,8 @@ def login(request: Request, user_data: UserLogin, response: Response, db: DbSess
         samesite=settings.COOKIE_SAMESITE,
         max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS * 24 * 60 * 60,
     )
+
+    return user
 
 
 @router.post("/logout")

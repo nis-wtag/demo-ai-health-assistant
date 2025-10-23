@@ -1,7 +1,6 @@
 from typing import Optional
 
 from core.exceptions import AppException
-from fastapi import HTTPException
 from models.chamber import Chamber
 from models.doctor import Doctor
 from models.doctor_chamber import DoctorChamber, DoctorChamberVisitingHour

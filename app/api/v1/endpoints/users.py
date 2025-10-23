@@ -1,8 +1,7 @@
-from core.database import DbSession
-from fastapi import APIRouter, Cookie, Depends, HTTPException, Request
-from models.user import User, UserRole
+from fastapi import APIRouter, Depends, Request
+from models.user import User
 from schemas.user_schema import UserRead
-from services.dependencies.auth_dependencies import get_current_user, require_roles
+from services.dependencies.auth_dependencies import get_current_user
 
 router = APIRouter(prefix="/users", tags=["Users"])
 

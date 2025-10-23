@@ -1,10 +1,8 @@
 from core.database import DbSession
 from core.limiter import limiter
-from fastapi import APIRouter, Cookie, Depends, HTTPException, Request
+from fastapi import APIRouter, Request
 from schemas.dashboard_stats_schema import DashboardStats
 from services.dashboard_service import get_chamber_count, get_doctor_count
-from services.dependencies.auth_dependencies import get_current_user, require_roles
-from sqlalchemy.orm import Session
 
 router = APIRouter(prefix="/dashboard", tags=["Dashboard"])
 

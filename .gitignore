@@ -77,4 +77,4 @@ Temporary files
 Local Streamlit configuration
 .streamlit/
 
-backend/data/doctors/image
+app/data/doctors/image

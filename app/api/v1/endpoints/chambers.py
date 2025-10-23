@@ -1,9 +1,8 @@
 from core.database import DbSession
 from core.limiter import limiter
-from fastapi import APIRouter, Cookie, Depends, HTTPException, Query, Request
+from fastapi import APIRouter, Query, Request
 from schemas.chamber_schema import ChamberCreate, ChamberRead, ChamberUpdate
 from services import chamber_service
-from services.dependencies.auth_dependencies import get_current_user, require_roles
 
 router = APIRouter(prefix="/chambers", tags=["Chambers"])
 

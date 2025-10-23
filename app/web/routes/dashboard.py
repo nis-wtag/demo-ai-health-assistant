@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Cookie, Depends, Request
+from fastapi import APIRouter, Depends, Request
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
 
@@ -8,8 +8,10 @@ router = APIRouter()
 templates = Jinja2Templates(directory="web/templates")
 
 
-@router.get("/", response_class=HTMLResponse)
-async def chat_page(request: Request, user=Depends(require_login_for_template)):
+@router.get("/dashboard", response_class=HTMLResponse)
+async def dashboard_page(request: Request, user=Depends(require_login_for_template)):
     if isinstance(user, RedirectResponse):
         return user
-    return templates.TemplateResponse("chat.html", {"request": request, "user": user})
+    return templates.TemplateResponse(
+        "dashboard.html", {"request": request, "user": user}
+    )

@@ -1,10 +1,8 @@
-from functools import wraps
 
 from core.database import DbSession
-from fastapi import Cookie, Depends, HTTPException, Request
+from fastapi import Cookie, HTTPException
 from fastapi.responses import RedirectResponse
 from services.dependencies.auth_dependencies import get_current_user
-from sqlalchemy.orm import Session
 
 
 async def require_login_for_template(
