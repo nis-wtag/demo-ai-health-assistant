@@ -1,14 +1,15 @@
 from core.config import settings
 from core.database import DbSession
-from fastapi import APIRouter, Cookie, Depends, HTTPException, Response
+from core.limiter import limiter
+from fastapi import APIRouter, Cookie, HTTPException, Response
 from schemas.user_schema import UserCreate, UserLogin, UserRead
 from services import auth_service
-from sqlalchemy.orm import Session
 
 router = APIRouter(prefix="/auth", tags=["Auth"])
 
 
 @router.post("/register", response_model=UserRead)
+@limiter.limit("5/minute")
 def register(user_data: UserCreate, db: DbSession):
     try:
         user = auth_service.register_user(
@@ -23,6 +24,7 @@ def register(user_data: UserCreate, db: DbSession):
 
 
 @router.post("/login", response_model=UserRead)
+@limiter.limit("5/minute")
 def login(user_data: UserLogin, response: Response, db: DbSession):
     try:
         user, access_token, refresh_token = auth_service.login(
@@ -67,6 +69,7 @@ def logout(response: Response, db: DbSession, access_token: str = Cookie(None)):
 
 
 @router.post("/refresh")
+@limiter.limit("30/10minute")
 def refresh(response: Response, db: DbSession, refresh_token: str = Cookie(None)):
     try:
         tokens = auth_service.refresh(db, refresh_token=refresh_token)

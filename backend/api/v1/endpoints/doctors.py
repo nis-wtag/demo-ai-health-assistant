@@ -5,16 +5,13 @@ from pathlib import Path
 from typing import Optional
 
 from core.database import DbSession
+from core.limiter import limiter
 from fastapi import (
     APIRouter,
-    Body,
-    Cookie,
-    Depends,
     File,
     Form,
     HTTPException,
     Query,
-    Request,
     UploadFile,
 )
 from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
@@ -33,11 +30,13 @@ ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png"}
 
 
 @router.get("/", response_model=list[DoctorRead])
+@limiter.limit("50/minute")
 def get_doctors(db: DbSession, offset: int = 0, limit: int = 10) -> list[DoctorRead]:
     return doctor_service.get_doctors(db, offset=offset, limit=limit)
 
 
 @router.post("/", response_model=DoctorRead)
+@limiter.limit("50/minute")
 def add_doctor(
     full_name: str = Form(...),
     image: Optional[UploadFile] = File(None),
@@ -91,6 +90,7 @@ def add_doctor(
 
 
 @router.get("/search", response_model=list[DoctorRead])
+@limiter.limit("50/minute")
 def search_doctors(
     params: str = Query(description="Search term for doctors"), db: DbSession = None
 ) -> list[DoctorRead]:
@@ -98,6 +98,7 @@ def search_doctors(
 
 
 @router.post("/search", response_model=list[DoctorRead])
+@limiter.limit("50/minute")
 def formatted_search_doctors(
     search_params: DoctorSearch, db: DbSession
 ) -> list[DoctorRead]:
@@ -107,11 +108,13 @@ def formatted_search_doctors(
 
 
 @router.get("/{doctor_id}", response_model=DoctorRead)
+@limiter.limit("50/minute")
 def get_doctor_details(doctor_id: int, db: DbSession) -> DoctorRead:
     return doctor_service.get_doctor_by_id(db, doctor_id=doctor_id)
 
 
 @router.put("/{doctor_id}", response_model=DoctorRead)
+@limiter.limit("5/minute")
 def update_doctor(
     doctor_id: int, doctor_data: DoctorUpdate, db: DbSession
 ) -> DoctorRead:
@@ -124,6 +127,7 @@ def update_doctor(
 
 
 @router.delete("/{doctor_id}")
+@limiter.limit("3/minute")
 def delete_doctor(doctor_id: int, db: DbSession):
     try:
         doctor_service.delete_doctor(db, doctor_id=doctor_id)
