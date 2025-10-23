@@ -1,14 +1,14 @@
 services:
-  backend:
-    image: aha_backend:dev
+  app:
+    image: aha_app:dev
     pull_policy: never
-    container_name: aha_backend
+    container_name: aha_app
     build:
-      context: ./backend
+      context: ./app
       dockerfile: Dockerfile
       target: runner
     volumes:
-      - ./backend:/app
+      - ./app:/app
     networks:
       - aha_network
     ports:
