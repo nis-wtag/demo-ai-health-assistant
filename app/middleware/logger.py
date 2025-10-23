@@ -1,19 +1,17 @@
 import logging
+import logging.config
 import time
 
+import yaml
 from fastapi import Request
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.types import ASGIApp
 
-logger = logging.getLogger("app_logger")
-logger.setLevel(logging.INFO)
+with open("config/logging.yaml", "r") as f:
+    config = yaml.safe_load(f)
+    logging.config.dictConfig(config)
 
-handler = logging.FileHandler("app.log")
-formatter = logging.Formatter(
-    "%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s"
-)
-handler.setFormatter(formatter)
-logger.addHandler(handler)
+logger = logging.getLogger("app_logger")
 
 
 class LoggingMiddleware(BaseHTTPMiddleware):
@@ -32,10 +30,11 @@ class LoggingMiddleware(BaseHTTPMiddleware):
             response = await call_next(request)
         except Exception as e:
             logger.error(f"Error processing request: {e}", exc_info=True)
-
-        process_time = time.time() - start_time
-        logger.info(
-            f"Completed {method} {url} from {client_ip} in {process_time:.3f}s, status: {response.status_code}"
-        )
+            raise
+        finally:
+            process_time = time.time() - start_time
+            logger.info(
+                f"Completed {method} {url} from {client_ip} in {process_time:.3f}s, status: {response.status_code}"
+            )
 
         return response
