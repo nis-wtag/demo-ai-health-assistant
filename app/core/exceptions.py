@@ -35,7 +35,7 @@ class InvalidCredentialsException(AppException):
     def __init__(
         self,
         detail: str = "Invalid credentials",
-        status_code=status.HTTP_400_BAD_REQUEST,
+        status_code=status.HTTP_401_UNAUTHORIZED,
     ):
         super().__init__(detail=detail, status_code=status_code)
 

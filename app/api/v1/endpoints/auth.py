@@ -8,7 +8,7 @@ from services import auth_service
 router = APIRouter(prefix="/auth", tags=["Auth"])
 
 
-@router.post("/register", response_model=UserRead)
+@router.post("/register", response_model=UserRead, status_code=201)
 @limiter.limit("5/minute")
 def register(request: Request, user_data: UserCreate, db: DbSession):
     return auth_service.register_user(

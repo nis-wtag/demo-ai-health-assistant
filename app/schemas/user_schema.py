@@ -1,7 +1,7 @@
 from typing import Optional
 
 from models.user import UserRole
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, ConfigDict, EmailStr
 
 
 class UserCreate(BaseModel):
@@ -25,5 +25,4 @@ class UserRead(BaseModel):
     full_name: str
     role: UserRole
 
-    class Config:
-        orm_mode = True
+    model_config = ConfigDict(from_attributes=True)

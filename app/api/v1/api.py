@@ -11,3 +11,8 @@ api_router.include_router(doctors.router)
 api_router.include_router(chambers.router)
 api_router.include_router(chat.router)
 api_router.include_router(dashboard.router)
+
+
+@api_router.get("/health", status_code=200)
+def check_health():
+    return {"status": "ok"}

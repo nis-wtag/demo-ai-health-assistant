@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import ClassVar
 
+from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -9,12 +10,21 @@ class Settings(BaseSettings):
     Application settings loaded from environment variables.
     """
 
+    APP_ENV: str = Field("dev", validate_default=True)
+
     # Database configuration
     POSTGRES_USER: str
     POSTGRES_PASSWORD: str
     POSTGRES_HOST: str
     POSTGRES_PORT: int
     POSTGRES_DB: str
+
+    # Test Database configuration
+    POSTGRES_TEST_USER: str
+    POSTGRES_TEST_PASSWORD: str
+    POSTGRES_TEST_HOST: str
+    POSTGRES_TEST_PORT: int
+    POSTGRES_TEST_DB: str
 
     # JWT settings for authentication
     JWT_SECRET_KEY: str
@@ -32,7 +42,14 @@ class Settings(BaseSettings):
 
     @property
     def DATABASE_URL(self):
-        return f"postgresql+psycopg2://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
+        if self.APP_ENV == "dev":
+            return f"postgresql+psycopg2://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
+        else:
+            return f"postgresql+psycopg2://{self.POSTGRES_TEST_USER}:{self.POSTGRES_TEST_PASSWORD}@{self.POSTGRES_TEST_HOST}:{self.POSTGRES_TEST_PORT}/{self.POSTGRES_TEST_DB}"
+
+    @property
+    def TEST_SERVER_DATABASE_URL(self):
+        return f"postgresql+psycopg2://{self.POSTGRES_TEST_USER}:{self.POSTGRES_TEST_PASSWORD}@{self.POSTGRES_TEST_HOST}:{self.POSTGRES_TEST_PORT}/"
 
     # Pydantic model configuration to load from the .env file
     env_file_path: ClassVar[Path] = Path(__file__).parent.parent.parent / ".env"

@@ -3,6 +3,7 @@ import os
 import shutil
 from pathlib import Path
 from typing import Optional
+from fastapi import status
 
 from core.database import DbSession
 from core.exceptions import AppException
@@ -23,7 +24,7 @@ MAX_FILE_SIZE = 20 * 1024 * 1024
 ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png"}
 
 
-@router.get("/", response_model=list[DoctorRead])
+@router.get("/", response_model=list[DoctorRead], status_code=status.HTTP_200_OK)
 @limiter.limit("50/minute")
 def get_doctors(
     request: Request,
