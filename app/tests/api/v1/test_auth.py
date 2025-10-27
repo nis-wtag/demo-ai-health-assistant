@@ -62,20 +62,6 @@ def test_register_existing_user_fails(client: TestClient, db_session: Session):
     assert "error" in data
     assert data["error"] == "Email already registered"
 
-
-@pytest.fixture
-def test_user(db_session: Session):
-    user = User(
-        email="test_user@example.com",
-        hashed_password=get_password_hash("password123"),
-        full_name="Test User",
-    )
-    db_session.add(user)
-    db_session.flush()
-    db_session.refresh(user)
-    return user
-
-
 def test_login_successfully(client: TestClient, test_user: User):
     LOGIN_API_URL = "/api/v1/auth/login"
 

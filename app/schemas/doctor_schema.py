@@ -10,7 +10,7 @@ from schemas.chamber_schema import ChamberUpdate, DoctorChamberRead
 class DoctorBase(BaseModel):
     full_name: str
     image: Optional[str] = None
-    degrees: List[str] = Field(default_factory=list)
+    degrees: Optional[List[str]] = []
     specialization: Optional[str] = None
     designation: Optional[str] = None
     affiliated_hospital: Optional[str] = None
@@ -19,29 +19,29 @@ class DoctorBase(BaseModel):
 
 
 class DoctorCreate(DoctorBase):
-    chambers: List[DoctorChamberRead] = Field(default_factory=list)
+    chambers: Optional[List[DoctorChamberRead]] = []
 
 
 class DoctorUpdate(BaseModel):
     image: Optional[str] = None
     full_name: Optional[str]
-    degrees: Optional[List[str]] = Field(default_factory=list)
+    degrees: Optional[List[str]] = []
     specialization: Optional[str] = None
     designation: Optional[str] = None
     affiliated_hospital: Optional[str] = None
-    chambers: Optional[List[ChamberUpdate]] = Field(default_factory=list)
+    chambers: Optional[List[ChamberUpdate]] = []
 
 
 class DoctorRead(DoctorBase):
     id: int
-    chambers: List[DoctorChamberRead] = Field(default_factory=list)
+    chambers: List[DoctorChamberRead] = []
 
     model_config = ConfigDict(from_attributes=True)
 
 
 class DoctorSearch(BaseModel):
     full_name: Optional[str] = None
-    degrees: Optional[List[str]] = None
+    degrees: Optional[List[str]] = []
     specialization: Optional[str] = None
     designation: Optional[str] = None
     affiliated_hospital: Optional[str] = None

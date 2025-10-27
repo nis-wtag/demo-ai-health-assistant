@@ -3,9 +3,12 @@ from alembic.command import upgrade
 from alembic.config import Config
 from core.config import settings
 from core.database import Base, get_db
+from fastapi import status
 from fastapi.testclient import TestClient
 from main import app
 from middleware import logger
+from models.user import User
+from services.auth_service import get_password_hash
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
 from sqlalchemy_utils import create_database, database_exists, drop_database
@@ -80,3 +83,41 @@ def client(db_session: Session):
         yield test_client
 
     del app.dependency_overrides[get_db]
+
+
+@pytest.fixture(scope="function")
+def test_user(db_session: Session):
+    user = User(
+        email="test_user@example.com",
+        hashed_password=get_password_hash("password123"),
+        full_name="Test User",
+    )
+    db_session.add(user)
+    db_session.flush()
+    db_session.refresh(user)
+    return user
+
+
+@pytest.fixture(scope="function")
+def authenticated_user(client: TestClient, test_user: User):
+    LOGIN_API_URL = "/api/v1/auth/login"
+
+    login_data = {"email": "test_user@example.com", "password": "password123"}
+
+    login_response = client.post(LOGIN_API_URL, json=login_data)
+
+    assert login_response.status_code == status.HTTP_200_OK
+    cookies = login_response.cookies
+    assert "access_token" in cookies
+    assert "refresh_token" in cookies
+
+    access_token = cookies.get("access_token")
+    refresh_token = cookies.get("refresh_token")
+
+    client.cookies["access_token"] = access_token
+    client.cookies["refresh_token"] = refresh_token
+
+    yield client
+
+    del client.cookies["access_token"]
+    del client.cookies["refresh_token"]

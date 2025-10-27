@@ -2,7 +2,7 @@ from datetime import time
 from typing import List, Optional
 
 from models.doctor_chamber import DAY
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
 
 
 class VisitingHour(BaseModel):
@@ -39,4 +39,4 @@ class ChamberUpdate(BaseModel):
 
 class DoctorChamberRead(ChamberBase):
     contact_number: Optional[str] = None
-    visiting_hours: Optional[List[VisitingHour]] = None
+    visiting_hours: Optional[List[VisitingHour]] = []

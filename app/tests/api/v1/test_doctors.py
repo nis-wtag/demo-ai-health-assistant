@@ -8,7 +8,7 @@ from sqlalchemy.orm import Session
 
 
 @pytest.fixture(scope="function")
-def seeded_doctor(db_session: Session):
+def seeded_doctors(db_session: Session):
     # Create Chambers
     chamber1 = Chamber(
         chamber_name="Popular Diagnostic, Dhanmondi",
@@ -36,19 +36,19 @@ def seeded_doctor(db_session: Session):
     db_session.flush()
 
     link1 = DoctorChamber(
-        doctor_id=doctor1.id, chamber_id=chamber1.id, contract_number="12345"
+        doctor_id=doctor1.id, chamber_id=chamber1.id, contact_number="12345"
     )
     db_session.add(link1)
     db_session.flush()
 
     link2 = DoctorChamber(
-        doctor_id=doctor2.id, chamber_id=chamber1.id, contract_number="67890"
+        doctor_id=doctor2.id, chamber_id=chamber1.id, contact_number="67890"
     )
     db_session.add(link2)
     db_session.flush()
 
     link3 = DoctorChamber(
-        doctor_id=doctor2.id, chamber_id=chamber2.id, contract_number="13579"
+        doctor_id=doctor2.id, chamber_id=chamber2.id, contact_number="13579"
     )
     db_session.add(link3)
     db_session.flush()
@@ -62,6 +62,7 @@ def seeded_doctor(db_session: Session):
         day=DAY.WEDNESDAY,
     )
     db_session.add_all([vh1, vh2])
+    db_session.flush()
 
     vh3 = DoctorChamberVisitingHour(
         doctor_chamber_id=link2.id,
@@ -72,7 +73,17 @@ def seeded_doctor(db_session: Session):
         day=DAY.TUESDAY,
     )
     db_session.add_all([vh3, vh4])
+    db_session.flush()
 
     return [doctor1, doctor2]
 
 
+def test_doctor_by_specialty(client: TestClient, seeded_doctors, authenticated_user):
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+
+    response = client.post(DOCTOR_SEARCH_API_URL, json={"specialization": "Cardiology"})
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert data[0]["full_name"] == "Dr. Alice Smith"
+    assert data[0]["specialization"] == "Cardiology"

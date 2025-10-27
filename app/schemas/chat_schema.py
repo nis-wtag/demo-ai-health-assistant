@@ -1,9 +1,8 @@
 from typing import Optional
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from schemas.doctor_schema import DoctorRead
-
 
 
 class ChatQuery(BaseModel):
@@ -13,4 +12,4 @@ class ChatQuery(BaseModel):
 class ChatResponse(BaseModel):
     disclaimer: str
     remedy: str
-    recommended_doctors: Optional[list[DoctorRead]]
+    recommended_doctors: Optional[list[DoctorRead]] = []

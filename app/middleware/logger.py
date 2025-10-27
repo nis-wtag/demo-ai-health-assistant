@@ -25,16 +25,22 @@ class LoggingMiddleware(BaseHTTPMiddleware):
         url = str(request.url)
 
         logger.info(f"Incoming request: {method} {url} from {client_ip}")
+        response = None
 
         try:
             response = await call_next(request)
+            status_code = response.status_code
         except Exception as e:
             logger.error(f"Error processing request: {e}", exc_info=True)
             raise
         finally:
             process_time = time.time() - start_time
+            log_status = status_code if response is not None else 500
             logger.info(
-                f"Completed {method} {url} from {client_ip} in {process_time:.3f}s, status: {response.status_code}"
+                f"Completed {method} {url} from {client_ip} in {process_time:.3f}s, status: {log_status}"
             )
+
+        if response is None:
+            return Response(content="Internal Server Error", status_code=500)
 
         return response
