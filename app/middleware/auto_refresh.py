@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 
 from core.config import settings
 from core.database import SessionLocal
-from core.exceptions import InternalServerError, UnauthorizedException
+from core.exceptions import UnauthorizedException
 from fastapi import Request
 from models import Session as SessionModel
 from repositories.user_repository import user_repository
