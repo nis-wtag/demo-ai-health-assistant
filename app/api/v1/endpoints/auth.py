@@ -60,36 +60,3 @@ def logout(
     response.delete_cookie("access_token")
     response.delete_cookie("refresh_token")
     return {"detail": "Logged out successfully"}
-
-
-# @router.post("/refresh")
-# @limiter.limit("30/10minute")
-# def refresh(
-#     request: Request,
-#     response: Response,
-#     db: DbSession,
-#     refresh_token: str = Cookie(None),
-# ):
-#     tokens = auth_service.refresh(db, refresh_token=refresh_token)
-
-#     # Update access token cookie
-#     response.set_cookie(
-#         "access_token",
-#         tokens["access_token"],
-#         httponly=settings.COOKIE_HTTPONLY,
-#         secure=settings.COOKIE_SECURE,
-#         samesite=settings.COOKIE_SAMESITE,
-#         max_age=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES * 60,
-#     )
-
-#     # Update refresh token cookie
-#     response.set_cookie(
-#         "refresh_token",
-#         tokens["refresh_token"],
-#         httponly=settings.COOKIE_HTTPONLY,
-#         secure=settings.COOKIE_SECURE,
-#         samesite=settings.COOKIE_SAMESITE,
-#         max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS * 24 * 60 * 60,
-#     )
-
-#     return {"detail": "Tokens refreshed successfully"}
