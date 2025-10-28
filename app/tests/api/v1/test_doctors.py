@@ -8,6 +8,24 @@ from sqlalchemy.orm import Session
 
 
 @pytest.fixture(scope="function")
+def test_doctor(db_session: Session):
+    doctor = Doctor(
+        full_name="Dr. Alice Smith",
+        specialization="Cardiology",
+        designation="Professor",
+    )
+
+    db_session.add(doctor)
+    db_session.commit()
+    db_session.refresh(doctor)
+
+    yield doctor
+
+    db_session.delete(doctor)
+    db_session.commit()
+
+
+@pytest.fixture(scope="function")
 def seeded_doctors(db_session: Session):
     # Create Chambers
     chamber1 = Chamber(
@@ -168,3 +186,20 @@ def test_doctor_by_designation(client: TestClient, seeded_doctors, authenticated
     assert len(data) == 1
     assert data[0]["full_name"] == "Dr. Alice Smith"
 
+
+def test_get_doctor_details_success(
+    client: TestClient, authenticated_user, test_doctor
+):
+    response = client.get(f"/api/v1/doctors/{test_doctor.id}")
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert data["id"] == test_doctor.id
+    assert data["full_name"] == test_doctor.full_name
+
+def test_get_doctor_details_not_found(
+    client: TestClient, authenticated_user
+):
+    response = client.get("/api/v1/doctors/999")
+
+    assert response.status_code == status.HTTP_404_NOT_FOUND

@@ -1,6 +1,6 @@
 from typing import Optional
 
-from core.exceptions import AppException
+from core.exceptions import AppException, NotFoundException
 from models.chamber import Chamber
 from models.doctor import Doctor
 from models.doctor_chamber import DoctorChamber, DoctorChamberVisitingHour
@@ -21,7 +21,7 @@ def get_doctors(db: Session, offset: int, limit: int):
 def get_doctor_by_id(db: Session, doctor_id: int):
     doctor = doctor_repository.get_details(db, id=doctor_id)
     if not doctor:
-        raise AppException(detail="Doctor not found")
+        raise NotFoundException(detail="Doctor not found")
     return doctor
 
 
