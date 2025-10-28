@@ -1,8 +1,7 @@
 import enum
 
-from sqlalchemy import Column, DateTime, Enum, Integer, String, func
-
 from core.database import Base
+from sqlalchemy import Column, DateTime, Enum, Integer, String, func
 
 
 class UserRole(enum.Enum):
@@ -24,4 +23,4 @@ class User(Base):
     updated_at = Column(DateTime(timezone=True), onupdate=func.now(), nullable=True)
 
     def __repr__(self):
-        return f"<User(email='{self.email}', first_name='{self.first_name}', last_name='{self.last_name}', role='{self.role}')>"
+        return f"<User(email='{self.email}', full_name='{self.full_name}', role='{self.role}')>"

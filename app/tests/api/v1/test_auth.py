@@ -1,4 +1,3 @@
-import pytest
 from fastapi import status
 from fastapi.testclient import TestClient
 from models.user import User, UserRole
@@ -61,6 +60,7 @@ def test_register_existing_user_fails(client: TestClient, db_session: Session):
     assert not data["success"]
     assert "error" in data
     assert data["error"] == "Email already registered"
+
 
 def test_login_successfully(client: TestClient, test_user: User):
     LOGIN_API_URL = "/api/v1/auth/login"

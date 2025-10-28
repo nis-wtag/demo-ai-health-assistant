@@ -3,12 +3,11 @@ import os
 import shutil
 from pathlib import Path
 from typing import Optional
-from fastapi import status
 
 from core.database import DbSession
 from core.exceptions import AppException
 from core.limiter import limiter
-from fastapi import APIRouter, Depends, File, Form, Query, Request, UploadFile
+from fastapi import APIRouter, Depends, File, Form, Query, Request, UploadFile, status
 from models.user import User, UserRole
 from schemas.doctor_schema import DoctorBase, DoctorRead, DoctorSearch, DoctorUpdate
 from services import doctor_service

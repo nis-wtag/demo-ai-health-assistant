@@ -87,3 +87,84 @@ def test_doctor_by_specialty(client: TestClient, seeded_doctors, authenticated_u
     data = response.json()
     assert data[0]["full_name"] == "Dr. Alice Smith"
     assert data[0]["specialization"] == "Cardiology"
+
+
+def test_doctor_by_visiting_day(client: TestClient, seeded_doctors, authenticated_user):
+    """
+    Test: Search by visiting day should return doctors available on that day.
+    Dr. Bob Johnson is available on FRIDAY.
+    """
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+    response = client.post(DOCTOR_SEARCH_API_URL, json={"visiting_day": "Friday"})
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert len(data) == 1
+    assert data[0]["full_name"] == "Dr. Bob Johnson"
+
+
+def test_doctor_by_specialty_and_day(
+    client: TestClient, seeded_doctors, authenticated_user
+):
+    """
+    Test: Search by a combination of criteria.
+    Cardiology + MONDAY should return Dr. Alice Smith.
+    """
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+    response = client.post(
+        DOCTOR_SEARCH_API_URL,
+        json={"specialization": "Cardiology", "visiting_day": "Monday"},
+    )
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert len(data) == 1
+    assert data[0]["full_name"] == "Dr. Alice Smith"
+
+
+def test_doctor_search_no_results(
+    client: TestClient, seeded_doctors, authenticated_user
+):
+    """
+    Test: Search with criteria that match no doctors should return an empty list.
+    Cardiology + FRIDAY should yield no results.
+    """
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+    response = client.post(
+        DOCTOR_SEARCH_API_URL,
+        json={"specialization": "Cardiology", "visiting_day": "Friday"},
+    )
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert len(data) == 0
+
+
+def test_doctor_search_empty_body(
+    client: TestClient, seeded_doctors, authenticated_user
+):
+    """
+    Test: An empty search body should return all doctors (respecting the default limit).
+    Our fixture has 2 doctors, the endpoint limit is 5.
+    """
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+    response = client.post(DOCTOR_SEARCH_API_URL, json={})  # Empty JSON
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert len(data) == 2
+
+
+def test_doctor_by_designation(client: TestClient, seeded_doctors, authenticated_user):
+    """
+    Test: Search by designation.
+    "Professor" should return Dr. Alice Smith.
+    """
+    DOCTOR_SEARCH_API_URL = "/api/v1/doctors/search"
+    response = client.post(DOCTOR_SEARCH_API_URL, json={"designation": "Professor"})
+
+    assert response.status_code == status.HTTP_200_OK
+    data = response.json()
+    assert len(data) == 1
+    assert data[0]["full_name"] == "Dr. Alice Smith"
+

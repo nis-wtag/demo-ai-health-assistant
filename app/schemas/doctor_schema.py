@@ -2,7 +2,7 @@ from datetime import time
 from typing import List, Optional
 
 from models.doctor_chamber import DAY
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict
 
 from schemas.chamber_schema import ChamberUpdate, DoctorChamberRead
 

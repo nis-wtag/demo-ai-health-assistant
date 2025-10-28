@@ -449,10 +449,12 @@
         const addChamberForm = document.getElementById("add-chamber-form");
 
         // Open modal on button click
-        addChamberBtn.addEventListener("click", () => {
-            chamberModal.classList.remove("hidden");
-            chamberModal.classList.add("flex");
-        });
+        if (addChamberBtn) {
+            addChamberBtn.addEventListener("click", () => {
+                chamberModal.classList.remove("hidden");
+                chamberModal.classList.add("flex");
+            });
+        }
 
         // Close modal
         cancelChamberBtn.addEventListener("click", () => {
@@ -865,9 +867,11 @@
         const doctorChamberResults = document.getElementById('doctor-chamber-results');
         const selectedChambersDiv = document.getElementById('selected-chambers');
 
-        addDoctorBtn.addEventListener('click', () => {
-            addDoctorModal.classList.remove('hidden');
-        });
+        if (addDoctorBtn) {
+            addDoctorBtn.addEventListener('click', () => {
+                addDoctorModal.classList.remove('hidden');
+            });
+        }
 
 
         let selectedChambers = [];
