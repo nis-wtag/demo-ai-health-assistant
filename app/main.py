@@ -4,6 +4,7 @@ from core.exceptions import AppException, app_exception_handler
 from core.limiter import limiter, rate_limit_exceeded_handler
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
+from middleware.auto_refresh import AutoRefreshMiddleware
 from middleware.logger import LoggingMiddleware, logger
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
@@ -13,6 +14,8 @@ app = FastAPI(title="AI Health Assistant", version="0.1.0")
 
 app.add_middleware(LoggingMiddleware)
 app.add_exception_handler(AppException, app_exception_handler)
+
+app.add_middleware(AutoRefreshMiddleware)
 
 if settings.APP_ENV != "test":
     logger.info("Rate limiting middleware enabled.")

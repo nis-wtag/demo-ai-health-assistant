@@ -121,4 +121,4 @@ def refresh(db: Session, refresh_token: str):
         refresh_expires_at=new_refresh_token_exp,
     )
 
-    return {"access_token": new_access_token, "refresh_token": new_refresh_token}
+    return new_access_token, new_refresh_token
