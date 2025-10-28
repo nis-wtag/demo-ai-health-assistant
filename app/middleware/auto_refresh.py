@@ -2,6 +2,7 @@ from datetime import datetime, timezone
 
 from core.config import settings
 from core.database import SessionLocal
+from core.exceptions import InternalServerError, UnauthorizedException
 from fastapi import Request
 from models import Session as SessionModel
 from repositories.user_repository import user_repository
@@ -10,6 +11,8 @@ from services.auth_service import refresh
 from sqlalchemy.orm import Session
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.types import ASGIApp
+
+from middleware.logger import logger
 
 
 class AutoRefreshMiddleware(BaseHTTPMiddleware):
@@ -20,55 +23,81 @@ class AutoRefreshMiddleware(BaseHTTPMiddleware):
         db: Session = SessionLocal()
         try:
             access_token = request.cookies.get("access_token")
-
-            if access_token:
-                session: SessionModel = session_service.get_by_access_token(
-                    db, access_token
-                )
-                if session and session.access_expires_at > datetime.now(timezone.utc):
-                    current_user = user_repository.get_by_id(session.user_id)
-
-                    if current_user:
-                        request.state.user = current_user
-                        response = await call_next(request)
-                        return response
-
             refresh_token = request.cookies.get("refresh_token")
 
+            if access_token:
+                try:
+                    session: SessionModel = session_service.get_by_access_token(
+                        db, access_token
+                    )
+                    if session and session.access_expires_at > datetime.now(
+                        timezone.utc
+                    ):
+                        current_user = user_repository.get_by_id(db, session.user_id)
+                        if current_user:
+                            request.state.user = current_user
+                            response = await call_next(request)
+                            return response
+                except Exception as e:
+                    logger.error(f"Error validating access token: {e}", exc_info=True)
+
             if refresh_token:
-                session: Session = session_service.get_by_refresh_token(
-                    db, refresh_token
-                )
-                if session and session.refresh_expires_at > datetime.now(timezone.utc):
-                    current_user = user_repository.get_by_id(db, session.user_id)
+                try:
+                    session: SessionModel = session_service.get_by_refresh_token(
+                        db, refresh_token
+                    )
+                    if session and session.refresh_expires_at > datetime.now(
+                        timezone.utc
+                    ):
+                        current_user = user_repository.get_by_id(db, session.user_id)
+                        if current_user:
+                            request.state.user = current_user
+                            response = await call_next(request)
 
-                    if current_user:
-                        request.state.user = current_user
-                        response = await call_next(request)
-                        new_access_token, new_refresh_token = refresh(db, refresh_token)
-                        response.set_cookie(
-                            "access_token",
-                            new_access_token,
-                            httponly=settings.COOKIE_HTTPONLY,
-                            secure=settings.COOKIE_SECURE,
-                            samesite=settings.COOKIE_SAMESITE,
-                            max_age=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES * 60,
-                        )
+                            # Attempt silent refresh
+                            try:
+                                new_access_token, new_refresh_token = refresh(
+                                    db, refresh_token
+                                )
 
-                        response.set_cookie(
-                            "refresh_token",
-                            new_refresh_token,
-                            httponly=settings.COOKIE_HTTPONLY,
-                            secure=settings.COOKIE_SECURE,
-                            samesite=settings.COOKIE_SAMESITE,
-                            max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
-                            * 24
-                            * 60
-                            * 60,
-                        )
-                        return response
+                                # Update cookies
+                                response.set_cookie(
+                                    "access_token",
+                                    new_access_token,
+                                    httponly=settings.COOKIE_HTTPONLY,
+                                    secure=settings.COOKIE_SECURE,
+                                    samesite=settings.COOKIE_SAMESITE,
+                                    max_age=settings.JWT_ACCESS_TOKEN_EXPIRE_MINUTES
+                                    * 60,
+                                )
+                                response.set_cookie(
+                                    "refresh_token",
+                                    new_refresh_token,
+                                    httponly=settings.COOKIE_HTTPONLY,
+                                    secure=settings.COOKIE_SECURE,
+                                    samesite=settings.COOKIE_SAMESITE,
+                                    max_age=settings.JWT_REFRESH_TOKEN_EXPIRE_DAYS
+                                    * 24
+                                    * 60
+                                    * 60,
+                                )
+                            except Exception as e:
+                                logger.error(
+                                    f"Error refreshing tokens: {e}", exc_info=True
+                                )
+                                raise UnauthorizedException
+
+                            return response
+                except Exception as e:
+                    logger.error(f"Error validating refresh token: {e}", exc_info=True)
 
             request.state.user = None
             return await call_next(request)
+
+        except Exception as e:
+            logger.exception(f"Middleware exception: {e}")
+            request.state.user = None
+            return await call_next(request)
+
         finally:
             db.close()

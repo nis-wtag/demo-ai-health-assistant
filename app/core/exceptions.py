@@ -50,6 +50,11 @@ class SessionInvalidException(AppException):
         super().__init__(detail, status_code=status.HTTP_401_UNAUTHORIZED)
 
 
+class InternalServerError(AppException):
+    def __init__(self, detail: str = "Internal Server Error"):
+        super().__init__(detail, status_code=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
 async def app_exception_handler(request: Request, exc: AppException):
     return JSONResponse(
         status_code=exc.status_code,
