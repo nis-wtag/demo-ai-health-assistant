@@ -1,0 +1,22 @@
+{
+    "chambers": [
+        {
+            "place": "Sicilia Homeo Clinic",
+            "address": {
+                "name": "198, Malibagh Bazar Road, Malibagh, Dhaka",
+                "longitude": 90.414425,
+                "latitude": 23.747315
+            },
+            "contact": "+8801911500847",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BHMS (DU)"
+    ],
+    "designation": "Vice Principle",
+    "name": "Dr. ABM Bazlul Hasan",
+    "speciality": "Homeopathic Doctor & Consultant",
+    "workplace": "Government Homeopathic Medical College & Hospital",
+    "image": "image/dr-abm-bazlul-hasan.jpg"
+}

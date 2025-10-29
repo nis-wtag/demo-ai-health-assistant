@@ -1,0 +1,38 @@
+{
+    "chambers": [
+        {
+            "place": "Unity Aid Hospital Limited",
+            "address": {
+                "name": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801997421112",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)"
+    ],
+    "designation": "Oral & Dental Surgeon",
+    "name": "Dr. Md. Rezwanur Rahman",
+    "speciality": "Dental Surgeon",
+    "workplace": "City Dental College & Hospital",
+    "image": "image/dr-md-rezwanur-rahman.jpg"
+}

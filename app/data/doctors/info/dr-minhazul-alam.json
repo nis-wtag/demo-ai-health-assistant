@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Lab Diagnostic & Consultation Center",
+            "address": {
+                "name": "46, Babu Khan Road, West Side of Pioneer College, Khulna",
+                "longitude": 40.25918,
+                "latitude": 40.94055
+            },
+            "contact": "+8801973127423",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "PGT (Medicine)",
+        "CMU (RMC)",
+        "D-CARD (BSMMU)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Minhazul Alam",
+    "speciality": "Medicine & Heart Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-minhazul-alam.jpg"
+}

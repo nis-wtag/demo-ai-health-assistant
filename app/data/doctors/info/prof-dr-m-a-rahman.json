@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4180668,
+                "latitude": 23.7285093
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSC",
+        "DIH",
+        "DD (Japan, Thailand)"
+    ],
+    "designation": "Former Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. M. A. Rahman",
+    "speciality": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
+    "workplace": "MH Samorita Hospital & Medical College",
+    "image": "image/prof-dr-m-a-rahman.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Hypertension & Research Center, Rangpur",
+            "address": {
+                "name": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801832222719",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hematology)"
+    ],
+    "designation": "Assistant Professor, Hematology",
+    "name": "Dr. Md. Najmul Karim",
+    "speciality": "Hematology (Blood Disorders, Blood Cancer, Thalassemia) Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-najmul-karim.jpg"
+}

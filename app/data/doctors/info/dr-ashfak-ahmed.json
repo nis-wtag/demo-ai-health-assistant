@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Neurology)"
+    ],
+    "designation": "Consultant, Neurology Department",
+    "name": "Dr. Ashfak Ahmed",
+    "speciality": "Neuromedicine (Brain, Nerve, Spine, Headache, Migraine) Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-ashfak-ahmed.jpg"
+}

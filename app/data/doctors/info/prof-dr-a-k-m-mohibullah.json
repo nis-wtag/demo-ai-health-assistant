@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "167/2/B, Faqirapool Culvert Road, Motijheel, Dhaka - 1000",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801758940773",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)",
+        "FRCP (Edin.)",
+        "FESC",
+        "FACC (USA)",
+        "FJCS (Japan)"
+    ],
+    "designation": "Former Director & Professor of Cardiology",
+    "name": "Prof. Dr. A K M Mohibullah",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever, Heart Failure) Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital, BIRDEM",
+    "image": "image/prof-dr-a-k-m-mohibullah.jpg"
+}

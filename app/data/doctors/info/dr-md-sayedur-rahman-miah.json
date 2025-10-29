@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Comilla",
+            "address": {
+                "name": "Laksam Road, Cumilla",
+                "longitude": 91.1740901,
+                "latitude": 23.441231
+            },
+            "contact": "+8801744232288",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DNM",
+        "MICNP",
+        "PhD"
+    ],
+    "designation": "Former Director, Nuclear Medicine",
+    "name": "Dr. Md. Sayedur Rahman Miah",
+    "speciality": "Nuclear Medicine, Ultrasound, Color Doppler, Thyroid Specialist",
+    "workplace": "National Institute of Nuclear Medicine & Allied Sciences",
+    "image": "image/dr-md-sayedur-rahman-miah.jpg"
+}

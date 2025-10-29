@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801758676179",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "MCPS (EYE)",
+        "MS (EYE)",
+        "Fellow Vitreo Retina (India)"
+    ],
+    "designation": "Director, Ophthalmology",
+    "name": "Prof. Dr. Saifuddin Ahmed Pintu",
+    "speciality": "Phaco & Vitreo-Retina Specialist Surgeon",
+    "workplace": "Sheikh Fazilatunnessa Mujib Eye Hospital & Training Institute",
+    "image": "image/prof-dr-saifuddin-ahmed-pintu.jpg"
+}

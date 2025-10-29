@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Momtaj Trauma Center",
+            "address": {
+                "name": "56, Block-A (2nd Floor), Road-03, Dhaka Real Estate Kaderabad Housing, Mohammadpur, Dhaka",
+                "longitude": 85.1670195,
+                "latitude": 26.6741967
+            },
+            "contact": "+8801332547750",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-Ortho (DU)",
+        "A.O. (Trauma)"
+    ],
+    "designation": "Professor & Head of the Dept. (Orthopedic Department)",
+    "name": "Prof. Dr. Md. Johurul Hoque",
+    "speciality": "Orthopedics (Pain, Joint, Arthritis & Fracture) Specialist & Surgeon",
+    "workplace": "Zainul Haque Sikder Women's Medical College & Hospital",
+    "image": "image/prof-dr-md-johurul-hoque.jpg"
+}

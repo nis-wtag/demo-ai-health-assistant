@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "CD Path & Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
+                "longitude": 76.511062,
+                "latitude": 10.082321
+            },
+            "contact": "+8801321180930",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Medical Officer, Neuromedicine",
+    "name": "Dr. Humayun Kabir Sarker",
+    "speciality": "Neurology (Brain, Stroke, Nerve, Migraine, Headache) & Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-humayun-kabir-sarkar.jpg"
+}

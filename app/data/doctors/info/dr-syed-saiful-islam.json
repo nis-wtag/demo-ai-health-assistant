@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801742520887",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MS (ORTHO)"
+    ],
+    "designation": "Associate Professor & Head, Orthopedics & Traumatology",
+    "name": "Dr. Syed Saiful Islam",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+    "workplace": "BGC Trust Medical College, Chittagong",
+    "image": "image/dr-syed-saiful-islam.jpg"
+}

@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Home Chamber",
+            "address": {
+                "name": "Shalbagan, Professor Para, Rajshahi",
+                "longitude": 87.354386,
+                "latitude": 22.859714
+            },
+            "contact": "+8801798786759",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (CHILD)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Shamima Naznin",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-shamima-naznin.jpg"
+}

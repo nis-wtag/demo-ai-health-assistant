@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Cosmodent Dental Care",
+            "address": {
+                "name": "21/1, Zigatola Bus Stand, Dhanmondi, Dhaka",
+                "longitude": 90.3826782,
+                "latitude": 23.7417488
+            },
+            "contact": "+8801611957515",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Dhaka)",
+        "MPH (BSMMU)",
+        "MPhil (BSMMU)",
+        "BCS (Health)",
+        "TCTP (Sri Lanka)",
+        "Advanced Training on Dental Implantology (USA)",
+        "Advanced Training on Orthodontics (Sri Lanka)"
+    ],
+    "designation": "Associate Professor and In Charge, Dentistry",
+    "name": "Dr. Md. Haider Ali Khan",
+    "speciality": "Orthodontic, Dental Implant & General Dentistry Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-haider-ali-khan.jpg"
+}

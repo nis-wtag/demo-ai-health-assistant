@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (NITOR)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Senior Consultant, Orthopedics",
+    "name": "Syed Shahidul Islam",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist Surgeon",
+    "workplace": "Labaid Cancer Hospital & Super Speciality Center",
+    "image": "image/prof-dr-syed-shahidul-islam-shahid.jpg"
+}

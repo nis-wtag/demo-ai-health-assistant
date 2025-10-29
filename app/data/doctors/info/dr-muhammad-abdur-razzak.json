@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room 509, Building 6, Road # 2, Dhanmondi R/A, Dhaka",
+                "longitude": 90.224784,
+                "latitude": 23.838511
+            },
+            "contact": "+8801604707090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Savar",
+            "address": {
+                "name": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801793666000",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (AFMC)",
+        "MD (Nephrology)",
+        "FASN (USA)",
+        "Clinical Fellow, Nephrology (July,2022-June,2024), University of Toronto, Canada and its affiliated Hospitals (Sunnybrook Health Sciences Center, St. Michael Hospital & Toronto General Hospital)"
+    ],
+    "designation": "Assistant Professor of Nephrology",
+    "name": "Dr. Muhammad Abdur Razzak",
+    "speciality": "Kidney Medicine Specialist & Transplant Nephrologist",
+    "workplace": "Ministry of Health and Family Welfare (MoHFW)",
+    "image": "image/dr-muhammad-abdur-razzak.jpg"
+}

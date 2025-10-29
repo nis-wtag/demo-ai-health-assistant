@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801814633248",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "DDV (BSMMU)",
+        "MACP (USA)",
+        "EADV (Switzerland)",
+        "ESPD-Pediatric Dermatology",
+        "Diploma in Andrology-UK",
+        "Fellowship Dermatolosurgery & Sexual Medicine",
+        "Higher Training In Internal Medicine"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Md Kutub Uddin Iback",
+    "speciality": "Skin, Sex, Allergy, Medicine & Diabetes Specialist and Cosmetic Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-kutub-uddin-iback.jpg"
+}

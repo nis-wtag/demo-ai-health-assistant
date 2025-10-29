@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Green Diagnostic & Consultant Center, Rajshahi",
+            "address": {
+                "name": "Laxmipur, Rajshahi",
+                "longitude": 86.35789,
+                "latitude": 26.1584251
+            },
+            "contact": "+8801766-655966",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Md. Shahjahan Ali Tito",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shahjahan-ali-tito.jpg"
+}

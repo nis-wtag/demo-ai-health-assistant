@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Metropolitan Hospital",
+            "address": {
+                "name": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
+                "longitude": -73.98162,
+                "latitude": 40.7251418
+            },
+            "contact": "+8801818634975",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Md. Zahidus Sayeed",
+    "speciality": "Cardiology, Rheumatic Fever & Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-jahidus-sayeed.jpg"
+}

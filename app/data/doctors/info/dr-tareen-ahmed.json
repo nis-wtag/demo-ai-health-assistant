@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DEM"
+    ],
+    "designation": "Diabetes & Hormone Specialist",
+    "name": "Dr. Tareen Ahmed",
+    "speciality": "Endocrinologist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-tareen-ahmed.jpg"
+}

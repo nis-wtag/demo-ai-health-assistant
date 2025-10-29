@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801715622916",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (PSYCHIATRY)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Arman Ibne Haq",
+    "speciality": "Psychiatry (Mental Diseases, Brain Disorder, Addiction) Specialist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/dr-arman-ibne-haq.jpg"
+}

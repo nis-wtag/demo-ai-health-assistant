@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Aurora Specialized Hospital",
+            "address": {
+                "name": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
+                "longitude": -0.199431,
+                "latitude": 51.801243
+            },
+            "contact": "+8801404450401",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "AO Trauma (BASIC)",
+        "D-ORTHO (NITOR)",
+        "FACS (USA)",
+        "FICS (USA)"
+    ],
+    "designation": "Senior Consultant, Orthopedic Surgery",
+    "name": "Dr. Md. Zahirul Islam",
+    "speciality": "Orthopedic, Trauma, Spine, Arthroplasty & Arthroscopy Specialist Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-md-zahirul-islam.jpg"
+}

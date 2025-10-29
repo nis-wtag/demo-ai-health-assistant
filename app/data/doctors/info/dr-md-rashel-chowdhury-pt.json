@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Olive’s Physiotherapy Center, Uttara",
+            "address": "23, Sonargoan Janpath Road, Sector # 12, Uttara, Dhaka - 1230",
+            "contact": "+8801650195727",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "Bachelor of Science in Physiotherapy"
+    ],
+    "designation": "Clinical Physiotherapist, Physiotherapy and Rehabilitation",
+    "name": "Dr. Md. Rashel Chowdhury",
+    "speciality": "Physiotherapy (Pain, Arthritis & Paralysis) Specialist",
+    "workplace": "Olives Physiotherapy Center, Uttara",
+    "image": "image/dr-md-rashel-chowdhury-pt.jpg"
+}

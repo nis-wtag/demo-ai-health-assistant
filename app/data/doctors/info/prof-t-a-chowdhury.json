@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Farida Clinic, Dhaka",
+            "address": {
+                "name": "163/4, Shanti Nagar Road, Opposite Eastern Sellers Market, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+880248321960",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRCS",
+        "FRCOG",
+        "FRCP",
+        "FCPS (PK)",
+        "FCPS (BD)"
+    ],
+    "designation": "Senior Consultant, Gynecology & Obstetrics",
+    "name": "Prof. Dr. T. A. Chowdhury",
+    "speciality": "Gynecology & Infertility Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-t-a-chowdhury.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (CVTS)"
+    ],
+    "designation": "Assistant Professor, Cardiovascular & Thoracic Surgery",
+    "name": "Dr. A.M. Ziaul Haque Masum",
+    "speciality": "Cardiovascular & Thoracic Specialist Surgeon",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-a-m-ziaul-haque-masum.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Barisal",
+            "address": {
+                "name": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801711240969",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH (BSMMU)",
+        "PGPN (BOSTON, USA)"
+    ],
+    "designation": "Former Assistant Professor, Pediatrics",
+    "name": "Dr. Md. Ali Hasan",
+    "speciality": "Child Diseases & Nutrition Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-md-ali-hasan.jpg"
+}

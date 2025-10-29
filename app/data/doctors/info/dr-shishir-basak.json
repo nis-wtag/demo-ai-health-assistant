@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801726450182",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS (Medicine)",
+        "D-CARD (DU)",
+        "MD (Cardiology)",
+        "MRCP (UK)"
+    ],
+    "designation": "Professor of Medicine",
+    "name": "Prof. Dr. Shishir Basak",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Parkview Medical College & Hospital, Sylhet",
+    "image": "image/dr-shishir-basak.jpg"
+}

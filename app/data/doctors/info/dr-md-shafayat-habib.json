@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Life Line Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "191, South Side of Education Board, Laxmipur, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801738139328",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "M.Phil, (Radiotherapy) (BSMMU)"
+    ],
+    "designation": "Consultant, Oncology",
+    "name": "Dr. Md. Shafayat Habib",
+    "speciality": "Cancer Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shafayat-habib.jpg"
+}

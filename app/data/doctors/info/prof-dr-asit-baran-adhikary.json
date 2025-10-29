@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Impulse Hospital, Dhaka",
+            "address": {
+                "name": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
+                "longitude": 90.38971,
+                "latitude": 23.76296
+            },
+            "contact": "+8801313434425",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (CVTS)",
+        "PhD",
+        "DSc (CTS)",
+        "FICS",
+        "FIACS",
+        "FRCS (EDIN)",
+        "FRCS (ENG)"
+    ],
+    "designation": "Former Professor & Chairman, Cardiac Surgery",
+    "name": "Prof. Dr. Asit Baran Adhikary",
+    "speciality": "Cardiac (Heart), Vascular & Thoracic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-asit-baran-adhikary.jpg"
+}

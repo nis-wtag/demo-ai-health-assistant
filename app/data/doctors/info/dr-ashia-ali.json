@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": "10666",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "Diploma (Anesthesia)",
+        "FCPS (Anesthesia)",
+        "FIPM (India)"
+    ],
+    "designation": "Consultant, Anesthesiology",
+    "name": "Dr. Ashia Ali",
+    "speciality": "Anesthesiology & Pain Management Specialist",
+    "workplace": "United Hospital Ltd, Dhaka",
+    "image": "image/dr-ashia-ali.jpg"
+}

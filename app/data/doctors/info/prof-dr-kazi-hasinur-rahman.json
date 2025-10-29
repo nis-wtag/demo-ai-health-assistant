@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10678",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS (Prosthodontics)"
+    ],
+    "designation": "Senior Consultant, Dental & Maxillofacial Surgery",
+    "name": "Prof. Dr. Kazi Hasinur Rahman",
+    "speciality": "Oral, Dental Surgeon & Prosthodontist",
+    "workplace": "Evercare Hospital, Dhaka",
+    "image": "image/prof-dr-kazi-hasinur-rahman.jpg"
+}

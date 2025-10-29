@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Surecell Medical, Chattogram",
+            "address": {
+                "name": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+                "longitude": 91.8231931,
+                "latitude": 22.3589254
+            },
+            "contact": "+8801701664440",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MS (ORTHO)"
+    ],
+    "designation": "Consultant, Orthopedics",
+    "name": "Dr. Mohammad Selim",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Surecell Medical, Chattogram",
+    "image": "image/dr-mohammad-selim.jpg"
+}

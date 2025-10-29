@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "New Life Hospital Ltd.",
+            "address": {
+                "name": "Room - 210, 25/A, Bir Uttam KM Shafiullah Sarak (Green Road), Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801304778644",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "FCPS (Neuro-Surgery)",
+        "Fellow, Neuro-Endoscopy (India)",
+        "World Skull-Base Fellow (Bangalore)",
+        "AO-Spine Fellow, Asia-Pacific",
+        "Fellow, AANS (USA)",
+        "FACS & FICS (USA)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Mohammed Shamsul Islam Khan",
+    "speciality": "Brain, Spine, Nerve, Stroke, Head Trauma Specialist & Neuro-Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mohammed-shamsul-islam-khan.jpg"
+}

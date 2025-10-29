@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DTCD (BSMMU)",
+        "FCCP (USA)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Assistant Professor, Respiratory Medicine",
+    "name": "Dr. Md. Delwar Jahan Khan",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-delwar-jahan-khan.jpg"
+}

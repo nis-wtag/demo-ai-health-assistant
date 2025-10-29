@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Insaf Hospital, Cumilla",
+            "address": {
+                "name": "38, Tomsom Bridge, Kotbari Road, Cumilla",
+                "longitude": 130.896755,
+                "latitude": -12.355845
+            },
+            "contact": "+8801674988803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Retinal Hospital, Cumilla",
+            "address": {
+                "name": "716, Sadar Hospital Road, Manohorpur, Cumilla",
+                "longitude": 90.833173,
+                "latitude": 22.934735
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO"
+    ],
+    "designation": "Resident Surgeon",
+    "name": "Dr. Md. Belal Hossain",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-belal-hossain.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "City Imaging Center Khulna Ltd.",
+            "address": {
+                "name": "35, KDA, Avenue, Khalil Chamber, Shekhpara, Khulna",
+                "longitude": 89.562139,
+                "latitude": 22.81035
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Reproductive Endocrinology & Infertility)"
+    ],
+    "designation": "Infertility Specialist",
+    "name": "Dr. Nastaran Laskar",
+    "speciality": "Hormone, Fertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-nastaran-laskar.jpg"
+}

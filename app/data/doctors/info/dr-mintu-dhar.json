@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801810030998",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Medicine)",
+        "MD (Cardiology) BSMMU"
+    ],
+    "designation": "Consultant (Cardiology)",
+    "name": "Dr. Mintu Dhar",
+    "speciality": "Clinical & Interventional Cardiologist & Medicine Specialist",
+    "workplace": "Chittagong Medical College Hospital",
+    "image": "image/dr-mintu-dhar.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Asia Diagnostic & Consultation Center, Rangpur",
+            "address": {
+                "name": "Rangpur Complex, Shahid Mukhtar Elahi Chatar, Dhap, Medical Mor, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801841526747",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Urology)"
+    ],
+    "designation": "Urologist, Urology",
+    "name": "Dr. Narayan Chowdhury (Nixon)",
+    "speciality": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-narayan-chowdhury-nixon.jpg"
+}

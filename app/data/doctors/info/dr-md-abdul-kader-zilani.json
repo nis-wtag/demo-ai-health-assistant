@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Quality Diagnostic Center, Rangpur",
+            "address": {
+                "name": "Dhap, R. K. Road, Rangpur (Opposite to cantonment public school)",
+                "longitude": 73.883022,
+                "latitude": 25.024458
+            },
+            "contact": "+8801309002298",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hematology)"
+    ],
+    "designation": "Associate Professor, Hematology",
+    "name": "Dr. Md. Abdul Kader Zilani",
+    "speciality": "Blood Cancer, Blood Diseases & Hematology Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-abdul-kader-zilani.jpg"
+}

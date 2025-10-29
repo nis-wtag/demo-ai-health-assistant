@@ -1,0 +1,19 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+            "contact": "+8809666787805",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Psychiatry)"
+    ],
+    "designation": "Professor & Head, Psychiatry",
+    "name": "Prof. Dr. A.K. Moyeenuddin Ahmed",
+    "speciality": "Mental Diseases, Drug Addiction Specialist & Neuropsychiatrist",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/prof-dr-ak-moyeenuddin-ahmed.jpg"
+}

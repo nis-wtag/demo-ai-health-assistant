@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Psychiatry)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Professor, Geriatric & Organic Psychiatry",
+    "name": "Prof. Dr. Nilufer Akhter Jahan",
+    "speciality": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/prof-dr-nilufer-akhter-jahan.jpg"
+}

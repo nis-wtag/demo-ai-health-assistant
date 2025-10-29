@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8801914713713",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Assistant Professor, Plastic Surgery",
+    "name": "Dr. Sharmin Akter Sumi",
+    "speciality": "Burn, Plastic, Cosmetic, Breast, Abdominoplasty & Reconstructive Surgeon",
+    "workplace": "Sheikh Hasina National Institute Of Burn & Plastic Surgery",
+    "image": "image/dr-sharmin-akter-sumi.jpg"
+}

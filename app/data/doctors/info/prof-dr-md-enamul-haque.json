@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Eretana",
+            "address": {
+                "name": "House 301, Road 2, Padma Residential Area, Vodra, Rajshahi",
+                "longitude": 89.118462,
+                "latitude": 24.602989
+            },
+            "contact": "+8801713228340",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Professor & Ex. Head of Department of Ophthalmology",
+    "name": "Prof. Dr. Md. Enamul Haque",
+    "speciality": "Cataract, Glaucoma & Medical Retina Specialist",
+    "workplace": "Barind Medical College & Hospital",
+    "image": "image/prof-dr-md-enamul-haque.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "People's Hospital, Chittagong",
+            "address": {
+                "name": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+88031658911",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Professor & Head, Surgery",
+    "name": "Prof. Dr. Md. Matiar Rahaman Khan",
+    "speciality": "General, Colorectal & Laparoscopic Specialist Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-matiar-rahman-khan.jpg"
+}

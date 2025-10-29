@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Dental Pavilion, Chittagong",
+            "address": "3rd Floor, Shah Plaza Market, Bandortila, CEPZ, Chittagong",
+            "contact": "01886136352",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MSc (Oral & Maxillofacial Surgery) USM, Malaysia",
+        "PGT (OMS) BSMMU",
+        "Special Training on Orthodontics & Dental Implant (Hammersmith Orthodontics)"
+    ],
+    "designation": "Head & Consultant (Department of Dentistry)",
+    "name": "Dr. Md. Mosharraf Hossain",
+    "speciality": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
+    "workplace": "Islami Bank Hospital, Agrabad, Chittagong",
+    "image": "image/dr-mosharraf-hossain.jpg"
+}

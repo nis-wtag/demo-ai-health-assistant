@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Sun Diagnostic Centre (Unit-2)",
+            "address": "Marium Elahi Bhobon, Medical More, Dhap, Rangpur",
+            "contact": "+8801878069165",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Alaq Diagnostic Centre",
+            "address": "Gurhati, Kalibari, Palashbari, Gaibandha",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Paediatrics)",
+        "ENS (Early Nutrition Specialist)"
+    ],
+    "designation": "Department of Paediatrics",
+    "name": "Dr. Prahlad Kumar Swapnil",
+    "speciality": "Newborn, Child & Adolescent Specialist and Child Nutritionist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-prahlad-kumar-swapnil.jpg"
+}

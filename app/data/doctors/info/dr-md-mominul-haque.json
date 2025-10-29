@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "Dental Library, Rajshahi",
+            "address": {
+                "name": "Ghospara Moor, Kolabagan Road, Rajshahi (East Side of RMC, Auditorium)",
+                "longitude": 88.605939,
+                "latitude": 24.3788
+            },
+            "contact": "+8801865488002",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Dental Surgeon, Dental",
+    "name": "Dr. Md. Mominul Haque",
+    "speciality": "Dental, Oral & Maxillofacial Surgeon",
+    "workplace": "Dental Library, Rajshahi & Ex Dental Surgeon, Taiba Medical Center, Nairobi, Kenya",
+    "image": "image/dr-md-mominul-haque.jpg"
+}

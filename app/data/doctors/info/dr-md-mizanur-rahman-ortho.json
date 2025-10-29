@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Aurora Specialized Hospital",
+            "address": {
+                "name": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
+                "longitude": -0.199431,
+                "latitude": 51.801243
+            },
+            "contact": "+8801404450401",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "FACS (USA)",
+        "AO Spine BASIC (India)",
+        "Advance AO Spine Course (SG, MY)",
+        "AO Trauma BASIC (Inida)",
+        "AO Trauma Advance (BD)",
+        "Arthroplasty BASIC (India)"
+    ],
+    "designation": "Associate Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Mizanur Rahman",
+    "speciality": "Arthroplasty, Trauma & Spine Surgery Specialist",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation attachment Manikganj Medical College & Hospital",
+    "image": "image/dr-md-mizanur-rahman-ortho.jpg"
+}

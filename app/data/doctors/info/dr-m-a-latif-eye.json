@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Motalib Villa",
+            "address": {
+                "name": "Zindabazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801521335477",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DO",
+        "Fellow (WHO)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. M. A. Latif",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Sylhet Diabetic Hospital, Sylhet",
+    "image": "image/dr-m-a-latif-eye.jpg"
+}

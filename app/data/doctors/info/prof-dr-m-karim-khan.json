@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPED (Vienna)",
+        "MCPS (Pediatrics)",
+        "DCH (Glasgow)",
+        "DTM&H (UK)",
+        "MPH (DU)"
+    ],
+    "designation": "Professor, Pediatrics",
+    "name": "Prof. Dr. M. Karim Khan",
+    "speciality": "Newborn, Child & Adolescent Diseases Specialist",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/prof-dr-m-karim-khan.jpg"
+}

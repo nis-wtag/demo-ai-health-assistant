@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Holy Child Care Centre",
+            "address": {
+                "name": "81, Gogon Babu Road, Notun Bazar, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801766344663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Dream 4 Hospital, Paikgacha",
+            "address": {
+                "name": "Paikgacha (Near 0 Point), Khulna",
+                "longitude": 89.52906,
+                "latitude": 22.798207
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRSH (London)",
+        "PGT (Child)"
+    ],
+    "designation": "Ex. Senior Pediatrician, Senior Medical Officer",
+    "name": "Dr. Khan Ahmed Hilaly",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Al-Yamaha MCH Hospital, Riyad, KSA, Khulna Shishu Hospital",
+    "image": "image/dr-khan-ahmed-hilaly.jpg"
+}

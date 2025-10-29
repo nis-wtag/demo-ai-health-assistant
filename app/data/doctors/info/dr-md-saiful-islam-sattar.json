@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "North Bengal Cornea & Phaco Center",
+            "address": {
+                "name": "Rajshahi General Hospital & Diagnostic Center (3rd Floor), Shershah Road, Laxmipur, Rajshahi (লক্ষ্মীপুর মোড় থেকে ৩০০ গজ পশ্চিমে)",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801729918684",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "PDC Specialized Hospital, Pabna",
+            "address": {
+                "name": "Capt. Anisur Rahman’s Building, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801798249955",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RU)",
+        "DO (EYE)",
+        "MS (EYE, DU)"
+    ],
+    "designation": "Assistant Professor, Eye",
+    "name": "Dr. Md. Saiful Islam (Sattar)",
+    "speciality": "Eye Specialist, Cornea, Phaco & Lasik Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-saiful-islam-sattar.jpg"
+}

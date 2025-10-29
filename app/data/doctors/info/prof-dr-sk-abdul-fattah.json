@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": {
+                "name": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+                "longitude": -67.923124,
+                "latitude": 3.878753
+            },
+            "contact": "+8801952070967",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Insaf Barakah Kidney & General Hospital",
+            "address": {
+                "name": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801978098088",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD",
+        "FCPS (Medicine)",
+        "FACP (USA)"
+    ],
+    "designation": "Professor & Head, Medicine",
+    "name": "Prof. Dr. Sk. Abdul Fattah",
+    "speciality": "Medicine, Chest, Asthma & Respiratory Diseases Specialist",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/prof-dr-sk-abdul-fattah.jpg"
+}

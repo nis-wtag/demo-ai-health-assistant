@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Mirza Golam Hafiz Road, House # 64, Road # 8/A, Dhanmondi R/A, Dhaka",
+            "address": {
+                "name": "Mirza Golam Hafiz Road, House # 64, Road # 8/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8801750839384",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSC (Hepatology)",
+        "FCPS (BD & PK)",
+        "FRCP (Glasg & Edin)",
+        "FACP (USA)",
+        "FCCP (USA)"
+    ],
+    "designation": "Former Professor & Head, Hepatology",
+    "name": "Prof. Dr. Mobin Khan",
+    "speciality": "Liver Diseases & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-mobin-khan.jpg"
+}

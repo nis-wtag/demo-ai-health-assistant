@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Lab Diagnostic & Consultation Center",
+            "address": {
+                "name": "46, Babu Khan Road, West Side of Pioneer College, Khulna",
+                "longitude": 40.25918,
+                "latitude": 40.94055
+            },
+            "contact": "+8801973127423",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "MS (OBGYN)",
+        "CMU (ULTRA)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Sabina Parvin Sathi",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "General Hospital, Khulna",
+    "image": "image/dr-sabina-parvin-sathi.jpg"
+}

@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room - 309, House # 08, Road # 02, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Surgical Oncology)",
+        "FMAS (India)"
+    ],
+    "designation": "Assistant Professor, Surgical Oncology",
+    "name": "Dr. Khandaker ABM Abdullah Al Hasan",
+    "speciality": "Cancer & Laparoscopic Surgery Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-khandaker-abm-abdullah-al-hasan.jpg"
+}

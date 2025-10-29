@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MD (Nephrology)",
+        "Member (ISN)"
+    ],
+    "designation": "Assistant Professor & Head, Nephrology",
+    "name": "Dr. Md. Saiful Islam",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-md-saiful-islam-parvez.jpg"
+}

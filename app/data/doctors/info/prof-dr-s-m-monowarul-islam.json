@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Bashundhara Eye Hospital & Research Institute",
+            "address": {
+                "name": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+                "longitude": 90.40753001848913,
+                "latitude": 23.7519999
+            },
+            "contact": "+8809643200700",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PhD (EYE)",
+        "FICS"
+    ],
+    "designation": "Professor & Head, Ophthalmology",
+    "name": "Prof. Dr. S.M. Monowarul Islam",
+    "speciality": "Uveitis & Medical Retina Specialist",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/prof-dr-s-m-monowarul-islam.jpg"
+}

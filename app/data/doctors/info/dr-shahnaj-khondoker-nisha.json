@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare Ltd. (East Gate Branch)",
+            "address": {
+                "name": "36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499700",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "MS (Urology, BSMMU)",
+        "FMAS",
+        "DMAS (India)",
+        "Masters Certification in Urogynecology (Dubai)"
+    ],
+    "designation": "Consultant, Urology",
+    "name": "Dr. Shahnaj Khondoker Nisha",
+    "speciality": "Urologist, Andrologist & Laparoscopic Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-shahnaj-khondoker-nisha.jpg"
+}

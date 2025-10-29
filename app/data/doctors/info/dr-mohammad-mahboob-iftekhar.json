@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662050",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DEM",
+        "MACE (USA)"
+    ],
+    "designation": "Consultant, Department of Endocrinology",
+    "name": "Dr. Mohammad Mahboob Iftekhar",
+    "speciality": "Diabetologist & Endocrinologist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-mohammad-mahboob-iftekhar.jpg"
+}

@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Dental View Orthodontics & Implant Center",
+            "address": {
+                "name": "House No # 67/C, Road # 11, Block # E, Banani, Dhaka-1213",
+                "longitude": 90.35595245,
+                "latitude": 23.8099357
+            },
+            "contact": "+8801789280929",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PhD (Dental Surgery) France",
+        "MSS (Clinical) DU",
+        "MPH (USA)",
+        "PGT (Orthodontic)",
+        "PGT (OMS) BSMMU",
+        "Research Fellow & Surgeon (STRC Project, Smile Train, USA)",
+        "Advanced Implantology (Thailand)",
+        "Invisalign (Thailand & India)",
+        "Advance Training in Fixed Orthodontic Braces, Implantology & Laser Dentistry (India)"
+    ],
+    "designation": "Chief Consultant, Dental Surgery",
+    "name": "Dr. Md. Imran Hossain",
+    "speciality": "Dental Implant, Invisalign, Dental Braces, Smile Design, TM Joint Disorder, Tooth Whitening, Perfect Root Canal, Cancer Operation, Tooth Whitening, Dental Jewelry, Cleft Lip & Palate Surgery Specialist",
+    "workplace": "Dental View Orthodontics & Implant Center",
+    "image": "image/dr-md-imran-hossain-dentist.jpg"
+}

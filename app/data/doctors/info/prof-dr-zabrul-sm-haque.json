@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTM&H (London)",
+        "MD (USA)",
+        "Fellowship (USA)"
+    ],
+    "designation": "Pediatrics & Neonatal Specialist doctor",
+    "name": "Prof. Dr. Zabrul SM Haque",
+    "speciality": "Pediatrics & Neonatal Specialist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/prof-dr-zabrul-sm-haque.jpg"
+}

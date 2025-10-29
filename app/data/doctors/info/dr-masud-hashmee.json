@@ -1,0 +1,31 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "FICO (UK)",
+        "Fellow (Retina Vitreous)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Masud Hashmee",
+    "speciality": "Retina & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital, Shantinagar",
+    "image": "image/dr-masud-hashmee.jpg"
+}

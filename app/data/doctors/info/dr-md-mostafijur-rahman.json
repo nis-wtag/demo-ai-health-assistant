@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ramakrishna Mission Medical Service Center, Dhaka",
+            "address": {
+                "name": "27, Ramakrishna Mission Road, Tikatuli, Dhaka - 1203",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801972996090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (BSMMU)",
+        "MSPD (USA)"
+    ],
+    "designation": "Senior Consultant, Dermatology & Venereology",
+    "name": "Dr. Md. Mostafijur Rahman",
+    "speciality": "Skin, Allergy, Sex Medicine & Cosmetic Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-md-mostafijur-rahman.jpg"
+}

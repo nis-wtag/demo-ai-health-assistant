@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Professor’s Dental Surgery",
+            "address": {
+                "name": "House # 18/A, Road # 6, Dhanmondi Plaza (2nd Floor), Opposite to Gonoshasthaya Nagar Hospital, Mirpur Road, Dhanmondi",
+                "longitude": 69.562001,
+                "latitude": 28.026608
+            },
+            "contact": "+8801715157722",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "DDS",
+        "MCPS",
+        "MDS (London)",
+        "FICP (America)"
+    ],
+    "designation": "Focal Point (Consultant)",
+    "name": "Prof. Dr. B.A.K Azad",
+    "speciality": "Root Canal Treatment, Orthodontic Braces, Aesthetic Filling, Painless Scaling, Dental Implant & Crown Bridge",
+    "workplace": "Former Head of Orthodontics Department, Dhaka Dental College, Dhaka",
+    "image": "image/prof-dr-b-a-k-azad.jpg"
+}

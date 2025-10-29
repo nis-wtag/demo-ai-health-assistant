@@ -1,0 +1,119 @@
+{
+    "chambers": [
+        {
+            "place": "Universal Medical College Hospital",
+            "address": {
+                "name": "74G/75, Pea-cock Square, New Airport Road, Dhaka 1215",
+                "longitude": 90.395435,
+                "latitude": 23.77662
+            },
+            "contact": "+8801834220141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Mukti Hospital, Comilla",
+            "address": {
+                "name": "Race Course, Sasongacha, Cumilla – 3500",
+                "longitude": -59.01768,
+                "latitude": -27.42146
+            },
+            "contact": null,
+            "visiting_hours": null
+        },
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": null,
+            "visiting_hours": null
+        },
+        {
+            "place": "Surma Diagnostic Center, Moulvibazar",
+            "address": {
+                "name": "Al-Amin Market (2nd Floor), Barlekha, Moulvibazar",
+                "longitude": 92.1930505,
+                "latitude": 24.7048967
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology)",
+        "MRCP (Paces)",
+        "CCD (BIRDEM)",
+        "Fellowship in Epilepsy & EEG (NINS)"
+    ],
+    "designation": "Consultant (Stroke Unit)",
+    "name": "Dr. Md. Mazharul Islam",
+    "speciality": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital (NINS), Dhaka",
+    "image": "image/dr-mazharul-islam.jpg"
+}

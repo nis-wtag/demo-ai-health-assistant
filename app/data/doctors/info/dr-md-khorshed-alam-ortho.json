@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Advance Hospital, Banasree",
+            "address": {
+                "name": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+                "longitude": 90.359409,
+                "latitude": 23.77451
+            },
+            "contact": "+8801999242424",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Khorshed Alam",
+    "speciality": "Bone, Joint, Arthritis Paralysis Specialist & Trauma Surgeon",
+    "workplace": "Comilla Medical College & Hospital",
+    "image": "image/dr-md-khorshed-alam-ortho.jpg"
+}

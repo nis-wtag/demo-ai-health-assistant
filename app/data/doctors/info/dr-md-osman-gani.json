@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Upasham Health Point (Pvt.) Ltd",
+            "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+            "contact": "+8801932200200",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (TS)"
+    ],
+    "designation": "General & Thoracic Surgeon",
+    "name": "Dr. Md. Osman Gani",
+    "speciality": "General & Thoracic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-osman-gani.jpg"
+}

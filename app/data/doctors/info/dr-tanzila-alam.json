@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Royal Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Laxmipur Mor, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801762685090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "FRSH (UK)",
+        "Training (Singapore)"
+    ],
+    "designation": "Eye Specialist & Surgeon",
+    "name": "Dr. Tanzila Alam",
+    "speciality": "Eye Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-tanzila-alam.jpg"
+}

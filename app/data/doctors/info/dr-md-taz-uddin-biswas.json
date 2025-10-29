@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Namira Hospital, Rangpur",
+            "address": "Opposite BGB 1 No. Gate near CO Bazar, Rangpur",
+            "contact": "+8801750908297",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)",
+        "MS (OMF)"
+    ],
+    "designation": "Oral & Maxilofacial Surgeon",
+    "name": "Dr. Md. Taz Uddin Biswas",
+    "speciality": "Dentist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-taz-uddin-biswas.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Ideal Computerized Diagnostic Center",
+            "address": {
+                "name": "Madan Mohan College Road, Rikabi Bazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801761333666",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Higher Training in Joint Replacement Surgery (India) & Trauma Surgery (Thailand)"
+    ],
+    "designation": "Associate Professor, Orthopedics Surgery",
+    "name": "Dr. Shantanu Dhar Imon",
+    "speciality": "Bone Joint Specialist & Orthopedic Surgeon",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/dr-shantanu-dhar-imon.jpg"
+}

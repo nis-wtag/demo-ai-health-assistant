@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Anesthesiology)",
+        "Special Training (ICU, HDU & PCM)"
+    ],
+    "designation": "Consultant, ICU, HDU & Anesthesia",
+    "name": "Dr. Lipika Roy",
+    "speciality": "Anesthesiology & ICU Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-lipika-roy.jpg"
+}

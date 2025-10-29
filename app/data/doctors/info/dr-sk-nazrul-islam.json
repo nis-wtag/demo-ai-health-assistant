@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Endo Dental",
+            "address": {
+                "name": "Anannya Shopping Complex (3rd Floor), DOHS Baridhara, Gulshan, Dhaka",
+                "longitude": 90.352124,
+                "latitude": 23.798469
+            },
+            "contact": "+8801711528345",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (BK)",
+        "FAES (USA)",
+        "MCPS (BD)"
+    ],
+    "designation": "Chief Consultant, Dental",
+    "name": "Dr. Sk. Nazrul Islam",
+    "speciality": "Root Canal, Dental Implant, Orthodontic Bracing & Beauty Dentistry Specialist",
+    "workplace": "Universal Medical College & Hospital",
+    "image": "image/dr-sk-nazrul-islam.jpg"
+}

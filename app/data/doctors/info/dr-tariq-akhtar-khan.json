@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Dhanmondi Diagnostic & Consultation Center",
+            "address": {
+                "name": "79 Satmosjid Road, Dhanmondi, Dhaka, Bangladesh - 1205",
+                "longitude": 90.380023,
+                "latitude": 23.7389703
+            },
+            "contact": "+8801985860690",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (Glasgow)",
+        "MS (Colorectal Surgery)"
+    ],
+    "designation": "Assistant Professor, Colorectal Surgery",
+    "name": "Dr. Tariq Akhtar Khan",
+    "speciality": "Colorectal, Laparoscopic, Endoscopy, Colonoscopy & Laser Specialist Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-tariq-akhtar-khan.jpg"
+}

@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": {
+                "name": "Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram",
+                "longitude": 91.8702789,
+                "latitude": 22.4293749
+            },
+            "contact": "+8801613908623",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Rangunia Galaxy Lab, Chittagong",
+            "address": {
+                "name": "Beside Rangunia Upazilla Health Complex, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+880181705098",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Jonosheba Medical Hall, Anwara",
+            "address": "Not mentioned in text",
+            "contact": "+8801818288043",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-Ortho (Orthopedic Surgery)"
+    ],
+    "designation": "Consultant (Orthopedics & Trauma Surgery)",
+    "name": "Dr. Muhammad Towhidul Alam (Rubel)",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+    "workplace": "Upazila Health & Family Planning Officer, Rangunia, Chattogram",
+    "image": "image/dr-muhammad-towhidul-alam-rubel.jpg"
+}

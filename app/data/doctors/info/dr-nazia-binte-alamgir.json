@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801400110093",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN-FP)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Director, Gynecology & Obstetrics",
+    "name": "Dr. Nazia Binte Alamgir",
+    "speciality": "Gynecology, High Risk Pregnancy, Infertility Specialist & Surgeon",
+    "workplace": "Bashuti Maa O Shishu Hospital Limited",
+    "image": "image/dr-nazia-binte-alamgir.jpg"
+}

@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "DPRC Hospital & Diagnostic Ltd",
+            "address": {
+                "name": "12/1, Ring Road, Shyamoli, Dhaka (Opposite to Shyamoli Club Field)",
+                "longitude": 90.363835,
+                "latitude": 23.77459
+            },
+            "contact": "+8809666774411",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "PhD",
+        "MS (Disability & Rehabilitation)",
+        "BPT(DU) NITOR"
+    ],
+    "designation": "Chairman and Consultant",
+    "name": "Dr. Md. Shafiullah Prodhan",
+    "speciality": "Rehab-Physio Specialist of Pain, Paralysis, Sports Injury, Disabilities, Arthritis",
+    "workplace": "Associate Professor, International Institute of Health Sciences (IIHS); Lecturer (Ex), Bangladesh Medical College & Hospital; Consultant, Dhaka Pain Physiotherapy & Rehabilitation Center (DPRC); President (Acting), Bangladesh Physiotherapy Soceity (BPS); Advisor, Editorial Board, Medicalbd News Portal",
+    "image": "image/dr-md-shafiullah-prodhan.jpg"
+}

@@ -1,0 +1,33 @@
+{
+    "chambers": [
+        {
+            "place": "Hikmah Eye Hospital, Khilgaon",
+            "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
+            "contact": "+8801730767333",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "MS (EYE)",
+        "Fellow Cornea-Anterior Segment & Phaco Surgery (IIEIH)",
+        "Training in cornea (Orbis, USA)"
+    ],
+    "designation": "Senior Consultant & Head, Ophthalmology",
+    "name": "Dr. Quazi Maniruzzaman",
+    "speciality": "Eye (Cornea) Specialist, Phaco & Lasik Surgeon",
+    "workplace": "Abdul Malek Ukil Medical College & Hospital",
+    "image": "image/dr-quazi-maniruzzaman.jpg"
+}

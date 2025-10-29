@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Micropath Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801724550544",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "MRCP (UK)",
+        "Fellow (Pediatric Nephrology, SG)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Laila Shamima Sharmin",
+    "speciality": "Child & Child Kidney Diseases Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-laila-shamima-sharmin.jpg"
+}

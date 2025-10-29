@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Inno Homeo Pharmacy & Cancer Treatment",
+            "address": {
+                "name": "3/1 Purana Paltan, Dhaka",
+                "longitude": 90.4117646,
+                "latitude": 23.7346692
+            },
+            "contact": "+8801712079260",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "DMU.CSW-MSS"
+    ],
+    "designation": "Lecturer",
+    "name": "Dr. Md. Rashidul Haque",
+    "speciality": "Homeopathic Specialist (Specially Cancer)",
+    "workplace": "Uttara Homeopathic Medical College & Hospital",
+    "image": "image/dr-md-rashidul-haque.jpg"
+}

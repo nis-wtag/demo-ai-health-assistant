@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Medi Aid Hospital Ltd, Dhaka",
+            "address": {
+                "name": "70/C, Lake Circus, Kalabagan, Dolphin Goli, Dhaka",
+                "longitude": 90.3795087,
+                "latitude": 23.7508623
+            },
+            "contact": "+8802222240873",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Professor & Head (Retd), Department of Surgical Oncology",
+    "name": "Prof. Dr. Md. Mizanur Rahman",
+    "speciality": "Surgical Oncologist (Cancer Surgeon), Breast Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital, Mohakhali, Dhaka, Chief, Bangladesh School of Oncoplastic Surgery",
+    "image": "image/prof-dr-md-mizanur-rahman.jpg"
+}

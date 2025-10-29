@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)"
+    ],
+    "designation": "Neurology Specialist",
+    "name": "Prof. Dr. Nirmalendu Bikash Bhowmik",
+    "speciality": "Neurology Specialist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/prof-dr-nirmalendu-bikash-bhowmik.jpg"
+}

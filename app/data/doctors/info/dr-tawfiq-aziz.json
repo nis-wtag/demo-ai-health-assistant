@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": null
+        },
+        {
+            "place": "Holy Lab Diagnostic Complex",
+            "address": {
+                "name": "House # 03, Shayestha Kha Avenue, Sector – 04, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801535869730",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "07:00",
+                    "end_time": "08:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MRCP (UK)",
+        "MSc (Gastroenterology)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Tawfiq Aziz",
+    "speciality": "Gastroenterology Specialist",
+    "workplace": "Medical College for Women & Hospital",
+    "image": "image/dr-tawfiq-aziz.jpg"
+}

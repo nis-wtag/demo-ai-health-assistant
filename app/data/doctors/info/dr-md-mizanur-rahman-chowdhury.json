@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+8801881872709",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedic)",
+        "Training in Arthroplasty (India)"
+    ],
+    "designation": "Professor & Head, Orthopedic Surgery",
+    "name": "Prof. Dr. Md. Mizanur Rahman Chowdhury",
+    "speciality": "Orthopedics (Bone, Joint, Fractures, Sports Injury, Trauma) & Spine Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-mizanur-rahman-chowdhury.jpg"
+}

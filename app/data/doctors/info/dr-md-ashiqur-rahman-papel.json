@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Shajinaz Hospital Ltd.",
+            "address": {
+                "name": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+                "longitude": 91.79968016367557,
+                "latitude": 22.38510865
+            },
+            "contact": "+8801886338811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "BCS (Health)",
+        "MD (Gastroenterology)",
+        "MCPS (Medicine)",
+        "MACG (USA)"
+    ],
+    "designation": "Resident Physician (Medicine)",
+    "name": "Dr. Md. Ashiqur Rahman (Papel)",
+    "speciality": "Gastroenterology, Liver & Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-ashiqur-rahman-papel.jpg"
+}

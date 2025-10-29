@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Homeopathic Solutions & Research, Mirpur",
+            "address": {
+                "name": "Mirpur 14, Dhaka",
+                "longitude": 90.3871115,
+                "latitude": 23.7986707
+            },
+            "contact": "+8801521234793",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)"
+    ],
+    "designation": "Consultant, Homeopathy",
+    "name": "Dr. Md. Moniruzzaman",
+    "speciality": "Skin, Asthma, Sex & Chronic Diseases Specialist",
+    "workplace": "Government Homeopathic Medical College & Hospital",
+    "image": "image/dr-md-moniruzzaman-homeo.jpg"
+}

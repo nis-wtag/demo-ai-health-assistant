@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Room 925, Bhaban 1, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": 90.420805,
+                "latitude": 23.702856
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Urology)"
+    ],
+    "designation": "Former Professor & Head, Dept of Urology",
+    "name": "Prof. Dr. A.B.M. Golam Robbani",
+    "speciality": "Urology (Kidneys, Ureters, Bladder, Urethra) Specialist & Surgeon",
+    "workplace": "Barind Medical College & Hospital",
+    "image": "image/dr-a-b-m-golam-rabbani.jpg"
+}

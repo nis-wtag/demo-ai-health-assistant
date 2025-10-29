@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Metropolitan Hospital",
+            "address": {
+                "name": "C&B Mor (Infront of old Dostola), Laxmipur, Kazihata, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801773-411133",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "Diploma in Anal Canal, Rectum & Pelvic Floor Surgery (AECS)",
+        "Special Training in Colorectal surgery (BSMMU)"
+    ],
+    "designation": "Resident Surgeon, Surgery",
+    "name": "Dr. MS Roy",
+    "speciality": "Piles, Laparoscopic & Colorectal Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-ms-roy.jpg"
+}

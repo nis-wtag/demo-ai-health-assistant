@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Dent In Dental Clinic (2nd Floor)",
+            "address": {
+                "name": "Beside of 10 No. Ward Councilor Office, Rajib Chottor, Rajshahi",
+                "longitude": -87.859499,
+                "latitude": 42.132324
+            },
+            "contact": "+8801762749594",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MS (Orthodontics)",
+        "MCPS (Dental Surgery)",
+        "FRSPH (London )",
+        "BDS (DDC)",
+        "BCS (Health)"
+    ],
+    "designation": "Consultant (Orthodontics)",
+    "name": "Dr. Md. Sumon Reza",
+    "speciality": "Orthodontics/Dental Braces Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-sumon-reza.jpg"
+}

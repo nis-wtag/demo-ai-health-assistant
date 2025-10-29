@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Senior Consultant, Cardiology",
+    "name": "Dr. Shiblee Sadeque Shakil",
+    "speciality": "Cardiology (Heart Diseases), Hypertension & Rheumatic Fever Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-shiblee-sadeque-shakil.jpg"
+}

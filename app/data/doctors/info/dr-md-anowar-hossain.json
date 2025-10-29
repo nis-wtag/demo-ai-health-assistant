@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara (Opposite Medical College Gate), Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801888-107137",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil",
+        "MD (Endocrinology)",
+        "MACE"
+    ],
+    "designation": "Associate Professor & Head, Department of Endocrinology",
+    "name": "Dr. Md. Anowar Hossain",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-anowar-hossain.jpg"
+}

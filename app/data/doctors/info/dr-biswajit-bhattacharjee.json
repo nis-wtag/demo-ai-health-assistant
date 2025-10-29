@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10678",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil (Radiotherapy)"
+    ],
+    "designation": "Senior Consultant, Oncology",
+    "name": "Dr. Biswajit Bhattacharjee",
+    "speciality": "Cancer (Chemotherapy,  Radiotherapy. Immunotherapy) Specialist",
+    "workplace": "Evercare Hospital, Dhaka",
+    "image": "image/dr-biswajit-bhattacharjee.jpg"
+}

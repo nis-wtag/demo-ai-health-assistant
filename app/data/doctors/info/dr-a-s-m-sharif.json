@@ -1,0 +1,22 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DA"
+    ],
+    "designation": "Anesthesiology & ICU Specialist",
+    "name": "Dr. A.S.M. Sharif",
+    "speciality": "Anesthesiology & ICU Specialist",
+    "workplace": "Rangpur Community Medical College & Hospital"
+}

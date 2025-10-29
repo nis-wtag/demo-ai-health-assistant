@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Zigatola",
+            "address": {
+                "name": "21/3 Zigatola, Dhanmondi, Dhaka – 1209",
+                "longitude": 90.380238,
+                "latitude": 23.739651
+            },
+            "contact": "+8801707081499",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Consultant, Phaco Surgeon",
+    "name": "Dr. Basil Anwar",
+    "speciality": "Eye Specialist and Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital, Zigatola",
+    "image": "image/dr-basil-anwar.jpg"
+}

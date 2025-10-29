@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        },
+        {
+            "place": "Haque Nursing Home & Diagnostic Center, Khulna",
+            "address": {
+                "name": "142, BK Roy Road, Sheikhpara, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801731527380",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FCPS (Plastic Surgery)",
+        "Fellowship Training (Japan)"
+    ],
+    "designation": "Assistant Professor & Head, Burn & Plastic Surgery",
+    "name": "Dr. Sheikh Nishat Abdullah",
+    "speciality": "Burn, Plastic & Reconstructive Surgery Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-sheikh-nishat-abdullah.jpg"
+}

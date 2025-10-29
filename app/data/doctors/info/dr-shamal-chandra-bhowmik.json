@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Medicomplex Souhardo Hospital",
+            "address": "Bhadurtola, Kandirpar, Cumilla (front of Faizunnessa Govt School)",
+            "contact": "+8801904311510",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-ORTHO (BSMMU)",
+        "FCPS (Orthosurgery, Final)"
+    ],
+    "designation": "Medical Officer (Orthopaedics)",
+    "name": "Dr. Shamal Chandra Bhowmik",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-shamal-chandra-bhowmik.jpg"
+}

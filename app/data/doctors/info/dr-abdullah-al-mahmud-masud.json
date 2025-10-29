@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Masud Homeo Hall",
+            "address": {
+                "name": "46/1, Toyenbi Circular Road, Joy Kalimondir, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801711053748",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "BHS"
+    ],
+    "designation": "Lecturer",
+    "name": "Dr. Abdullah Al Mahmud Masud",
+    "speciality": "Homeopathic Doctor & Consultant",
+    "workplace": "Government Homeopathic Medical College & Hospital",
+    "image": "image/dr-abdullah-al-mahmud-masud.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MRCS (UK)",
+        "FCPS (Surgery)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Consultant, Burn & Plastic Surgery",
+    "name": "Dr. Mohammad Mustafa Kamal",
+    "speciality": "Burn, Plastic & General Surgery Specialist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/dr-mohammad-mustafa-kamal.jpg"
+}

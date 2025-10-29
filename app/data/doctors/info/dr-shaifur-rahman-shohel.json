@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Shaifur Rahman Shohel",
+    "speciality": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+    "workplace": "Fortis Escorts Heart Institute, Chittagong",
+    "image": "image/dr-shaifur-rahman-shohel.jpg"
+}

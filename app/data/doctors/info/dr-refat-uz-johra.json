@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "New Building, Level 3, Room 301, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.43211299926108,
+                "latitude": 23.742299799999998
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Psychiatrist, Department of Psychiatry",
+    "name": "Dr. Refat Uz Johra",
+    "speciality": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-refat-uz-johra.jpg"
+}

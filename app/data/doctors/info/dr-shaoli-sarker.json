@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": null
+        },
+        {
+            "place": "NeuroGen Healthcare",
+            "address": {
+                "name": "Eastern Dolan, Level – 4, 152/2-H, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "+8801787662575",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "FCPS (CHILD)",
+        "Trained in Medical Genetics (ICMR Course, India)",
+        "Behavior Management in Child (CCDD Course, India)"
+    ],
+    "designation": "Assistant Professor, Pediatric Neurosciences",
+    "name": "Dr. Shaoli Sarker",
+    "speciality": "Child Neurology & Development Specialist",
+    "workplace": "Bangladesh Shishu Hospital & Institute",
+    "image": "image/dr-shaoli-sarker.jpg"
+}

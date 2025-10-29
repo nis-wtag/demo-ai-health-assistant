@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "KC Hospital & Diagnostic Center",
+            "address": {
+                "name": "2620, Noapara, Dakshin Khan, Uttara, Dhaka - 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801777753464",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Medical Officer, Gastroenterology",
+    "name": "Dr. Md. Abu Sayeed Mustafa",
+    "speciality": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-md-abu-sayeed-mustafa.jpg"
+}

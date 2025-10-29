@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "PediCare Hospital, Chittagong",
+            "address": {
+                "name": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
+                "longitude": 91.834199,
+                "latitude": 22.362801
+            },
+            "contact": "+8801793280308",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Green Shefa Hospital, Chittagong",
+            "address": {
+                "name": "R.A.M. Tower, 1704/9, Port Connecting Road, Saraipara, Chittagong",
+                "longitude": 91.792581,
+                "latitude": 22.328323
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH (BSMMU)",
+        "FCPS (Neonatology, Part 2)",
+        "MD (Pediatric, Course)"
+    ],
+    "designation": "Resident, Pediatrics",
+    "name": "Dr. Khadhiza Begom",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-khadhiza-begom.jpg"
+}

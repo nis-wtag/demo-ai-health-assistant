@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8809606990000",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Modern Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
+                "longitude": 90.50298,
+                "latitude": 23.61352
+            },
+            "contact": "+8801619088999",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "DDV (BSMMU)",
+        "FCPS (Skin & Sex) Final Part"
+    ],
+    "designation": "Professor (CC) of Dermatology",
+    "name": "Prof. Dr. Abu Saeed Mohammad",
+    "speciality": "Dermatology, Sex, Leprosy and Allergy Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/prof-dr-abu-saeed-mohammad.jpg"
+}

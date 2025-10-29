@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "23:30"
+                }
+            ]
+        },
+        {
+            "place": "Harvest Infertility Care, Dhaka",
+            "address": {
+                "name": "House # 100, Road # 06, Block # B, Pallabi, Mirpur 12, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801817146640",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "DRM (Switzerland)",
+        "MMS in ART (UK)"
+    ],
+    "designation": "Scientific Director, Male Infertility",
+    "name": "Dr. Mustaque Ahmed",
+    "speciality": "Infertility & Reproductive Medicine Specialist",
+    "workplace": "Harvest Infertility Care, Dhaka",
+    "image": "image/dr-mustaque-ahmed.jpg"
+}

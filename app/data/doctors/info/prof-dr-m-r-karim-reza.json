@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Ortho)",
+        "FACS (USA)",
+        "Visiting Fellow Spine Surgery (UK)",
+        "Fellowship Training in Spine Surgery (Japan)",
+        "Fellowship Training in Spine Surgery (Thailand)",
+        "AO Spine Scoliosis Training (India)",
+        "APSS Training (Philippine)",
+        "AO Spine Advance Training (Nepal)"
+    ],
+    "designation": "Professor (Spine & Ortho Surgery)",
+    "name": "Prof. Dr. M R Karim (Reza)",
+    "speciality": "Spine & Orthopedic Specialist and Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-m-r-karim-reza.jpg"
+}

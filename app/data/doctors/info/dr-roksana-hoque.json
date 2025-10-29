@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "Room - 208, 35/36, Mehedibag Road, Chattogram",
+                "longitude": 91.8252699,
+                "latitude": 22.3542518
+            },
+            "contact": "+8801713998166",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Care Lab, Chittagong",
+            "address": {
+                "name": "130, Panchlaish R/A, In front of Chittagong Medical College (Sonali Bank Goli), Chattogram",
+                "longitude": -9.146527,
+                "latitude": 38.796281
+            },
+            "contact": "+8801872289202",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "DDV",
+        "MCPS (Dermatology & Venereology)"
+    ],
+    "designation": "Senior Consultant, Dermatology",
+    "name": "Dr. Roksana Hoque",
+    "speciality": "Skin, Allergy, Leprosy Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-roksana-hoque.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+88031656565",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "D-CARD",
+        "Diploma in Asthma (UK)"
+    ],
+    "designation": "Cardiology & Asthma Specialist",
+    "name": "Dr. Mohammad Akram Hossain",
+    "speciality": "Cardiology & Asthma Specialist",
+    "workplace": "Center for Specialized Care & Research (CSCR)",
+    "image": "image/dr-mohammad-akram-hossain.jpg"
+}

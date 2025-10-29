@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ideal Health City, Rangpur",
+            "address": {
+                "name": "6/7, Treatment Tower, Dhap, Jail Road, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801876986778",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "FCPS (Gastroenterology)"
+    ],
+    "designation": "Consultant, Gastroenterology Department",
+    "name": "Dr. Khondoker Monirul Alam Russel",
+    "speciality": "Medicine Specialist & Gastro Liver Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-khondoker-monirul-alam-russel.jpg"
+}

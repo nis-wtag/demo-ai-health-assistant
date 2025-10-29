@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Digital Diagnostic Center, Pabna",
+            "address": {
+                "name": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801748343270",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Civil Surgeon, Surgery",
+    "name": "Dr. Md. Rafiqul Hasan Rimon",
+    "speciality": "General, Colorectal & Laparoscopic Specialist Surgeon",
+    "workplace": "Civil Surgeon Office, Panchagarh",
+    "image": "image/dr-md-rafiqul-hasan-rimon.jpg"
+}

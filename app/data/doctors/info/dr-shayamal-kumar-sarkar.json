@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Green Eye Hospital, Dhaka",
+            "address": "500/A, Rupayan Khan Plaza, Road # 07, Dhanmondi, Dhaka",
+            "contact": "+8801711377523",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "MS (EYE)",
+        "ICO (UK)",
+        "Fellow, Neuro-Ophthalmology (AEH & NIOH)",
+        "Advance Training in Phaco Surgery (DEH, India)"
+    ],
+    "designation": "Assistant Professor & Head, Neuro Ophthalmology",
+    "name": "Dr. Shayamal Kumar Sarkar",
+    "speciality": "Neuro-Ophthalmologist & Surgeon",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-shayamal-kumar-sarkar.jpg"
+}

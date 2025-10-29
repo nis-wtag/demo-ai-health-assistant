@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Layl Optical Center",
+            "address": {
+                "name": "Stadium Market (01-02), Ground Floor, beside Auditorium, Sylhet",
+                "longitude": 91.871051,
+                "latitude": 24.944453
+            },
+            "contact": "+8801990170478",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO( BSMMU)",
+        "Advanced Microsurgical IOL Training"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Sakib Mohammad Ataur (Ullas)",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Friends Eye Hospital, Sylhet",
+    "image": "image/dr-sakib-mohammad-ataur-ullas.jpg"
+}

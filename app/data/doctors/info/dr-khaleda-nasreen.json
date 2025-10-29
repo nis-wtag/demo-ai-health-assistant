@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Health Care, Pallabi",
+            "address": {
+                "name": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
+                "longitude": 90.3678605,
+                "latitude": 23.810225
+            },
+            "contact": "+8801825002867",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "MH Samorita Hospital & Medical College",
+            "address": {
+                "name": "117, Love Road ,Tejgaon, Dhaka 1208, Bangladesh",
+                "longitude": 90.4012533,
+                "latitude": 23.7635215
+            },
+            "contact": "+8801847004999",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Gyne & Obs)",
+        "FCPS (Reproductive Endocrinology & Infertility)"
+    ],
+    "designation": "Assistant Professor, Reproductive Endocrinology & Infertility",
+    "name": "Dr. Khaleda Nasreen",
+    "speciality": "Infertility, Gynecology Obstetrics Specialist & Surgeon",
+    "workplace": "Directorate General of Health Services",
+    "image": "image/dr-khaleda-nasreen.jpg"
+}

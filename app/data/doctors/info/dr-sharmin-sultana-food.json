@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "National Hospital, Chittagong",
+            "address": {
+                "name": "14/15, Dampara Lane, Mehedibag, Chattogram",
+                "longitude": -73.786337,
+                "latitude": 40.785865
+            },
+            "contact": "+8801790389031",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MPhil (Biochemistry)",
+        "MSc (Nutrition & Food Science)",
+        "Certified Course (Therapeutic Diet)"
+    ],
+    "designation": "Consultant, Food and Nutrition",
+    "name": "Dr. Sharmin Sultana",
+    "speciality": "Food & Nutrition Specialist & Lab Consultant",
+    "workplace": "National Hospital Chittagong & Sigma Lab Ltd.",
+    "image": "image/dr-sharmin-sultana-food.jpg"
+}

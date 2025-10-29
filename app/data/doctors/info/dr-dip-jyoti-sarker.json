@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rangpur",
+            "address": {
+                "name": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+                "longitude": 89.241459,
+                "latitude": 25.7569808
+            },
+            "contact": "+88 01316286000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Mother Clinic and Nursing Home",
+            "address": {
+                "name": "Hospital Road, Bhurungamari, Kurigram",
+                "longitude": 89.6638474,
+                "latitude": 26.1104617
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Chest Medicine)"
+    ],
+    "designation": "Consultant (Medicine)",
+    "name": "Dr. Dip Jyoti Sarker",
+    "speciality": "Chest Diseases & Medicine Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-dip-jyoti-sarker.jpg"
+}

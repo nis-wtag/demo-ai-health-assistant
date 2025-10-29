@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Health View Diagnostic & Consultation Center",
+            "address": {
+                "name": "Taherabad Residential Area, Aturar Depo, Panchlaish, Chattogram",
+                "longitude": 90.41316596881626,
+                "latitude": 23.7556286
+            },
+            "contact": "+8801827879846",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS"
+    ],
+    "designation": "Consultant, Orthopedic",
+    "name": "Dr. Faisal Ahmed",
+    "speciality": "Orthodontics Specialist",
+    "workplace": "Health View Diagnostic & Consultation Center",
+    "image": "image/dr-faisal-ahmed-ctg.jpg"
+}

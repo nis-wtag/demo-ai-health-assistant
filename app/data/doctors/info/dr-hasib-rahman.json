@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Plastic & Reconstructive Surgeon",
+    "name": "Dr. Hasib Rahman",
+    "speciality": "Plastic & Reconstructive Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-hasib-rahman.jpg"
+}

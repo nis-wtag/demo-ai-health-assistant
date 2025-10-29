@@ -1,0 +1,76 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": "Room 306, House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+            "contact": "+8801731492407",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "KC Hospital & Diagnostic Center",
+            "address": {
+                "name": "2620, Noapara, Nowapara, Dakkhinkhan, Uttara, Dhaka",
+                "longitude": 90.3912673,
+                "latitude": 23.8795543
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:30",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Medical Oncology)"
+    ],
+    "designation": "Medical Oncologist",
+    "name": "Dr. Mohammad Asaduzzaman",
+    "speciality": "Medicine & Cancer Medicine Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-mohammad-asaduzzaman.jpg"
+}

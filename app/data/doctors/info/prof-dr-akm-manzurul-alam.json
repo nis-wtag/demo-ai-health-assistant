@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": {
+                "name": "Room - 305, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+                "longitude": 90.39493591302184,
+                "latitude": 23.71982905
+            },
+            "contact": "+8801700743072",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MS (CVTS)",
+        "FRCS (Glasgow)",
+        "FACS (USA)",
+        "Fellow WHO",
+        "Escorts (Delhi), India"
+    ],
+    "designation": "Professor & Head, Cardiac Surgery",
+    "name": "Prof. Dr. AKM Manzurul Alam",
+    "speciality": "Cardiac Surgery, Valve Replacement & Congenital Heart Diseases Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/prof-dr-akm-manzurul-alam.jpg"
+}
