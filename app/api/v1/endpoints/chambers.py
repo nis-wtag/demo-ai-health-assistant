@@ -9,7 +9,12 @@ from services.dependencies.auth_dependencies import get_current_user, require_ro
 router = APIRouter(prefix="/chambers", tags=["Chambers"])
 
 
-@router.get("/", response_model=list[ChamberRead])
+@router.get(
+    "/",
+    response_model=list[ChamberRead],
+    status_code=200,
+    summary="Retrieve all chambers (paginated)",
+)
 @limiter.limit("50/minute")
 def get_chambers(
     request: Request,
@@ -21,7 +26,9 @@ def get_chambers(
     return chamber_service.get_chambers(db, offset=offset, limit=limit)
 
 
-@router.post("/", response_model=ChamberRead)
+@router.post(
+    "/", response_model=ChamberRead, status_code=201, summary="Add a new chamber"
+)
 @limiter.limit("50/minute")
 def add_chamber(
     request: Request,
@@ -32,7 +39,9 @@ def add_chamber(
     return chamber_service.add_chamber(db, chamber_data)
 
 
-@router.get("/search", response_model=list[ChamberRead])
+@router.get(
+    "/search", response_model=list[ChamberRead], summary="Search chambers by keyword"
+)
 @limiter.limit("20/minute")
 def search_chambers(
     request: Request,
@@ -44,7 +53,7 @@ def search_chambers(
     return chamber_service.search_chambers(db=db, params=params)
 
 
-@router.delete("/{chamber_id}")
+@router.delete("/{chamber_id}", summary="Delete a chamber by ID")
 @limiter.limit("3/minute")
 def delete_chamber(
     request: Request,
@@ -56,7 +65,9 @@ def delete_chamber(
     return {"detail": f"Chamber {chamber_id} deleted"}
 
 
-@router.get("/{chamber_id}", response_model=ChamberRead)
+@router.get(
+    "/{chamber_id}", response_model=ChamberRead, summary="Get chamber details by ID"
+)
 @limiter.limit("50/minute")
 def get_chamber_details(
     request: Request,
@@ -67,7 +78,11 @@ def get_chamber_details(
     return chamber_service.get_chamber_by_id(db, chamber_id=chamber_id)
 
 
-@router.put("/{chamber_id}", response_model=ChamberRead)
+@router.put(
+    "/{chamber_id}",
+    response_model=ChamberRead,
+    summary="Update existing chamber information",
+)
 @limiter.limit("5/minute")
 def update_chamber(
     request: Request,

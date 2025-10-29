@@ -8,7 +8,9 @@ from services import auth_service
 router = APIRouter(prefix="/auth", tags=["Auth"])
 
 
-@router.post("/register", response_model=UserRead, status_code=201)
+@router.post(
+    "/register", response_model=UserRead, status_code=201, summary="Register a new user"
+)
 @limiter.limit("5/minute")
 def register(request: Request, user_data: UserCreate, db: DbSession):
     return auth_service.register_user(
@@ -19,7 +21,12 @@ def register(request: Request, user_data: UserCreate, db: DbSession):
     )
 
 
-@router.post("/login", response_model=UserRead)
+@router.post(
+    "/login",
+    response_model=UserRead,
+    status_code=200,
+    summary="Authenticate user and issue tokens",
+)
 @limiter.limit("5/minute")
 def login(request: Request, user_data: UserLogin, response: Response, db: DbSession):
     user, access_token, refresh_token = auth_service.login(
@@ -49,7 +56,9 @@ def login(request: Request, user_data: UserLogin, response: Response, db: DbSess
     return user
 
 
-@router.post("/logout")
+@router.post(
+    "/logout", status_code=200, summary="Logout user and clear authentication cookies"
+)
 def logout(
     request: Request,
     response: Response,

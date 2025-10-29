@@ -9,7 +9,11 @@ from services.dependencies.auth_dependencies import get_current_user
 router = APIRouter(prefix="/dashboard", tags=["Dashboard"])
 
 
-@router.get("/stats", response_model=DashboardStats)
+@router.get(
+    "/stats",
+    response_model=DashboardStats,
+    summary="Retrieve stats about Doctors and Chambers",
+)
 @limiter.limit("50/minute")
 def get_dashboard_stats(
     request: Request, db: DbSession, current_user: User = Depends(get_current_user)

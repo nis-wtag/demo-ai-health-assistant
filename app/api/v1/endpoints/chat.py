@@ -8,7 +8,12 @@ from services.llm_query_service import QueryService
 router = APIRouter(prefix="/chat", tags=["Chat"])
 
 
-@router.post("/", response_model=ChatResponse)
+@router.post(
+    "/",
+    response_model=ChatResponse,
+    status_code=200,
+    summary="Process a user chat query",
+)
 @limiter.limit("10/minute")
 def process_chat_query(
     request: Request,
