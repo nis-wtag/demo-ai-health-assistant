@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Diagnostic & Consultation Center, Khulna",
+            "address": "59/1, Shamsur Rahman Road (In front of School Health Clinic), Khulna",
+            "contact": "+8801842‑676389",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Ex. Professor, Gastroenterology",
+    "name": "Prof. Dr. Bishnupodo Paik",
+    "speciality": "Gastroenterology, Liver Diseases & Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital"
+}

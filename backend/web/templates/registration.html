@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Health Assistant - Register</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-100 flex items-center justify-center min-h-screen font-sans p-4">
+    <div class="w-full max-w-md p-8 space-y-6 bg-white rounded-xl shadow-lg">
+        <!-- Header -->
+        <div class="text-center">
+            <h1 class="text-3xl font-bold text-slate-800">Create an Account</h1>
+            <p class="mt-2 text-slate-500">Join the 🩺 AI Health Assistant platform</p>
+        </div>
+
+        <!-- Message Placeholders -->
+        <div id="error-container" class="hidden p-3 bg-red-100 border border-red-200 rounded-lg text-center">
+            <p id="error-message" class="text-sm font-medium text-red-700"></p>
+        </div>
+        <div id="success-container" class="hidden p-3 bg-green-100 border border-green-200 rounded-lg text-center">
+            <p id="success-message" class="text-sm font-medium text-green-700"></p>
+        </div>
+
+        <!-- Registration Form -->
+        <form id="register-form" class="space-y-4">
+            <div>
+                <label for="full_name" class="block text-sm font-medium text-slate-700">Full Name</label>
+                <div class="mt-1">
+                    <input type="text" id="full_name" name="full_name" required autocomplete="name"
+                        class="w-full px-3 py-2 border border-slate-300 rounded-md shadow-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition">
+                </div>
+            </div>
+
+            <div>
+                <label for="email" class="block text-sm font-medium text-slate-700">Email Address</label>
+                <div class="mt-1">
+                    <input type="email" id="email" name="email" required autocomplete="email"
+                        class="w-full px-3 py-2 border border-slate-300 rounded-md shadow-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition">
+                </div>
+            </div>
+
+            <div>
+                <label for="password" class="block text-sm font-medium text-slate-700">Password</label>
+                <div class="mt-1">
+                    <input type="password" id="password" name="password" required autocomplete="new-password"
+                        class="w-full px-3 py-2 border border-slate-300 rounded-md shadow-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition">
+                </div>
+            </div>
+
+            <div>
+                <label for="confirm_password" class="block text-sm font-medium text-slate-700">Confirm Password</label>
+                <div class="mt-1">
+                    <input type="password" id="confirm_password" name="confirm_password" required
+                        autocomplete="new-password"
+                        class="w-full px-3 py-2 border border-slate-300 rounded-md shadow-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition">
+                </div>
+            </div>
+
+            <div class="pt-2">
+                <button type="submit"
+                    class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors">
+                    Register
+                </button>
+            </div>
+        </form>
+
+        <!-- Link to Login -->
+        <p class="text-sm text-center text-slate-500">
+            Already have an account?
+            <a href="/login" class="font-medium text-blue-600 hover:underline">
+                Login here
+            </a>
+        </p>
+    </div>
+
+    <script>
+        const form = document.getElementById("register-form");
+        const errorContainer = document.getElementById('error-container');
+        const errorMessageEl = document.getElementById('error-message');
+        const successContainer = document.getElementById('success-container');
+        const successMessageEl = document.getElementById('success-message');
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            // Reset messages
+            errorContainer.classList.add('hidden');
+            errorMessageEl.textContent = '';
+            successContainer.classList.add('hidden');
+            successMessageEl.textContent = '';
+
+            // Gather form data
+            const fullName = document.getElementById("full_name").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirm_password").value;
+
+            // Client-side validation
+            if (password !== confirmPassword) {
+                errorMessageEl.textContent = "Passwords do not match.";
+                errorContainer.classList.remove('hidden');
+                return;
+            }
+
+            const formData = {
+                email: email,
+                password: password,
+                full_name: fullName
+            };
+
+            try {
+                const response = await fetch("/api/v1/auth/register", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(formData),
+                    credentials: "include"
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    successMessageEl.textContent = "Registration successful! Redirecting to login...";
+                    successContainer.classList.remove('hidden');
+                    setTimeout(() => {
+                        window.location.href = "/login";
+                    }, 2000);
+                } else {
+                    const detail = data.detail || "Registration failed. Please try again.";
+                    errorMessageEl.textContent = Array.isArray(detail) ? detail[0].msg : detail;
+                    errorContainer.classList.remove('hidden');
+                }
+            } catch (err) {
+                console.error(err);
+                errorMessageEl.textContent = "A network error occurred. Please try again.";
+                errorContainer.classList.remove('hidden');
+            }
+        });
+    </script>
+</body>
+
+</html>
