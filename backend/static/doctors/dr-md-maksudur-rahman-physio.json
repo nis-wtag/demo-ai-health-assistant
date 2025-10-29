@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "HAF General Hospital, Badda",
+            "address": {
+                "name": "Cha 88/5, Thana Road, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801911123262",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "02:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BPT (DU)",
+        "PGT (BSMMU)",
+        "ASMT (INDIA)",
+        "MS (Physio in ORTHO)"
+    ],
+    "designation": "Consultant, Physiotherapy",
+    "name": "Dr. Md. Maksudur Rahman",
+    "speciality": "Pain, Stroke, Paralysis Specialist & Physiotherapist",
+    "workplace": "HAF General Hospital, Badda"
+}
