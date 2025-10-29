@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Brushboy's Dental Care",
+            "address": {
+                "name": "11/1 (2nd Floor), Jigatola, Road # 4/A, Dhanmondi, Dhaka",
+                "longitude": 90.40308037826553,
+                "latitude": 23.7911499
+            },
+            "contact": "+8801916437350",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MCPS",
+        "FCPS (Prosthodontics)",
+        "MFD (RCS Ireland)"
+    ],
+    "designation": "Assistant Professor & Head (Prosthodontics)",
+    "name": "Dr. Towhid Tofail",
+    "speciality": "Prosthodontics (Dental Implants, Crowns, Bridges, Dentures) Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-towhid-tofail.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (CTS)"
+    ],
+    "designation": "Consultant, Cardiac Surgery",
+    "name": "Dr. Khalifa Mahmud Tarik",
+    "speciality": "Congenital Cardiac Surgery & CABG Specialist",
+    "workplace": "Bangladesh Specialized Hospital",
+    "image": "image/dr-khalifa-mahmud-tarik.jpg"
+}

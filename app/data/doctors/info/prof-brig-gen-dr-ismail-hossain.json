@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBS",
+        "MCPS",
+        "DO (DU)",
+        "FCPS (EYE)",
+        "ICO (UK)",
+        "FRCS (UK)",
+        "Fellow Vitreo-Retina & Phaco Surgery (AIIMS & LVPEI)",
+        "Fellow Phaco Surgery (MEH & BEHI)"
+    ],
+    "designation": "Former Professor & Head, Opthalmology",
+    "name": "Prof. Brig Gen. Dr. Ismail Hossain",
+    "speciality": "Eye Diseases (Vitreo Retina) Specialist & Phaco Surgeon",
+    "workplace": "Armed Forces Medical College, Dhaka",
+    "image": "image/prof-brig-gen-dr-ismail-hossain.jpg"
+}

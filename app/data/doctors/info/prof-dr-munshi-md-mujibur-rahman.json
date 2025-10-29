@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801911404275",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MCPS (Surgery)",
+        "FICS (USA)"
+    ],
+    "designation": "Former Professor, Surgery",
+    "name": "Prof. Dr. Munshi Md. Mujibur Rahman",
+    "speciality": "General & Cardiac Surgeon",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-dr-munshi-md-mujibur-rahman.jpg"
+}

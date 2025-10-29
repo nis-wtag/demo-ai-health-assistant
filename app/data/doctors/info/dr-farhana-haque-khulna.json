@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Lab Diagnostic & Consultation Center",
+            "address": {
+                "name": "46, Babu Khan Road, West Side of Pioneer College, Khulna",
+                "longitude": 40.25918,
+                "latitude": 40.94055
+            },
+            "contact": "+8801973127423",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Farhana Haque",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "General Hospital, Khulna",
+    "image": "image/dr-farhana-haque-khulna.jpg"
+}

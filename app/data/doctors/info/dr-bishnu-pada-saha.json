@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Unique Diagnostic Center, Khulna",
+            "address": {
+                "name": "41/1, Khanjahan Ali Road, Kakolibag Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "CCD",
+        "FCPS (Medicine, FP)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Chief Consultant (Cardiology)",
+    "name": "Dr. Bishnu Pada Saha",
+    "speciality": "Heart Diseases, Medicine & Diabetes Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-bishnu-pada-saha.jpg"
+}

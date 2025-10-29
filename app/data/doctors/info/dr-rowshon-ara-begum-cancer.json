@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "+8801915448491",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Radiotherapy)",
+        "M.Phil (Radiotherapy)",
+        "MPH",
+        "DMU"
+    ],
+    "designation": "Associate Professor & Head, Radiation Oncology",
+    "name": "Dr. Rowshon Ara Begum",
+    "speciality": "Cancer Specialist & Radiation Oncologist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-rowshon-ara-begum-cancer.jpg"
+}

@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Islamia Hospital",
+            "address": "EPZ 1 No. Gate, Tomsom Bridge, Cumilla",
+            "contact": "+8801785750016",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "National Hospital, Cumilla",
+            "address": {
+                "name": "Jangalia Bus Stand, Laksam Road, Cumilla",
+                "longitude": 91.1722702,
+                "latitude": 23.4200316
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO"
+    ],
+    "designation": "Consultant, Obs & Gyne",
+    "name": "Dr. Uttara Deb",
+    "speciality": "Gynecologist, Obstetrician, Infertility Specialist & Surgeon",
+    "workplace": "Upazila Health Complex, South Sadar, Cumilla",
+    "image": "image/dr-uttara-deb.jpg"
+}

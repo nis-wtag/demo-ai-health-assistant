@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Aichi Hospital Limited, Uttara",
+            "address": {
+                "name": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+                "longitude": 90.427168,
+                "latitude": 23.767562
+            },
+            "contact": "+8801689956599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Dept of Surgery",
+    "name": "Dr. Abdullah Al Mamun",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-abdullah-al-mamun-surgeon.jpg"
+}

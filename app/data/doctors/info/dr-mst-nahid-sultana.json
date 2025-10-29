@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "Unit 2 (Diagnostic) 213, 214 Charpara, Dhaka Road, Mymensingh",
+                "longitude": 90.40839,
+                "latitude": 24.744181
+            },
+            "contact": "+8801719190155",
+            "visiting_hours": null
+        },
+        {
+            "place": "Asha Diagnostic Center",
+            "address": {
+                "name": "Opposed to Fulpur Hospital, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MS-Eye (BSMMU)"
+    ],
+    "designation": "Eye Specialist (Department Of Ophthalmology)",
+    "name": "Dr. Mst. Nahid Sultana",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mst-nahid-sultana.jpg"
+}

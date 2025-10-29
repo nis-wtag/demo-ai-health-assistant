@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801810030999",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "18:40"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (BSMMU)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Mst. Nasrin Sultana",
+    "speciality": "Skin, Sexual Diseases & Allergy Specialist",
+    "workplace": "Chittagong Diabetic General Hospital",
+    "image": "image/dr-mst-nasrin-sultana.jpg"
+}

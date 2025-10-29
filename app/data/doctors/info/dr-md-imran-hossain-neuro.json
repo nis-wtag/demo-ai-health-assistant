@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801788222000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)",
+        "MD (Neuromedicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Neuromedicine",
+    "name": "Dr. Md. Imran Hossain",
+    "speciality": "Neuromedicine & Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-imran-hossain-neuro.jpg"
+}

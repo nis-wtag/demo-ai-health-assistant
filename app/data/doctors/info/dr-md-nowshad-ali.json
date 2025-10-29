@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Md. Naushad Ali",
+    "speciality": "Gastroenterology, Liver Diseases & Medicine Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-nowshad-ali.jpg"
+}

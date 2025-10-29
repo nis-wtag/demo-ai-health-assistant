@@ -1,0 +1,113 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Chittagong",
+            "address": {
+                "name": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8809610009622",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Core Diagnostic Limited, Chittagong",
+            "address": {
+                "name": "AS Tower, (opposite RAB7 office), Arakan Road, Bohoddarhat, Chattogram",
+                "longitude": 91.842209,
+                "latitude": 22.361793
+            },
+            "contact": "+8801969905858",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Padma Clinical Lab, Chittagong",
+            "address": "Aliya Madrasa Market, DT Road, Sitakundo, Chattogram",
+            "contact": "+8801877760501",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Pediatrics, BSMMU)"
+    ],
+    "designation": "Registrar, Department of Neonatology",
+    "name": "Dr. Mir Mosharof Hossain",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mir-mosharof-hossain.jpg"
+}

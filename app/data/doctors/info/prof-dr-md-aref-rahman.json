@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DVD",
+        "FAMS (Austria)"
+    ],
+    "designation": "Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. Md. Aref Rahman",
+    "speciality": "Dermatology (Skin, Allergy, Leprosy, Hair) & Sexual Medicine Specialist",
+    "workplace": "National Medical College & Hospital",
+    "image": "image/prof-dr-md-aref-rahman.jpg"
+}

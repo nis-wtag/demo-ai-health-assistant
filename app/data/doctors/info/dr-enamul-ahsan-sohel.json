@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Dr Paul's Bangladesh Health Care",
+            "address": {
+                "name": "House # 538, Near Evercare Hospital Gate, Bashundhara R/A, Dhaka-1212",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801711400334",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (Bachelor of Homeopathic Medicine & Surgery, DU)",
+        "PG of Endocrinology (Dr Batra's Academy, Mumbai, India)",
+        "PG of Advanced Pediatrics (Dr Batra's Academy, Mumbai, India)",
+        "Advanced Skin & Hair Courses from Dr Paul's Institution (India)"
+    ],
+    "designation": "Chief Consultant & Head",
+    "name": "Dr. Enamul Ahsan Sohel",
+    "speciality": "Skin Disease, Psoriasis Treatment, Allergy treatment, Infertility, Piles, Anxiety, ADHD, (Autism) ASD & Hair Fall Solution",
+    "workplace": "Dr Paul's Bangladesh Health Care",
+    "image": "image/dr-enamul-ahsan-sohel.jpg"
+}

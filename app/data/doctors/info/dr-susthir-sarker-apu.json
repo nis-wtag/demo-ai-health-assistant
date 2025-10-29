@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (DU)",
+        "FCPS (Skin & Sex)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Susthir Sarker Apu",
+    "speciality": "Skin & Sexual Diseases Specialist & Cosmetic Dermatosurgeon",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-susthir-sarker-apu.jpg"
+}

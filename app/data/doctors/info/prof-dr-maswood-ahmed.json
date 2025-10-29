@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Anesthesiology)",
+        "DA",
+        "FCCS (Critical Care Medicine)"
+    ],
+    "designation": "Professor, Anesthesiology",
+    "name": "Prof. Dr. Maswood Ahmed",
+    "speciality": "Anesthesia & Intensive Care Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-maswood-ahmed.jpg"
+}

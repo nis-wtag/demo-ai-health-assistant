@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mirpur",
+            "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
+            "contact": "+8801756166010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": {
+                "name": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+                "longitude": 90.3670992,
+                "latitude": 23.7520204
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS"
+    ],
+    "designation": "Assistant Professor of Surgery",
+    "name": "Dr. Russel Ahmed Khan Lodi",
+    "speciality": "General, Laparoscopic, Colorectal & Diabetic Foot Surgeon",
+    "workplace": "Delta Medical College & Hospital",
+    "image": "image/dr-russel-ahmed-khan-lodi.jpg"
+}

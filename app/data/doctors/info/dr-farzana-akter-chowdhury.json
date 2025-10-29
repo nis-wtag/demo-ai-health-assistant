@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO"
+    ],
+    "designation": "Associate Consultant, Pediatric Clinic",
+    "name": "Dr. Farzana Akter Chowdhury",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Chittagong Eye Infirmary & Training Complex",
+    "image": "image/dr-farzana-akter-chowdhury.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Eye Care Hospital, Uttara",
+            "address": {
+                "name": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801787681500",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "FCPS (EYE)",
+        "Fellowship (Pediatric Ophthalmology)"
+    ],
+    "designation": "Assistant Professor, Pediatric Ophthalmology",
+    "name": "Dr. Ashiqur Rahman Akanda",
+    "speciality": "Pediatric Ophthalmology & Squint Specialist",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-ashiqur-rahman-akanda.jpg"
+}

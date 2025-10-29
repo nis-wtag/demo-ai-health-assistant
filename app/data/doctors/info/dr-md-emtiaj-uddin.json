@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": {
+                "name": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+                "longitude": 91.83449949999999,
+                "latitude": 22.3657935
+            },
+            "contact": "+8801956414212",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD (BSMMU)"
+    ],
+    "designation": "Consultant Cardiologist, Cardiology",
+    "name": "Dr. Md. Emtiaj Uddin",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+    "workplace": "Delta Health Care, Chittagong",
+    "image": "image/dr-md-emtiaj-uddin.jpg"
+}

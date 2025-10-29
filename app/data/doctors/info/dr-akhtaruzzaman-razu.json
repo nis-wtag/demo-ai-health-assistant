@@ -1,0 +1,33 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "FRCP (Glasgow)",
+        "MACP (USA)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Akhtaruzzaman Razu",
+    "speciality": "Cardiology, Hypertension & Medicine Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-akhtaruzzaman-razu.jpg"
+}

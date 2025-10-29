@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room # 603, Building # 6, House # 16, Road # 2, Dhanmondi R/A, Dhaka",
+                "longitude": 90.335329,
+                "latitude": 23.728044
+            },
+            "contact": "+8801769040824",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (SKIN & SEX)",
+        "MCPS",
+        "DDV",
+        "FRCP (UK)",
+        "Grading Course in Dermatology (AFMI)",
+        "Fellow Dermatosurgery & Laser (Thailand)"
+    ],
+    "designation": "Professor & Head, Dermatology & Venereology",
+    "name": "Brigadier General Prof. Dr. Md. Shirajul Islam Khan",
+    "speciality": "Skin, Allergy, Cosmetic, Laser & Sexual Diseases Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka, Armed Forces Medical College (AFMC), Dhaka",
+    "image": "image/dr-md-shirajul-islam-khan.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Kimia Diagnostic Center, Pabna",
+            "address": {
+                "name": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+                "longitude": 84.172136,
+                "latitude": 26.584672
+            },
+            "contact": "+8801711489711",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Psychiatry)",
+        "PhD"
+    ],
+    "designation": "Director cum Professor, Psychiatry",
+    "name": "Prof. Dr. Tanmay Prakash Biswas",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "Mental Hospital, Pabna",
+    "image": "image/prof-dr-tanmay-prakash-biswas.jpg"
+}

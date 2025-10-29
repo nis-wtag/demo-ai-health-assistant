@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Lab A One",
+            "address": {
+                "name": "Jaill Road, Dhap, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801740627373",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Junior Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Nusrat Hossain Laz",
+    "speciality": "Gynecology, Infertility Specialist & Surgeon",
+    "workplace": "Pirgacha Upazila Health Complex",
+    "image": "image/dr-nusrat-hossain-laz.jpg"
+}

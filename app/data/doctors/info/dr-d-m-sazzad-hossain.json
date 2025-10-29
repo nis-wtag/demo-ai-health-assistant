@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Aichi Hospital Limited, Uttara",
+            "address": {
+                "name": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+                "longitude": 90.427168,
+                "latitude": 23.767562
+            },
+            "contact": "+8801689956599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "Fellowship Training (Gastroenterology)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. D.M. Sazzad Hossain",
+    "speciality": "Medicine, Gastroenterology & Liver Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-d-m-sazzad-hossain.jpg"
+}

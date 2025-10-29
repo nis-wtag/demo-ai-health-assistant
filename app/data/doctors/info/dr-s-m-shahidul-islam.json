@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "SUO XI Hospital (Acupuncture)",
+            "address": {
+                "name": "24/1, Shaan Tower (Lift 5), Chamelibagh, Shantinagar, Dhaka",
+                "longitude": 90.4119413,
+                "latitude": 23.7415618
+            },
+            "contact": "+8809613-100600",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Tongji Medical University, China)",
+        "MPH, North South University (NSU)",
+        "PhD (Pain & Paralysis)",
+        "President Gold Medalist",
+        "Special Training in Acupuncture"
+    ],
+    "designation": "Pioneer Acupuncture Specialist",
+    "name": "Dr. S. M. Shahidul Islam",
+    "speciality": "Pioneer Acupuncture Specialist, Pain & Rehabilitation, Food Engineering, Traditional Chinese Method, Neurology, Sexology/Sex Specialist, Dietitian/Food & Nutrition (Life Style Modification)",
+    "workplace": "General Secretary of Bangladesh Acupuncture Association",
+    "image": "image/dr-s-m-shahidul-islam.jpg"
+}

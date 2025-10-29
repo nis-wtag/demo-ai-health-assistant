@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": {
+                "name": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+                "longitude": 91.78877,
+                "latitude": 22.333523
+            },
+            "contact": "+8801828880299",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)"
+    ],
+    "designation": "Eye Specialist & Surgeon",
+    "name": "Dr. Md. Altaf Uddin Khan",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-md-altaf-uddin-khan.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Eye Care Hospital, Uttara",
+            "address": {
+                "name": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801787681500",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "MCPS (EYE)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Sifat-E-Bashar",
+    "speciality": "Eye & Cornea Specialist",
+    "workplace": "Dhaka Eye Care Hospital, Uttara",
+    "image": "image/dr-sifat-e-bashar.jpg"
+}

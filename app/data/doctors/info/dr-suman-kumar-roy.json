@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801926684160",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "FACS (USA)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Suman Kumar Roy",
+    "speciality": "Hip, Knee, Joint Replacement, Hand & Pediatric Orthopedic Surgeon",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/dr-suman-kumar-roy.jpg"
+}

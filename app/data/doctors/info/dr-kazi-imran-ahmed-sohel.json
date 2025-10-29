@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801841594096",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Plastic Surgery)",
+        "MRCS (UK)"
+    ],
+    "designation": "Assistant Professor, Plastic Surgery",
+    "name": "Dr. Kazi Imran Ahmed (Sohel)",
+    "speciality": "Burn, Plastic & Reconstructive Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-kazi-imran-ahmed-sohel.jpg"
+}

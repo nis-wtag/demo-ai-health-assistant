@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Lake View Clinic, Gulshan",
+            "address": {
+                "name": "House - 05, Road No - 79, Gulshan 2, Dhaka - 1212",
+                "longitude": 90.40185845428687,
+                "latitude": 23.7843673
+            },
+            "contact": "+8801799336622",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Universal Medical College Hospital Ltd. Mohakhali, Dhaka",
+            "address": {
+                "name": "Mohakhali, Dhaka",
+                "longitude": 90.401922,
+                "latitude": 23.779236
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "FRCS (England)",
+        "FRCS (Glasgow)",
+        "FRCS (Edinburgh)",
+        "FRCS (General)",
+        "MSc (Leeds)",
+        "MBBS (DMC)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Prof. Dr. S.M.G. Kibria",
+    "speciality": "General, Laparoscopic & Vascular Surgeon",
+    "workplace": "Lake View Clinic, Gulshan",
+    "image": "image/prof-dr-s-m-g-kibria-vascular.jpg"
+}

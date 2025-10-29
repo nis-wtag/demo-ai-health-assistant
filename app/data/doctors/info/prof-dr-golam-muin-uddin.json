@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Diagnostic Centre, Banani",
+            "address": {
+                "name": "Plot: 11, Road: 11, Block: G, Flat: 1/A (1st & 2nd Floor), Banani, Dhaka",
+                "longitude": 90.35595245,
+                "latitude": 23.8099357
+            },
+            "contact": "+8801705407170",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "FRCP (Edinburgh, UK)",
+        "Fellow Pediatric Nephrology (Australia)"
+    ],
+    "designation": "Ex. Chairman & Professor, Pediatric Nephrology",
+    "name": "Prof. Dr. Golam Muin Uddin",
+    "speciality": "Child Diseases Specialist & Pediatric Nephrologist/Child Kidney Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-golam-muin-uddin.jpg"
+}

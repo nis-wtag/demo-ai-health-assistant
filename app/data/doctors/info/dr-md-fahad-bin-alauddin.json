@@ -1,0 +1,85 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Kalabagan",
+            "address": {
+                "name": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
+                "longitude": 90.3850461,
+                "latitude": 23.7377492
+            },
+            "contact": "+8801780006670",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                }
+            ]
+        },
+        {
+            "place": "Anwer Khan Modern Diagnostic Centre & Hospital Outdoor Service",
+            "address": {
+                "name": "Plot 11, Road 11, Block G, Flat 1/A (1st & 2nd Floor), Banani, Dhaka-1213",
+                "longitude": 90.41178807218388,
+                "latitude": 23.790815700000003
+            },
+            "contact": "01705407170",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MD (Child & Adolescent Psychiatry-BSMMU)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Md. Fahad-Bin-Alauddin",
+    "speciality": "Psychiatry (Child Psychiatry, Neurodevelopmental Disorders, ADHD, Autism & Drug Addiction) Specialist",
+    "workplace": "International Medical College & Hospital, Gazipur",
+    "image": "image/dr-md-fahad-bin-alauddin.jpg"
+}

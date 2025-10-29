@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801724455152",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO",
+        "FCPS (ENT)",
+        "Trained in Head & Neck Cancer Surgery (India)"
+    ],
+    "designation": "Associate Professor (Ex), ENT",
+    "name": "Dr. M.S. Rahman Shameem",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-m-s-rahman-shameem.jpg"
+}

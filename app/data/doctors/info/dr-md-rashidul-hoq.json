@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Cancer & General Hospital",
+            "address": {
+                "name": "House 71/1, Road 15/A, Shankar Bus Stand, Satmasjid Road, Dhaka",
+                "longitude": 90.3385014992277,
+                "latitude": 23.75698955
+            },
+            "contact": "+8801797619959",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Diploma and Fellowship in Hernia Surgery (APHS)",
+        "Trained in Surgical Oncology & Endo-Laparoscopic Surgery"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Md. Rashidul Hoq",
+    "speciality": "General, Endo-Laparoscopic / Specialist Hermia & AWR Surgeon / Trained Cancer Surgeon",
+    "workplace": "Holy Family Red Crescent Medical College Hospital",
+    "image": "image/dr-md-rashidul-hoq.jpg"
+}

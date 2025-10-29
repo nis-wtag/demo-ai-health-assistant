@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4180668,
+                "latitude": 23.7285093
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS (Surgery)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. S.E. Kabir",
+    "speciality": "General Surgeon",
+    "workplace": "University Dental College & Hospital",
+    "image": "image/prof-dr-s-e-kabir.jpg"
+}

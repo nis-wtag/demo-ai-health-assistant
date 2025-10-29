@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hepatology)",
+        "MACP (USA)"
+    ],
+    "designation": "Registrar, Department of Hepatology",
+    "name": "Dr. Merina Rahman",
+    "speciality": "Liver & Gastroenterology Specialist (Interventional Hepatologist)",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-merina-rahman.jpg"
+}

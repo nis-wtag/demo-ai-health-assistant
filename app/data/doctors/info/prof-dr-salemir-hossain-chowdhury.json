@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Diagnostic Center, Kushtia",
+            "address": {
+                "name": "Sono Tower, College Mor, Court Para, Kushtia",
+                "longitude": 145.121893,
+                "latitude": -37.782304
+            },
+            "contact": "+8801934914714",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "07:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "FRSH (London)",
+        "WHO Fellow (Bangalore)"
+    ],
+    "designation": "Professor, Psychiatry",
+    "name": "Prof. Dr. Salemir Hossain Chowdhury",
+    "speciality": "Psychiatry (Mental Diseases, Headache, Epilepsy, Drug Addiction) Specialist",
+    "workplace": "Shahabuddin Medical College & Hospital",
+    "image": "image/prof-dr-salemir-hossain-chowdhury.jpg"
+}

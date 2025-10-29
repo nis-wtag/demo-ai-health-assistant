@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "TMC Diagnostic & Hospital, Mymensingh",
+            "address": {
+                "name": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
+                "longitude": 90.3951768,
+                "latitude": 24.5823196
+            },
+            "contact": "+8801774955555",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH (BSMMU)"
+    ],
+    "designation": "Resident Physician, Pediatrics",
+    "name": "Dr. Muhammad Shafiqul Haque Sharif",
+    "speciality": "Neonatal & Child Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-muhammad-shafiqul-haque-sharif.jpg"
+}

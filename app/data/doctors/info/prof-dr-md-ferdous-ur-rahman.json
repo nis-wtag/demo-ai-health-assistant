@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor of Medicine",
+    "name": "Prof. Dr. Md. Ferdous Ur Rahman",
+    "speciality": "Medicine & Diabetes Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-md-ferdous-ur-rahman.jpg"
+}

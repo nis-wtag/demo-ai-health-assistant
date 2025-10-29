@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Keraniganj",
+            "address": "Maa Plaza, Kadomtoli Mor, Zinzira, Keraniganj, Dhaka",
+            "contact": "+8801730599171",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801644398608",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DTCD",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Associate Professor, Respiratory Medicine",
+    "name": "Dr. Md. Soroar Hossain",
+    "speciality": "Chest Diseases & Medicine Specialist",
+    "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+    "image": "image/dr-md-soroar-hossain.jpg"
+}

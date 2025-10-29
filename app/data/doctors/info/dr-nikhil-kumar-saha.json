@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Alpha Medical Hall, Pabna",
+            "address": {
+                "name": "Pailanpur (Chowrastar Mor), Sara Road, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801732529472",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PhD (Psychiatry)"
+    ],
+    "designation": "Ex. CA, Psychiatry",
+    "name": "Dr. Nikhil Kumar Saha",
+    "speciality": "Mental Diseases, Drug Addiction, Headache & Epilepsy Specialist",
+    "workplace": "Mental Hospital, Pabna",
+    "image": "image/dr-nikhil-kumar-saha.jpg"
+}

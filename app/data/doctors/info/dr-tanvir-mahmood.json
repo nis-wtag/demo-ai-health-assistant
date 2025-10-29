@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Center for Advanced Homeopath",
+            "address": {
+                "name": "Shop no-34, Ground Floor, Hosaf Shopping Complex, 6/9 Outer Circular Road, Malibagh Mor, Dhaka",
+                "longitude": 90.4134531,
+                "latitude": 23.7447815
+            },
+            "contact": "+8801745940171",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS",
+        "PDT (B.H.M.C.H)",
+        "PGHom (London)",
+        "SCPH (Mumbai)"
+    ],
+    "designation": "Homeopathic Doctor & Consultant",
+    "name": "Dr. Tanvir Mahmood",
+    "speciality": "Any Kind of Chronic Disease: Anxiety, ADHD, Autism,Psychological Disease, Headache, Migraine, Hair Problem, Asthma, Gastroenterology, Piles, Kidney Rheumatology, Back Pain, Skin Disease, Allergy, Psoriasis, Gynecology & Obstetrics, Infertility, Maternal & Child Health Care, Cancer with Palliative Care, Sexual Diseases, Sexual Problem, General Weakness",
+    "workplace": "Center for Advanced Homeopath",
+    "image": "image/dr-tanvir-mahmood.jpg"
+}

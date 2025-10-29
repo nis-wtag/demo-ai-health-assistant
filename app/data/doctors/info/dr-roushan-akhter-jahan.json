@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Chittagong",
+            "address": {
+                "name": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801731253990",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Chittagong",
+            "address": {
+                "name": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8809610009622",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Associate Professor (Gynae & Obst)",
+    "name": "Dr. Roushan Akhter Jahan",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-roushan-akhter-jahan.jpg"
+}

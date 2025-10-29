@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare Ltd. (East Gate Branch)",
+            "address": {
+                "name": "Room 608, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+88 01558473788",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Eagle’s Eye Diagnostic Research & Consultation Center",
+            "address": {
+                "name": "Room No – 202, Chawkbazar (Besides Wali Khan Mosque), Chittagong",
+                "longitude": 91.798561,
+                "latitude": 22.312868
+            },
+            "contact": "+8801557473788",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS(Health)",
+        "MD (Internal Medicine)",
+        "CCD (BIRDEM)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Arpan Das",
+    "speciality": "Medicine, Hormone & Diabetes Specialist",
+    "workplace": "Rangamati Medical College Hospital",
+    "image": "image/dr-arpan-das.jpg"
+}

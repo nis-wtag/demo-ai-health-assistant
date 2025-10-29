@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "PediCare Hospital, Chittagong",
+            "address": {
+                "name": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
+                "longitude": 91.834199,
+                "latitude": 22.362801
+            },
+            "contact": "+8801715263771",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCPCH (UK)"
+    ],
+    "designation": "Research Assistant, Pediatric Neurology",
+    "name": "Dr. Mohammed Yousuf Meah",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-mohammed-yousuf-meah.jpg"
+}

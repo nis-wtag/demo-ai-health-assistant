@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Aims Hospital, Badda",
+            "address": {
+                "name": "House # 04, Road # 11, Progati Saroni, Merul Badda, Dhaka",
+                "longitude": 90.350347,
+                "latitude": 23.751253
+            },
+            "contact": "+8801716313646",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "FACS (USA)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Sanjoy Saha",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-sanjoy-saha.jpg"
+}

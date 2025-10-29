@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedic)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Khandaker Abu Sayed",
+    "speciality": "Bone, Joint, Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-khandaker-abu-sayed.jpg"
+}

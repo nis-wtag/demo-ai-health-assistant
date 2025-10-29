@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8801842241281",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (Vascular Surgery, BSMMU)"
+    ],
+    "designation": "Consultant, Vascular Surgery",
+    "name": "Dr. Nur A. Al Amin",
+    "speciality": "Vascular Surgeon",
+    "workplace": "Ibn Sina Specialized Hospital, Dhanmondi",
+    "image": "image/dr-nur-a-al-amin.jpg"
+}

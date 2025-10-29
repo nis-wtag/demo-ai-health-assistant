@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPM",
+        "MPhil (Psychiatry)"
+    ],
+    "designation": "Director cum Professor, Psychiatry",
+    "name": "Prof. Dr. Bidhan Ranjan Roy Poddar",
+    "speciality": "Mental Health, Drug Addiction & Sexual Diseases Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/prof-dr-bidhan-ranjan-roy-poddar.jpg"
+}

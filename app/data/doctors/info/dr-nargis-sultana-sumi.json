@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4180668,
+                "latitude": 23.7285093
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (OBGYN)",
+        "Special Training on Infertility (India)"
+    ],
+    "designation": "Senior Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Nargis Sultana Sumi",
+    "speciality": "Gynecology, Infertility Specialist & Surgeon",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-nargis-sultana-sumi.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Community Based Medical College & Hospital",
+            "address": {
+                "name": "Chomir Plaza, Charpara Mor, Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8801711707738",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DA"
+    ],
+    "designation": "Associate Professor & Head, Anesthesiology",
+    "name": "Dr. Md. Abul Kalam Azad Khan",
+    "speciality": "Anesthesiologist & Pain Specialist",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-md-abul-kalam-azad-khan.jpg"
+}

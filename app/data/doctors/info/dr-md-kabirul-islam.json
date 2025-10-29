@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Khulna",
+            "address": {
+                "name": "42, Khan Jahan Ali Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801711298607",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatrics)",
+        "PGPN (USA)",
+        "ENS (Germany)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Md. Kabirul Islam",
+    "speciality": "Child & Nutrition Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-md-kabirul-islam.jpg"
+}

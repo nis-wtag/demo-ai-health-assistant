@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Vision Eye Hospital, Dhaka",
+            "address": {
+                "name": "229 Green Road, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.385587,
+                "latitude": 23.7471253
+            },
+            "contact": "+8809610244123",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "D-OPHTH (BSMMU)",
+        "CCD (BIRDEM)",
+        "Long Term Cataract Surgery Training, Ispahani Islamia Eye Institute and Hospital",
+        "Advanced Training in Retinopathy of Prematurity (ROP), London School of Hygiene & Tropical Medicine",
+        "Fellow, Paediatric Ophthalmology & Strabismus, National Institute of Ophthalmology and Hospital"
+    ],
+    "designation": "Consultant, Department of Paediatric Ophthalmology",
+    "name": "Dr. Jamsed Faridi Jami",
+    "speciality": "Phaco, Squint & Child Eye Specialist",
+    "workplace": "Vision Eye Hospital, Dhaka",
+    "image": "image/dr-jamsed-faridi-jami.jpg"
+}

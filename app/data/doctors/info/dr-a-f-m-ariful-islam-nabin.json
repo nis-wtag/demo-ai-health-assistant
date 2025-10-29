@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "165/166, Green Road (3rd Floor), Dhanmondi, Dhaka – 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8801683775539",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Gazipur",
+            "address": "Unit 01, Shibbari Mor, Joydebpur, Gazipur",
+            "contact": "+8809666787816",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Plastic & Reconstructive Surgery)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Burn & Plastic Surgery",
+    "name": "Dr. A.F.M. Ariful Islam Nobin",
+    "speciality": "Plastic & Aesthetic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-a-f-m-ariful-islam-nabin.jpg"
+}

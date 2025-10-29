@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Digital Diagnostic Center, Pabna",
+            "address": {
+                "name": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801748343270",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ENT)"
+    ],
+    "designation": "Assistant Professor, ENT",
+    "name": "Dr. Harun Or Rashid",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Pabna Medical College & Hospital",
+    "image": "image/dr-harun-ur-rashid-bhuiyan.jpg"
+}

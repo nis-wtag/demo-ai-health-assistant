@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Spine & Orthopedic Hospital",
+            "address": {
+                "name": "10, Main Road, Kallayanpur (Bus Stand), Dhaka - 1216",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801674122376",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MRCS (Edinburgh)",
+        "MS (Orthopedic Surgery)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Md. Hasibuzzaman",
+    "speciality": "Orthopedic, Trauma & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-md-hasibuzzaman.jpg"
+}

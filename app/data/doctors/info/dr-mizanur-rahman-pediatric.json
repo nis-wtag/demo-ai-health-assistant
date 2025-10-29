@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Point Specialized Hospital, Khulna",
+            "address": {
+                "name": "49, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801795383803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Assistant Professor, Pediatric Surgery",
+    "name": "Dr. Mizanur Rahman",
+    "speciality": "Pediatric (Child) Surgery Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mizanur-rahman-pediatric.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (Skin & VD)"
+    ],
+    "designation": "Consultant & Head, Dermatology & Venereology",
+    "name": "Dr. Farzana Afroze",
+    "speciality": "Skin, Sex, Allergy & Cosmetic Dermatology Specialist",
+    "workplace": "Ahsania Mission Cancer & General Hospital",
+    "image": "image/dr-farzana-afroze.jpg"
+}

@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Nasir HealthCare & Physiotherapy",
+            "address": "60, West Monipur, Kamal Soroni, Mirpur-2, Dhaka",
+            "contact": "+8801638618081",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BPT",
+        "DSS (Exercise Physiology)",
+        "MPH (Epidemiology)",
+        "MSc (Physiotherapy)"
+    ],
+    "designation": "Consultant, Physiotherapy",
+    "name": "Dr. Nasiruddin Ahmed",
+    "speciality": "Pain, Arthritis, Paralysis & Physiotherapy Specialist",
+    "workplace": "IDSC, Ministry of Social Welfare",
+    "image": "image/dr-nasiruddin-ahmed.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor, Medicine",
+    "name": "Prof. Dr. Syed Rezaul Karim",
+    "speciality": "Medicine Specialist",
+    "workplace": "Khulna City Medical College & Hospital",
+    "image": "image/prof-syed-rezaul-karim.jpg"
+}

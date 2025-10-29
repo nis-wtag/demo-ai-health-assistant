@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Mirpur General Hospital & Diagnostic Center",
+            "address": {
+                "name": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+                "longitude": 90.401863,
+                "latitude": 23.85907
+            },
+            "contact": "+8801610964966",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Consultant (Hepatology)",
+    "name": "Dr. Md. Enamul Haque (Faisal)",
+    "speciality": "Liver Specialist & Interventional Hepatologist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-enamul-haque-faisal.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Community Hospital, Rangpur",
+            "address": {
+                "name": "Jail Road, Dhap, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801750908297",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Associate Professor (Orthopedics)",
+    "name": "Dr. Md. Ashfaqur Rahman (Romel)",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-ashfaqur-rahman-romel.jpg"
+}

@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Trust Medical Services, Sylhet",
+            "address": {
+                "name": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801746727154",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Icon Medical Services, Moulvibazar",
+            "address": {
+                "name": "Bebir Par, Sreemangal Road, Moulvibazar Sadar, Moulvibazar",
+                "longitude": 91.858094,
+                "latitude": 24.481265
+            },
+            "contact": "+8801731399110",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)",
+        "Training in Echocardiography (India)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Debashish Paul",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-debashish-paul.jpg"
+}

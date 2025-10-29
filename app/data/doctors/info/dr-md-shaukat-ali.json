@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (CVTS)",
+        "Fellow (NUH, Singapore)"
+    ],
+    "designation": "Consultant, Cardiac Surgery",
+    "name": "Dr. Md. Shaukat Ali",
+    "speciality": "Cardiovascular & Thoracic Surgery Specialist",
+    "workplace": "Bangladesh Specialized Hospital",
+    "image": "image/dr-md-shaukat-ali.jpg"
+}

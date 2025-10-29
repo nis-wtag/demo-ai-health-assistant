@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Iconic Skin Care, Chittagong",
+            "address": {
+                "name": "SF Empire (SIBL Building), Level 2, Chatteshwari Moor, Mehedibag, Chattogram",
+                "longitude": 14.095215,
+                "latitude": 53.385932
+            },
+            "contact": "+8801862708221",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (BSMMU)",
+        "Fellowship in Dermatosurgery",
+        "Trained in Aesthetic Dermatology (DDI)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Tasnuva Tazrin Papri",
+    "speciality": "Skin, Allergy, Hair & LASER Specialist",
+    "workplace": "Iconic Skin Care, Chittagong",
+    "image": "image/dr-tasnuva-tazrin-papri.jpg"
+}

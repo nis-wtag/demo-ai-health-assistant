@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "MD (Skin & Sex)",
+        "MMEd",
+        "Gold Medalist"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. Md. Abdal Miah",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-abdal-miah.jpg"
+}

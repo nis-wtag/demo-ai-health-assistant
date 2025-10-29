@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS (Oral & Maxillofacial Surgery)",
+        "Advanced Fellowship Trainings on Advanced Dental Implantology & Maxillofacial Surgery (USA, Austria, India)"
+    ],
+    "designation": "Associate Professor & Head, Dental & Maxillofacial Surgery",
+    "name": "Dr. Mohammad Ali Hossain",
+    "speciality": "Dental & Oral Specialist Surgeon",
+    "workplace": "Chattagram International Dental College & Hospital",
+    "image": "image/dr-mohammad-ali-hossain.jpg"
+}

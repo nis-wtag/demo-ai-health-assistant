@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Dental Art, Rajshahi",
+            "address": {
+                "name": "In-between Medical Ghoshpara & Fire Service Mor, West Side, Shipaipara, Rajshahi",
+                "longitude": -115.745223,
+                "latitude": 46.187831
+            },
+            "contact": "+8801760553400",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MPH",
+        "PGT (Conservative Dentistry & Endodontics)"
+    ],
+    "designation": "Principal",
+    "name": "Dr. Mir Younus Ali Rimon",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Udayan MATS, Rajshahi",
+    "image": "image/dr-mir-younus-ali-rimon.jpg"
+}

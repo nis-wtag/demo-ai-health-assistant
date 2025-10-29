@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Elegant Dentistry, Rangpur",
+            "address": {
+                "name": "Canopus Building (4th Floor), 39/7, RDRS More, Dhap, Jail Road, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801764889923",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)",
+        "FCPS (OMS)"
+    ],
+    "designation": "Assistant Professor & Head of Dept (Oral & Maxillofacial Surgery)",
+    "name": "Dr. Md. Ariful Islam",
+    "speciality": "Tumor, Cancer, Cyst, Oral & Maxillofacial Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-ariful-islam-dentist.jpg"
+}

@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Health Aid Diagnostic Center",
+            "address": {
+                "name": "Kashem Mansion (2nd floor), Santinogor, Bakalia Access Road, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801815850532",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "DCH (BSMMU)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Taslima Khairunnesa Nasrin",
+    "speciality": "Neonate & Child Diseases Specialist",
+    "workplace": "Jameson Red Crescent Maternity Hospital",
+    "image": "image/dr-taslima-khairunnesa-nasrin.jpg"
+}

@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Consultation Center, Kushtia",
+            "address": {
+                "name": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+                "longitude": 89.1295536,
+                "latitude": 23.8987955
+            },
+            "contact": "+8801770997352",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Mohsina Haider",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "250 Bedded General Hospital, Kushtia",
+    "image": "image/dr-mohsina-haider.jpg"
+}

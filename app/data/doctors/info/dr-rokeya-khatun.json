@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Metropolitan Hospital",
+            "address": {
+                "name": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
+                "longitude": -73.98162,
+                "latitude": 40.7251418
+            },
+            "contact": "+8801710243388",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Rokeya Khatun",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-rokeya-khatun-2.jpg"
+}

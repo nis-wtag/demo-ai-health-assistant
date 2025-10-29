@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rangpur",
+            "address": {
+                "name": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+                "longitude": 89.241459,
+                "latitude": 25.7569808
+            },
+            "contact": "+8809666787813",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Gastroenterology)",
+        "Fellow (India)"
+    ],
+    "designation": "Associate Professor, Gastroenterology",
+    "name": "Dr. Jimma Hossain",
+    "speciality": "Gastroenterology, Liver Diseases & Pancreas Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-jimma-hossain.jpg"
+}

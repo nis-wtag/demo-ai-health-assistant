@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Noorjahan Hospital, Sylhet",
+            "address": {
+                "name": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+                "longitude": 91.869326,
+                "latitude": 24.9020922
+            },
+            "contact": "+8801979005522",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "CCD (BIRDEM)",
+        "Higher Training (Diabetes, AU)"
+    ],
+    "designation": "Resident Medical Officer,Diabetes",
+    "name": "Dr. Lalit Mohan Nath",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Sylhet Diabetic Hospital, Sylhet",
+    "image": "image/dr-lalit-mohan-nath.jpg"
+}

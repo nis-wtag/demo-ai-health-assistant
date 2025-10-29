@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Mishu Clinic & Diagnostic Center, Khulna",
+            "address": {
+                "name": "20/4, Shamsur Rahman Road, Khulna, Bangladesh",
+                "longitude": 89.5638206,
+                "latitude": 22.8123098
+            },
+            "contact": "+8801304462108",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor (Cardiology)",
+    "name": "Dr. Md. Jahidur Rahman",
+    "speciality": "Cardiology (Heart Diseases, Hypertension & Medicine) Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-md-jahidur-rahman.jpg"
+}

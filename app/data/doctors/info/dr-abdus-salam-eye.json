@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ispahani Islamia Eye Institute & Hospital",
+            "address": {
+                "name": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
+                "longitude": 90.387863,
+                "latitude": 23.758585
+            },
+            "contact": "+8809610998333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "07:30",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Consultant, Cornea",
+    "name": "Dr. Abdus Salam",
+    "speciality": "Cataract, Cornea & Anterior Segment Specialist",
+    "workplace": "Ispahani Islamia Eye Institute & Hospital",
+    "image": "image/dr-abdus-salam-eye.jpg"
+}

@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 146, Road # 02, Block # B, Pallabi, Mirpur-12, Dhaka",
+                "longitude": 90.4263005,
+                "latitude": 23.748104
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCM",
+        "DCH",
+        "MCPS",
+        "MD (Pediatrics)",
+        "MD (Pediatric Hematology)"
+    ],
+    "designation": "Ex. Professor of Pediatric Hematology",
+    "name": "Prof. Dr. A.K.M. Amirul Morshed (Khasru)",
+    "speciality": "Child Disease, Child Cancer & Child Blood Disease Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-a-k-m-amirul-morshed-khasru.jpg"
+}

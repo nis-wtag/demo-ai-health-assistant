@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:30",
+                    "end_time": "12:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPH (DU)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Md. Faizul Bari",
+    "speciality": "Diabetologist & Preventive Medicine Specialist",
+    "workplace": "Islami Bank Hospital, Mugda",
+    "image": "image/dr-md-faizul-bari.jpg"
+}

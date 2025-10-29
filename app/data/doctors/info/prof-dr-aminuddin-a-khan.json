@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+88031656565",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Professor, Physical Medicine & Rehabilitation",
+    "name": "Prof. Dr. Aminuddin A. Khan",
+    "speciality": "Arthritis, Pain, Paralysis, Rheumatology & Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-aminuddin-a-khan.jpg"
+}

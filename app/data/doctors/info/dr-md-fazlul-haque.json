@@ -1,0 +1,19 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Diagnostic Center, Rangpur",
+            "address": "Medical Mor, Jail Road, Dhap, Rangpur",
+            "contact": "+8801733008087",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Eye Specialist doctor",
+    "name": "Dr. Md. Fazlul Haque",
+    "speciality": "Eye Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-fazlul-haque.jpg"
+}

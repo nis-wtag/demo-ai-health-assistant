@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Mirpur",
+            "address": {
+                "name": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+                "longitude": 90.36164,
+                "latitude": 23.8244224
+            },
+            "contact": "+8801847262996",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Orthopedic Surgeon",
+    "name": "Dr. Md. Zahid Ferdous",
+    "speciality": "Orthopedic Surgeon",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/dr-md-zahid-ferdous.jpg"
+}

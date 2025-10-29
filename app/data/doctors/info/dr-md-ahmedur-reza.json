@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Shin Shin Japan Hospital, Uttara",
+            "address": {
+                "name": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801929478565",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Assistant Professor, Physical Medicine & Rehabilitation",
+    "name": "Dr. Md. Ahamedur Reza",
+    "speciality": "Arthritis, Paralysis, Pain & Physical Medicine Specialist",
+    "workplace": "Uttara Adhunik Medical College & Hospital",
+    "image": "image/dr-md-ahmedur-reza.jpg"
+}

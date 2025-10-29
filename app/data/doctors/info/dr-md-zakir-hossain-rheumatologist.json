@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Room 563, Old Building (4th Floor), Kandirpar, Cumilla",
+                "longitude": 91.1799946,
+                "latitude": 23.4610872
+            },
+            "contact": "+8801303542254",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "BCS (Health)",
+        "MD (Rheumatology)"
+    ],
+    "designation": "Consultant, Rheumatology",
+    "name": "Dr. Md. Zakir Hossain",
+    "speciality": "Rheumatology (বাতজ্বর ও বাতব্যথা বিশেষজ্ঞ) Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-zakir-hossain-rheumatologist.jpg"
+}

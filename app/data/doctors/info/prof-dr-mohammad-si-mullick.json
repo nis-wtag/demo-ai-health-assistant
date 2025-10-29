@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Psychiatric Care",
+            "address": {
+                "name": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+                "longitude": -58.453983,
+                "latitude": -34.551344
+            },
+            "contact": "+8801872863002",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "PhD",
+        "FRCPsych (London)",
+        "DCAP (London)",
+        "FAPA (USA)",
+        "DFAACAP (USA)"
+    ],
+    "designation": "Ex. Professor, Psychiatry",
+    "name": "Prof. Dr. Mohammad SI Mullick",
+    "speciality": "General, Child & Adolescent Psychiatrist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-mohammad-si-mullick.jpg"
+}

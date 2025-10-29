@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": {
+                "name": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+                "longitude": 90.3670992,
+                "latitude": 23.7520204
+            },
+            "contact": "+88029672277",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MS (NITOR)",
+        "AO-Basic (India)"
+    ],
+    "designation": "Orthopedic & Traumatology Specialist Surgeon",
+    "name": "Dr. Sanjoy Sinha",
+    "speciality": "Orthopedic & Traumatology Specialist Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-sanjoy-sinha.jpg"
+}

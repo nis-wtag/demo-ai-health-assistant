@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Physio Zone Physiotherapy Center, Uttara",
+            "address": "22, Rabindra Sharani Road, Sector - 07, Uttara, Dhaka-1230",
+            "contact": "+8801978332936",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "KC Hospital & Diagnostic Center",
+            "address": {
+                "name": "2620, Nowapara, Daskinkhan, Uttara, Dhaka",
+                "longitude": 90.3912673,
+                "latitude": 23.8795543
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BPT",
+        "MPT (BHPI-CRP)",
+        "MS (Geriatric-DU)",
+        "Diploma in Orthopedic Medicine (In Course)"
+    ],
+    "designation": "Chief Consultant & Coordinator",
+    "name": "Dr. Md. Nesar Uddin Shaker",
+    "speciality": "Physiotherapy (Pain, Arthritis, Paralysis) Specialist",
+    "workplace": "Physio Zone Physiotherapy Center, Uttara",
+    "image": "image/dr-md-nesar-uddin-shaker.jpg"
+}

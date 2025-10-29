@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801882650764",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)",
+        "NICVD"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Md. Sheikh Mamun",
+    "speciality": "Cardiology Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-md-sheikh-mamun.jpg"
+}

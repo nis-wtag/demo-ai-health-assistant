@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Chest Disease)",
+        "FCCP (USA)"
+    ],
+    "designation": "Assistant Professor & Head, Respiratory Medicine",
+    "name": "Dr. Taposh Bose",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-taposh-bose.jpg"
+}

@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, East Rajabazar, West Panthapath, Dhaka - 1215",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "+8801854113051",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500",
+                "longitude": 90.655774,
+                "latitude": 23.22696
+            },
+            "contact": "+8801706060911",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Urology)"
+    ],
+    "designation": "Senior Consultant, Urology",
+    "name": "Dr. Mohammad Habibur Rahman",
+    "speciality": "Urologist, Kidney Stone Surgeon & Uro-Laparoscopic Surgeon",
+    "workplace": "National Institute of Kidney Diseases & Urology",
+    "image": "image/dr-mohammad-habibur-rahman-urology.jpg"
+}

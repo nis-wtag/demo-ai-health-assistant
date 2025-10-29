@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Sylhet",
+            "address": {
+                "name": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801674375782",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "MS (Ortho)",
+        "FACS",
+        "FRCS (Glasgow)",
+        "FICS (Ortho)"
+    ],
+    "designation": "Professor & Former Head of the Dept. of Orthopedic Surgery",
+    "name": "Prof. Dr. Dipankar Nath Talukder",
+    "speciality": "Bone & Joint Specialist, Trauma and Orthopedic Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/prof-dr-dipankar-nath-talukder.jpg"
+}

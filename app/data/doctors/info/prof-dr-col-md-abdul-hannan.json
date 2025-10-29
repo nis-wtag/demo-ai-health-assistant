@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Hitech Multicare Hospital",
+            "address": {
+                "name": "164, East Kafrul, Dhaka Cantonment, Dhaka - 1206",
+                "longitude": 90.387331,
+                "latitude": 23.78782
+            },
+            "contact": "+8801678129126",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FCPS (Cadiovascular Surgery)",
+        "Fellowship in Cardiac, Thoracic & Vascular Surgery (SG)",
+        "Fellowship in Minimally Invasive Cardiac Surgery (India)"
+    ],
+    "designation": "Classified Cardiovascular Surgeon, Cardiac Surgery",
+    "name": "Prof. Dr. Col. Md. Abdul Hannan",
+    "speciality": "Cardiovascular & Thoracic Surgery Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-dr-col-md-abdul-hannan.jpg"
+}

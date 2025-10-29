@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Healthcare Diagnostics Center",
+            "address": {
+                "name": "23/2, Khilji Road, Block-B, Shyamoli, Dhaka",
+                "longitude": 90.3655593,
+                "latitude": 23.7742046
+            },
+            "contact": "10661",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)",
+        "CCD (BIRDEM)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Nephrology",
+    "name": "Dr. Md. Mirazul Hasan",
+    "speciality": "Kidney Diseases & Diabetes Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-md-mirazul-hasan.jpg"
+}

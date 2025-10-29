@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PhD (Surgery)",
+        "MS (Urology)"
+    ],
+    "designation": "Professor & Head, Urology",
+    "name": "Prof. Dr. M. Fakhrul Islam",
+    "speciality": "Urology (Kidney, Prostate, Bladder) Specialist & Surgeon",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-m-fakhrul-islam.jpg"
+}

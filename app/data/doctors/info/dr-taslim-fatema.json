@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DCH",
+        "MD (Pediatric Gastroenterology & Hepatology)"
+    ],
+    "designation": "Assistant Professor, Pediatric Gastroenterology",
+    "name": "Dr. Taslim Fatema",
+    "speciality": "Child Gastroenterology & Liver Diseases Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-taslim-fatema.jpg"
+}

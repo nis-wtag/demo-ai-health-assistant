@@ -1,0 +1,80 @@
+.venv/
+venv/
+env/
+
+__pycache__
+
+Bytecode and compiled files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+Ruff cache
+.ruff_cache/
+
+Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+
+.env
+.env.local
+.env.docker
+*.env
+
+VSCode
+.vscode/
+
+PyCharm
+.idea/
+
+Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+
+macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+Log files
+*.log
+logs/
+
+Temporary files
+*.tmp
+*.swp
+*.swo
+
+Local Streamlit configuration
+.streamlit/
+
+app/data/doctors/image

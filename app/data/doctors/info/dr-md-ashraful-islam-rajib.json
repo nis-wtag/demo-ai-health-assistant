@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Authentic Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801719701552",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "BCS (HEALTH)",
+        "MS-UROLOGY(BSMMU)"
+    ],
+    "designation": "Consultant, Department of Urology",
+    "name": "Dr. Md. Ashraful Islam (Rajib)",
+    "speciality": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-ashraful-islam-rajib.jpg"
+}

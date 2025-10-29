@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Riad's Dental Solution",
+            "address": {
+                "name": "2nd Floor, Happy Arcade Shopping Mall, House #3, Road #3, Dhanmondi , Dhaka",
+                "longitude": 90.382739,
+                "latitude": 23.74029
+            },
+            "contact": "+8801716055020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "PGT (OMS-DDCH)",
+        "CPR Training (DMC)",
+        "Trained in Endodontics (Singapore)"
+    ],
+    "designation": "Senior Lecturer, Conservative Dentistry & Endodontics",
+    "name": "Dr. Naser Md. Kamrul Hasan (Riad)",
+    "speciality": "Oral & Dental Surgeon, Root Canal Treatment Specialist & Cosmetic Dentist",
+    "workplace": "Pioneer Dental College & Hospital",
+    "image": "image/dr-naser-md-kamrul-hasan.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712685297",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (DU)"
+    ],
+    "designation": "Cardiology Specialist",
+    "name": "Dr. Md. Shahadat Hossain Rowshon",
+    "speciality": "Cardiologist",
+    "workplace": "Barind Medical College & Hospital",
+    "image": "image/dr-md-shahadat-hossain-rowshon.jpg"
+}

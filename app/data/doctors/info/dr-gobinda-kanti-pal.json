@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8801796586561",
+            "visiting_hours": null
+        },
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Gobinda Kanti Pal",
+    "speciality": "Cardiology, Medicine & Rheumatology Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-gobinda-kanti-pal.jpg"
+}

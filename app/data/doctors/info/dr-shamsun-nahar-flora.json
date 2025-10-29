@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO (DMC)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Obstetrics & Gynecology",
+    "name": "Dr. Shamsun Nahar Flora",
+    "speciality": "Gynecologist, Obstetrician & Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-shamsun-nahar-flora.jpg"
+}

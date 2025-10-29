@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "D-ORTHO",
+        "FCPS (Final Part)"
+    ],
+    "designation": "Resident Surgeon, Orthopedic Surgery",
+    "name": "Dr. A.K.M. Mustafizur Rahman Mintu",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-a-k-m-mustafizur-rahman-mintu.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Al Helal Specialized Hospital",
+            "address": {
+                "name": "Room # 1110, 150, Begum Rokeya Sarani, Mirpur-10, Dhaka - 1216",
+                "longitude": 90.354277,
+                "latitude": 23.799135
+            },
+            "contact": "+8801816409164",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RpMC)",
+        "MS (CVTS)"
+    ],
+    "designation": "Assistant Professor, Cardiac Surgery",
+    "name": "Dr. Heemel Saha",
+    "speciality": "Cardiovascular & Thoracic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-heemel-saha.jpg"
+}

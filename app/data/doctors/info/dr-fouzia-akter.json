@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ideal Diagnostic Center, Rangpur",
+            "address": {
+                "name": "6/7, Treatment Tower, Dhap (beside of Police Fari), Jail Road, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801966555357",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "FCPS (OBGYN)",
+        "BCS (Health)"
+    ],
+    "designation": "Consultant (Obstetrics & Gynecology)",
+    "name": "Dr. Fouzia Akter",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-fouzia-akter.jpg"
+}

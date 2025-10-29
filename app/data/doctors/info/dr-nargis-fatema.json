@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Senior Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Nargis Fatema",
+    "speciality": "Gynecology, High Risk Pregnancy Specialist & Laparoscopic Surgeon",
+    "workplace": "Square Hospital, Dhaka",
+    "image": "image/dr-nargis-fatema.jpg"
+}

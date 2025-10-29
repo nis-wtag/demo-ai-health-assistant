@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Medix (United Wellness & Aesthetic Centre)",
+            "address": {
+                "name": "62 Satmasjid Road , Dhanmondi, Dhaka - 1209",
+                "longitude": 90.37373165042965,
+                "latitude": 23.7420184
+            },
+            "contact": "+8801676854601",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Dermatology & Venereology)",
+        "Diploma in Dermatology & Dermatosurgery (Thailand)",
+        "Diploma in Aesthetic Medicine (USA)",
+        "Fellowship in Laser & Cutaneous Surgery (Thailand)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Fatamatuz Zohura Antora",
+    "speciality": "Skin, Sex & Anti Aging Specialist, Laser & Cutaneous Surgeon",
+    "workplace": "Medix",
+    "image": "image/dr-fatamatuz-zohura-antora.jpg"
+}

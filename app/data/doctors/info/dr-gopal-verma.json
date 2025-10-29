@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Aichi Hospital Limited, Uttara",
+            "address": {
+                "name": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+                "longitude": 90.427168,
+                "latitude": 23.767562
+            },
+            "contact": "+8801689956599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MS (Orthopedics)",
+        "Trained in Foot Care Management (USA)"
+    ],
+    "designation": "Assistant Professor, Orthopedics",
+    "name": "Dr. Gopal Verma",
+    "speciality": "Orthopedics, Trauma, Ilizrov, Spine & Joint Replacement Surgeon",
+    "workplace": "Aichi Medical College & Hospital",
+    "image": "image/dr-gopal-verma.jpg"
+}

@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Star Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "41, Shamsur Rahman Road (East Side of Shantidham Mor), Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "16:30"
+                }
+            ]
+        },
+        {
+            "place": "Mishu Clinic & Diagnostic Center, Khulna",
+            "address": {
+                "name": "20/4, Shamsur Rahman Road, Khulna, Bangladesh",
+                "longitude": 89.5638206,
+                "latitude": 22.8123098
+            },
+            "contact": "+8801304462108",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (General Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Mohammad Mohiuddin",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mohammad-mohiuddin.jpg"
+}

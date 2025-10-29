@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Garib Nawaz Clinic Diagnostic Limited, Khulna",
+            "address": {
+                "name": "C3, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Hepatobiliary Surgery)",
+        "FCPS-Final Part (Surgery)"
+    ],
+    "designation": "Consultant Surgeon",
+    "name": "Dr. Md. Arifuzzaman Shehab",
+    "speciality": "General, Laparoscopic & Hepatobiliary Surgery Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-md-arifuzzaman-shehab.jpg"
+}

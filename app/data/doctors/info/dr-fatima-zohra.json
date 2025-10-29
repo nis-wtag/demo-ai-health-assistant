@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Advance Hospital, Banasree",
+            "address": {
+                "name": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+                "longitude": 90.359409,
+                "latitude": 23.77451
+            },
+            "contact": "+8801999242424",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Fatima Zohra",
+    "speciality": "Psychiatry (Mental Diseases, Headache, Drug Addiction, Sex) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-fatima-zohra.jpg"
+}

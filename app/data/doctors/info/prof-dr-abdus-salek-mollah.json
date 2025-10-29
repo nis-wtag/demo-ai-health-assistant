@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Royal Hospital, Chittagong",
+            "address": {
+                "name": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+                "longitude": 91.82858859999999,
+                "latitude": 22.36043685
+            },
+            "contact": "+880241355934",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)",
+        "PhD"
+    ],
+    "designation": "Professor & Head, Endocrinology & Metabolism",
+    "name": "Prof. Dr. Abdus Saleque Mollah",
+    "speciality": "Diabetes, Thyroid, & Hormonal Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-abdus-salek-mollah.jpg"
+}

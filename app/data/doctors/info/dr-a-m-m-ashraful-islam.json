@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare Ltd. (East Gate Branch)",
+            "address": {
+                "name": "Room 805, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801765031500",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "FCPS (Physical Medicine & Rehabilitation)",
+        "EULAR Certified RHEUMATOLOGIST (Switzerland)",
+        "ISPRM Certified NEUROREHAB Specialist"
+    ],
+    "designation": "Consultant, Physical Medicine & Rehabilitation",
+    "name": "Dr. A.M.M. Ashraful Islam",
+    "speciality": "Pain, Arthritis, Sports Injury, Stroke & Paralysis Rehab Specialist",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/dr-a-m-m-ashraful-islam.jpg"
+}

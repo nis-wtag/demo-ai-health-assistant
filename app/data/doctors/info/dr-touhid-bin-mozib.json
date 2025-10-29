@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "Oral Dental Care, Sipaipara, Rajshahi",
+            "address": {
+                "name": "2nd floor, Medical College Gate, Sipaipara, Rajshahi",
+                "longitude": 90.379751,
+                "latitude": 23.738565
+            },
+            "contact": "+8801721100332",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (RMC)",
+        "PGT (Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Chief Consultant, Dentistry",
+    "name": "Dr. Touhid Bin Mozib",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Oral Dental Care, Sipaipara, Rajshahi",
+    "image": "image/dr-touhid-bin-mozib.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711144786",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE-BSMMU)"
+    ],
+    "designation": "Junior Consultant, Ophthalmology",
+    "name": "Dr. Sayaka Sultana",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-sayaka-sultana.jpg"
+}

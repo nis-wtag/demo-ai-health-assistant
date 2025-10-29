@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "North East Cancer Hospital, Sylhet",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet – 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801799456926",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SZMC)",
+        "MD (Oncology, BSMMU)",
+        "Higher Specialty Training in Medical & Radiation Oncology, India"
+    ],
+    "designation": "Assistant Professor, Oncology",
+    "name": "Dr. Md. Ruhul Amin Bhuiyan",
+    "speciality": "Clinical & Radiation Oncologist (Cancer Specialist)",
+    "workplace": "North East Cancer Hospital, Sylhet",
+    "image": "image/dr-md-ruhul-amin-bhuiyan.jpg"
+}

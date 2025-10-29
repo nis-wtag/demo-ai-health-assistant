@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Medi-Aid Diagnostic & Consultation Center",
+            "address": {
+                "name": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100",
+                "longitude": 91.85357672746755,
+                "latitude": 24.90202515
+            },
+            "contact": "+8801711275902",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DIH",
+        "DMRT",
+        "FELLOW (WHO)"
+    ],
+    "designation": "Former Director & Professor, Radiotherapy",
+    "name": "Prof. Dr. Md. Hafizur Rahman Ansary",
+    "speciality": "Cancer Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/prof-dr-md-hafizur-rahman-ansary.jpg"
+}

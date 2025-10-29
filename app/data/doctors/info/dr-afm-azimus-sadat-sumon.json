@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Icon Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "53/3, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8801763600616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DDV (BSMMU)",
+        "CCD (BIRDEM)",
+        "Fellowship (Germany)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. AFM Azimus Sadat Sumon",
+    "speciality": "Skin, Sex, Allergy Specialist & Laser Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-afm-azimus-sadat-sumon.jpg"
+}

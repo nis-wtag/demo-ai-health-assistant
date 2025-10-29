@@ -1,0 +1,38 @@
+{
+    "chambers": [
+        {
+            "place": "Hikmah Eye Hospital, Khilgaon",
+            "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
+            "contact": "+8801730767333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (EYE)",
+        "Fellow in V-Retina (NIOH) & Phaco Surgery (India)",
+        "Training in LASIK (Vietnam)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Md. Shirajul Islam",
+    "speciality": "Eye (Vitreo-Retina) Specialist, Phaco & Lasik Surgeon",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-md-shirajul-islam-khan.jpg"
+}

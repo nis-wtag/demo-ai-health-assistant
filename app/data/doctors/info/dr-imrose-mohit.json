@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Advance Hospital, Banasree",
+            "address": {
+                "name": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+                "longitude": 90.359409,
+                "latitude": 23.77451
+            },
+            "contact": "+8801999242424",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "DD (Thailand)",
+        "Fellow in Cutaneous & Laser Surgery (Bangkok)",
+        "Trained in Aesthetic Dermatology (Thailand, India, Europe)"
+    ],
+    "designation": "Senior Consultant, Dermatology & Venereology",
+    "name": "Dr. Imrose Mohit",
+    "speciality": "Dermatologist, Aesthetic, Laser & Cutaneous Surgeon",
+    "workplace": "National Skin Center, Dhaka",
+    "image": "image/dr-imrose-mohit.jpg"
+}

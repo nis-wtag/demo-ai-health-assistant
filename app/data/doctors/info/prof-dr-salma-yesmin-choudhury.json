@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801918-358461",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS",
+        "FCPS (Surgery)",
+        "FRCS (Edinburgh)"
+    ],
+    "designation": "Professor, Surgery",
+    "name": "Prof. Dr. Salma Yesmin Choudhury",
+    "speciality": "General & Laparoscopic Surgeon, Breast Cancer, Stomach Surgery, Gallbladder, Laparoscopic Hernia Repair, Laparoscopic Appendectomy, Diagnostic Laparoscopy, Laparoscopic Adhesiolysis",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/prof-dr-salma-yesmin-choudhury.jpg"
+}

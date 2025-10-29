@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801751920103",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)",
+        "Trained in Advanced Course of Endocrinology (Singapore)"
+    ],
+    "designation": "Assistant Professor, Endocrinology & Metabolism",
+    "name": "Dr. Tanjina Hossain",
+    "speciality": "Diabetes, Thyroid & Hormone Specialist",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/dr-tanjina-hossain.jpg"
+}

@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Millennium Specialized Hospital",
+            "address": {
+                "name": "Ashraf Tower, 4/1 Walter Road, Sutrapur, Dhaka",
+                "longitude": 90.429509,
+                "latitude": 23.79561
+            },
+            "contact": "+8809639206020",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Islamia Hospital Bangladesh",
+            "address": {
+                "name": "1720, Kazi Tower, Rayerbag, Kadamtali, Dhaka",
+                "longitude": -84.073779,
+                "latitude": 36.901344
+            },
+            "contact": "+8801979045504",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MD (Nephrology) DMC",
+        "MACP (USA)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Nephrology",
+    "name": "Dr. Jyoti Vaskar Saha",
+    "speciality": "Clinical & Interventional Nephrologist, Kidney Diseases, Dialysis, Medicine, Diabetes, Hypertension Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-jyoti-vaskar-saha.jpg"
+}

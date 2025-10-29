@@ -1,0 +1,30 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DMU (DIU)",
+        "MD (Oncology)"
+    ],
+    "designation": "Registrar, Radiotherapy",
+    "name": "Dr. Beauty Saha",
+    "speciality": "Cancer & Breast Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-beauty-saha.jpg"
+}

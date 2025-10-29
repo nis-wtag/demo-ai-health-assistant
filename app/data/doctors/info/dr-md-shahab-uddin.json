@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Al Haramain Hospital, Sylhet",
+            "address": {
+                "name": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801931225555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "MD (Pediatrics)",
+        "Higher Training (NICU)"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Md. Shahab Uddin",
+    "speciality": "Neonatal Diseases, Intensive Care (ICU) & Child Diseases Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-md-shahab-uddin.jpg"
+}

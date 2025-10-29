@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Community Hospital, Rangpur",
+            "address": {
+                "name": "Jail Road, Dhap, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801750908297",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "M.Phil (Physiology)"
+    ],
+    "designation": "Professor & Head, Physiology",
+    "name": "Prof. Dr. Md. Mominul Haque",
+    "speciality": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+    "workplace": "Dinajpur Medical College & Hospital",
+    "image": "image/prof-dr-md-mominul-haque.jpg"
+}

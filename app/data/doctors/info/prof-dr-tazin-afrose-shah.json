@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "FRCP (EDIN)",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Associate Professor, Medicine",
+    "name": "Dr. Tazin Afrose Shah",
+    "speciality": "Medicine Specialist",
+    "workplace": "Uttara Adhunik Medical College & Hospital",
+    "image": "image/prof-dr-tazin-afrose-shah.jpg"
+}

@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Ad-din Medical College Hospital, Khulna",
+            "address": {
+                "name": "Boyra, Khulna",
+                "longitude": 89.5316336,
+                "latitude": 22.8350823
+            },
+            "contact": "+8801909353535",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Queens Hospital, Jashore",
+            "address": {
+                "name": "Jail Road, Jessore, Bangladesh",
+                "longitude": 89.214012,
+                "latitude": 23.171034
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "MS (CV & TS)",
+        "DMU (CMUD)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Associate Professor & Senior Consultant",
+    "name": "Dr. Md. Atiqur Rahman Rashed",
+    "speciality": "Cardio-Vascular & Thoracic Surgeon",
+    "workplace": "Ad-din Akij Medical College Hospital, Khulna",
+    "image": "image/dr-md-atiqur-rahman-rashed.jpg"
+}

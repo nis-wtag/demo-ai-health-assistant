@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Building 1, 306, CT Station Road, Rajshahi 6000",
+                "longitude": 88.563408,
+                "latitude": 24.376444
+            },
+            "contact": "+8801934486652",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Surgery)",
+        "FMAS (Laparoscopic Surgery, India)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Md. Shohidul Islam",
+    "speciality": "General, Colorectal & Laparoscopic Surgery Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shohidul-islam.jpg"
+}

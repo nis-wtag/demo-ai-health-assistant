@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MS (EYE)"
+    ],
+    "designation": "Senior Consultant, Ophthalmology",
+    "name": "Dr. Md. Mahmudur Rahman",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Fashion Eye Hospital, Moghbazar",
+    "image": "image/dr-md-mahmudur-rahman-eye.jpg"
+}

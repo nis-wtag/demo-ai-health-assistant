@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Impulse Hospital, Dhaka",
+            "address": {
+                "name": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
+                "longitude": 90.38971,
+                "latitude": 23.76296
+            },
+            "contact": "+8801700538243",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Delta Health Care, Mirpur",
+            "address": {
+                "name": "Plot-4 & 5, Section-07, Pallabi, Mirpur, Dhaka",
+                "longitude": 90.384702,
+                "latitude": 23.738522
+            },
+            "contact": "+8801617858171",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgical Oncology)",
+        "Advanced Training in Oncoplastic Breast Surgery (Turkey, India)"
+    ],
+    "designation": "Assistant Professor (Classified Specialist in Surgical Oncology)",
+    "name": "Major Dr. Anindita Paul",
+    "speciality": "Surgical Oncologist, Oncoplastic & Reconstructive Breast Surgeon",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/dr-anindita-paul.jpg"
+}

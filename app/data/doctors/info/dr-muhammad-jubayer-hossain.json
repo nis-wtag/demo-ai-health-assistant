@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Icon Medical Services, Barisal",
+            "address": {
+                "name": "514, Agorpur Road, Front of Mohila College, Beside Pressclub, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "01782402628",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MRCP (London)"
+    ],
+    "designation": "Assistant Professor, Medicine Department",
+    "name": "Dr. Muhammad Zubaer Hussain",
+    "speciality": "Medicine, Diabetes & Cardiology Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-muhammad-jubayer-hossain.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+            "contact": "+8801841906010",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD (BSMMU)",
+        "MRCP (UK)"
+    ],
+    "designation": "Cardiology & Medicine Specialist",
+    "name": "Dr. Umme Kulsum Khadiza Parvin",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-umme-kulsum-khadiza-parvin.jpg"
+}

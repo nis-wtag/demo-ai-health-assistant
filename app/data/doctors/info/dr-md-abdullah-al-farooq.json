@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499600",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Pediatric Surgery)",
+        "Advanced Training in Pediatric Urology",
+        "Laparoscopic Surgery & Neonatal Surgery (UK)"
+    ],
+    "designation": "Associate Professor, Pediatric Surgery",
+    "name": "Dr. Md. Abdullah Al Farooq",
+    "speciality": "Pediatric Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-abdullah-al-farooq.jpg"
+}

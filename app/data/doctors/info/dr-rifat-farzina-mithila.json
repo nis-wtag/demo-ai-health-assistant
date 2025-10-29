@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Ghoshpara Mor, Sipaipara, Rajshahi",
+                "longitude": 88.780293,
+                "latitude": 23.209685
+            },
+            "contact": "+8801911024385",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (Edinburgh, UK)"
+    ],
+    "designation": "Medicine Specialist doctor",
+    "name": "Dr. Rifat Farzina Mithila",
+    "speciality": "Medicine Specialist",
+    "workplace": "Apollo Hospital, Dhaka",
+    "image": "image/dr-rifat-farzina-mithila.jpg"
+}

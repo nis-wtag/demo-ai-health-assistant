@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sheikh Salman Salam's Chamber",
+            "address": {
+                "name": "5, South Central Road (East Side of Govt. Pioneer Women's College), Khulna",
+                "longitude": 89.158522,
+                "latitude": 26.748392
+            },
+            "contact": "+8801710616936",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (BSMMU)",
+        "MCPS (Dermatology)"
+    ],
+    "designation": "Assistant Professor & Head (Skin & VD)",
+    "name": "Dr. Sheikh Salman Salam",
+    "speciality": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+    "workplace": "Gazi Medical College & Hospital",
+    "image": "image/dr-sheikh-salman-salam.jpg"
+}

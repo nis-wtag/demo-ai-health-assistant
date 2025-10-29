@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Raisa Clinic & Diagnostic Centre",
+            "address": {
+                "name": "219/1, Sher-e-Bangla Road, Gollamari, Khulna",
+                "longitude": 90.368483,
+                "latitude": 23.735287
+            },
+            "contact": "+8801945366354",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "PGT (Child Health in ICMH)"
+    ],
+    "designation": "Honorary Medical Officer (Pediatrics)",
+    "name": "Dr. Rittika Zaman",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Institute of Child & Mother Hospital (ICMH), Matuail, Dhaka",
+    "image": "image/dr-rittika-zaman.jpg"
+}

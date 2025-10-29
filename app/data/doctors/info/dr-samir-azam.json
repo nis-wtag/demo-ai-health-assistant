@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Helal Specialized & Cardiac Hospital",
+            "address": {
+                "name": "150, Begum Rokeya Sarani, Senpara-Parbata, Mirpur-10, Dhaka",
+                "longitude": 90.359374,
+                "latitude": 23.802377
+            },
+            "contact": "+8801708524020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Zainul Haque Sikder Women’s Medical College & Hospital",
+            "address": {
+                "name": "House # 05, Road # 104, Gulshan-2, Dhaka-1212",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RAJ)",
+        "MS (CVTS), BSMMU",
+        "Fellowship in Cardiothoracic Surgery (Tamil Nadu, India)"
+    ],
+    "designation": "Assistant Professor (Cardiac Surgery)",
+    "name": "Dr. Samir Azam (Sunny)",
+    "speciality": "Cardiac, Vascular & Thoracic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-samir-azam.jpg"
+}

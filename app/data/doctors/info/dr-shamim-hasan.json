@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Ruhama Eye Care Center",
+            "address": {
+                "name": "17/A, Majid Shoroni (Beside Ashraful Ulum Madarsa), Khulna",
+                "longitude": 84.9937057,
+                "latitude": 26.9979095
+            },
+            "contact": "+8801790205555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (HEALTH)",
+        "MPHO (USA)",
+        "FCPS (EYE)"
+    ],
+    "designation": "Medical Officer, Ophthalmology",
+    "name": "Dr. Shamim Hasan",
+    "speciality": "Eye Physician & Micro Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-shamim-hasan.jpg"
+}

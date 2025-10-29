@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": null
+        },
+        {
+            "place": "Faisal Diagnostic, Jashore",
+            "address": {
+                "name": "Hospital Gate, Noapara, Avoynagar, Jashore",
+                "longitude": 90.385008,
+                "latitude": 23.758797
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Physical Medicine)"
+    ],
+    "designation": "Consultant, Physical Medicine & Rehabilitation",
+    "name": "Dr. Alauddin Shikder",
+    "speciality": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis) & Rehabilitation Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-alauddin-shikder.jpg"
+}

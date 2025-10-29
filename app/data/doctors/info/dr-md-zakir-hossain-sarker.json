@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "AMZ Hospital, Badda",
+            "address": {
+                "name": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801847331013",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD",
+        "MD (Chest)"
+    ],
+    "designation": "Chest Diseases Specialist doctor",
+    "name": "Dr. Md. Zakir Hossain Sarker",
+    "speciality": "Chest Diseases Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/dr-md-zakir-hossain-sarker.jpg"
+}

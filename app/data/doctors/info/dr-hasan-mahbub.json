@@ -1,0 +1,74 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Mirpur",
+            "address": {
+                "name": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+                "longitude": 90.35710284999999,
+                "latitude": 23.8071276
+            },
+            "contact": "+8801778727638",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801760901766",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (Neurosurgery)",
+        "BCS (Health)",
+        "Fellowship Diploma in Skull Base Surgery (India)",
+        "Member AO Spine (Asia Pacific)"
+    ],
+    "designation": "Consultant, Department of Neurosurgery",
+    "name": "Dr. Hasan Mahbub",
+    "speciality": "Neurosurgeon (Brain, Nerve, Spine surgeon & Stem Cell Therapy Specialist)",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-hasan-mahbub.jpg"
+}

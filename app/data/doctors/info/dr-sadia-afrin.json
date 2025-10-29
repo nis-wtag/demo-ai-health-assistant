@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital & Cardiac Center, Mirpur",
+            "address": {
+                "name": "Plot # 19-22, Main Road, Pallabe, Section - 7, Mirpur, Dhaka",
+                "longitude": -53.406355,
+                "latitude": 48.606269
+            },
+            "contact": "+8801327997655",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Bangladesh Colorectal & Gastroenterology Center (BCGC)",
+            "address": {
+                "name": "Rupayan Prime, 8th floor, Plot-2, Road-7, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8801810000123",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SBMC)",
+        "BCS (Health)",
+        "MS (Colorectal Surgery, BSMMU)"
+    ],
+    "designation": "Medical Officer, Surgery",
+    "name": "Dr. Sadia Afrin",
+    "speciality": "Colorectal (Piles, Colon, Rectum, Anus) Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-sadia-afrin.jpg"
+}

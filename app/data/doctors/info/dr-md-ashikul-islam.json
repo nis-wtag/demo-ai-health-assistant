@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Alliance Hospital Limited",
+            "address": {
+                "name": "24/3, Khilji Road (Ring Road), Shymoli, Dhaka, 1207",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801720422448",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Neurology)"
+    ],
+    "designation": "Neuromedicine Specialist",
+    "name": "Dr. Md. Ashikul Islam",
+    "speciality": "Medicine & Neuromedicine Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-md-ashikul-islam.jpg"
+}

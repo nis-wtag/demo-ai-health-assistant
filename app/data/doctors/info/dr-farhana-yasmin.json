@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Famous Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "B-267, Greater Road, Kazihata, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": "+8801753713857",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "MPhil",
+        "PhD Fellow"
+    ],
+    "designation": "Assistant Professor & Head, Community Medicine",
+    "name": "Dr. Farhana Yasmin",
+    "speciality": "Public Health (Community Medicine) Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-farhana-yasmin.jpg"
+}

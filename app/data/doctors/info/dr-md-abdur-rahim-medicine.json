@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ekushey Hospital, Chittagong",
+            "address": {
+                "name": "116, Sugandha Road, Mirzarpul, Chattogram",
+                "longitude": 30.881849,
+                "latitude": -29.92512
+            },
+            "contact": "+88031657629",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FMD (Family Medicine)",
+        "CCD (BIRDEM)",
+        "PGT (Child Health)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Md. Abdur Rahim",
+    "speciality": "Medicine, Diabetes, & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-abdur-rahim-medicine.jpg"
+}

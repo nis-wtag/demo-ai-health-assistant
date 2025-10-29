@@ -1,0 +1,132 @@
+{
+    "chambers": [
+        {
+            "place": "Mainamoti Medical College & Hospital",
+            "address": {
+                "name": "Baropara, Comilla",
+                "longitude": 90.768965,
+                "latitude": 23.530455
+            },
+            "contact": "+8801970173830",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Comilla People’s Hospital Ltd",
+            "address": {
+                "name": "Khokon Tower, Medical College Road, Tomsom Bridge, Cumilla",
+                "longitude": 79.60602,
+                "latitude": 10.775823
+            },
+            "contact": "+8801713629445",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Comilla Trauma Center",
+            "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+            "contact": "+8809612808182",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Assistant Professor & Head, Burn & Plastic Surgery",
+    "name": "Dr. Md. Kamrul Islam Mamun",
+    "speciality": "Burn, Plastic, Reconstructive, Breast, Trauma & Hand Surgery Specialist",
+    "workplace": "Mainamoti Medical College & Hospital",
+    "image": "image/dr-md-kamrul-islam-mamun.jpg"
+}

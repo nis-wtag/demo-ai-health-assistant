@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Prime Trauma Centre, Rangpur",
+            "address": {
+                "name": "Prime Medical College Hospital, Pirjabad, Badargonj Road, Rangpur",
+                "longitude": 89.25166,
+                "latitude": 25.74664
+            },
+            "contact": "+8801919166444",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (BSMMU)"
+    ],
+    "designation": "Professor & Head, Department of Orthopedics",
+    "name": "Prof. Dr. Md. Shariful Haque",
+    "speciality": "Orthopedic Specialist, Spine & Trauma Surgeon",
+    "workplace": "Prime Medical College Hospital, Rangpur",
+    "image": "image/dr-md-shariful-haque.jpg"
+}

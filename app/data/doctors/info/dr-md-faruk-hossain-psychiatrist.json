@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "MindWell - Center of Happiness",
+            "address": {
+                "name": "45, Probal Tower (3rd Floor), Ring Road, Adabor, Shaymoli, Dhaka",
+                "longitude": 90.3582899,
+                "latitude": 23.7677538
+            },
+            "contact": "+8801883266511",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Psychiatry)",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Associate Professor & Head, Department of Psychiatry",
+    "name": "Dr. Md. Faruk Hossain",
+    "speciality": "Mental, Behavioral & Neurodevelopmental Disorders Specialist",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-md-faruk-hossain-psychiatrist.jpg"
+}

@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Al Amin Hospital & Diagnostic Center, Chittagong",
+            "address": {
+                "name": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
+                "longitude": 90.366049,
+                "latitude": 23.757151
+            },
+            "contact": "+8801683076070",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "PGPN (Child Nutrition, USA)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. T.K. Roy",
+    "speciality": "Neonatal & Child Diseases Specialist",
+    "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+    "image": "image/dr-t-k-roy.jpg"
+}

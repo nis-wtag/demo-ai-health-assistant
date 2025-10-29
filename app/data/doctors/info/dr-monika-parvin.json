@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Rampura",
+            "address": {
+                "name": "381/A, DIT Road, West Rampura, Dhaka - 1219",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801755-598365",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DD (Thailand)"
+    ],
+    "designation": "Consultant, Dermatology & Venerology",
+    "name": "Dr. Monika Parvin",
+    "speciality": "Dermatologist, Venereologist, Cosmetic & Laser Specialist",
+    "workplace": "Central Police Hospital, Dhaka",
+    "image": "image/dr-monika-parvin.jpg"
+}

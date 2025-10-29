@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ayesha Villa",
+            "address": {
+                "name": "House # 29/4 (Opposite to Sarak Bhaban), Road # 01, Dhap, Jail Road, Rangpur",
+                "longitude": 89.236612,
+                "latitude": 25.763657
+            },
+            "contact": "+8801712200961",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS (Dhaka)",
+        "BCS (Health)",
+        "PGT (Mitford)",
+        "MRSH (UK)"
+    ],
+    "designation": "Dental Surgeon, Dental",
+    "name": "Dr. Md. Abdul Wahab",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-abdul-wahab-dental.jpg"
+}

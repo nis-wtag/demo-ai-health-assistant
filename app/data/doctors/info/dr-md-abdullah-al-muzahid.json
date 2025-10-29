@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)",
+        "Fellow in Stroke and Neurointervention"
+    ],
+    "designation": "Assistant Professor, Neurology",
+    "name": "Dr. Md. Abdullah Al Muzahid",
+    "speciality": "Neurology (Brain, Stroke, Nerve, Spine, Headache) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-abdullah-al-muzahid.jpg"
+}

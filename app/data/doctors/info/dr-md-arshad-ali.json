@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Rangpur Health City Specialized Hospital",
+            "address": {
+                "name": "Dhap (East Side of 8th Floor Mosque), Kakoli Lane, Sadar, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801786724136",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (General Surgery)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor (Surgery)",
+    "name": "Dr. Md. Arshad Ali",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgeon",
+    "workplace": "Prime Medical College & Hospital",
+    "image": "image/dr-md-arshad-ali.jpg"
+}

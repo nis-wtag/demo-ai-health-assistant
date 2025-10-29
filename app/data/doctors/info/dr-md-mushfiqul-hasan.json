@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Bangla Dental Care, Sylhet",
+            "address": "Waves B, 95/A Shohid View (Ground Floor), Behind NCC Bank, Amborkhana, Sylhet",
+            "contact": "+8801716691530",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MPH (LU)",
+        "Special Training in Root Canal Treatment & Aesthetic Dentistry"
+    ],
+    "designation": "Assistant Professor & Head, Dental",
+    "name": "Dr. Md. Mushfiqul Hasan",
+    "speciality": "Oral, Dental & Maxillofacial Specialist Surgeon",
+    "workplace": "Sylhet Central Dental College & Hospital",
+    "image": "image/dr-md-mushfiqul-hasan.jpg"
+}

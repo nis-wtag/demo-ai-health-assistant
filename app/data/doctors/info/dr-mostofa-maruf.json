@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Mishu Clinic & Diagnostic Center, Khulna",
+            "address": {
+                "name": "20/4, Shamsur Rahman Road, Khulna, Bangladesh",
+                "longitude": 89.5638206,
+                "latitude": 22.8123098
+            },
+            "contact": "+8801304462108",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (BUP)",
+        "FCPS (Medicine, FP)",
+        "MRCP - Part-1(Medicine, UK)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Honorary Medical Officer",
+    "name": "Dr. Mostofa Maruf",
+    "speciality": "Medicine (All Diseases of Adults) Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mostofa-maruf.jpg"
+}

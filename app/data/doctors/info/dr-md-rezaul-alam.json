@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DD (Thailand)",
+        "MPH (Dhaka)",
+        "CCL (India)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Associate Professor, Dermatology & Venereology",
+    "name": "Dr. Md. Rezaul Alam",
+    "speciality": "Skin, Allergy & Sexual Diseases Specialist",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-md-rezaul-alam-cardiologist.jpg"
+}

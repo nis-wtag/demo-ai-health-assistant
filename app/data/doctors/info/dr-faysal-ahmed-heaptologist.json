@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Garib-E-Newaz)",
+            "address": {
+                "name": "House # 41, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787823",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Hepatology)"
+    ],
+    "designation": "Consultant, Department of Hepatology",
+    "name": "Dr. Faysal Ahmed",
+    "speciality": "Liver & Gastroenterology Specialist, Endoscopist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-faysal-ahmed-heaptologist.jpg"
+}

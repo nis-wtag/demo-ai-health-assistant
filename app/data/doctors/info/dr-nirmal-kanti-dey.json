@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (CVTS)"
+    ],
+    "designation": "Resident Surgeon, Vascular Surgery",
+    "name": "Dr. Nirmal Kanti Dey",
+    "speciality": "Vascular & Endovascular Specialist Surgeon",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-nirmal-kanti-dey.jpg"
+}

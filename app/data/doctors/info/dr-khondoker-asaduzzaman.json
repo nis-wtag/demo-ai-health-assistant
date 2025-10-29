@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, English Road",
+            "address": {
+                "name": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+                "longitude": 90.410145,
+                "latitude": 23.7140672
+            },
+            "contact": "+8809666787802",
+            "visiting_hours": null
+        },
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD (Chest)",
+        "MD (Cardiology)",
+        "AFACC (USA)",
+        "FASIC & FSCAI (USA)"
+    ],
+    "designation": "Cardiology & Respiratory Medicine Specialist",
+    "name": "Dr. Khondoker Asaduzzaman",
+    "speciality": "Cardiology & Respiratory Medicine Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-khondoker-asaduzzaman.jpg"
+}

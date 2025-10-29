@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Fellow (MIS)"
+    ],
+    "designation": "Professor, Surgery",
+    "name": "Prof. Dr. Tapan Kumar Saha",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-tapan-kumar-saha.jpg"
+}

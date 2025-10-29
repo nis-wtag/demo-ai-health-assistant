@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "MMEd (UK)"
+    ],
+    "designation": "Ex. Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Ferdousi Islam Lipi",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-ferdousi-islam-lipi.jpg"
+}

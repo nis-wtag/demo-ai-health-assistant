@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Royal Hospital, Chittagong",
+            "address": {
+                "name": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+                "longitude": 91.82858859999999,
+                "latitude": 22.36043685
+            },
+            "contact": "+880241355934",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Surgery)"
+    ],
+    "designation": "Professor of Surgery",
+    "name": "Prof. Dr. Md. Yunus Haroon Chowdhury",
+    "speciality": "General, Laparoscopic & Colorectal Surgery Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-yunus-haroon-chowdhury.jpg"
+}

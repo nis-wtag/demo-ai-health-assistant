@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Homeopathy Health Center",
+            "address": {
+                "name": "House #15 (Lift-2), Sonargaon Janapath, Sector#7 (House Building), Uttara, Dhaka",
+                "longitude": 116.079591,
+                "latitude": 5.945092
+            },
+            "contact": "+8801944-005800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (Homeopathy, Dhaka University)",
+        "MSS in CSW (ISWR, Dhaka University)",
+        "PGT (Psychotherapy, BSMMU)",
+        "MPhil (ISWR, Dhaka University)"
+    ],
+    "designation": "Chief Consultant, Homeopathy",
+    "name": "Dr. Tanbir Ahmad",
+    "speciality": "Sexual Diseases, Autism, Psychological Disease, Asthma & Any Kind of Chronic Disease Specialist",
+    "workplace": "Bangladesh Homeopathy Health Center, Uttara, Dhaka",
+    "image": "image/dr-tanbir-ahmad.jpg"
+}

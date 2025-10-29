@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "NJL ENT Centre",
+            "address": {
+                "name": "15, Kajolshah (Opposite to Labaid Sylhet), Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801767228844",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "00:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (ENT)",
+        "MCPS (ENT)"
+    ],
+    "designation": "Associate Professor and Head of the Dept",
+    "name": "Dr. Nurul Huda Nayeem",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Laser Surgeon",
+    "workplace": "Program Director - Cochlear Implant - SOMCH Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-nurul-huda-naeem.jpg"
+}

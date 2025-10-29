@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "CD Path & Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
+                "longitude": 76.511062,
+                "latitude": 10.082321
+            },
+            "contact": "+8801721503971",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DMRT (Dhaka)",
+        "TTRT (China)"
+    ],
+    "designation": "Director, Professor & Head, Radiotherapy & Cancer",
+    "name": "Prof. Dr. Jahangir Hossain Bhuiyan",
+    "speciality": "Cancer Diseases Specialist",
+    "workplace": "Mainamoti Medical College & Hospital",
+    "image": "image/dr-jahangir-hossain-bhuiyan.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Aichi Hospital Limited, Uttara",
+            "address": {
+                "name": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+                "longitude": 90.427168,
+                "latitude": 23.767562
+            },
+            "contact": "+8801689956599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DDV (DU)"
+    ],
+    "designation": "Senior Consultant, Dermatology & Venereology",
+    "name": "Dr. Nahid Salam",
+    "speciality": "Skin, Allergy & Sexual Diseases Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-nahid-salam.jpg"
+}

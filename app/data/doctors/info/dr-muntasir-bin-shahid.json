@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Eye Care Hospital, Uttara",
+            "address": {
+                "name": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801787681500",
+            "visiting_hours": null
+        },
+        {
+            "place": "Bashundhara Eye Hospital & Research Institute",
+            "address": {
+                "name": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+                "longitude": 90.40753001848913,
+                "latitude": 23.7519999
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)",
+        "Fellow in Glaucoma & Phacoemulsification Cataract Surgery (India)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Muntasir Bin Shahid",
+    "speciality": "Phaco & Glaucoma Specialist",
+    "workplace": "International Medical College & Hospital",
+    "image": "image/dr-muntasir-bin-shahid.jpg"
+}
