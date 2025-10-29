@@ -1,0 +1,13 @@
+from pydantic import BaseModel
+
+from schemas.doctor_schema import DoctorRead
+
+
+class ChatQuery(BaseModel):
+    query: str
+
+
+class ChatReponse(BaseModel):
+    disclaimer: str
+    remedy: str
+    recommended_doctors: list[DoctorRead]
