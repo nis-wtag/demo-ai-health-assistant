@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCP (Clinical Pathology)",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Associate Professor, Hematology",
+    "name": "Dr. Md. Habibur Rahman Tarek",
+    "speciality": "Blood Diseases & Cancer Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-habibur-rahman-tarek.jpg"
+}

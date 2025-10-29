@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MSc (Maxillofacial Prosthetics)",
+        "Clinical Fellowship (Malaysia)"
+    ],
+    "designation": "Consultant, Oral & Maxillofacial Surgery",
+    "name": "Dr. Md. Minhaz-ul-Islam Nijami",
+    "speciality": "Oral, Dental & Maxillofacial Surgeon",
+    "workplace": "Ahsania Mission Cancer & General Hospital",
+    "image": "image/dr-md-minhaz-ul-islam-nijami.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712685297",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Nazmun Nahar Tara",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-nazmun-nahar-tara.jpg"
+}

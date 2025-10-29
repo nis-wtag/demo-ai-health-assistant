@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Fresh Dent Dental & Implant Center, Chittagong",
+            "address": {
+                "name": "Rose Valley, H/N, Road # 04, Chandgaon R/A, Chattogram",
+                "longitude": -9.241682,
+                "latitude": 38.765646
+            },
+            "contact": "+8801300-056900",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (CIDC)",
+        "Training (Dental Implant)"
+    ],
+    "designation": "Lecturer, Pediatric Dentistry",
+    "name": "Dr. Jahedul Islam Shahed",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong International Dental College & Hospital",
+    "image": "image/dr-jahedul-islam-shahed.jpg"
+}

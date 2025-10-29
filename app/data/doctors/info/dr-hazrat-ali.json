@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "People Care Diagnostic Centre, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur (Near Dhap 8 Tala Masjid)",
+                "longitude": 89.235964,
+                "latitude": 25.76153
+            },
+            "contact": "+8801710214568",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Ortho-Surgery)",
+        "Fellow: Arthroscopy (India)"
+    ],
+    "designation": "Assistant Professor (Arthroscopy & Sports Injury)",
+    "name": "Dr. Hazrat Ali",
+    "speciality": "Arthroscopy, Arthroplasty, Orthopedics, Spine & Trauma Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-hazrat-ali.jpg"
+}

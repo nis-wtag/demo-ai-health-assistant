@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": {
+                "name": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+                "longitude": 90.36723,
+                "latitude": 23.751929
+            },
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "MCPS (EYE)",
+        "FCPS (EYE)"
+    ],
+    "designation": "Consultant, Glaucoma",
+    "name": "Dr. Md. Ali Akbar",
+    "speciality": "Eye Diseases (Glaucoma) Specialist & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital & Institute",
+    "image": "image/dr-md-ali-akbar-eye.jpg"
+}

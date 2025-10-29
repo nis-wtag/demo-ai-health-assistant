@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Kalyani Diagnostic Center",
+            "address": {
+                "name": "346, Elephant Road (Opposite to Eastern Mollika Market), Dhaka",
+                "longitude": 90.41089,
+                "latitude": 23.754192
+            },
+            "contact": "+8801754135153",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS ( Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Assistant Professor, Oral & Maxillofacial Surgery",
+    "name": "Dr. Uday Kumar Goswami",
+    "speciality": "Oral & Maxillofacial Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-uday-kumar-goswami.jpg"
+}

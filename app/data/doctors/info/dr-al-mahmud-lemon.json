@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Green Eye Hospital, Dhaka",
+            "address": {
+                "name": "3rd Floor, Rupayan Khan Plaza, Road # 07, Dhaka - 1205",
+                "longitude": 90.4266778,
+                "latitude": 23.7466754
+            },
+            "contact": "+8801727700888",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (EYE)",
+        "MRCS (EYE-UK)"
+    ],
+    "designation": "Resident Surgeon (RS), Ophthalmology",
+    "name": "Dr. Al Mahmud Lemon",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-al-mahmud-lemon.gif"
+}

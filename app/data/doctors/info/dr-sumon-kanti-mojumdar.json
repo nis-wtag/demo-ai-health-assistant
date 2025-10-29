@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "BIRDEM General Hospital, Shahbag",
+            "address": {
+                "name": "Room - 28/A, Ground Floor, 122, Kazi Nazrul Islam Avenue, Shahbagh, Dhaka",
+                "longitude": 90.3940791,
+                "latitude": 23.748
+            },
+            "contact": "+8801675485624",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MACP (America)",
+        "MD-Rheumatology (BSMMU)",
+        "FIPM (India)",
+        "ECRD (Switzerland)"
+    ],
+    "designation": "Assistant Professor, Rheumatology",
+    "name": "Dr. Sumon Kanti Mojumdar",
+    "speciality": "Rheumatologist & Medicine Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-sumon-kanti-mojumdar.jpg"
+}

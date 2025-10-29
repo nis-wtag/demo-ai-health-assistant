@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Chamber",
+            "address": {
+                "name": "Sattar Mansion (2nd Floor), Ahmmad Khan Road, Gopalganj, Sylhet",
+                "longitude": 92.0221,
+                "latitude": 24.85234
+            },
+            "contact": "+8801719306464",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Al-Raiyan Hospital, Sylhet",
+            "address": {
+                "name": "129, New Medical Road, Madhushaheed, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801835-424038",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "DA",
+        "FIPM (India)"
+    ],
+    "designation": "Associate Professor, Anesthesia, Pain & ICU",
+    "name": "Dr. Muhammad Khairul Bashar",
+    "speciality": "Pain Specialist (Interventional Pain Medicine)",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-muhammad-khairul-bashar.jpg"
+}

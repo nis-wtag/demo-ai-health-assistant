@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Rushmono Specialized Hospital",
+            "address": {
+                "name": "209, Outer Circular Road, Moghbazar, Dhaka - 1217",
+                "longitude": 90.4174394,
+                "latitude": 23.7421454
+            },
+            "contact": "+8801708458075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "BCS (Health)",
+        "MD (Nephrology)",
+        "MACP"
+    ],
+    "designation": "Consultant Nephrologist",
+    "name": "Dr. Rokhsana Alam Ripa",
+    "speciality": "Kidney Diseases & Dialysis Specialist",
+    "workplace": "Rushmono Specialized Hospital",
+    "image": "image/dr-rokhsana-alam-ripa.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "All Care Hospital & Green Diagnostic",
+            "address": {
+                "name": "Chittagong",
+                "longitude": 91.8839938,
+                "latitude": 22.6800466
+            },
+            "contact": "+8801554333026",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MSc (Leeds, England)",
+        "MD (Neuromedicine)"
+    ],
+    "designation": "Consultant, Neuromedicine",
+    "name": "Dr. Ahmed Tanjimul Islam",
+    "speciality": "Neuromedicine (Brain, Nerve, Stroke) Specialist",
+    "workplace": "Chittagong 250 Bed General Hospital",
+    "image": "image/dr-ahmed-tanjimul-islam.jpg"
+}

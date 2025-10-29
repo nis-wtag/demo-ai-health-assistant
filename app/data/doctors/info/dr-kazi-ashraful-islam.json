@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Hospital",
+            "address": {
+                "name": "17, DC Ray Road (Mitford), Dhaka - 1100",
+                "longitude": 90.400816,
+                "latitude": 23.712852
+            },
+            "contact": "+8801714047686",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Assistant Professor, Pediatric Neurology",
+    "name": "Dr. Kazi Ashraful Islam",
+    "speciality": "Child Diseases & Child Neurology (Epilepsy, Autism, Movement Disorders) Specialist",
+    "workplace": "Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU",
+    "image": "image/dr-kazi-ashraful-islam.jpg"
+}

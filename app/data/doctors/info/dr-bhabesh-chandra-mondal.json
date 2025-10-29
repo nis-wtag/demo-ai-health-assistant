@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DA",
+        "FCPS"
+    ],
+    "designation": "Consultant, Anesthesiology",
+    "name": "Dr. Bhabesh Chandra Mondal",
+    "speciality": "Cardiac Anesthesiology Specialist",
+    "workplace": "Square Hospital, Dhaka",
+    "image": "image/dr-bhabesh-chandra-mondal.jpg"
+}

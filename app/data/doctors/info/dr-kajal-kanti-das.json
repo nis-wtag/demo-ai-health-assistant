@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Treatment Hospital, Chittagong",
+            "address": {
+                "name": "100, O.R. Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.8273847,
+                "latitude": 22.3595531
+            },
+            "contact": "+880312557925",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Medicine)",
+        "FCPS (FP)",
+        "Fellowship (Diabetes, Liverpool)"
+    ],
+    "designation": "Assistant Professor, Medicine",
+    "name": "Dr. Kajal Kanti Das",
+    "speciality": "Medicine, Diabetes & Neuromedicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-kajal-kanti-das.jpg"
+}

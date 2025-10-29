@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Trust Medical Services, Sylhet",
+            "address": {
+                "name": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801710890474",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Stadium Market, Sylhet",
+            "address": {
+                "name": "The Lab Aid, 61-63, Stadium Market, Sylhet",
+                "longitude": -2.5230666310775067,
+                "latitude": 53.54883425
+            },
+            "contact": "+8801711806434",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DEM",
+        "MD (Medicine)"
+    ],
+    "designation": "Associate Professor, Medicine",
+    "name": "Dr. Mohammad Shofiullah",
+    "speciality": "Medicine, Diabetes & Hormonal Diseases Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-mohammad-shofiullah.jpg"
+}

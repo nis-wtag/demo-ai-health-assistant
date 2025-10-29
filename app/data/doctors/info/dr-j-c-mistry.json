@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Icon Medical Services, Barisal",
+            "address": {
+                "name": "514, Agorpur Road, Front of Mohila College, Beside Pressclub, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801782402628",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "DCH",
+        "PGPN (Boston)",
+        "IPPN (Australia)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. J.C. Mistry",
+    "speciality": "Newborn, Child Diseases Specialist and Child Nutritionist",
+    "workplace": "Divisional Police Hospital, Barisal",
+    "image": "image/dr-j-c-mistry.jpg"
+}

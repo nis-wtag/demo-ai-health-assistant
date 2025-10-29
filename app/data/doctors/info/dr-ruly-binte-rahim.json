@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Noorjahan Hospital, Sylhet",
+            "address": {
+                "name": "Room # 413 (4th Floor), Waves 1, Ritz Tower, Dargah Gate, Sylhet",
+                "longitude": 91.869326,
+                "latitude": 24.9020922
+            },
+            "contact": "+8801309720016",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Obs & Gynae)",
+        "Diploma in ART (IVF, ICSI ,IUI) & Reproductive Medicine (Germany)",
+        "Advanced trained in Laparoscopic Surgery"
+    ],
+    "designation": "Consultant (Gyne & Obs Dept)",
+    "name": "Dr. Ruly Binte Rahim",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-ruly-binte-rahim.jpg"
+}

@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Malibagh",
+            "address": {
+                "name": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (UK)",
+        "FCGP (BCGP)",
+        "CCD (BIRDEM)",
+        "Diploma in Endocrinology (LONDON, UK)",
+        "Fellowship in Diabetes (UK)"
+    ],
+    "designation": "Consultant, Diabetes",
+    "name": "Dr. Pranab Chowdhury",
+    "speciality": "Diabetes, Thyroid & Hormone Specialist",
+    "workplace": "Labaid Diagnostic, Malibagh",
+    "image": "image/dr-pranab-chowdhury.jpg"
+}

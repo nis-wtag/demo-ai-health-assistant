@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Brac Healthcare, Kazipara",
+            "address": "80, Begum Rokeya Avenue, Kazipara, Dhaka-1206",
+            "contact": "+8809678191911",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Physical Medicine & Rehabilitation)"
+    ],
+    "designation": "Physical Medicine Specialist",
+    "name": "Dr. Syed Ahmad Refaie",
+    "speciality": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) & Rehabilitation Specialist",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-syed-ahmad-refaie.jpg"
+}

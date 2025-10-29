@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Colorectal Center, Sylhet",
+            "address": {
+                "name": "Karim Manzil, Manikpir Road, Nayasarak, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801747514911",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRCS (Edin)",
+        "FRCS (Glasg)",
+        "FRCS (Eng)",
+        "FRCSI"
+    ],
+    "designation": "Professor & Head, Surgery",
+    "name": "Prof. Dr. A.K.M. Daud",
+    "speciality": "Colorectal (Piles, Fistula, Fisher & Rectal Cancer) Specialist Surgeon",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/prof-dr-a-k-m-daud.jpg"
+}

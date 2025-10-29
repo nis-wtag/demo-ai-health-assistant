@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Surecell Medical, Chattogram",
+            "address": {
+                "name": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+                "longitude": 91.8231931,
+                "latitude": 22.3589254
+            },
+            "contact": "+8801701664440",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRCP",
+        "MD (SKIN & VD)"
+    ],
+    "designation": "Associate Professor, Dermatology",
+    "name": "Dr. Nishith Ranjan Dey",
+    "speciality": "Aesthetic Dermatology, Cosmetology & Regenerative Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-nishith-ranjan-dey.jpg"
+}

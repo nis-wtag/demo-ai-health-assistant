@@ -1,0 +1,31 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801903082062",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedics)",
+        "FICS"
+    ],
+    "designation": "Professor, Orthopedic Surgery",
+    "name": "Prof. Dr. R. R. Kairy",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Trauma, Injury), Hand & Reconstructive Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-r-r-kairy.jpg"
+}

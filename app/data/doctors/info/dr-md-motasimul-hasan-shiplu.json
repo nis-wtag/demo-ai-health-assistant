@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "AMZ Hospital, Badda",
+            "address": {
+                "name": "Cha – 80/3, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "10699",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "MS (Neurosurgery)",
+        "Fellow (Neuro Endovascular & Stroke Surgery)"
+    ],
+    "designation": "Associate Professor, Neurosurgery",
+    "name": "Dr. Md. Motasimul Hasan Shiplu",
+    "speciality": "Brain, Nerve, Stroke & Spine Specialist Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-motasimul-hasan-shiplu.jpg"
+}

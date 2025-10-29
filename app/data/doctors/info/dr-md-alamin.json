@@ -1,0 +1,100 @@
+{
+    "chambers": [
+        {
+            "place": "Famous Diagnostic & Consultation Center",
+            "address": {
+                "name": "22, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Khulna Medico Lab (Pvt.) Ltd.",
+            "address": {
+                "name": "18/2, Amir Ali Road, Choto Boyra, Sonadanga, Khulna",
+                "longitude": 89.52592,
+                "latitude": 22.83783
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "CCD (Diabetology, BIRDEM)",
+        "FCPS (Neurology, FP)",
+        "MCPS (Medicine)",
+        "MRCP (Paces)",
+        "MACP (USA)"
+    ],
+    "designation": "Registrar (Neuromedicine)",
+    "name": "Dr. Md. Al Amin",
+    "speciality": "Medicine, Neuromedicine & Diabetes Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-md-alamin.jpg"
+}

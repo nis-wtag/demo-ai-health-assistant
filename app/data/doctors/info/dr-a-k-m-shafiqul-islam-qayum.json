@@ -1,0 +1,75 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801308397223",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "CD Path & Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
+                "longitude": 76.511062,
+                "latitude": 10.082321
+            },
+            "contact": "+8801790680143",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Medicine)",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "MACP (USA)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. A.K.M. Shafiqul Islam Qayum",
+    "speciality": "Gastroenterology, Medicine & Liver Diseases Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-a-k-m-shafiqul-islam-qayum.jpg"
+}

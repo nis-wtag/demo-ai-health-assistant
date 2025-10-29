@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Rasel’s Dental Centre",
+            "address": "Sepaipara, Infront of Rajshahi Medical College",
+            "contact": "+8801740004004",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MPH"
+    ],
+    "designation": "Lecturer, Dental Unit",
+    "name": "Dr. Rasel-Bin-Monsur",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-rasel-bin-monsur.jpg"
+}

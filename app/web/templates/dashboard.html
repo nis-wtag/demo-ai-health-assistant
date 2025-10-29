@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-slate-100">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - AI Health Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Minimalist scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #94a3b8;
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #64748b;
+        }
+    </style>
+</head>
+
+<body class="h-screen flex flex-col font-sans">
+    <!-- navigation.html -->
+    <nav class="bg-white shadow-md w-full p-4 flex items-center relative">
+        <!-- Left: Title -->
+        <div class="flex items-center space-x-2 flex-shrink-0">
+            <span class="text-2xl font-bold text-slate-700">🩺 AI Health Assistant</span>
+        </div>
+
+        <!-- Center: Navigation Icons -->
+        <div class="absolute left-1/2 transform -translate-x-1/2 flex items-center space-x-6">
+            <!-- Home Icon -->
+            <button onclick="window.location.href='/'"
+                class="flex flex-col items-center justify-center text-slate-700 hover:text-green-600 transition-colors">
+                <img src="/static/icons/home.svg" alt="Home" class="w-6 h-6">
+                <span class="text-sm hidden sm:block">Home</span>
+            </button>
+            <!-- Dashboard Icon -->
+            <button onclick="window.location.href='/dashboard'"
+                class="flex flex-col items-center justify-center text-slate-700 hover:text-blue-600 transition-colors">
+                <img src="/static/icons/dashboard.svg" alt="Dashboard" class="w-6 h-6">
+                <span class="text-sm hidden sm:block">Dashboard</span>
+            </button>
+        </div>
+
+        <!-- Right: User info and logout -->
+        <div class="flex items-center space-x-4 ml-auto flex-shrink-0">
+            <span class="text-slate-600 font-medium hidden sm:block">Welcome, {{user['full_name']}}!</span>
+            <button id="logout-btn"
+                class="px-4 py-2 bg-red-500 text-white font-semibold rounded-lg shadow hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-75 transition-colors">
+                Logout
+            </button>
+        </div>
+    </nav>
+
+    <main class="flex-1 flex flex-col p-4 md:p-8 overflow-hidden">
+        <div class="max-w-7xl mx-auto w-full flex flex-col h-full">
+
+            <!-- Dashboard Stats -->
+            <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
+                <div class="bg-white p-6 rounded-xl shadow-lg flex items-center space-x-4">
+                    <div class="p-3 rounded-full bg-blue-100 text-blue-600">
+                        <!-- Doctor Icon -->
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M17 20h5v-2a3 3 0 00-5.356-2.37M17 20H7m10 0v-2c0-.653-.084-1.284-.24-1.87M7 20H2v-2a3 3 0 015.356-2.37M7 20v-2c0-.653.084-1.284.24-1.87M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z">
+                            </path>
+                        </svg>
+                    </div>
+                    <div>
+                        <p class="text-sm font-medium text-slate-500">Total Doctors</p>
+                        <p id="doctor-count" class="text-3xl font-bold text-slate-800">0</p>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg flex items-center space-x-4">
+                    <div class="p-3 rounded-full bg-green-100 text-green-600">
+                        <!-- Chamber Icon -->
+                        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H2m2 0h5M5 21v-4a2 2 0 012-2h10a2 2 0 012 2v4M5 21V5m0 16H3m2 0h5m0 0v-4m0 4h10m0 0v-4m0 4h2m-2-16H5m14 0v4m0 0h-4m-6 0H7m4 0V5">
+                            </path>
+                        </svg>
+                    </div>
+                    <div>
+                        <p class="text-sm font-medium text-slate-500">Total Chambers</p>
+                        <p id="chamber-count" class="text-3xl font-bold text-slate-800">0</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tabs -->
+            <div class="flex space-x-4 mb-4">
+                <button id="tab-doctors" class="px-4 py-2 bg-blue-600 text-white rounded-lg">Doctors</button>
+                <button id="tab-chambers" class="px-4 py-2 bg-gray-200 text-slate-700 rounded-lg">Chambers</button>
+            </div>
+
+            <!-- Doctor Table Container -->
+            <div id="doctors-table-container" class="flex-1 overflow-hidden">
+                <section class="bg-white p-6 rounded-xl mb-4 flex flex-col h-full">
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4">Doctor Management</h2>
+
+                    <div class="flex flex-col sm:flex-row justify-between items-center mb-4 space-y-3 sm:space-y-0">
+                        <input type="text" id="doctor-search" placeholder="Search doctors..."
+                            class="w-full sm:w-72 px-4 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        {% if user.role.name == 'SUPERUSER' %}
+                        <button id="add-doctor-btn"
+                            class="w-full sm:w-auto px-5 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition-colors">
+                            Add New Doctor
+                        </button>
+                        {% endif %}
+
+                    </div>
+
+                    <!-- Table -->
+                    <div class="flex-1 overflow-auto">
+                        <table class="min-w-full w-full table-fixed divide-y divide-slate-200">
+                            <thead class="bg-slate-50 sticky top-0 z-10">
+                                <tr>
+                                    <th
+                                        class="px-6 py-3 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Name</th>
+                                    <th
+                                        class="px-6 py-3 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Specialty</th>
+                                    <th
+                                        class="px-6 py-3 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Designation</th>
+                                    {% if user.role.name == 'SUPERUSER' %}
+                                    <th
+                                        class="px-6 py-3 text-right text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Actions</th>
+                                    {% endif %}
+                                </tr>
+                            </thead>
+                            <tbody id="doctor-table-body" class="bg-white divide-y divide-slate-200">
+                                <tr>
+                                    <td colspan="4" class="px-6 py-4 break-words text-slate-500">Loading doctors...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Pagination (floating) -->
+                    <div id="doctor-pagination"
+                        class="mt-4 flex justify-center items-center gap-2 px-2 py-3 bg-white rounded-lg">
+                    </div>
+                </section>
+            </div>
+
+            <!-- Add Doctor Modal -->
+            <div id="add-doctor-modal"
+                class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center z-50">
+                <div class="bg-white rounded-xl p-6 w-128 max-w-2xl max-h-[90vh] overflow-auto shadow-lg">
+                    <h2 class="text-2xl font-bold mb-4 text-center">Add New Doctor</h2>
+                    <form id="add-doctor-form" class="space-y-4">
+
+                        <!-- Doctor Info -->
+                        <div class="space-y-2">
+                            <input type="text" name="full_name" placeholder="Full Name" required
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="file" name="image" placeholder="Image"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400"
+                                accept="image/png, image/jpg, image/jpeg">
+                            <input type="text" name="degrees" placeholder="Degrees (comma separated)"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="specialization" placeholder="Specialization"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="designation" placeholder="Designation"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <input type="text" name="affiliated_hospital" placeholder="Affiliated Hospital"
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                        </div>
+
+                        <!-- Chamber Search -->
+                        <div class="mt-4">
+                            <input type="text" id="doctor-chamber-search" placeholder="Search Chamber..."
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <div id="doctor-chamber-results"
+                                class="border rounded-lg mt-1 max-h-40 overflow-auto bg-white shadow-sm"></div>
+                        </div>
+
+                        <!-- Selected Chambers -->
+                        <div id="selected-chambers" class="space-y-3 mt-4"></div>
+
+                        <!-- Action Buttons -->
+                        <div class="flex justify-end gap-3 pt-4">
+                            <button type="button" id="cancel-doctor-btn"
+                                class="px-5 py-2 bg-gray-300 hover:bg-gray-400 rounded-lg transition">Cancel</button>
+                            <button type="submit"
+                                class="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- edit Doctor Modal -->
+            <div id="edit-doctor-modal"
+                class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center z-50">
+                <div class="bg-white rounded-xl p-6 w-128 max-w-2xl max-h-[90vh] overflow-auto shadow-lg">
+                    <h2 class="text-2xl font-bold mb-4 text-center">Edit Doctor Info</h2>
+                    <form id="edit-doctor-form" class="space-y-4">
+
+                        <input type="hidden" name="doctor_id" id="edit-doctor-id">
+
+                        <input type="text" name="full_name" id="edit-full-name" placeholder="Full Name" required
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="file" name="image" id="edit-image" placeholder="Image"
+                            accept="image/png, image/jpg, image/jpeg"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="degrees" id="edit-degrees" placeholder="Degrees (comma separated)"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="specialization" id="edit-specialization" placeholder="Specialization"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="designation" id="edit-designation" placeholder="Designation"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <input type="text" name="affiliated_hospital" id="edit-affiliated-hospital"
+                            placeholder="Affiliated Hospital"
+                            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+
+                        <!-- Chamber Search -->
+                        <!-- <div>
+                            <input type="text" id="edit-chamber-search" placeholder="Search Chamber..."
+                                class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400">
+                            <div id="update-chamber-results"
+                                class="border rounded-lg mt-1 max-h-40 overflow-auto bg-white shadow-sm"></div>
+                        </div> -->
+
+                        <!-- Selected Chambers -->
+                        <div id="edit-selected-chambers" class="space-y-3 mt-4"></div>
+
+                        <div class="flex justify-end gap-3 pt-4">
+                            <button type="button" id="cancel-edit-doctor-btn"
+                                class="px-5 py-2 bg-gray-300 hover:bg-gray-400 rounded-lg transition">Cancel</button>
+                            <button type="submit"
+                                class="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition">Update</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+
+            <!-- Add Chamber Modal -->
+            <div id="add-chamber-modal"
+                class="fixed inset-0 bg-black bg-opacity-40 hidden flex items-center justify-center z-50">
+                <div class="bg-white rounded-lg p-6 w-128">
+                    <h2 class="text-xl font-semibold mb-4">Add New Chamber</h2>
+                    <form id="add-chamber-form" class="space-y-4">
+                        <input type="text" name="chamber_name" placeholder="Chamber Name" required
+                            class="w-full px-3 py-2 border rounded-lg">
+                        <input type="text" name="address" placeholder="Address" required
+                            class="w-full px-3 py-2 border rounded-lg">
+                        <div class="grid grid-cols-2 gap-4">
+                            <input type="number" name="longitude" step="any" placeholder="Longitude"
+                                class="w-full px-3 py-2 border rounded-lg">
+                            <input type="number" name="latitude" step="any" placeholder="Latitude"
+                                class="w-full px-3 py-2 border rounded-lg">
+                        </div>
+                        <div class="flex justify-end gap-2 pt-4">
+                            <button type="button" id="cancel-chamber-btn"
+                                class="px-4 py-2 bg-gray-200 rounded-lg">Cancel</button>
+                            <button type="submit" class="px-4 py-2 bg-blue-600 text-white rounded-lg">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Edit Chamber Modal -->
+            <div id="edit-chamber-modal"
+                class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+                <div class="bg-white rounded-lg p-6 w-128">
+                    <h2 class="text-xl font-semibold mb-4">Edit Chamber</h2>
+                    <form id="edit-chamber-form">
+                        <label>Chamber Name</label>
+                        <input type="text" name="chamber_name" class="w-full mb-2 p-2 border rounded" />
+
+                        <label>Address</label>
+                        <input type="text" name="address" class="w-full mb-2 p-2 border rounded" />
+
+                        <label>Longitude</label>
+                        <input type="number" name="longitude" step="any" class="w-full mb-2 p-2 border rounded" />
+
+                        <label>Latitude</label>
+                        <input type="number" name="latitude" step="any" class="w-full mb-4 p-2 border rounded" />
+
+                        <button type="submit" class="px-4 py-2 bg-blue-600 text-white rounded">Save</button>
+                        <button type="button" onclick="closeEditModal('edit-chamber-modal')"
+                            class="px-4 py-2 bg-gray-300 rounded ml-2">Cancel</button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Chamber Table Container -->
+            <div id="chambers-table-container" class="hidden flex-1 overflow-hidden">
+                <section class="bg-white p-6 rounded-xl mb-4 flex flex-col h-full">
+                    <h2 class="text-2xl font-bold text-slate-800 mb-4">Chamber Management</h2>
+
+                    <div class="flex flex-col sm:flex-row justify-between items-center mb-4 space-y-3 sm:space-y-0">
+                        <input type="text" id="chamber-search" placeholder="Search chambers..."
+                            class="w-full sm:w-72 px-4 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        {% if user.role.name == 'SUPERUSER' %}
+                        <button id="add-chamber-btn"
+                            class="w-full sm:w-auto px-5 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition-colors">
+                            Add New Chamber
+                        </button>
+                        {% endif %}
+                    </div>
+
+                    <!-- Table -->
+                    <div class="flex-1 overflow-auto">
+                        <table class="min-w-full w-full table-fixed divide-y divide-slate-200">
+                            <thead class="bg-slate-50 sticky top-0 z-10">
+                                <tr>
+                                    <th
+                                        class="px-6 py-3 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Chamber Name
+                                    </th>
+                                    <th
+                                        class="px-6 py-3 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Address
+                                    </th>
+                                    {% if user.role.name == 'SUPERUSER' %}
+                                    <th
+                                        class="px-6 py-3 text-right text-xs font-medium text-slate-500 uppercase tracking-wider">
+                                        Actions
+                                    </th>
+                                    {% endif %}
+                                </tr>
+                            </thead>
+                            <tbody id="chamber-table-body" class="bg-white divide-y divide-slate-200">
+                                <tr>
+                                    <td colspan="3" class="px-6 py-4 break-words text-slate-500">Loading chambers...
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Pagination (floating) -->
+                    <div id="chamber-pagination"
+                        class="mt-4 flex justify-center items-center gap-2 px-2 py-3 bg-white rounded-lg">
+                    </div>
+
+                </section>
+            </div>
+
+
+        </div>
+    </main>
+
+    <div id="toast-container" class="fixed bottom-5 right-5 flex flex-col space-y-2 z-50"></div>
+
+
+
+    <script>
+        // toast 
+        function showToast(message, type = "success", duration = 3000) {
+            const container = document.getElementById("toast-container");
+
+            // Create toast element
+            const toast = document.createElement("div");
+            toast.className = `
+        px-4 py-2 rounded shadow text-white
+        ${type === "success" ? "bg-green-500" : "bg-red-500"}
+        transform translate-x-20 opacity-0 transition-all duration-300
+    `;
+            toast.textContent = message;
+
+            container.appendChild(toast);
+
+            // Slide in effect
+            requestAnimationFrame(() => {
+                toast.classList.remove("translate-x-20", "opacity-0");
+                toast.classList.add("translate-x-0", "opacity-100");
+            });
+
+            // Remove toast after duration
+            setTimeout(() => {
+                toast.classList.add("translate-x-20", "opacity-0");
+                setTimeout(() => {
+                    toast.remove();
+                }, 300);
+            }, duration);
+        }
+
+
+        // --- Element Selectors ---
+        const logoutBtn = document.getElementById("logout-btn");
+        const doctorCountEl = document.getElementById("doctor-count");
+        const chamberCountEl = document.getElementById("chamber-count");
+        const doctorTableBody = document.getElementById("doctor-table-body");
+        const chamberTableBody = document.getElementById("chamber-table-body");
+
+        // Tabs
+        const tabDoctors = document.getElementById("tab-doctors");
+        const tabChambers = document.getElementById("tab-chambers");
+        const doctorsContainer = document.getElementById("doctors-table-container");
+        const chambersContainer = document.getElementById("chambers-table-container");
+
+        // Pagination
+        let doctorOffset = 0, doctorLimit = 10;
+        let chamberOffset = 0, chamberLimit = 10;
+        let totalDoctors = 0, totalChambers = 0;
+
+        // --- Event Listeners ---
+        logoutBtn.addEventListener("click", handleLogout);
+        document.addEventListener("DOMContentLoaded", () => {
+            loadDashboardData();
+            loadDoctorData();
+            loadChamberData();
+        });
+
+        tabDoctors.addEventListener("click", () => {
+            doctorsContainer.classList.remove("hidden");
+            chambersContainer.classList.add("hidden");
+            tabDoctors.classList.add("bg-blue-600", "text-white");
+            tabDoctors.classList.remove("bg-gray-200", "text-slate-700");
+            tabChambers.classList.add("bg-gray-200", "text-slate-700");
+            tabChambers.classList.remove("bg-blue-600", "text-white");
+        });
+
+        tabChambers.addEventListener("click", () => {
+            chambersContainer.classList.remove("hidden");
+            doctorsContainer.classList.add("hidden");
+            tabChambers.classList.add("bg-blue-600", "text-white");
+            tabChambers.classList.remove("bg-gray-200", "text-slate-700");
+            tabDoctors.classList.add("bg-gray-200", "text-slate-700");
+            tabDoctors.classList.remove("bg-blue-600", "text-white");
+        });
+
+
+        // Grab elements
+        const addChamberBtn = document.getElementById("add-chamber-btn");
+        const chamberModal = document.getElementById("add-chamber-modal");
+        const cancelChamberBtn = document.getElementById("cancel-chamber-btn");
+        const addChamberForm = document.getElementById("add-chamber-form");
+
+        // Open modal on button click
+        if (addChamberBtn) {
+            addChamberBtn.addEventListener("click", () => {
+                chamberModal.classList.remove("hidden");
+                chamberModal.classList.add("flex");
+            });
+        }
+
+        // Close modal
+        cancelChamberBtn.addEventListener("click", () => {
+            chamberModal.classList.add("hidden");
+            chamberModal.classList.remove("flex");
+        });
+
+        // Handle form submission
+        addChamberForm.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            const formData = new FormData(addChamberForm);
+            const payload = Object.fromEntries(formData.entries());
+            payload.longitude = parseFloat(payload.longitude) || 0;
+            payload.latitude = parseFloat(payload.latitude) || 0;
+
+            try {
+                const response = await fetch("/api/v1/chambers/", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(payload),
+                });
+
+                if (!response.ok) throw new Error("Failed to add chamber");
+
+                const data = await response.json();
+                console.log("Chamber added:", data);
+
+                addChamberForm.reset();
+                chamberModal.classList.add("hidden");
+                chamberModal.classList.remove("flex");
+            } catch (err) {
+                console.error(err);
+            }
+        });
+
+
+        // --- Functions ---
+        async function handleLogout() {
+            try {
+                await fetch("/api/v1/auth/logout", { method: "POST", credentials: "include" });
+                window.location.href = "/login";
+            } catch (err) { console.error("Logout failed:", err); }
+        }
+
+        async function loadDashboardData() {
+            try {
+                const response = await fetch("/api/v1/dashboard/stats");
+                if (!response.ok) throw new Error('Failed to fetch stats');
+                const stats = await response.json();
+                doctorCountEl.textContent = stats.doctor_count;
+                chamberCountEl.textContent = stats.chamber_count;
+                totalDoctors = stats.doctor_count;
+                totalChambers = stats.chamber_count;
+            } catch (err) {
+                console.error(err);
+            }
+        }
+
+        async function loadDoctorData() {
+            try {
+                const response = await fetch(`/api/v1/doctors?offset=${doctorOffset}&limit=${doctorLimit}`);
+                if (!response.ok) throw new Error('Failed to fetch doctors');
+                const doctors = await response.json();
+                renderDoctorTable(doctors);
+                renderDoctorPagination();
+            } catch (err) {
+                console.error(err);
+                doctorTableBody.innerHTML = `<tr><td colspan="4" class="text-red-500 p-4">${err.message}</td></tr>`;
+            }
+        }
+
+        function renderDoctorPagination() {
+            const paginationDiv = document.getElementById("doctor-pagination");
+            paginationDiv.innerHTML = "";
+
+            const totalPages = Math.ceil(totalDoctors / doctorLimit);
+            const currentPage = Math.floor(doctorOffset / doctorLimit) + 1;
+
+            // Helper to create circular button
+            function createPageButton(label, page, isActive = false, disabled = false) {
+                const btn = document.createElement("button");
+                btn.textContent = label;
+                btn.className = `w-8 h-8 flex items-center justify-center rounded-full border text-sm transition 
+            ${isActive ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-slate-700 border-slate-300 hover:bg-blue-50'}
+            ${disabled ? 'opacity-50 cursor-not-allowed' : ''}`;
+                if (!disabled && !isActive) {
+                    btn.addEventListener("click", () => {
+                        doctorOffset = (page - 1) * doctorLimit;
+                        loadDoctorData();
+                    });
+                }
+                return btn;
+            }
+
+            // « First
+            paginationDiv.appendChild(createPageButton("«", 1, false, currentPage === 1));
+
+            // Determine the visible range (keep consistent 5 slots)
+            let start = Math.max(1, currentPage - 2);
+            let end = Math.min(totalPages, start + 4);
+
+            if (end - start < 4) start = Math.max(1, end - 4);
+
+            // Add first page and ellipsis if needed
+            if (start > 1) {
+                paginationDiv.appendChild(createPageButton("1", 1));
+                if (start > 2) paginationDiv.appendChild(document.createTextNode("…"));
+            }
+
+            // Add main visible pages
+            for (let i = start; i <= end; i++) {
+                paginationDiv.appendChild(createPageButton(i, i, i === currentPage));
+            }
+
+            // Add ellipsis and last page if needed
+            if (end < totalPages) {
+                if (end < totalPages - 1) paginationDiv.appendChild(document.createTextNode("…"));
+                paginationDiv.appendChild(createPageButton(totalPages, totalPages));
+            }
+
+            // » Last
+            paginationDiv.appendChild(createPageButton("»", totalPages, false, currentPage === totalPages));
+        }
+
+
+        async function loadChamberData() {
+            try {
+                const response = await fetch(`/api/v1/chambers?offset=${chamberOffset}&limit=${chamberLimit}`);
+                if (!response.ok) throw new Error('Failed to fetch chambers');
+                const chambers = await response.json();
+                renderChamberTable(chambers);
+                renderChamberPagination()
+            } catch (err) {
+                console.error(err);
+                chamberTableBody.innerHTML = `<tr><td colspan="3" class="text-red-500 p-4">${err.message}</td></tr>`;
+            }
+        }
+
+        function renderChamberPagination() {
+            const paginationDiv = document.getElementById("chamber-pagination");
+            paginationDiv.innerHTML = "";
+
+            const totalPages = Math.ceil(totalChambers / chamberLimit);
+            const currentPage = Math.floor(chamberOffset / chamberLimit) + 1;
+
+            // Helper to create circular button
+            function createPageButton(label, page, isActive = false, disabled = false) {
+                const btn = document.createElement("button");
+                btn.textContent = label;
+                btn.className = `w-8 h-8 flex items-center justify-center rounded-full border text-sm transition 
+            ${isActive ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-slate-700 border-slate-300 hover:bg-blue-50'}
+            ${disabled ? 'opacity-50 cursor-not-allowed' : ''}`;
+                if (!disabled && !isActive) {
+                    btn.addEventListener("click", () => {
+                        chamberOffset = (page - 1) * chamberLimit;
+                        loadChamberData();
+                    });
+                }
+                return btn;
+            }
+
+            // « First
+            paginationDiv.appendChild(createPageButton("«", 1, false, currentPage === 1));
+
+            // Determine the visible range (keep consistent 5 slots)
+            let start = Math.max(1, currentPage - 2);
+            let end = Math.min(totalPages, start + 4);
+
+            if (end - start < 4) start = Math.max(1, end - 4);
+
+            // Add first page and ellipsis if needed
+            if (start > 1) {
+                paginationDiv.appendChild(createPageButton("1", 1));
+                if (start > 2) paginationDiv.appendChild(document.createTextNode("…"));
+            }
+
+            // Add main visible pages
+            for (let i = start; i <= end; i++) {
+                paginationDiv.appendChild(createPageButton(i, i, i === currentPage));
+            }
+
+            // Add ellipsis and last page if needed
+            if (end < totalPages) {
+                if (end < totalPages - 1) paginationDiv.appendChild(document.createTextNode("…"));
+                paginationDiv.appendChild(createPageButton(totalPages, totalPages));
+            }
+
+            // » Last
+            paginationDiv.appendChild(createPageButton("»", totalPages, false, currentPage === totalPages));
+        }
+
+        function renderDoctorTable(doctors) {
+            doctorTableBody.innerHTML = "";
+            if (doctors.length === 0) {
+                doctorTableBody.innerHTML = `<tr><td colspan="4" class="text-slate-500 p-4 text-center">No doctors found.</td></tr>`;
+                return;
+            }
+            doctors.forEach(doctor => {
+                const tr = document.createElement("tr");
+                tr.className = "hover:bg-slate-50";
+                tr.innerHTML = `
+                    <td class="px-6 py-4 break-words">
+                        <div class="text-sm font-medium text-slate-900">${doctor.full_name}</div>
+                        <div class="text-sm text-slate-500">${doctor.degrees.join(', ')}</div>
+                    </td>
+                    <td class="px-6 py-4 break-words text-sm text-slate-600">${doctor.specialization}</td>
+                    <td class="px-6 py-4 break-words text-sm text-slate-600">${doctor.designation}</td>
+                    {% if user.role.name == 'SUPERUSER' %}
+                    <td class="px-6 py-4 break-words text-right text-sm font-medium space-x-2">
+                        <button class="text-yellow-600 hover:text-yellow-900" onclick="editDoctor(${doctor.id})">Edit</button>
+                        <button class="text-red-600 hover:text-red-900" onclick="deleteDoctor(${doctor.id})">Delete</button>
+                    </td>
+                    {% endif %}
+                `;
+                doctorTableBody.appendChild(tr);
+            });
+        }
+
+        function renderChamberTable(chambers) {
+            chamberTableBody.innerHTML = "";
+            if (chambers.length === 0) {
+                chamberTableBody.innerHTML = `<tr><td colspan="3" class="text-slate-500 p-4 text-center">No chambers found.</td></tr>`;
+                return;
+            }
+            chambers.forEach(chamber => {
+                const tr = document.createElement("tr");
+                tr.className = "hover:bg-slate-50";
+                tr.innerHTML = `
+                    <td class="px-6 py-4 break-words text-sm font-medium text-slate-900">${chamber.chamber_name}</td>
+                    <td class="px-6 py-4 break-words text-sm text-slate-600">${chamber.address}</td>
+                    {% if user.role.name == 'SUPERUSER' %}
+                    <td class="px-6 py-4 break-words text-right text-sm font-medium space-x-2">
+                        <button class="text-yellow-600 hover:text-yellow-900" onclick="editChamber(${chamber.id})">Edit</button>
+                        <button class="text-red-600 hover:text-red-900" onclick="deleteChamber(${chamber.id})">Delete</button>
+                    </td>
+                    {% endif %}
+                `;
+                chamberTableBody.appendChild(tr);
+            });
+        }
+
+        // --- Placeholder CRUD ---
+        function openEditModal(modal) {
+            document.getElementById(modal).classList.remove("hidden");
+        }
+
+        function closeEditModal(modal) {
+            document.getElementById(modal).classList.add("hidden");
+        }
+
+        // Main edit function
+        async function editChamber(id) {
+            // 1️⃣ Fetch existing chamber data
+            const response = await fetch(`/api/v1/chambers/${id}`);
+            const chamber = await response.json();
+
+            // 2️⃣ Populate form
+            const form = document.getElementById("edit-chamber-form");
+            form.chamber_name.value = chamber.chamber_name || "";
+            form.address.value = chamber.address || "";
+            form.longitude.value = chamber.longitude ?? "";
+            form.latitude.value = chamber.latitude ?? "";
+
+            // 3️⃣ Show modal
+            openEditModal("edit-chamber-modal");
+
+            // 4️⃣ Handle form submit
+            form.onsubmit = async (e) => {
+                e.preventDefault();
+
+                const updatedData = {
+                    chamber_name: form.chamber_name.value,
+                    address: form.address.value,
+                    longitude: parseFloat(form.longitude.value),
+                    latitude: parseFloat(form.latitude.value),
+                };
+
+                try {
+                    const res = await fetch(`/api/v1/chambers/${id}`, {
+                        method: "PUT",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify(updatedData),
+                    });
+
+                    if (!res.ok) throw new Error("Failed to update chamber");
+                    closeEditModal("edit-chamber-modal");
+                    showToast("Chamber updated successfully", "success")
+                } catch (err) {
+                    showToast(err.message, "error")
+                }
+            };
+        }
+
+        async function deleteDoctor(id) {
+            try {
+                const response = await fetch(`/api/v1/doctors/${id}`, {
+                    method: "DELETE",
+                    headers: {
+                        "Accept": "application/json"
+                    }
+                });
+                if (!response.ok) {
+                    throw new Errir("Failed to delete doctor");
+                }
+                showToast(`Doctor ID ${id} deleted successfully`, "success");
+                const row = document.getElementById(`doctor-row-${id}`);
+                if (row) row.remove();
+            } catch (err) {
+                showToast(err.message, "error");
+            }
+        }
+
+        async function deleteChamber(id) {
+            try {
+                const response = await fetch(`/api/v1/chambers/${id}`, {
+                    method: "DELETE",
+                    headers: {
+                        "Accept": "application/json"
+                    }
+                });
+                if (!response.ok) {
+                    throw new Errir("Failed to delete chamber");
+                }
+                showToast(`Chamber ID ${id} deleted successfully`, "success");
+                const row = document.getElementById(`chamber-row-${id}`);
+                if (row) row.remove();
+            } catch (err) {
+                showToast(err.message, "error");
+            }
+
+        }
+
+
+        const chamberSearchInput = document.getElementById("chamber-search");
+
+        let chamberSearchTimeout;
+
+        chamberSearchInput.addEventListener("input", (e) => {
+            const paginationDiv = document.getElementById("chamber-pagination");
+
+            clearTimeout(chamberSearchTimeout);
+
+            // debounce to avoid too many requests
+            chamberSearchTimeout = setTimeout(() => {
+                const query = e.target.value.trim();
+                if (query !== "") {
+                    paginationDiv.style.display = "none";  // hide pagination
+                } else {
+                    paginationDiv.style.display = "flex";  // show pagination again
+                }
+                searchChambers(query);
+            }, 300); // wait 300ms after user stops typing
+        });
+
+        async function searchChambers(query) {
+            try {
+                const response = await fetch(`/api/v1/chambers/search?params=${encodeURIComponent(query)}`);
+                if (!response.ok) throw new Error("Failed to search chambers");
+                const chambers = await response.json();
+                renderChamberTable(chambers);
+            } catch (err) {
+                console.error(err);
+                showToast(err.message, "error");
+            }
+        }
+
+        const doctorSearchInput = document.getElementById("doctor-search");
+
+        let doctorSearchTimeout;
+
+        doctorSearchInput.addEventListener("input", (e) => {
+            const paginationDiv = document.getElementById("doctor-pagination");
+
+            clearTimeout(doctorSearchTimeout);
+
+            // debounce to avoid too many requests
+            doctorSearchTimeout = setTimeout(() => {
+                const query = e.target.value.trim();
+
+                if (query !== "") {
+                    paginationDiv.style.display = "none";  // hide pagination
+                } else {
+                    paginationDiv.style.display = "flex";  // show pagination again
+                }
+
+                searchDoctors(query);
+            }, 300); // wait 300ms after user stops typing
+        });
+
+        async function searchDoctors(query) {
+            try {
+                const response = await fetch(`/api/v1/doctors/search?params=${encodeURIComponent(query)}`);
+                if (!response.ok) throw new Error("Failed to search doctors");
+                const doctors = await response.json();
+                renderDoctorTable(doctors);
+            } catch (err) {
+                console.error(err);
+                showToast(err.message, "error");
+            }
+        }
+
+        // Add new Doctor 
+
+        const addDoctorBtn = document.getElementById('add-doctor-btn');
+        const addDoctorModal = document.getElementById('add-doctor-modal');
+        const addDoctorForm = document.getElementById('add-doctor-form');
+        const cancelDoctorBtn = document.getElementById('cancel-doctor-btn');
+        const doctorChamberSearch = document.getElementById('doctor-chamber-search');
+        const doctorChamberResults = document.getElementById('doctor-chamber-results');
+        const selectedChambersDiv = document.getElementById('selected-chambers');
+
+        if (addDoctorBtn) {
+            addDoctorBtn.addEventListener('click', () => {
+                addDoctorModal.classList.remove('hidden');
+            });
+        }
+
+
+        let selectedChambers = [];
+
+        cancelDoctorBtn.addEventListener('click', () => {
+            addDoctorModal.classList.add('hidden');
+            addDoctorForm.reset();
+            selectedChambers = [];
+            selectedChambersDiv.innerHTML = '';
+        });
+
+        // --- Debounce function ---
+        function debounce(fn, delay) {
+            let timeout;
+            return function (...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => fn.apply(this, args), delay);
+            }
+        }
+
+        // --- Search chambers ---
+        const fetchChambers = debounce(async (query) => {
+            if (!query) {
+                doctorChamberResults.innerHTML = '';
+                return;
+            }
+            try {
+                const res = await fetch(`/api/v1/chambers/search?params=${encodeURIComponent(query)}`);
+                const data = await res.json();
+                doctorChamberResults.innerHTML = '';
+                data.forEach(chamber => {
+                    const div = document.createElement('div');
+                    div.textContent = chamber.chamber_name;
+                    div.className = 'p-2 cursor-pointer hover:bg-gray-100';
+                    div.addEventListener('click', () => addChamber(chamber));
+                    doctorChamberResults.appendChild(div);
+                });
+            } catch (err) {
+                console.error(err);
+            }
+        }, 300);
+
+        doctorChamberSearch.addEventListener('input', (e) => {
+            fetchChambers(e.target.value);
+        });
+
+        // --- Add chamber ---
+        function addChamber(chamber) {
+            if (selectedChambers.find(c => c.id === chamber.id)) return;
+
+            const chamberObj = { id: chamber.id, contact_number: '', visiting_hours: [] };
+            selectedChambers.push(chamberObj);
+
+            const chamberDiv = document.createElement('div');
+            chamberDiv.className = 'border p-3 rounded-lg bg-gray-50 shadow-sm space-y-2';
+
+            chamberDiv.innerHTML = `
+      <div class="flex justify-between items-center">
+        <strong class="text-lg">${chamber.chamber_name}</strong>
+        <button type="button" class="remove-chamber-btn text-red-500 font-bold">X</button>
+      </div>
+      <input type="text" placeholder="Contact Number" class="border p-2 w-full rounded-lg chamber-contact">
+      <button type="button" class="add-hour-btn px-3 py-1 bg-gray-200 rounded hover:bg-gray-300">Add Visiting Hour</button>
+      <div class="visiting-hours mt-2 space-y-2"></div>
+    `;
+
+            const contactInput = chamberDiv.querySelector('.chamber-contact');
+            contactInput.addEventListener('input', e => chamberObj.contact_number = e.target.value);
+
+            // Remove chamber button
+            const removeBtn = chamberDiv.querySelector('.remove-chamber-btn');
+            removeBtn.addEventListener('click', () => {
+                selectedChambers = selectedChambers.filter(c => c.id !== chamber.id);
+                selectedChambersDiv.removeChild(chamberDiv);
+            });
+
+            const addHourBtn = chamberDiv.querySelector('.add-hour-btn');
+            const hoursDiv = chamberDiv.querySelector('.visiting-hours');
+
+            addHourBtn.addEventListener('click', () => {
+                const index = chamberObj.visiting_hours.length;
+                chamberObj.visiting_hours.push({ day: 'MONDAY', start_time: '', end_time: '' });
+
+                const vhDiv = document.createElement('div');
+                vhDiv.className = 'flex gap-2 items-center bg-white p-2 rounded border';
+
+                vhDiv.innerHTML = `
+          <select class="day-select border p-1 rounded">
+            <option>MONDAY</option>
+            <option>TUESDAY</option>
+            <option>WEDNESDAY</option>
+            <option>THURSDAY</option>
+            <option>FRIDAY</option>
+            <option>SATURDAY</option>
+            <option>SUNDAY</option>
+          </select>
+          <input type="time" class="start-time border p-1 rounded">
+          <input type="time" class="end-time border p-1 rounded">
+          <button type="button" class="remove-hour-btn bg-red-200 px-2 rounded hover:bg-red-300">X</button>
+        `;
+                hoursDiv.appendChild(vhDiv);
+
+                const daySelect = vhDiv.querySelector('.day-select');
+                const startInput = vhDiv.querySelector('.start-time');
+                const endInput = vhDiv.querySelector('.end-time');
+                const removeHourBtn = vhDiv.querySelector('.remove-hour-btn');
+
+                daySelect.addEventListener('change', e => chamberObj.visiting_hours[index].day = e.target.value);
+                startInput.addEventListener('change', e => chamberObj.visiting_hours[index].start_time = e.target.value);
+                endInput.addEventListener('change', e => chamberObj.visiting_hours[index].end_time = e.target.value);
+                removeHourBtn.addEventListener('click', () => {
+                    hoursDiv.removeChild(vhDiv);
+                    chamberObj.visiting_hours.splice(index, 1);
+                });
+            });
+
+            selectedChambersDiv.appendChild(chamberDiv);
+            doctorChamberResults.innerHTML = '';
+            doctorChamberSearch.value = '';
+        }
+
+
+        // --- Submit form ---
+        addDoctorForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(addDoctorForm);
+            formData.append('chambers', JSON.stringify(selectedChambers));
+
+            const res = await fetch('/api/v1/doctors/', {
+                method: 'POST',
+                body: formData
+            });
+
+            if (res.ok) {
+                showToast("Doctor added successfully", "success")
+                addDoctorModal.classList.add('hidden');
+                addDoctorForm.reset();
+                selectedChambers = [];
+                selectedChambersDiv.innerHTML = '';
+            } else {
+                const err = await res.json();
+                showToast(err, "error")
+            }
+        });
+
+        const updateDoctorModal = document.getElementById('edit-doctor-modal');
+        const updateForm = document.getElementById('edit-doctor-form');
+        const updateSelectedChambersDiv = document.getElementById('edit-selected-chambers');
+        let updateSelectedChambers = [];
+
+        // Cancel button
+        document.getElementById('cancel-edit-doctor-btn').addEventListener('click', () => {
+            updateDoctorModal.classList.add('hidden');
+            updateForm.reset();
+            updateSelectedChambers = [];
+            updateSelectedChambersDiv.innerHTML = '';
+        });
+
+        // Function to populate existing data
+        function openUpdateDoctorModal(doctor) {
+            updateDoctorModal.classList.remove('hidden');
+            document.getElementById('edit-doctor-id').value = doctor.id;
+            document.getElementById('edit-full-name').value = doctor.full_name;
+            document.getElementById('edit-degrees').value = doctor.degrees.join(', ');
+            document.getElementById('edit-specialization').value = doctor.specialization || '';
+            document.getElementById('edit-designation').value = doctor.designation || '';
+            document.getElementById('edit-affiliated-hospital').value = doctor.affiliated_hospital || '';
+
+            // Pre-fill selected chambers
+            updateSelectedChambers = [];
+            updateSelectedChambersDiv.innerHTML = '';
+            doctor.chambers.forEach(ch => addUpdateChamber(ch));
+        }
+
+        // Add a chamber to the selected list
+        function addUpdateChamber(chamber) {
+            if (updateSelectedChambers.find(c => c.id === chamber.id)) return;
+
+            const chamberObj = {
+                id: chamber.id,
+                name: chamber.chamber_name,
+                contact_number: chamber.contact_number || '',
+                visiting_hours: chamber.visiting_hours || []
+            };
+            updateSelectedChambers.push(chamberObj);
+
+            const chamberDiv = document.createElement('div');
+            chamberDiv.className = 'border p-3 rounded-lg bg-gray-50 shadow-sm space-y-2';
+
+            chamberDiv.innerHTML = `
+      <div class="flex justify-between items-center">
+        <strong class="text-lg">${chamberObj.name}</strong>
+        <button type="button" class="remove-chamber-btn text-red-500 font-bold">X</button>
+      </div>
+      <input type="text" placeholder="Contact Number" class="border p-2 w-full rounded-lg chamber-contact" value="${chamberObj.contact_number}">
+      <button type="button" class="add-hour-btn px-3 py-1 bg-gray-200 rounded hover:bg-gray-300">Add Visiting Hour</button>
+      <div class="visiting-hours mt-2 space-y-2"></div>
+    `;
+
+            const contactInput = chamberDiv.querySelector('.chamber-contact');
+            contactInput.addEventListener('input', e => chamberObj.contact_number = e.target.value);
+
+            // Remove chamber
+            const removeBtn = chamberDiv.querySelector('.remove-chamber-btn');
+            removeBtn.addEventListener('click', () => {
+                updateSelectedChambers = updateSelectedChambers.filter(c => c.id !== chamberObj.id);
+                updateSelectedChambersDiv.removeChild(chamberDiv);
+            });
+
+            const addHourBtn = chamberDiv.querySelector('.add-hour-btn');
+            const hoursDiv = chamberDiv.querySelector('.visiting-hours');
+
+            // Pre-fill visiting hours
+            chamberObj.visiting_hours.forEach(vh => addUpdateVisitingHour(hoursDiv, chamberObj, vh));
+
+            // Add new visiting hour
+            addHourBtn.addEventListener('click', () => {
+                const newVH = { day: 'MONDAY', start_time: '', end_time: '' };
+                chamberObj.visiting_hours.push(newVH);
+                addUpdateVisitingHour(hoursDiv, chamberObj, newVH);
+            });
+
+            updateSelectedChambersDiv.appendChild(chamberDiv);
+        }
+
+        // Add a single visiting hour card
+        function addUpdateVisitingHour(hoursDiv, chamberObj, vh) {
+            const vhDiv = document.createElement('div');
+            vhDiv.className = 'flex gap-2 items-center bg-white p-2 rounded border';
+
+            vhDiv.innerHTML = `
+      <select class="day-select border p-1 rounded">
+          <option value="MONDAY">MONDAY</option>
+        <option value="TUESDAY">TUESDAY</option>
+        <option value="WEDNESDAY">WEDNESDAY</option>
+        <option value="THURSDAY">THURSDAY</option>
+        <option value="FRIDAY">FRIDAY</option>
+        <option value="SATURDAY">SATURDAY</option>
+        <option value="SUNDAY">SUNDAY</option>
+      </select>
+      <input type="time" class="start-time border p-1 rounded">
+      <input type="time" class="end-time border p-1 rounded">
+      <button type="button" class="remove-hour-btn bg-red-200 px-2 rounded hover:bg-red-300">X</button>
+    `;
+
+            hoursDiv.appendChild(vhDiv);
+
+            const daySelect = vhDiv.querySelector('.day-select');
+            const startInput = vhDiv.querySelector('.start-time');
+            const endInput = vhDiv.querySelector('.end-time');
+            const removeBtn = vhDiv.querySelector('.remove-hour-btn');
+
+            // Pre-fill existing values
+            const dayValue = vh.day?.trim().toUpperCase() || 'MONDAY';
+            if ([...daySelect.options].some(opt => opt.value === dayValue)) {
+                daySelect.value = dayValue;
+            }
+            startInput.value = vh.start_time || '';
+            endInput.value = vh.end_time || '';
+
+            // Update the object directly
+            daySelect.addEventListener('change', e => vh.day = e.target.value);
+            startInput.addEventListener('change', e => vh.start_time = e.target.value);
+            endInput.addEventListener('change', e => vh.end_time = e.target.value);
+
+            // Remove visiting hour
+            removeBtn.addEventListener('click', () => {
+                hoursDiv.removeChild(vhDiv);
+                const idx = chamberObj.visiting_hours.indexOf(vh);
+                if (idx > -1) chamberObj.visiting_hours.splice(idx, 1);
+            });
+        }
+
+        // --- Form submission ---
+        updateForm.addEventListener('submit', async e => {
+            e.preventDefault();
+            const doctorId = document.getElementById('edit-doctor-id').value;
+            const payload = {
+                full_name: document.getElementById('edit-full-name').value,
+                degrees: document.getElementById('edit-degrees').value.split(',').map(d => d.trim()),
+                specialization: document.getElementById('edit-specialization').value,
+                designation: document.getElementById('edit-designation').value,
+                affiliated_hospital: document.getElementById('edit-affiliated-hospital').value,
+                chambers: updateSelectedChambers
+            };
+
+            try {
+                const res = await fetch(`/api/v1/doctors/${doctorId}`, {
+                    method: 'PUT',
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(payload)
+                });
+                if (res.ok) {
+                    showToast('Doctor updated successfully!', "success");
+                    updateDoctorModal.classList.add('hidden');
+                } else {
+                    const err = await res.json();
+                    showToast('Failed to update doctor', "error");
+                }
+            } catch (err) {
+                showToast('Error: ' + err.message, "error");
+            }
+        });
+
+        // Main edit function
+        async function editDoctor(id) {
+            // 1️⃣ Fetch existing doctor data
+            try {
+                const response = await fetch(`/api/v1/doctors/${id}`);
+                if (!response.ok) throw new Error('Failed to fetch doctor data');
+                const doctor = await response.json();
+                openUpdateDoctorModal(doctor)
+            }
+            catch (err) {
+                showToast(err, "error")
+            }
+        }
+
+    </script>
+</body>
+
+</html>

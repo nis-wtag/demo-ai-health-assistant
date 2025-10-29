@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Motherland Infertility Center & Hospital, Rajshahi",
+            "address": {
+                "name": "East Side of GPO, Ibrahim Plaza, Rajpara, Laxmipur, Rajhsahi",
+                "longitude": 91.848028,
+                "latitude": 24.911401
+            },
+            "contact": "+8801720176888",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Obstetrics & Gynecology",
+    "name": "Dr. Mahbub Ara Chowdhury Shiuly",
+    "speciality": "Gynecology, Infertility Specialist & Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-mahbub-ara-chowdhury-shiuly.jpg"
+}

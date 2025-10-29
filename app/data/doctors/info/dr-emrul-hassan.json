@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Intensive Care Diagnostic & Consultant Chamber",
+            "address": {
+                "name": "Amanat Market (2nd & 3rd floor), 280/1, Polytechnical Mor, Bayezid Road, Chittagong",
+                "longitude": 91.7641388,
+                "latitude": 22.3933547
+            },
+            "contact": "+8801926087227",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DDV (SKIN & VD, BSMMU)"
+    ],
+    "designation": "Consultant, Dermatology & Venerology",
+    "name": "Dr. Emrul Hassan",
+    "speciality": "Skin, Hair, Nail, Allergy, Leprosy & Sexual Diseases Specialist",
+    "workplace": "Rangamati General Hospital",
+    "image": "image/dr-emrul-hassan.jpg"
+}

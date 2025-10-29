@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center & Hospital, Sylhet",
+            "address": {
+                "name": "Subhanighat, Sylhet",
+                "longitude": 91.8779178,
+                "latitude": 24.8917942
+            },
+            "contact": "+8801773035138",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Professor, Surgery",
+    "name": "Prof. Dr. Parveen Aktar",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgery Specialist",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/prof-dr-parveen-aktar.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+88029613930",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "MS (EYE)",
+        "Fellow in Vitreo-Retinal Surgery (India)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Kamrul Hasan",
+    "speciality": "Phaco, Laser & Vitreo Retina Surgeon",
+    "workplace": "Harun Eye Foundation Hospital",
+    "image": "image/dr-md-kamrul-hasan-eye.jpg"
+}

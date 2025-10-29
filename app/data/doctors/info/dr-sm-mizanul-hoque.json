@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Lions Charitable Eye Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Nasirabad, Khulsi, Chattogram",
+                "longitude": 67.916566,
+                "latitude": 27.381011
+            },
+            "contact": "+8801511624052",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO",
+        "Training in Phaco Surgery"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. SM. Mizanul Hoque",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-sm-mizanul-hoque.jpg"
+}

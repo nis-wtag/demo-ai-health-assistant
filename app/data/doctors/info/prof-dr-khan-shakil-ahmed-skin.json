@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "DOC (SKIN & SEX)",
+        "PG Diploma (SKIN & SEX, UK)",
+        "DMF",
+        "MCPS",
+        "FCGP (Family Medicine)",
+        "MACP (USA)",
+        "Fellow, Sexology, Psycho Sexual Therapy & Cosmotology (India)"
+    ],
+    "designation": "Professor",
+    "name": "Prof. Dr. Khan Shakil Ahmed",
+    "speciality": "Diabetes, Family Medicine, Skin & Sexual Diseases Specialist",
+    "workplace": "Gazi Medical College & Hospital, Khulna",
+    "image": "image/prof-dr-khan-shakil-ahmed-skin.jpg"
+}

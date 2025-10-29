@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gimcon Tower, 255, New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801727041923",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MCPS (Medicine)",
+        "MRCP (UK)",
+        "MD (Endocrinology & Metabolism)"
+    ],
+    "designation": "Resident Physician",
+    "name": "Dr. Md. Ashiqur Rahman",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormone) & Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital"
+}

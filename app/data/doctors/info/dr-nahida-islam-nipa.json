@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DDV (DU)",
+        "FRCP (Glasgow)",
+        "MACP (USA)"
+    ],
+    "designation": "Associate Professor & Head (Dermatology)",
+    "name": "Dr. Nahida Islam Nipa",
+    "speciality": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Dermato Surgeon",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-nahida-islam-nipa.jpg"
+}

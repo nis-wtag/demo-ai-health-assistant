@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Central Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4262213,
+                "latitude": 23.7472085
+            },
+            "contact": "+8802-41060800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Plastic Surgery)",
+        "Higher Training (England)"
+    ],
+    "designation": "Consultant, Burn & Plastic Surgery",
+    "name": "Dr. Md. Mahbubur Rahman Masum",
+    "speciality": "Plastic & Reconstructive Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-mahbubur-rahman-masum.jpg"
+}

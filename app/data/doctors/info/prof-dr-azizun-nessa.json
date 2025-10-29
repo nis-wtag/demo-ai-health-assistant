@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Mirpur",
+            "address": {
+                "name": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+                "longitude": 90.35710284999999,
+                "latitude": 23.8071276
+            },
+            "contact": "+8801714256689",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "FCPS (Nephrology)",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Professor (Advisor Specialist HOD), Nephrology Department",
+    "name": "Prof. Dr. Azizun Nessa",
+    "speciality": "Internal Medicine Specialist & Nephrologist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-dr-azizun-nessa.jpg"
+}

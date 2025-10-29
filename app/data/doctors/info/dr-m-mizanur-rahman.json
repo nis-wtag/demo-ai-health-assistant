@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711144786",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "Fellow (WHO)",
+        "FACP (USA)",
+        "FRCP (UK)"
+    ],
+    "designation": "Professor & Head, Cardiology",
+    "name": "Prof. Dr. Md. Mizanur Rahman",
+    "speciality": "Cardiology, Rheumatic Fever & Medicine Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-m-mizanur-rahman.jpg"
+}

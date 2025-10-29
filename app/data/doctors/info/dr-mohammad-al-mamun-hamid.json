@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare Ltd. (East Gate Branch)",
+            "address": {
+                "name": "36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801866436685",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)",
+        "DLO (BSMMU)",
+        "BCS (HEALTH)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. Mohammad Al Mamun Hamid",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Epic Health Care Ltd, Chittagong",
+    "image": "image/dr-mohammad-al-mamun-hamid.jpg"
+}

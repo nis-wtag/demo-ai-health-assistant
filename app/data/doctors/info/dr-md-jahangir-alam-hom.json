@@ -1,0 +1,88 @@
+{
+    "chambers": [
+        {
+            "place": "Homoeopathic Foundation Hospital",
+            "address": {
+                "name": "674 West Kazipara (2nd Floor), Kazipara, Mirpur, Dhaka (North Site of Kazipara Central Mosque and West Site of 285 Piler of Metro Rail)",
+                "longitude": 89.2111196,
+                "latitude": 24.8138967
+            },
+            "contact": "01833700291",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Badrunnessa Latif Memorial Community Hospital (Proposed)",
+            "address": {
+                "name": "Near Local Community Health Center, Bakhaia Miaji Bari, Hosenpur, Kachua, Chandpur",
+                "longitude": -6.373204,
+                "latitude": 58.212044
+            },
+            "contact": "01552348351",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (Dhaka University)",
+        "MPH",
+        "PGD (Medicine)",
+        "PG Hom (London)",
+        "MF Hom (Malaysia)"
+    ],
+    "designation": "Chairman & Senior Consultant",
+    "name": "Dr. Md. Jahangir Alam",
+    "speciality": "Homoeopathic Consultant, Asthma, Piles & Fistula, Sexual Health, Physical & Mental Health, Kidney Problems, Liver Problems, Heart Problems, Diabetes, Blood Pressure, Tumour & Warts",
+    "workplace": "Homoeopathic Foundation Bangladesh & Hospital (Outdoor)",
+    "image": "image/dr-md-jahangir-alam-hom.jpg"
+}

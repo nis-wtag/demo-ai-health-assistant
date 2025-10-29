@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Chevron Clinical Laboratory, Anowara",
+            "address": "Amin Complex (3rd Floor), CUFL Road, Chaturi Chowmuhoni, Anwara, Chattogram",
+            "contact": "+8801816255018",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Assistant Surgeon, Gynecology & Obstetrics",
+    "name": "Dr. Farzana Akhter Bithi",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-farzana-akhter-bithi.jpg"
+}

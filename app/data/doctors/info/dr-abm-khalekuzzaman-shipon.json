@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Laser Chain & Skin Center",
+            "address": {
+                "name": "Hussain Plaza, House # 01, Road # 15, Mirpur Road, Dhanmondi, Dhaka",
+                "longitude": 90.4262503,
+                "latitude": 23.7638195
+            },
+            "contact": "+8801777939898",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Pabna Shishu Hospital & Mattriseba",
+            "address": {
+                "name": "Meril Bypass Road, Shalgaria, Pabna – 6600",
+                "longitude": 89.2448341,
+                "latitude": 24.0068082
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGT (SKIN & VD)",
+        "FRSH (London)",
+        "Training (Dermato & Cosmetic Surgery)"
+    ],
+    "designation": "Medical Officer, Dermatology & Venereology",
+    "name": "Dr. ABM Khalekuzzaman Shipon",
+    "speciality": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-abm-khalekuzzaman-shipon.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Expert Sample Diagnostic Center, Khulna",
+            "address": {
+                "name": "29/B, KDA Avenue, Khulna (In front of Rashida Memorial Hospital)",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801749891135",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Assistant Professor, Medicine",
+    "name": "Dr. Md. Shafiquzzaman Siddiqui",
+    "speciality": "Medicine (All Diseases of Adults) Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-md-shafiquzzaman-siddiqui.jpg"
+}

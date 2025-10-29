@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Dental Clinic, Popular Medical Center Ltd.",
+            "address": "Room - 510, Level - 5, Kajoshah, Sylhet",
+            "contact": "+8801911340774",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)",
+        "DDS (BSMMU)",
+        "FICD (USA)"
+    ],
+    "designation": "Assistant Professor & Head, Prosthodontics",
+    "name": "Dr. Sayma Shahadat",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-sayma-shahadat.jpg"
+}

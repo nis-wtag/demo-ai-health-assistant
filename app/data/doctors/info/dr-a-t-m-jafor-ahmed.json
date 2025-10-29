@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Medical Services, Sylhet",
+            "address": {
+                "name": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801730585050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (Diabetology)",
+        "Higher Training (BIRDEM)"
+    ],
+    "designation": "Senior Diabetologist, Endocrinology & Metabolism",
+    "name": "Dr. A.T.M. Jafor Ahmed",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Sylhet Diabetic Hospital, Sylhet",
+    "image": "image/dr-a-t-m-jafor-ahmed.jpg"
+}

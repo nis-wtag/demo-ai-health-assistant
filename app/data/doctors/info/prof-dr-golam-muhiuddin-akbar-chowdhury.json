@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801766678842",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:30",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Former Professor, Thoracic Surgery",
+    "name": "Prof. Dr. Golam Muhiuddin Akbar Chowdhury",
+    "speciality": "Chest Surgery/Thoracic Surgery Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/prof-dr-golam-muhiuddin-akbar-chowdhury.jpg"
+}

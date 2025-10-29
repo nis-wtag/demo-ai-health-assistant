@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801922824020",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "12:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "FICS (USA)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Mohammad Abdus Salam",
+    "speciality": "Eye Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/prof-dr-mohammad-abdus-salam.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10678",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Radiotherapy)",
+        "UICC Fellow Trained in TATA Memorial Hospital, Mumbai, India & Guy's Cancer Centre, London, UK"
+    ],
+    "designation": "Consultant, Oncology",
+    "name": "Dr. Arman Reza Chowdhury",
+    "speciality": "Cancer (Chemotherapy, Hormone Therapy. Immunotherapy) Specialist",
+    "workplace": "Evercare Hospital, Dhaka",
+    "image": "image/dr-arman-reza-chowdhury.jpg"
+}

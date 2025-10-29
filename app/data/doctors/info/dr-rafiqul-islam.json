@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "01844610513",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:30"
+                }
+            ]
+        },
+        {
+            "place": "US Model Hospital & Diagnostic Centre, Madaripur",
+            "address": {
+                "name": "Takerhat Bazar, (Simultola), Rajoir, Madaripur",
+                "longitude": 90.047407,
+                "latitude": 23.2095025
+            },
+            "contact": "01844610514",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (MMC)",
+        "MS (ORTHO) NITOR",
+        "AO Trauma (Basic) BD",
+        "AO Trauma (Advance) Singapore",
+        "Fellowship training in Arthroscopy and Arthroplasty (Salt Lake, Kolkata, India)",
+        "Master’s Course in Arthroplasty (Guzarat, India)"
+    ],
+    "designation": "Assistant Professor (Arthroplasty)",
+    "name": "Dr. Muhammad Rafiqul Islam",
+    "speciality": "Arthroscopy, Arthroplasty, Trauma & Orthopedic Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-rafiqul-islam.jpg"
+}

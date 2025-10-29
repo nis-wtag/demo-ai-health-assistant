@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": {
+                "name": "Metropolitan Hospital Diagnostic Center, Room No 402, Gol Pahar More (above Shopno Departmental Store), OR Nizam Road, Chattagram",
+                "longitude": 8.934345,
+                "latitude": 60.701856
+            },
+            "contact": "+8801726155273",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DLO",
+        "FCPS (ENT)"
+    ],
+    "designation": "Former Associate Professor, ENT & Head Neck Surgery",
+    "name": "Dr. M A Kamal",
+    "speciality": "Ear, Nose, Throat, Goiter Specialist & Head-Neck Surgeon",
+    "workplace": "Cox's Bazar Medical College & Hospital",
+    "image": "image/dr-m-a-kamal.jpg"
+}

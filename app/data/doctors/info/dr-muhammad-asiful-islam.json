@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Asif's Exclusive Dentistry",
+            "address": {
+                "name": "Airbell Helianthus (Ground Floor), Opposite to Shirir Gora, Jamal Khan, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801894178790",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)"
+    ],
+    "designation": "Dental Surgeon, Oral & Maxillofacial Surgery",
+    "name": "Dr. Muhammad Asiful Islam",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-muhammad-asiful-islam.jpg"
+}

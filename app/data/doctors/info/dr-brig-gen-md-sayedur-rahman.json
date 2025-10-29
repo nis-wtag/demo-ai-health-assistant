@@ -1,0 +1,38 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "OJT (Gastroenterology)",
+        "FACP (USA)",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Professor, Medicine",
+    "name": "Brig. Gen. Prof. Dr. Md. Sayedur Rahman",
+    "speciality": "Gastroenterology, Liver Diseases & Medicine Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/dr-brig-gen-md-sayedur-rahman.jpg"
+}

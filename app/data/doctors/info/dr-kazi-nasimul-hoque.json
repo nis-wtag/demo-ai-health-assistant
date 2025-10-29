@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Khulna",
+            "address": "9B, Opposite to KDA Mosque, Majid Sharani, Shibbri, Khulna",
+            "contact": "+8801799209075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "05:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (EYE)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Kazi Nasimul Hoque",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Ad-Din Akij Medical College Hospital, Khulna",
+    "image": "image/dr-kazi-nasimul-hoque.jpg"
+}

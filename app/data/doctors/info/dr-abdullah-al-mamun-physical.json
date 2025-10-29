@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "SPRC, SYLHET",
+            "address": {
+                "name": "98 (Below Medinova), Medical Road, Kajolshah, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801726253470",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)",
+        "Training in Paralysis (Malaysia)"
+    ],
+    "designation": "Assistant Professor & Head, Physical Medicine & Rehabilitation",
+    "name": "Dr. Abdullah Al Mamun",
+    "speciality": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-abdullah-al-mamun-physical.jpg"
+}

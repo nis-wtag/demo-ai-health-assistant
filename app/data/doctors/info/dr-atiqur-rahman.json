@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS"
+    ],
+    "designation": "Associate Consultant, Anesthesiology",
+    "name": "Dr. Atiqur Rahman",
+    "speciality": "Anesthesiology (Pain Management) Specialist",
+    "workplace": "Apollo Imperial Hospital, Chittagong",
+    "image": "image/dr-atiqur-rahman.jpg"
+}

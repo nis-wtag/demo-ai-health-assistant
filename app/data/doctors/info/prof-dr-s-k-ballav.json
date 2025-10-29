@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "MicroLab Diagnostic & Consultation Center",
+            "address": {
+                "name": "Samshur Rahman Road, Baitipara Mor, Beside 7 Masjid (2nd Floor), Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801325063312",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "FRCS (GLASG)",
+        "MRCPS (GLASG)",
+        "DLO (DU)",
+        "MBBS (DMC)"
+    ],
+    "designation": "Ex-Principal & Head of Dept, ENT",
+    "name": "Prof. Dr. S.K. Ballav",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/prof-dr-s-k-ballav.jpg"
+}

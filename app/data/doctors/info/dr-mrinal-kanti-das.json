@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Holy Health Hospital, Chittagong",
+            "address": {
+                "name": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+                "longitude": 91.83128529546732,
+                "latitude": 22.359351949999997
+            },
+            "contact": "+8801812605505",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Associate Professor, Plastic Surgery",
+    "name": "Dr. Mrinal Kanti Das",
+    "speciality": "Plastic, Cosmetic & Burn Surgery Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mrinal-kanti-das.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Dogma Hospital, Badda",
+            "address": {
+                "name": "Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801921088076",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Ortho)"
+    ],
+    "designation": "Orthopedic & Trauma Surgeon",
+    "name": "Prof. Dr. Md. Golam Mostafa",
+    "speciality": "Orthopedic & Trauma Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-md-golam-mostafa.jpg"
+}

@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Urology)"
+    ],
+    "designation": "Urology Specialist & Surgeon",
+    "name": "Dr. Md. Amirul Islam",
+    "speciality": "Urology (Kidneys, Bladder, Urinary Stone, Prostate) Specialist & Surgeon",
+    "workplace": "Sheikh Sayera Khatun Medical College & Hospital",
+    "image": "image/dr-md-amirul-islam.jpg"
+}

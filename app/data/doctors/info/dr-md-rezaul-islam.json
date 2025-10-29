@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Kazipara Dental Care",
+            "address": "769/1, West Kazipara, Mirpur, Dhaka",
+            "contact": "+8801712514767",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS ( Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Assistant Professor, Oral & Maxillofacial Surgery",
+    "name": "Dr. Md. Rezaul Islam",
+    "speciality": "Oral & Maxillofacial Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-rezaul-islam-hitu.jpg"
+}

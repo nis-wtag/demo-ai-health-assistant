@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MBA (Health Care Management)",
+        "CCD (BIRDEM)",
+        "MRSH (UK)"
+    ],
+    "designation": "Consultant, Diabetes",
+    "name": "Dr. Benzir Ahmed",
+    "speciality": "Diabetics & Health Care Consultant",
+    "workplace": "National HealthCare Network",
+    "image": "image/dr-benzir-ahmed.jpg"
+}

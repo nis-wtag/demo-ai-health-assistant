@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "City Heart Diagnostic & Consultation Center",
+            "address": {
+                "name": "43, KDA Avenue (Sathi Complex), Moylapota, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801795339461",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "CCD (Diabetes, BIRDEM)",
+        "CC-CD (National Heart Foundation)",
+        "Diabetic Footcare Training (CMC Vellore, India)"
+    ],
+    "designation": "Diabetologist, Diabetes and Diabetic Footcare",
+    "name": "Dr. S.M. Zakir Hossain",
+    "speciality": "Diabetes & Diabetic Footcare Specialist",
+    "workplace": "City Heart Diagnostic and Consultation Center",
+    "image": "image/dr-s-m-zakir-hossain-khulna.jpg"
+}

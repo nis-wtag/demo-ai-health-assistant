@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Impulse Hospital, Dhaka",
+            "address": {
+                "name": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
+                "longitude": 90.38971,
+                "latitude": 23.76296
+            },
+            "contact": "+8801313434425",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (UK)",
+        "FRCP (Edin)",
+        "FRCP (London)",
+        "Fellow Nephrology (UK)"
+    ],
+    "designation": "Former Professor, Nephrology",
+    "name": "Prof. Dr. M. Mujibul Haque Mollah",
+    "speciality": "Kidney Diseases, Dialysis & Transplant Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-m-mujibul-haque-mollah.jpg"
+}

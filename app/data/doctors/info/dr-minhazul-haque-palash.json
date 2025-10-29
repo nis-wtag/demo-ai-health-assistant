@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Global Specialized Hospital, Mirpur",
+            "address": {
+                "name": "282, Almas Wower, Mazar Road, Mirpur 1, Dhaka-1216",
+                "longitude": 90.406282,
+                "latitude": 23.758128
+            },
+            "contact": "+8801741510260",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "DD (Thailand-Japan)",
+        "Fellow, Laser & Skin Surgery (Thailand)",
+        "Trained in Aesthetic Dermatology (Thailand-India)"
+    ],
+    "designation": "Senior Consultant, Dermatology & Venerology",
+    "name": "Dr. Minhazul Haque (Palash)",
+    "speciality": "Skin, Sex, Allergy, Cosmetics & Laser Specialist",
+    "workplace": "Global Specialized Hospital, Mirpur",
+    "image": "image/dr-minhazul-haque-palash.jpg"
+}

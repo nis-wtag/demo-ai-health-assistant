@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Diagnostic Center, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801733008088",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Associate Professor, Endocrinology & Metabolism",
+    "name": "Dr. Md. Kamrul Hasan Badol",
+    "speciality": "Diabetes, Thyroid & Hormone Diseases Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-kamrul-hasan-badol.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "People's Hospital, Chittagong",
+            "address": {
+                "name": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+88031658911",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Rupasree Biswas",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Southern Medical College & Hospital",
+    "image": "image/dr-rupasree-biswas.jpg"
+}

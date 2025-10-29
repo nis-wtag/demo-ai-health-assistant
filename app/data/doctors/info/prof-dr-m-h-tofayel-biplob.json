@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)",
+        "FACS (USA)",
+        "Fellowship in Arthroscopy & Arthroplasty (India)",
+        "Hip & Knee Course (USA)",
+        "AO Trauma Advanced (Thailand)",
+        "AO Trauma Advanced (Austria)",
+        "AO Trauma Approach & Osteosynthesis Course (Austria)",
+        "AO Trauma Foot & Ankle Course (Austria)"
+    ],
+    "designation": "Professor (Orthopedic Surgery)",
+    "name": "Prof. Dr. M.H. Tofayel (Biplob)",
+    "speciality": "Bone, Joint, Arthritis, Spine, Joint Replacement, Pelvic Acetabular Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-m-h-tofayel-biplob.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "FCPS (PAK)",
+        "FICMCH (IN)",
+        "DRH (UK)"
+    ],
+    "designation": "Former Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Sayeba Akhter",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-sayeba-akhter.jpg"
+}

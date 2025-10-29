@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "BIRDEM Specialised Chamber Complex",
+            "address": {
+                "name": "Main Building, Room - 6, 122, Kazi Nazrul Islam Avenue, Dhaka",
+                "longitude": 90.3940791,
+                "latitude": 23.748
+            },
+            "contact": "+8801847259770",
+            "visiting_hours": null
+        },
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "DEM (DU)",
+        "MD (Endocrinology)",
+        "FAACE (USA)"
+    ],
+    "designation": "Professor & Head, Endocrinology & Diabetes",
+    "name": "Prof. Dr. SM Ashrafuzzaman",
+    "speciality": "Diabetes, Hormone & Thyroid Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-sm-ashrafuzzaman.jpg"
+}

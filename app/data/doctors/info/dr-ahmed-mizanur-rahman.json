@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS ( Surgical Oncology)",
+        "FAMS (SG)"
+    ],
+    "designation": "Assistant Professor, Surgical Oncology",
+    "name": "Dr. Ahmed Mizanur Rahman",
+    "speciality": "Cancer & General Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-ahmed-mizanur-rahman.jpg"
+}

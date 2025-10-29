@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "City Queens Clinic & Diagnostic Centre, Khulna",
+            "address": {
+                "name": "Royal Mor, Khulna",
+                "longitude": 89.562342,
+                "latitude": 22.810295
+            },
+            "contact": "+8801766344663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Child Medicine)",
+        "FCPS (Child Medicine) FP",
+        "ICPPN (Nutrition)",
+        "AAME (America)"
+    ],
+    "designation": "Consultant (Child Division)",
+    "name": "Dr. Palash Biswas",
+    "speciality": "নবজাতক, কিশোর, শিশু রোগ বিশেষজ্ঞ এবং শিশু পুষ্টি বিশেষজ্ঞ",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-palash-biswas.jpg"
+}

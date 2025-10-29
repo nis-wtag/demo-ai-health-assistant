@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Shajinaz Hospital Ltd.",
+            "address": {
+                "name": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+                "longitude": 91.79968016367557,
+                "latitude": 22.38510865
+            },
+            "contact": "+8801886-338811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Obs & Gyne)",
+        "Fellowship in Infertility & Reproductive Medicine"
+    ],
+    "designation": "Consultant (Gyne & Obs)",
+    "name": "Dr. Nazmun Nahar Rosy",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Health View Maternity & Child Hospital, Chittagong",
+    "image": "image/dr-nazmun-nahar-rosy.jpg"
+}

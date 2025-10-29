@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Diagnostic & Consultation Center, Khulna",
+            "address": "59/1, Shamsur Rahman Road (In front of School Health Clinic), Khulna",
+            "contact": "+8801842‑676389",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (Cardiology)",
+        "Fellow: Cardiac Intervention (Fortis, India & China)"
+    ],
+    "designation": "Former Cardiologist, Cardiology",
+    "name": "Dr. Md. Masud Karim",
+    "speciality": "Cardiology (Heart Diseases, Diabetes & Rheumatic Fever) Specialist, Clinical & Interventional Cardiologist",
+    "workplace": "AFC Health-Fortis Escorts Heart Institute, Khulna",
+    "image": "image/dr-md-masud-karim.jpg"
+}

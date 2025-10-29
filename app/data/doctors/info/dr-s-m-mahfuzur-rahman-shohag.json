@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Laksam Doctor's Clinic & Hospital",
+            "address": {
+                "name": "HK Tower, Opposite Tisha Bus Counter, Bypass, Laksam, Cumilla",
+                "longitude": 106.873172,
+                "latitude": -6.245449
+            },
+            "contact": "+8801404028511",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FMAS (India)"
+    ],
+    "designation": "Assistant Professor (Department of Surgery)",
+    "name": "Dr. S.M. Mahfuzur Rahman (Shohag)",
+    "speciality": "General, Laparoscopic, Colorectal & Breast Surgeon",
+    "workplace": "Eastern Medical College & Hospital, Cumilla",
+    "image": "image/dr-s-m-mahfuzur-rahman-shohag.jpg"
+}

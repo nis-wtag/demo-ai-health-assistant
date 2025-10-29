@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "S R Homoeo Hall, Kushtia",
+            "address": {
+                "name": "Nearby Kushtia Court Railway Station, Courtpara, Kushtia",
+                "longitude": 89.11943,
+                "latitude": 23.9028
+            },
+            "contact": "+8801733184699",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Inno Homoeo Pharmacy & Cancer Treatment",
+            "address": {
+                "name": "3/1 Purana Paltan, Dhaka",
+                "longitude": 90.4117646,
+                "latitude": 23.7346692
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS (BHB) Dhaka",
+        "MD (E. Homoeopathi) Kolkata",
+        "ICWH (New Delhi)",
+        "WHC (Germany)"
+    ],
+    "designation": "Lecturer",
+    "name": "Dr. Reazul Karim",
+    "speciality": "Homoeopathic (Skin, Piles, Back Pain, Infertility, GIT) Specialist",
+    "workplace": "Thakurgaon Homoeopathic Medical College & Hospital",
+    "image": "image/dr-reazul-karim.jpg"
+}

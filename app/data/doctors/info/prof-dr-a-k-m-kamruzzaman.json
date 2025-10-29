@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Amanullah Diagnostic Center, Rangpur",
+            "address": {
+                "name": "Jail Road, Dhap, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801796711116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Professor & Head, Hematology",
+    "name": "Prof. Dr. A.K.M. Kamruzzaman",
+    "speciality": "Blood Diseases, Blood Cancer & Hematology Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/prof-dr-a-k-m-kamruzzaman.jpg"
+}

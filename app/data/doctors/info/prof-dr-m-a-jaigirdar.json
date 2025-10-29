@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "MRCP (UK)",
+        "FRCP"
+    ],
+    "designation": "Professor, Pediatrics",
+    "name": "Prof. Dr. M A Jaigirdar",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-m-a-jaigirdar.jpg"
+}

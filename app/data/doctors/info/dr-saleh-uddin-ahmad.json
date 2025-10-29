@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+            "contact": "+880312555102",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Consultant, Orthopedics & Traumatology",
+    "name": "Dr. Saleh Uddin Ahmad",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-saleh-uddin-ahmad.jpg"
+}

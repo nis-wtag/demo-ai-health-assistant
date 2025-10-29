@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Dental Maxillofacial & Implant Center",
+            "address": "Beside Ma-Moni Hotel, Jail Road, Dhap, Rangpur",
+            "contact": "+8801312826279",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MCPS",
+        "FCPS (Maxillofacial Surgery)"
+    ],
+    "designation": "Professor & Head (Maxillofacial Surgery)",
+    "name": "Prof. Dr. Musa Siddik Juwel",
+    "speciality": "Oral Tumor, Cancer and Maxillofacial Surgeon (Dental Surgeon)",
+    "workplace": "Principal, Rangpur Community Dental College",
+    "image": "image/prof-dr-musa-siddik-juwel.jpg"
+}

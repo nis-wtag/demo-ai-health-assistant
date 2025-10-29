@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Associate Professor, Department of Medicine",
+    "name": "Dr. Jayanta Kumar Saha",
+    "speciality": "Medicine & Cardiology (Heart Diseases) Specialist",
+    "workplace": "Shaheed Tajuddin Ahmad Medical College, Gazipur",
+    "image": "image/dr-jayanta-kumar-saha.jpg"
+}

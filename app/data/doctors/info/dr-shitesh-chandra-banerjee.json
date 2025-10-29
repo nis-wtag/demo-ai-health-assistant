@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Eye Hospital & Laser Center Limited",
+            "address": {
+                "name": "53, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801741420444",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO",
+        "ICO (UK)",
+        "Fellow (Pediatric Eye, Delhi)",
+        "Higher Training (Cataract Operation)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Shitesh Chandra Banerjee",
+    "speciality": "Eye Diseases Specialist & Micro Surgeon",
+    "workplace": "Khulna Eye Hospital & Laser Center Limited",
+    "image": "image/dr-shitesh-chandra-banerjee.jpg"
+}

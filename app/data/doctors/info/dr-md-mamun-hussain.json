@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712685297",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil",
+        "PhD",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Professor, Psychiatry",
+    "name": "Abdullah Al Mamun Hussain",
+    "speciality": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-mamun-hussain.jpg"
+}

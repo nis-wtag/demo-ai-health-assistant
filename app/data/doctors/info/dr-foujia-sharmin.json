@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "FCPS (Gynecological Oncology)"
+    ],
+    "designation": "Consultant, Gynecological Oncology",
+    "name": "Dr. Foujia Sharmin",
+    "speciality": "Gynecology, Obstetrics, Gynecological Cancer Specialist & Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-foujia-sharmin.jpg"
+}

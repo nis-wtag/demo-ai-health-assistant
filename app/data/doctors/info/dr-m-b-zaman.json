@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Diagnostic & Consultation Center, Khulna",
+            "address": "59/1, Shamsur Rahman Road (In front of School Health Clinic), Khulna",
+            "contact": "+8801842‑676389",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "CCD"
+    ],
+    "designation": "Senior Medical Officer",
+    "name": "Dr. M B Zaman",
+    "speciality": "Certified Diabetologist/Diabetes Specialist",
+    "workplace": "Khulna Diabetic Hospital",
+    "image": "image/dr-m-b-zaman.jpg"
+}

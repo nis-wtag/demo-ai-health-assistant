@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Cardiology Specialist",
+    "name": "Dr. Md. Hasanul Islam",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-hasanul-islam.jpg"
+}

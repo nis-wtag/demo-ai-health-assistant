@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Shafique Hospital, Pabna",
+            "address": {
+                "name": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+                "longitude": 89.198787,
+                "latitude": 23.445755
+            },
+            "contact": "+8801701654390",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Md. Sohel Uddin",
+    "speciality": "Medicine (All Diseases of Adults Related to Medicine) Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-sohel-uddin.jpg"
+}

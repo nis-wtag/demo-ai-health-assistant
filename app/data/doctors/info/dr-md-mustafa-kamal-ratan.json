@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Doyagonj",
+            "address": {
+                "name": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "longitude": 90.402917,
+                "latitude": 23.720652
+            },
+            "contact": "+8801878115751",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MRCS",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "General, Laparoscopic & Plastic Surgeon",
+    "name": "Dr. Md. Mustafa Kamal Ratan",
+    "speciality": "Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-mustafa-kamal-ratan.jpg"
+}

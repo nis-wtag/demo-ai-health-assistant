@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801817707086",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DCH (BSMMU)",
+        "PGPN (USA)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Sankar Kumar Ghosh",
+    "speciality": "Child Diseases & Nutrition Specialist",
+    "workplace": "General Hospital, Chittagong",
+    "image": "image/dr-sankar-kumar-ghosh.jpg"
+}

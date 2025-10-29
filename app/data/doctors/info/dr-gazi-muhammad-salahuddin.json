@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Narayanganj",
+            "address": {
+                "name": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8801913119989",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MCPS (Surgery)",
+        "FMAS (India)",
+        "FACS (USA)"
+    ],
+    "designation": "Consultant, Dept of Surgery",
+    "name": "Dr. Gazi Muhammad Salahuddin",
+    "speciality": "General, Colorectal & Laparoscopic Surgeon",
+    "workplace": "General Hospital, Narayanganj",
+    "image": "image/dr-gazi-muhammad-salahuddin.jpg"
+}

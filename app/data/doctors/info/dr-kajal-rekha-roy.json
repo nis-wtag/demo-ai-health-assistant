@@ -1,0 +1,21 @@
+{
+    "chambers": [
+        {
+            "place": "Holy Health Hospital, Chittagong",
+            "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+            "contact": "+8801812605505",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Senior Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Kajal Rekha Roy",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-kajal-rekha-roy.jpg"
+}

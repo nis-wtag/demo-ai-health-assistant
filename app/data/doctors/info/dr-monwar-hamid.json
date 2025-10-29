@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Shanto's Dental Clinic",
+            "address": {
+                "name": "21, Mahimdas Road, Beside Kotwali Thana, Chittagong",
+                "longitude": 84.92713,
+                "latitude": 26.65254
+            },
+            "contact": "+8801789772448",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (CU)",
+        "MPH (CMC)",
+        "PGT (Oral Surgery) CMC",
+        "Advance Trained in Aesthetic Dentistry",
+        "Advance Trained in Root Canal Treatment"
+    ],
+    "designation": "Oral & Dental Surgeon, Dental",
+    "name": "Dr. Monwar Hamid",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Dr. Shanto's Dental Clinic, Chittagong",
+    "image": "image/dr-monwar-hamid.jpg"
+}

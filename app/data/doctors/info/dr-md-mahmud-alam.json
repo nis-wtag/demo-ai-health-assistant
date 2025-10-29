@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Urology)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor, Urology Department",
+    "name": "Dr. Muhammad Mahmud Alam",
+    "speciality": "Urology (Urinary Bladder, Prostate, Kidney, Kidney Stone & Sex Organ) Specialist & Surgeon",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-md-mahmud-alam.jpg"
+}

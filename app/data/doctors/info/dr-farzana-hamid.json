@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Pediatrics)",
+        "MRCP-CH (UK)"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Farzana Hamid",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-farzana-hamid-eti.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "FCPS (EYE)",
+        "Special Training in Glaucoma & Phaco Surgery (India)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Ripon Sarkar",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-ripon-sarkar.jpg"
+}

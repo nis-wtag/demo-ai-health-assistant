@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Organon Homoeo Healing Home",
+            "address": {
+                "name": "28/A, Shafi Villa, CDA Avenue, Sulokbohor, Chittagong",
+                "longitude": 91.829765,
+                "latitude": 22.368781
+            },
+            "contact": "+8801711424704",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS",
+        "BHMS (Dhaka)",
+        "DIHOM (UK)"
+    ],
+    "designation": "Consultant, Homeopathy",
+    "name": "Dr. Hossain Mohammad Selim",
+    "speciality": "Alternative Homeopathy Medicine Specialist",
+    "workplace": "Organon Homoeo Healing Home",
+    "image": "image/dr-hossain-mohammad-selim.jpg"
+}

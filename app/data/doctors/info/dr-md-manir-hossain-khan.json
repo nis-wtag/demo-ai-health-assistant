@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Uttara Crescent Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+                "longitude": 90.4001501,
+                "latitude": 23.8678692
+            },
+            "contact": "+8809666710665",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS",
+        "FCPS",
+        "MRCS (UK)",
+        "FACRSI",
+        "FMAS",
+        "Post. Fellowship Training in Colorectal, Hepatobiliary, Laparoscopic & Bariatric Surgery (India)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Md. Manir Hossain Khan",
+    "speciality": "General, Laparoscopic, Hepatobiliary, Colorectal & GI Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-manir-hossain-khan.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Mymensingh Medical College & Hospital",
+            "address": {
+                "name": "Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801768027015",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Anesthesiology)"
+    ],
+    "designation": "Professor & Head, Anesthesiology",
+    "name": "Prof. Dr. Mohammad Manirul Islam",
+    "speciality": "Pain Management Specialist & Anesthesiologist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/prof-dr-munirul-islam.jpg"
+}

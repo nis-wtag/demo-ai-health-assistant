@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rangpur",
+            "address": {
+                "name": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+                "longitude": 89.241459,
+                "latitude": 25.7569808
+            },
+            "contact": "+8809666787813",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)",
+        "AO Spine Principle Course (Singapure)"
+    ],
+    "designation": "Assistant Professor (Orthopedics)",
+    "name": "Dr. A.B.M Morshed Goni",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-a-b-m-morshed-goni.jpg"
+}

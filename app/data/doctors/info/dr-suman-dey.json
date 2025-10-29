@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Human Diagnostic & Hospital, Cumilla",
+            "address": {
+                "name": "South Side at East End of Flyover, Racecourse Main Road, Cumilla",
+                "longitude": 91.286352,
+                "latitude": 23.322162
+            },
+            "contact": "+8801636861256",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "CCD",
+        "MRCP (England)",
+        "MCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Suman Dey",
+    "speciality": "Medicine & Gastroenterology Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-suman-dey.jpg"
+}

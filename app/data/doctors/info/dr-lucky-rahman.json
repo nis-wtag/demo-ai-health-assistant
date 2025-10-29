@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Insaf Barakah Kidney & General Hospital",
+            "address": {
+                "name": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801910069440",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology",
+    "name": "Dr. Lucky Rahman",
+    "speciality": "Infertility, Gynecology Specialist & Surgeon",
+    "workplace": "Insaf Barakah Kidney & General Hospital",
+    "image": "image/dr-lucky-rahman.jpg"
+}

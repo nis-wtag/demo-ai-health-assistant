@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Plastic Surgery)",
+        "FACS (USA)",
+        "CMEd"
+    ],
+    "designation": "Associate Professor, Plastic Surgery",
+    "name": "Dr. Tanveer Ahmed",
+    "speciality": "Plastic, Aesthetic & Oncoplastic Surgeon",
+    "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "image": "image/dr-tanveer-ahmed.jpg"
+}

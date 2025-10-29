@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Holy Health Hospital, Chittagong",
+            "address": {
+                "name": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+                "longitude": 91.83128529546732,
+                "latitude": 22.359351949999997
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": null
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Shireen Akhter Khanam",
+    "speciality": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-shireen-akhter-khanam.jpg"
+}

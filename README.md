@@ -1,1 +1,3 @@
 # demo-ai-health-assistant
+
+The AI Health Assistant (AHA) is an intelligent healthcare support tool designed specifically for users in Bangladesh. The primary objective of this system is to provide users with a safe, educational, and accessible way to understand their health symptoms. It leverages Large Language Models (LLMs) to interpret natural language queries in Bangla, English, or a mix of both (Banglish), offers safe, non-prescriptive remedies, and recommends certified medical professionals based on the inferred needs. The system aims to bridge the gap in accessible health information while strictly emphasizing that it is an educational tool, not a substitute for professional medical diagnosis.

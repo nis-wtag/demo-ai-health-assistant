@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "CMOSH Cancer Institute & Research Centre",
+            "address": {
+                "name": "Agrabad, Chattogram",
+                "longitude": 91.815808,
+                "latitude": 22.327985
+            },
+            "contact": "+8801958534827",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Oncology), BSMMU"
+    ],
+    "designation": "Assistant Professor (Radiation Oncology)",
+    "name": "Dr. Nayan Bhowmik",
+    "speciality": "Cancer Specialist (Clinical & Radiation Oncologist)",
+    "workplace": "CMOSH Cancer Institute & Research Centre",
+    "image": "image/dr-nayan-bhowmik.jpg"
+}

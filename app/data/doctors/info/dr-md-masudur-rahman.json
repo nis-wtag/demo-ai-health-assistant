@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "FACP (USA)",
+        "FACG",
+        "FRCP (UK)"
+    ],
+    "designation": "Associate Professor, Gastroenterology",
+    "name": "Dr. Md. Masudur Rahman",
+    "speciality": "Gastroenterology, Medicine & Liver Diseases Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-md-masudur-rahman.jpg"
+}

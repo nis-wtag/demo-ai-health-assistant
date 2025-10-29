@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Noorjahan Hospital, Sylhet",
+            "address": {
+                "name": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+                "longitude": 91.869326,
+                "latitude": 24.9020922
+            },
+            "contact": "+8801979005522",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-UROLOGY"
+    ],
+    "designation": "Consultant, Urology",
+    "name": "Dr. M. Hasan Akhtar",
+    "speciality": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+    "workplace": "Parkview Medical College & Hospital, Sylhet",
+    "image": "image/dr-m-hasan-akhtar.jpg"
+}

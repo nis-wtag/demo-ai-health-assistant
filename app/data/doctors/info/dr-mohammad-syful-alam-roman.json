@@ -1,0 +1,109 @@
+{
+    "chambers": [
+        {
+            "place": "KGN Homeo Hall",
+            "address": {
+                "name": "Shop No-4, Ground Floor, Hosaf Shopping Complex, Malibag More, Dhaka",
+                "longitude": 90.364782,
+                "latitude": 23.773253
+            },
+            "contact": "+8801915868590",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "KGN Homeo Hall",
+            "address": {
+                "name": "72/Ka-2, Kadamtola, (Behind KPB School & College), Bashaboo, Sobujbag, Dhaka",
+                "longitude": 90.383306,
+                "latitude": 23.728975
+            },
+            "contact": "+8801852740233",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS",
+        "PDT (BHMCH)",
+        "PG-Hom (London)",
+        "MBA",
+        "MCP",
+        "PGD-SC (BIM)"
+    ],
+    "designation": "Lecturer and Consultant Homoeopath",
+    "name": "Dr. Mohammad Syful Alam Roman",
+    "speciality": "All kind of Chronic & Acute Disease including Mental Problem",
+    "workplace": "Hopes Homoeopathic Medical College and Hospital, Malibag, Dhaka",
+    "image": "image/dr-mohammad-syful-alam-roman.jpg"
+}

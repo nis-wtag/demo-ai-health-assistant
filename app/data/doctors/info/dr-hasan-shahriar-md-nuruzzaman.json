@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MRCPS (UK)",
+        "Clinical Fellow (Surgical Oncology)",
+        "Advanced Training in Colorectal Surgery (Singapore)"
+    ],
+    "designation": "Assistant Professor, Surgical Oncology",
+    "name": "Dr. Hasan Shahriar Md. Nuruzzaman",
+    "speciality": "General, Colorectal & Cancer Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-hasan-shahriar-md-nuruzzaman.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Woodland Diagnostic Center, Chittagong",
+            "address": {
+                "name": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801686640540",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Prime Hospital, Noakhali",
+            "address": {
+                "name": "Chowmuhoni Chowrasta, Begumgonj, Noakhali",
+                "longitude": 91.0967316,
+                "latitude": 22.8741068
+            },
+            "contact": "+8801313789001",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "19:30"
+                }
+            ]
+        },
+        {
+            "place": "Feni Medical Center",
+            "address": {
+                "name": "Maisha A.M Ahmed Tower, SSK Road, Feni",
+                "longitude": 91.4013,
+                "latitude": 23.01134
+            },
+            "contact": "+8801841925695",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Bijoy Kumar Dutta",
+    "speciality": "Mental Diseases, Autism, Drug Addiction, Sex Medicine Specialist & Psychologist",
+    "workplace": "Comilla Medical College & Hospital",
+    "image": "image/dr-bijoy-kumar-dutta.jpg"
+}

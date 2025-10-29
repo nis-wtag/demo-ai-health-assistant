@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (NICVD)",
+        "Fellow (WHO)"
+    ],
+    "designation": "Cardiology Specialist",
+    "name": "Prof. Dr. Nawazes Farid",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/prof-dr-nawazes-farid.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical Imaging Center, Zigatola",
+            "address": {
+                "name": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+                "longitude": 90.3764456,
+                "latitude": 23.7391824
+            },
+            "contact": "+8801711625173",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Rheumatology)",
+        "ECRD (Switzerland)"
+    ],
+    "designation": "Rheumatology Specialist",
+    "name": "Dr. Shahin Mahmud",
+    "speciality": "Rheumatology Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-shahin-mahmud.jpg"
+}

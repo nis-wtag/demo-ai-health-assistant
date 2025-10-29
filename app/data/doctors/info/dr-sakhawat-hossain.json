@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Rakib Dental & Maxillofacial Centre",
+            "address": {
+                "name": "Islam Mansion, House #01, Lane #13, Road #01, (1st floor of Nilachol), Halishahar A Block, Bus Stand, Chittagong",
+                "longitude": 91.779303,
+                "latitude": 22.345105
+            },
+            "contact": "+8801924434988",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (SOMC)",
+        "PGT (Orthodontics) (CMC)",
+        "Advanced Trained in Aesthetic Dentistry",
+        "Advanced Trained in Root Canal Treatment, Restoration & Filling"
+    ],
+    "designation": "Consultant, RD & MF Centre",
+    "name": "Dr. Sakhawat Hossain",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Rakib Dental & Maxillofacial Centre",
+    "image": "image/dr-sakhawat-hossain.jpg"
+}

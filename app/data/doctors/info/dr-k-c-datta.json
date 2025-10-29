@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Digital Diagnostic Center, Pabna",
+            "address": {
+                "name": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801748343270",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSC (Medicine)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. K. C. Datta",
+    "speciality": "Cardiology (Heart Diseases, Cardiology, Rheumatic Diseases) Specialist",
+    "workplace": "250 Bedded General Hospital, Pabna",
+    "image": "image/dr-k-c-datta.jpg"
+}

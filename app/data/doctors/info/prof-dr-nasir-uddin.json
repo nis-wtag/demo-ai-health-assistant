@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Avenue Dental Care",
+            "address": {
+                "name": "3/1, West Dhanmondi, Satmosjid Road, Dhaka - 1207",
+                "longitude": 90.362122,
+                "latitude": 23.75681
+            },
+            "contact": "+8801611606095",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS (OMS)",
+        "Advance Training (Japan)",
+        "Trained in Facial Plastic & Reconstructive Surgery (Canada)"
+    ],
+    "designation": "Professor & Head, Oral & Maxillofacial Surgery",
+    "name": "Prof. Dr. Nasir Uddin",
+    "speciality": "Dental, Oral & Maxillofacial Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/prof-dr-nasir-uddin-mahmud-surgeon.jpg"
+}

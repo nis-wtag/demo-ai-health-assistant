@@ -1,0 +1,72 @@
+{
+    "chambers": [
+        {
+            "place": "Colorectal & Pelvic Floor Center",
+            "address": {
+                "name": "Dhaka Central International Medical College, 38/1 Ring Road, Shyamoli, Dhaka",
+                "longitude": 90.3617701,
+                "latitude": 23.7734098
+            },
+            "contact": "+8801409967444",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Queens Hospital, Jashore",
+            "address": {
+                "name": "Jail Road, Jessore, Bangladesh",
+                "longitude": 89.214012,
+                "latitude": 23.171034
+            },
+            "contact": "+8801716016650",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "FCPS (Surgery)",
+        "FACS (America)",
+        "MS (Colorectal Surgery)"
+    ],
+    "designation": "Head, Surgery Department",
+    "name": "Dr. Krishna Pada Saha",
+    "speciality": "Colorectal, Laparoscopic & Cancer Surgeon",
+    "workplace": "Kuwait Bangladesh Friendship Government Hospital",
+    "image": "image/dr-krishna-pada-saha.jpg"
+}

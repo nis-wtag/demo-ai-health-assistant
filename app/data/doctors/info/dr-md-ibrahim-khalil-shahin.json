@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room - 409, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.3779588,
+                "latitude": 23.7429777
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FACS (USA)",
+        "FRCS (UK)",
+        "Fellow- Colorectal Surgery ( Japan)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Md. Ibrahim Khalil (Shahin)",
+    "speciality": "Colorectal (Piles, Fistula, Fissure, Rectum Cancer) Specialist Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-ibrahim-khalil-shahin.jpg"
+}

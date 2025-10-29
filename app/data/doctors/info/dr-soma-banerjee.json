@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+8801325340011",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Oncology)"
+    ],
+    "designation": "Registrar (Radiotherapy)",
+    "name": "Dr. Soma Banerjee",
+    "speciality": "Cancer Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-soma-banerjee.jpg"
+}

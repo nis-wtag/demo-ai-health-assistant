@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Surecell Medical, Chattogram",
+            "address": {
+                "name": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+                "longitude": 91.8231931,
+                "latitude": 22.3589254
+            },
+            "contact": "+8801701664440",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "Post Graduate Diploma in Dermatology (South Wales University, UK)"
+    ],
+    "designation": "Consultant, Dermatology",
+    "name": "Dr. Feroza Meher",
+    "speciality": "Aesthetic Dermatology & Cosmetology Specialist",
+    "workplace": "Surecell Medical, Chattogram",
+    "image": "image/dr-feroza-meher.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Birdem General Hospital 2",
+            "address": {
+                "name": "1/A, Segun Bagicha Road, Dhaka – 1000",
+                "longitude": 90.4067589,
+                "latitude": 23.7337696
+            },
+            "contact": "+8801847259770",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Nasim Jahan",
+    "speciality": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-nasim-jahan-jesy.jpg"
+}

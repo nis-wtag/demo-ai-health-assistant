@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "10606",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCP",
+        "MCPS",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Hematology Specialist",
+    "name": "Dr. Lt. Col. Mir Azim Uddin",
+    "speciality": "Hematology Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/dr-lt-col-mir-azim-uddin.jpg"
+}

@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Tooth Cure Dental Orthodontics & Implant Center",
+            "address": "1/1E, Block C, Lalmatia, Dhaka (Behind Genetic Plaza, Dhanmondi 27)",
+            "contact": "+8801324571177",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Oral & Maxillofacial Surgery)",
+        "Trained In Fixed Orthodontics & Clear Aligner",
+        "Trained In Advanced Root Canal Treatment (Endodontics)"
+    ],
+    "designation": "Chief Consultant, Ex. Honorary Medical Officer",
+    "name": "Dr. Pritam Sarker Ratul",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Tooth Cure Dental Orthodontics & Implant Center, Dhaka Medical College & Hospital",
+    "image": "image/dr-pritam-sarker-ratul.jpg"
+}

@@ -1,0 +1,31 @@
+{
+    "chambers": [
+        {
+            "place": "Borendro Diagnostic Center",
+            "address": "Mehedi Plaza, Lazmipur, Rajshahi",
+            "contact": "+8801954300990",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "BCS (Health)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Consultant (Neurosurgery)",
+    "name": "Dr. Md. Sarowar Alam",
+    "speciality": "Brain, Spine, Nerve and Stroke Specialist Neurosurgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-sarowar-alam.jpg"
+}

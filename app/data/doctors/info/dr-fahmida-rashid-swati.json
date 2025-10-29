@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Room 606, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 11.691662,
+                "latitude": 48.329548
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "MS (Obs & Gynae)",
+        "MSc (Infertility - UK)",
+        "FRM (Fellowship in Infertility) (India)"
+    ],
+    "designation": "Assistant Professor (Obs & Gynae)",
+    "name": "Dr. Fahmida Rashid (Swati)",
+    "speciality": "Infertility & IVF Specialist, Obstetrician, Gynaecologist & Laparoscopic Surgeon",
+    "workplace": "Chittagong Medical College & Hospital, Chevron Fertility Centre, Chittagong",
+    "image": "image/dr-fahmida-rashid-swati.jpg"
+}

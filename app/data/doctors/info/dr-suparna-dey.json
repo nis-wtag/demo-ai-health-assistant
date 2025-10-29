@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Lab, Chittagong",
+            "address": {
+                "name": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801940876810",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGT (OBGYN)",
+        "NIPS-Fellow (Japan)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Suparna Dey",
+    "speciality": "Gynecology, Obstetrics & Breast Cancer Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-suparna-dey.jpg"
+}

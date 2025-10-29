@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "A R Dental Point",
+            "address": "903, South Bagichagaon (Beside SEL Anjuman Tower), Cumilla",
+            "contact": "+8801717517777",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (OMS)"
+    ],
+    "designation": "Chief consultant & Dental Surgeon",
+    "name": "Dr. Abu Raihan",
+    "speciality": "Dental Implant, Specialist in Smile Designing & Reconstructive Dentistry",
+    "workplace": "A R Dental Point",
+    "image": "image/dr-abu-raihan.jpg"
+}

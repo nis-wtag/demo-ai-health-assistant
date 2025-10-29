@@ -1,0 +1,69 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+            "address": {
+                "name": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801708399305",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:30",
+                    "end_time": "13:30"
+                }
+            ]
+        },
+        {
+            "place": "Medi-Aid Diagnostic & Consultation Center",
+            "address": {
+                "name": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100",
+                "longitude": 91.85357672746755,
+                "latitude": 24.90202515
+            },
+            "contact": "+8801711275902",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Psychiatry)"
+    ],
+    "designation": "Associate Professor, Psychiatry",
+    "name": "Dr. Siddhartha Paul",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-siddhartha-paul.jpg"
+}

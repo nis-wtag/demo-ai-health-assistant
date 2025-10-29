@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, English Road",
+            "address": {
+                "name": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+                "longitude": 90.410145,
+                "latitude": 23.7140672
+            },
+            "contact": "+8809666787802",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Skin & Sex)"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. Harasit Kumar Paul",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-harasit-kumar-paul.jpg"
+}

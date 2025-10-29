@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Sheba Dental Care",
+            "address": {
+                "name": "Position No. 275, 2 No. Electric Supermarket, Kawranbazar, Dhaka",
+                "longitude": -96.759576,
+                "latitude": 49.54356
+            },
+            "contact": "+8801777661385",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "Trained In Conservative Dentistry & Minor Oral Surgery"
+    ],
+    "designation": "Oral & Dental Surgeon",
+    "name": "Dr. Md. Naim Hasan",
+    "speciality": "Oral & Dental Specialist and Surgeon",
+    "workplace": "Sheba Dental Care, Kawranbazar",
+    "image": "image/dr-md-naim-hasan.jpg"
+}

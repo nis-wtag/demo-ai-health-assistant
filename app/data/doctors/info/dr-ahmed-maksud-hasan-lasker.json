@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Ahmad Maksud Hasan Laskar",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "Ibn Sina Hospital Sylhet Limited",
+    "image": "image/dr-ahmed-maksud-hasan-lasker.jpg"
+}

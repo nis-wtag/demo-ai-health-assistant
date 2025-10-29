@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Eye Hospital & Laser Center Limited",
+            "address": {
+                "name": "53, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801741420444",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO",
+        "Special Training in Orbit & Oculoplasty (India)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Abul Kalam Azad",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Khulna BNSB Eye Hospital",
+    "image": "image/dr-md-abul-kalam-azad-surgeon.jpg"
+}

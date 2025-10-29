@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Dogma Hospital, Badda",
+            "address": {
+                "name": "Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801921088076",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho)",
+        "MPH",
+        "AO (SG)",
+        "AAOS (USA)"
+    ],
+    "designation": "Orthopedic & Trauma Surgeon",
+    "name": "Dr. Syed Zakir Hossain Biplob",
+    "speciality": "Orthopedic & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-syed-zakir-hossain-biplob.jpg"
+}

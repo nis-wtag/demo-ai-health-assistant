@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrlogy)"
+    ],
+    "designation": "",
+    "name": "Prof. Dr. Md. Anwarul Haque Forazi",
+    "speciality": "Nephrologist Kidney Specialist",
+    "workplace": "National Institute of Kidney Diseases & Urology",
+    "image": "image/prof-dr-md-anwarul-haque-forazi.jpg"
+}

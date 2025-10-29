@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Cosmetic Surgery Center",
+            "address": {
+                "name": "Nizam Shankar Plaza, Shankar Bus Stop, Dhanmondi, Dhaka-1207",
+                "longitude": 90.368155,
+                "latitude": 23.750666
+            },
+            "contact": "+8801712002891",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Plastic Surgery)",
+        "MS (Thesis)",
+        "MRCS (UK)"
+    ],
+    "designation": "Consultant, Burn & Plastic Surgery",
+    "name": "Dr. Md. Shariful Islam Sharif",
+    "speciality": "Plastic, Oncoplastic, Cosmetic & Aesthetic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-shariful-islam-sharif.jpg"
+}

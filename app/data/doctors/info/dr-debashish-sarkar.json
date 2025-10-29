@@ -1,0 +1,105 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Medico Lab (Pvt.) Ltd.",
+            "address": {
+                "name": "18/2, Amir Ali Road, Choto Boyra, Sonadanga, Khulna",
+                "longitude": 89.52592,
+                "latitude": 22.83783
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MRCP (London)",
+        "MACP (America)",
+        "MD (Cardiology)",
+        "CCD (BIRDEM)",
+        "Certified Course in Endocrinology",
+        "Fellowship in Critical Care Medicine & Cardiology (India)"
+    ],
+    "designation": "Deputy Medical Superintendent",
+    "name": "Dr. Debashish Sarkar",
+    "speciality": "Medicine, Cardiology, Chest Diseases, Liver, Rheumatic Fever, Hormone & Diabetes Specialist",
+    "workplace": "Fortis Escorts Heart Institute, Khulna",
+    "image": "image/dr-debashish-sarkar.jpg"
+}

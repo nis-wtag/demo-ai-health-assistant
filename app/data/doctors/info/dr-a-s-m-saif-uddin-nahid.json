@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Al Amin Hospital & Diagnostic Center, Chittagong",
+            "address": {
+                "name": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
+                "longitude": 90.366049,
+                "latitude": 23.757151
+            },
+            "contact": "+8801683076070",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO"
+    ],
+    "designation": "Orthopedic Specialist & Trauma Surgeon",
+    "name": "Dr. A.S.M. Saif Uddin Nahid",
+    "speciality": "Orthopedic Surgeon",
+    "workplace": "Southern Medical College & Hospital",
+    "image": "image/dr-a-s-m-saif-uddin-nahid.jpg"
+}

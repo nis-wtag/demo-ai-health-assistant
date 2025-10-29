@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Al Haramain Hospital, Sylhet",
+            "address": {
+                "name": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801931225555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology, BSMMU)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Md. Suhail Alam",
+    "speciality": "Cardiology, Heart Diseases & Rheumatic Fever Specialist",
+    "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+    "image": "image/dr-md-suhail-alam.jpg"
+}

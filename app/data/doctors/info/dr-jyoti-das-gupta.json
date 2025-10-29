@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Lions Charitable Eye Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Nasirabad, Khulsi, Chattogram",
+                "longitude": 67.916566,
+                "latitude": 27.381011
+            },
+            "contact": "+8801511624052",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Junior Consultant, Ophthalmology",
+    "name": "Dr. Jyoti Das Gupta",
+    "speciality": "Eye Diseases Specialist & Oculoplasty Specialist",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-jyoti-das-gupta.jpg"
+}

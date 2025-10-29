@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Cardiology)",
+        "FCPS (Medicine)",
+        "FACC (USA)",
+        "FACP (USA)",
+        "FASE (USA)",
+        "FSCAI (USA)",
+        "FRCP (Glasgow & Edinburgh)",
+        "FCCP (USA)",
+        "FESC (Europe)",
+        "FAHA (USA)",
+        "FAPSIC (Singapore)",
+        "FAPSC (Japan)"
+    ],
+    "designation": "Professor & Head of the Department (Cardiology)",
+    "name": "Prof. Dr. Toufiqur Rahman Faruque",
+    "speciality": "Cardiology, Medicine, Rheumatic Fever & Diabetes Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/prof-dr-toufiqur-rahman-faruque.jpg"
+}

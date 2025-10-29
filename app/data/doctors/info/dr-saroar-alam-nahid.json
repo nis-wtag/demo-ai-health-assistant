@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Hikmah Eye Hospital, Khilgaon",
+            "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
+            "contact": "+8801701898299",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (BSMMU)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Saroar Alam (Nahid)",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "President Abdul Hamid Medical College & Hospital",
+    "image": "image/dr-saroar-alam-nahid.jpg"
+}

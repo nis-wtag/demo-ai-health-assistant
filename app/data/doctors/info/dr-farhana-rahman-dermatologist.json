@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Comilla",
+            "address": "Room - 506, House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+            "contact": "+8801324403432",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Dermatology & Venereology)",
+        "Fellowship Training in Cutaneous & LASER Surgery"
+    ],
+    "designation": "Specialist, Skin & VD",
+    "name": "Dr. Farhana Rahman",
+    "speciality": "Skin, Allergy, Leprosy, Sexual Disease, Cosmetic & Dermatosurgery Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-farhana-rahman-dermatologist.jpg"
+}

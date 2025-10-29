@@ -1,0 +1,79 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Mirpur",
+            "address": {
+                "name": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+                "longitude": 90.36164,
+                "latitude": 23.8244224
+            },
+            "contact": "+8801601426538",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Fayez General Hospital, Habiganj",
+            "address": {
+                "name": "M. M Tower, New Bust Terminal Road, Habiganj Sadar, Habiganj",
+                "longitude": 91.41667,
+                "latitude": 24.375
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Digilab Diagnostic & Hospital, Tangail",
+            "address": {
+                "name": "101, Chayabithi Tower, Mymensingh Road, Sabalia, Tangail",
+                "longitude": 89.9238257,
+                "latitude": 24.2694722
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Gastroenterology)",
+        "MACP",
+        "MACG"
+    ],
+    "designation": "Resident Physician, Gastroenterology",
+    "name": "Dr. Parash Ullah",
+    "speciality": "Gastroenterology & Medicine Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-parash-ullah.jpg"
+}

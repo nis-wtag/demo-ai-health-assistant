@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Health Aid Hospital, Lalbagh",
+            "address": {
+                "name": "50, Azimpur Road, Lalbagh, Dhaka - 1211",
+                "longitude": 90.3838526,
+                "latitude": 23.7268304
+            },
+            "contact": "+8801700779220",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MRCP",
+        "DTCD (UK)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Registrar, Medicine",
+    "name": "Dr. Mizanur Rahman",
+    "speciality": "Medicine & Chest Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/dr-mizanurrahman.jpg"
+}

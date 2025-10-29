@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Cure Max Consultation Centre, Chittagong",
+            "address": {
+                "name": "Pathantuli Chowmuhani, Beside Khan Shaheber School, Chittagong",
+                "longitude": 91.81417,
+                "latitude": 22.332691
+            },
+            "contact": "+8801979492964",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (UK)",
+        "Member ACP (USA)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Imran Alam Chowdhury",
+    "speciality": "Medicine Specialist",
+    "workplace": "Cure Max Consultation Centre, Chittagong",
+    "image": "image/dr-imran-alam-chowdhury.jpg"
+}

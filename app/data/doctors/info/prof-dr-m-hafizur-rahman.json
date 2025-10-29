@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Hikmah Eye Hospital, Khilgaon",
+            "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
+            "contact": "+8801730767333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "FICO (UK)",
+        "Fellow in Glaucoma (LVPEI)",
+        "Fellow in Phaco Surgery (IIEIH)",
+        "Training in VF-Glaucoma (Germany)"
+    ],
+    "designation": "Visiting Professor, Ophthalmology",
+    "name": "Prof. Dr. M. Hafizur Rahman",
+    "speciality": "Glaucoma Specialist & Consultant Phaco surgeon",
+    "workplace": "Ad-Din Women's Medical College & Hospital",
+    "image": "image/prof-dr-m-hafizur-rahman.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Cumilla",
+            "address": {
+                "name": "Tomsom Bridge, Laksam Road, Cumilla",
+                "longitude": -86.037321,
+                "latitude": 32.349286
+            },
+            "contact": "+8801766661133",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor & Head, Kidney & Medicine",
+    "name": "Dr. Sourav Saha",
+    "speciality": "Kidney Diseases, Dialysis & Transplant Specialist",
+    "workplace": "Mainamoti Medical College & Hospital",
+    "image": "image/dr-sourav-saha.jpg"
+}

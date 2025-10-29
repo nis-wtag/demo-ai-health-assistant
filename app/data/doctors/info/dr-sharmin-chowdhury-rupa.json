@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Padma Diagnostic Center, Malibagh",
+            "address": {
+                "name": "245/2 New Circular Road, West Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809617444222",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "PLAB (UK)",
+        "MCCEE (CA)"
+    ],
+    "designation": "Diabetes & Medicine Specialist",
+    "name": "Dr. Sharmin Chowdhury Rupa",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-sharmin-chowdhury-rupa.jpg"
+}

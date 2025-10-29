@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Eye Care Hospital, Uttara",
+            "address": {
+                "name": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801787681500",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DO (BSMMU)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Montasir-Al-Mamun",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Dhaka Eye Care Hospital",
+    "image": "image/dr-md-montasir-al-mamun.jpg"
+}

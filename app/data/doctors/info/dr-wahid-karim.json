@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (EYE)"
+    ],
+    "designation": "Consultant, Glaucoma",
+    "name": "Dr. Wahid Karim",
+    "speciality": "Eye Diseases, Glaucoma, Laser & Power Refraction Specialist",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-wahid-karim.jpg"
+}

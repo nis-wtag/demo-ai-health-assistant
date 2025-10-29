@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Sylhet Trauma Center & Specialized Hospital",
+            "address": {
+                "name": "Manikpir Road, Charadighirpar, Sylhet (In Front of Manikpir Mazar Gate)",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801777654158",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SOMC)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Consultant, Orthopedics",
+    "name": "Dr. Mirza Omar Beg Probal",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-mirza-omar-beg-probal.jpg"
+}

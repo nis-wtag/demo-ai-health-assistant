@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Assistant Professor, Endocrinology & Metabolism",
+    "name": "Dr. Mohammad Omar Faruque",
+    "speciality": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-mohammad-omar-faruque.jpg"
+}
