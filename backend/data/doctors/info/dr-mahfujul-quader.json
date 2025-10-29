@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Chittagong",
+            "address": {
+                "name": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8801854-092936",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Associate Professor, Neurospine Surgery Department",
+    "name": "Dr. Mahfujul Quader",
+    "speciality": "Spinesurgeon & Neurosurgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mahfujul-quader.jpg"
+}

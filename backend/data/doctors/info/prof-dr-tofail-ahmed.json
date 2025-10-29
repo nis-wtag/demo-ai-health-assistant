@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DEM",
+        "MPhil",
+        "PhD"
+    ],
+    "designation": "Professor, Endocrinology & Metabolism",
+    "name": "Prof. Dr. Tofail Ahmed",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-dr-tofail-ahmed.jpg"
+}

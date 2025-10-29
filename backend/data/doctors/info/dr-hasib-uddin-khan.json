@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Specialized & General Hospital, Nayapaltan",
+            "address": {
+                "name": "71-72, VIP Road, Nayapaltan, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801977552283",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Critical Care Medicine",
+    "name": "Dr. Hasib Uddin Khan",
+    "speciality": "Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-hasib-uddin-khan.jpg"
+}

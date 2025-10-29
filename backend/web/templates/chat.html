@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-gray-50">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Health Assistant - Chat</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <style>
+        /* Custom scrollbar for a cleaner look */
+        #chat-box::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #chat-box::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+
+        #chat-box::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 10px;
+        }
+
+        #chat-box::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+    </style>
+</head>
+
+<body class="h-screen flex flex-col font-sans">
+    <!-- navigation.html -->
+    <nav class="bg-white shadow-md w-full p-4 flex items-center relative">
+        <!-- Left: Title -->
+        <div class="flex items-center space-x-2 flex-shrink-0">
+            <span class="text-2xl font-bold text-slate-700">🩺 AI Health Assistant</span>
+        </div>
+
+        <!-- Center: Navigation Icons -->
+        <div class="absolute left-1/2 transform -translate-x-1/2 flex items-center space-x-6">
+            <!-- Home Icon -->
+            <button onclick="window.location.href='/'"
+                class="flex flex-col items-center justify-center text-slate-700 hover:text-green-600 transition-colors">
+                <img src="/static/icons/home.svg" alt="Home" class="w-6 h-6">
+                <span class="text-sm hidden sm:block">Home</span>
+            </button>
+            <!-- Dashboard Icon -->
+            <button onclick="window.location.href='/dashboard'"
+                class="flex flex-col items-center justify-center text-slate-700 hover:text-blue-600 transition-colors">
+                <img src="/static/icons/dashboard.svg" alt="Dashboard" class="w-6 h-6">
+                <span class="text-sm hidden sm:block">Dashboard</span>
+            </button>
+        </div>
+
+        <!-- Right: User info and logout -->
+        <div class="flex items-center space-x-4 ml-auto flex-shrink-0">
+            <span class="text-slate-600 font-medium hidden sm:block">Welcome, {{user['full_name']}}!</span>
+            <button id="logout-btn"
+                class="px-4 py-2 bg-red-500 text-white font-semibold rounded-lg shadow hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-75 transition-colors">
+                Logout
+            </button>
+        </div>
+    </nav>
+
+    <!-- Chat Container -->
+    <div class="flex-1 w-full max-w-full mx-auto flex flex-col p-4 pb-4 overflow-hidden">
+        <div class="w-full h-full flex flex-col bg-white rounded-lg shadow-xl">
+            <!-- Chat Box (Scrollable) -->
+            <div id="chat-box" class="flex-1 p-6 space-y-4 overflow-y-auto">
+                <!-- Messages will be appended here -->
+                <div class="p-4 bg-sky-100 text-sky-800 rounded-xl shadow-sm">
+                    <p class="font-semibold">Hello!</p>
+                    <p>I am your AI Health Assistant. Please describe your symptoms in the box below, and I'll provide
+                        some educational remedies and help you find a suitable doctor. For example: "I have a fever and
+                        a sore throat."</p>
+                </div>
+            </div>
+
+            <!-- Input Form (Fixed at bottom) -->
+            <div class="p-4 bg-slate-100 border-t border-slate-200">
+                <form id="chat-form" class="flex items-center space-x-3">
+                    <input type="text" id="message" placeholder="Describe your symptoms here..." required
+                        class="flex-1 w-full px-4 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+                    <button type="submit"
+                        class="px-6 py-2 bg-blue-600 text-white font-bold rounded-lg shadow hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition-colors">
+                        Send
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="doctorModal"
+        class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50 backdrop-blur-sm">
+        <div
+            class="bg-white shadow-2xl max-w-2xl w-full mx-4 p-6 relative overflow-y-auto max-h-[85vh] border border-slate-100">
+            <button id="closeDoctorModal"
+                class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 text-2xl font-bold">&times;</button>
+
+            <div id="doctorModalContent"></div>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById("chat-box");
+        const chatForm = document.getElementById("chat-form");
+        const messageInput = document.getElementById("message");
+        const logoutBtn = document.getElementById("logout-btn");
+
+        // --- Event Listeners ---
+        logoutBtn.addEventListener("click", handleLogout);
+        chatForm.addEventListener("submit", handleChatSubmit);
+
+        // --- Functions ---
+
+        async function handleLogout() {
+            try {
+                await fetch("/api/v1/auth/logout", {
+                    method: "POST",
+                    credentials: "include"
+                });
+                window.location.href = "/login";
+            } catch (err) {
+                console.error("Logout failed:", err);
+                alert("Logout failed! Please try again.");
+            }
+        }
+
+        async function handleChatSubmit(e) {
+            e.preventDefault();
+            const message = messageInput.value.trim();
+            if (!message) return;
+
+            addUserMessage(message);
+            messageInput.value = "";
+            addTypingIndicator();
+
+            try {
+                const response = await fetch("/api/v1/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    credentials: "include",
+                    body: JSON.stringify({ query: message })
+                });
+
+                removeTypingIndicator();
+
+                if (response.ok) {
+                    const data = await response.json();
+                    addBotResponse(data);
+                } else {
+                    const errorData = await response.json();
+                    addErrorMessage(`Error: ${errorData.detail || 'Could not get a response from the server.'}`);
+                }
+            } catch (err) {
+                removeTypingIndicator();
+                console.error("Network error:", err);
+                addErrorMessage("A network error occurred. Please check your connection and try again.");
+            }
+        }
+
+        function scrollToBottom() {
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function addUserMessage(text) {
+            const div = document.createElement("div");
+            div.className = "flex justify-end";
+            div.innerHTML = `<div class="p-4 bg-blue-500 text-white rounded-xl shadow-md max-w-lg">
+                                <p>${text}</p>
+                           </div>`;
+            chatBox.appendChild(div);
+            scrollToBottom();
+        }
+
+        function addTypingIndicator() {
+            // Remove existing indicator
+            const existing = document.getElementById("typing-indicator");
+            if (existing) existing.remove();
+
+            const div = document.createElement("div");
+            div.id = "typing-indicator";
+            div.className = `
+        flex items-center gap-3 bg-gradient-to-r from-blue-50 to-cyan-50
+        text-slate-700 px-4 py-3 rounded-2xl shadow-md self-start
+        max-w-[70%] border border-blue-100 animate-fade-in
+    `;
+
+            div.innerHTML = `
+        <!-- AI Spinner -->
+        <div class="w-8 h-8 flex items-center justify-center rounded-full bg-white border border-blue-200 shadow-sm">
+            <svg class="w-4 h-4 text-blue-500 animate-spin" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor"
+                    d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+            </svg>
+        </div>
+
+        <!-- Text with animated dots -->
+        <div class="flex flex-col">
+            <p class="text-sm font-medium text-slate-700 flex items-center gap-2">
+                💊 <span>Generating remedy</span>
+                <span class="dot animate-bounce" style="animation-delay:0ms"></span>
+                <span class="dot animate-bounce" style="animation-delay:150ms"></span>
+                <span class="dot animate-bounce" style="animation-delay:300ms"></span>
+            </p>
+            <p class="text-xs text-slate-500 italic mt-1">Analyzing symptoms and preparing suggestions...</p>
+        </div>
+    `;
+
+            // Add custom CSS for bouncing dots
+            const style = document.createElement("style");
+            style.innerHTML = `
+        .dot {
+            width: 4px;
+            height: 4px;
+            background-color: #4b5563;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        @keyframes bounce {
+            0%, 80%, 100% { transform: translateY(0); opacity: 0.5; }
+            40% { transform: translateY(-6px); opacity: 1; }
+        }
+        .animate-bounce { animation: bounce 1s infinite; }
+        .animate-fade-in { animation: fadeIn 0.3s ease forwards; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    `;
+            document.head.appendChild(style);
+
+            chatBox.appendChild(div);
+            scrollToBottom();
+        }
+
+
+
+        function removeTypingIndicator() {
+            const indicator = document.getElementById("typing-indicator");
+            if (indicator) {
+                indicator.remove();
+            }
+        }
+
+        function addErrorMessage(text) {
+            const div = document.createElement("div");
+            div.className = "p-4 bg-red-100 text-red-800 rounded-xl shadow-sm";
+            div.innerHTML = `<p class="font-semibold">⚠️ Error</p><p>${text}</p>`;
+            chatBox.appendChild(div);
+            scrollToBottom();
+        }
+
+        // --- THE NEW RESPONSE RENDERING FUNCTION ---
+        function attachDoctorModalLogic() {
+            const modal = document.getElementById("doctorModal");
+            const modalContent = document.getElementById("doctorModalContent");
+            const closeModalBtn = document.getElementById("closeDoctorModal");
+
+            document.querySelectorAll(".see-details-btn").forEach(btn => {
+                btn.addEventListener("click", () => {
+                    const doctor = JSON.parse(btn.getAttribute("data-doctor"));
+
+                    modalContent.innerHTML = `
+                <!-- Doctor Header: Image + Info -->
+                <div class="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-6 mb-6">
+                    <!-- Doctor Image -->
+                    <div class="w-32 h-32 overflow-hidden shadow-sm rounded-md flex-shrink-0">
+                        <img src="${doctor.image || '/static/image/doctor.svg'}" 
+                            alt="${doctor.full_name}" 
+                            class="w-full h-full object-cover">
+                    </div>
+
+                    <!-- Doctor Info -->
+                    <div class="flex-1 text-center sm:text-left">
+                        <h2 class="text-2xl sm:text-3xl font-bold text-slate-800 mb-1">${doctor.full_name}</h2>
+                        <p class="text-slate-600 text-sm mb-1">${doctor.designation || ''}</p>
+                        <p class="text-slate-600 text-sm mb-1">${doctor.affiliated_hospital || ''}</p>
+                        <p class="text-slate-500 text-sm">${doctor.specialization || ''}</p>
+                    </div>
+                </div>
+
+                <div class="space-y-5">
+                    <!-- Degrees -->
+                    <div>
+                        <p class="font-semibold text-slate-700 mb-2 flex items-center gap-2">
+                            🎓 <span>Degrees</span>
+                        </p>
+                        ${(doctor.degrees && doctor.degrees.length > 0)
+                            ? `<div class="flex flex-wrap gap-2">
+                                    ${doctor.degrees.map(d => `
+                                        <span class="bg-gray-50 text-gray-700 border border-gray-300 px-3 py-1 rounded-full text-xs font-medium shadow-xs hover:bg-gray-100 transition">
+                                            ${d}
+                                        </span>`).join('')}
+                            </div>`
+                            : `<p class="text-slate-500 text-sm italic ml-1">No degrees listed</p>`
+                        }
+                    </div>
+
+                    <!-- Chambers -->
+                    <div>
+                        <p class="font-semibold text-slate-700 mb-3 flex items-center gap-2">
+                            📍 <span>Chambers</span>
+                        </p>
+                        ${(doctor.chambers || []).length > 0
+                            ? doctor.chambers.map((chamber, idx) => `
+                                <div class="border border-slate-200 rounded-xl p-4 mb-4 shadow-sm hover:shadow-md transition">
+                                    <div class="flex justify-between items-start">
+                                        <div>
+                                            <p class="font-semibold text-slate-800 text-base">${chamber.chamber_name}</p>
+                                            <p class="text-xs text-slate-500 mt-1">${chamber.address}</p>
+                                            <p class="text-xs text-slate-500 mt-1">📞 ${chamber.contact_number || 'N/A'}</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="mt-3 bg-slate-50 rounded-lg p-2 text-xs text-slate-600 border border-slate-100">
+                                        ${groupVisitingHours(chamber.visiting_hours || [])}
+                                    </div>
+
+                                    <div id="map-${idx}" class="h-44 w-full mt-3 rounded-lg overflow-hidden border border-slate-200"></div>
+                                </div>
+                            `).join('')
+                            : `<p class="text-sm text-slate-500 italic">No chambers available</p>`
+                        }
+                    </div>
+                </div>
+            `;
+
+                    modal.classList.remove("hidden");
+
+                    // Initialize maps
+                    (doctor.chambers || []).forEach((chamber, idx) => {
+                        const mapContainerId = `map-${idx}`;
+                        if (chamber.latitude && chamber.longitude) {
+                            const map = L.map(mapContainerId).setView([chamber.latitude, chamber.longitude], 15);
+                            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                                attribution: '&copy; OpenStreetMap contributors'
+                            }).addTo(map);
+                            L.marker([chamber.latitude, chamber.longitude])
+                                .addTo(map)
+                                .bindPopup(chamber.chamber_name);
+                        } else {
+                            document.getElementById(mapContainerId).innerHTML =
+                                "<p class='text-xs text-slate-500 text-center py-6'>No coordinates available</p>";
+                        }
+                    });
+                });
+            });
+
+            // Close modal logic
+            closeModalBtn.addEventListener("click", () => modal.classList.add("hidden"));
+            modal.addEventListener("click", (e) => {
+                if (e.target === modal) modal.classList.add("hidden");
+            });
+        }
+
+        // --- Helpers ---
+        function to12Hour(timeStr) {
+            const [h, m] = timeStr.split(":").map(Number);
+            const ampm = h >= 12 ? "PM" : "AM";
+            const hour12 = h % 12 || 12;
+            return `${hour12}:${m.toString().padStart(2, "0")} ${ampm}`;
+        }
+
+        function groupVisitingHours(hours) {
+            const grouped = {};
+            hours.forEach(h => {
+                if (!grouped[h.day]) grouped[h.day] = [];
+                grouped[h.day].push(`${to12Hour(h.start_time)} - ${to12Hour(h.end_time)}`);
+            });
+            return Object.entries(grouped)
+                .map(([day, times]) => `<div>🕒 <strong>${day}</strong>: ${times.join(", ")}</div>`)
+                .join("");
+        }
+
+
+
+        function addBotResponse(data) {
+            const responseContainer = document.createElement("div");
+            responseContainer.className = "space-y-4";
+
+            const sections = [];
+
+            // 1. Disclaimer
+            if (data.disclaimer) {
+                const disclaimer = document.createElement("div");
+                disclaimer.className =
+                    "p-4 bg-yellow-100 text-yellow-800 rounded-xl shadow-sm border border-yellow-200 opacity-0 translate-y-2 transition-all duration-500";
+                disclaimer.innerHTML = `
+            <p class="font-bold">⚠️ Disclaimer</p>
+            <p>${data.disclaimer}</p>
+        `;
+                sections.push(disclaimer);
+            }
+
+            // 2. Remedy
+            if (data.remedy) {
+                const remedy = document.createElement("div");
+                remedy.className =
+                    "p-4 bg-green-100 text-green-800 rounded-xl shadow-sm border border-green-200 opacity-0 translate-y-2 transition-all duration-500";
+                remedy.innerHTML = `
+            <p class="font-bold">✅ Suggested Remedy</p>
+            <p>${data.remedy}</p>
+        `;
+                sections.push(remedy);
+            }
+
+            // 3. Recommended Doctors
+            if (data.recommended_doctors && data.recommended_doctors.length > 0) {
+                const doctorsDiv = document.createElement("div");
+                doctorsDiv.className =
+                    "p-4 bg-slate-100 rounded-xl shadow-sm border border-slate-200 opacity-0 translate-y-2 transition-all duration-500";
+
+                let doctorsHtml = `<p class="font-bold text-slate-800 mb-4">👩‍⚕️ Recommended Doctors</p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">`;
+
+                data.recommended_doctors.forEach((doctor) => {
+                    doctorsHtml += `
+               <div class="bg-white p-4 rounded-lg border shadow flex flex-col justify-between opacity-0 translate-y-2 transition-all duration-500 h-full">
+    <!-- Top: Doctor Image + Info -->
+    <div>
+        <div class="flex items-center space-x-4 mb-4">
+            <!-- Doctor Image -->
+            <div class="w-24 h-24 rounded-md overflow-hidden shadow-sm flex-shrink-0">
+                <img src="${doctor.image || '/static/image/doctor.svg'}" 
+                     alt="${doctor.full_name}" 
+                     class="w-full h-full object-cover">
+            </div>
+
+            <!-- Doctor Info -->
+            <div class="flex-1">
+                <h4 class="font-bold text-lg text-slate-800">${doctor.full_name}</h4>
+                <p class="text-sm text-slate-600">${doctor.specialization || ''}</p>
+                <p class="text-sm text-slate-500">${doctor.designation || ''}</p>
+                <p class="text-sm text-slate-500">${doctor.affiliated_hospital || ''}</p>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="border-t border-slate-200 my-3"></div>
+
+        <!-- Chambers -->
+        <div class="space-y-3">
+            ${doctor.chambers.map(chamber => `
+                <div class="p-3 border rounded-lg bg-slate-50">
+                    <p class="font-semibold text-slate-700">${chamber.chamber_name}</p>
+                    <p class="text-xs text-slate-500 mt-1">${chamber.address}</p>
+                    <p class="text-xs text-slate-500 mt-1">Contact: ${chamber.contact_number || 'N/A'}</p>
+                </div>
+            `).join('')}
+        </div>
+    </div>
+
+    <!-- Bottom: See Details Button -->
+    <div class="mt-4 flex justify-end">
+        <button class="see-details-btn w-full bg-slate-800 hover:bg-slate-700 text-white text-sm font-semibold py-2 px-3 rounded transition"
+                data-doctor='${JSON.stringify(doctor)}'>
+            See Details
+        </button>
+    </div>
+</div>
+
+            `;
+                });
+
+                doctorsHtml += `</div>`;
+                doctorsDiv.innerHTML = doctorsHtml;
+                sections.push(doctorsDiv);
+            }
+
+            // Append sections one by one with delay for animation
+            responseContainer.append(...sections);
+            chatBox.appendChild(responseContainer);
+
+            // After appending the response container
+            sections.forEach((section, index) => {
+                setTimeout(() => {
+                    // Animate parent section
+                    section.classList.remove("opacity-0", "translate-y-2");
+
+                    // Animate each doctor card inside (if any)
+                    section.querySelectorAll(".bg-white").forEach((card, cardIndex) => {
+                        setTimeout(() => {
+                            card.classList.remove("opacity-0", "translate-y-2");
+                        }, cardIndex * 100); // stagger inside grid
+                    });
+                }, index * 150);
+            });
+
+
+            // Re-attach modal buttons for doctor details
+            attachDoctorModalLogic();
+
+            // scrollToBottom();
+        }
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,151 @@
+{
+    "chambers": [
+        {
+            "place": "Dhanmondi General & Kidney Hospital",
+            "address": {
+                "name": "Room 312, City Tower, 44/7, West Panthapath, Dhaka 1205",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801972860871",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "Room 1202, 252/1, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "23:00"
+                }
+            ]
+        },
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "Room 504, Sayem Bhaban 2, Opposite to Medical College, Mymensingh",
+                "longitude": 78.415159,
+                "latitude": 17.345681
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Al Khidmah Hospital, Muktagacha",
+            "address": {
+                "name": "Beside Palli Bidyut Office, Saheb Bazar, Muktagacha, Mymensingh",
+                "longitude": 90.2583669,
+                "latitude": 24.7651553
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)",
+        "Fellowship Diploma in Skull Base Surgery (Ramayiah University Bangalore, India)",
+        "Fellow - Endoscopic Spine Surgery (Seoul, South Korea)",
+        "Advanced Training in Brain Surgery (Hyderabad, Mumbai, India)"
+    ],
+    "designation": "Registrar, Neurosurgery",
+    "name": "Dr. Salah Uddin Ahmed",
+    "speciality": "Brain, Spine, Stroke & Nerve Specialist Neurosurgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-salah-uddin-ahmed-ns.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Model Hospital",
+            "address": {
+                "name": "United Plaza, Laxmipur Mor, Rajshahi",
+                "longitude": -58.583436,
+                "latitude": 48.5515
+            },
+            "contact": "+8801773844844",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "General & Laparoscopic Surgeon",
+    "name": "Dr. Md. Ashraful Alam",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-ashraful-alam.jpg"
+}

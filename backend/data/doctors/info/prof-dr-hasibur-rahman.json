@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": "10678",
+            "visiting_hours": null
+        },
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Skin & Sex)",
+        "MRCP (Glasgow)",
+        "FRCP (EDIN)",
+        "FACP (USA)"
+    ],
+    "designation": "Professor & Head, Dermatology & Venereology",
+    "name": "Prof. Dr. Hasibur Rahman",
+    "speciality": "Skin, Sexual Diseases Specialist & Dermatosurgeon",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/prof-dr-hasibur-rahman.jpg"
+}

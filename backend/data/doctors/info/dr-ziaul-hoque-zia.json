@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD"
+    ],
+    "designation": "Consultant, Pulmonology",
+    "name": "Dr. Ziaul Hoque Zia",
+    "speciality": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+    "workplace": "Ibn Sina Specialized Hospital, Dhanmondi",
+    "image": "image/dr-ziaul-hoque-zia.jpg"
+}

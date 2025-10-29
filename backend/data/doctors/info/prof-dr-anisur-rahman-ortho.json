@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 22, Rabindra Sarani Road, Sector # 07, Uttara, Dhaka",
+                "longitude": 90.3970143,
+                "latitude": 23.8678236
+            },
+            "contact": "+880258956388",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MPH",
+        "MD",
+        "FRSH",
+        "FICS"
+    ],
+    "designation": "Orthopedic & Trauma Surgeon",
+    "name": "Prof. Dr. Anisur Rahman",
+    "speciality": "Orthopedic & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-anisur-rahman-ortho.jpg"
+}

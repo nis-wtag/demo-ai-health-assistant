@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical College Hospital",
+            "address": {
+                "name": "House: 08, Road: 02, Dhanmondi, Dhaka-1205",
+                "longitude": 89.5360342,
+                "latitude": 23.6841752
+            },
+            "contact": "+8809666787800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ORTHO)"
+    ],
+    "designation": "Ex. Professor, Orthopedics",
+    "name": "Prof. Dr. Qamrul Alam Saleh",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-qamrul-alam-saleh.jpg"
+}

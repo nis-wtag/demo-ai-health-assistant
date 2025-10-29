@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934998688",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Gyne & Obs)"
+    ],
+    "designation": "Consultant (Gyne & Obs)",
+    "name": "Dr. Purobi Das Bakshi",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-purobi-das-bakshi.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Diagnostic Center, Kushtia",
+            "address": "Sono Tower, College Mor, Court Para, Kushtia",
+            "contact": "+8801745836325",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (EYE)"
+    ],
+    "designation": "Assistant Professor, Eye",
+    "name": "Dr. Kazi Anisur Rahman",
+    "speciality": "Eye Diseases Specialist, Phaco & Micro Surgeon",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-kazi-anisur-rahman.jpg"
+}

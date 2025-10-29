@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Malibagh",
+            "address": {
+                "name": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Modern Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "207, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8801619088999",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Fellow Spine Surgery (ISIC, DELHI)"
+    ],
+    "designation": "Professor, Orthopedic Surgery",
+    "name": "Prof. Dr. Jagodish Chandra Ghosh",
+    "speciality": "Orthopedic & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-jagodish-chandra-ghosh.jpg"
+}

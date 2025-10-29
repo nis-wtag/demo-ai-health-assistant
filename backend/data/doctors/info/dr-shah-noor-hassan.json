@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "ICO (UK)",
+        "FRCS (UK)"
+    ],
+    "designation": "Associate Professor, Ophthalmology",
+    "name": "Dr. Shah-Noor Hassan",
+    "speciality": "Eye Diseases (Vitreo Retina) Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-shah-noor-hassan.jpg"
+}

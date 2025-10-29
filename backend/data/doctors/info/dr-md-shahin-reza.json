@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Insaf Barakah Kidney & General Hospital",
+            "address": {
+                "name": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801711010161",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "FACS",
+        "MS"
+    ],
+    "designation": "Assistant Professor, Pediatric Surgery",
+    "name": "Dr. Md. Shahin Reza",
+    "speciality": "Pediatric Endo-Laparoscopic Surgeon & Pediatric Urologist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-shahin-reza.jpg"
+}

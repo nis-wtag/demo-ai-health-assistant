@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Dr Erfan Colorectal Center, Dhanmondi General and Kidney Hospital",
+            "address": {
+                "name": "44/7, West Panthapath (City Tower), Dhaka – 1205",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801865555511",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Advanced Training (Colorectal, Endoscopic & Laser Surgery)"
+    ],
+    "designation": "Professor & Head, Surgery",
+    "name": "Prof. Dr. S.M.A. Erfan",
+    "speciality": "Colorectal (Piles, Rectum, Colon) Surgery Specialist",
+    "workplace": "Care Medical College Hospital, Dhaka",
+    "image": "image/prof-dr-sma-erfan.jpg"
+}

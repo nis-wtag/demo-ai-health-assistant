@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Anesthesiology)"
+    ],
+    "designation": "Professor, Anesthesiology",
+    "name": "Prof. Dr. Md. Mahbubul Hasan Monir",
+    "speciality": "Pain Medicine Specialist & Anesthesiologist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-dr-mahabubul-hasan-monir.jpg"
+}

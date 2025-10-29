@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Orthopedic Surgeon",
+    "name": "Dr. Md. Mamun ur Rashid",
+    "speciality": "Orthopedic Surgeon",
+    "workplace": "Ibn Sina Diagnostic & Consultation Center",
+    "image": "image/dr-md-mamun-ur-rashid.jpg"
+}

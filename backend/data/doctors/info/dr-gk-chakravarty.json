@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "BellView Hospital & Medical Services, Barisal",
+            "address": {
+                "name": "114, Sadar Road, Barisal",
+                "longitude": 90.370699,
+                "latitude": 22.705246
+            },
+            "contact": "+8801733063692",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Chief Consultant, Gynecology & Obstetrics",
+    "name": "Dr. GK Chakravarty",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "BellView Medical Services, Barisal",
+    "image": "image/dr-gk-chakravarty.jpg"
+}

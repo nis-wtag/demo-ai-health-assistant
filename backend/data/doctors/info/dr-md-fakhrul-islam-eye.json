@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "FICS",
+        "Training (Microsurgery & Vitreo Retina)"
+    ],
+    "designation": "Senior Consultant, Ophthalmology",
+    "name": "Dr. Md. Fakhrul Islam",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-fakhrul-islam-eye.jpg"
+}

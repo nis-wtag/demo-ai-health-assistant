@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Royal Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Laxmipur Mor, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801758201206",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Rajshahi",
+            "address": {
+                "name": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi – 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "FCPS (Ortho-Surgery)",
+        "MRCPS (Glasg) UK",
+        "FAOA (Swiss)",
+        "FACS (Trauma & Ortho) USA",
+        "(Hip & Knee) Arthroplasty Master’s Course (India)",
+        "(AO Spine), Principle, Advance & Master’s Course (Swiss)",
+        "AO Spine Live Operative Course (AOSIN)"
+    ],
+    "designation": "Assistant Professor, Department of Orthopedic Surgery",
+    "name": "Dr. Md. Munzur Rahman",
+    "speciality": "Specialist Spine & Orthopaedic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-munzur-rahman.jpg"
+}

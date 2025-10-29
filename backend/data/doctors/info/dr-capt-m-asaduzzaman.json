@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shin Shin Japan Hospital, Uttara",
+            "address": {
+                "name": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801929478565",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)",
+        "MCPS (ENT)",
+        "DLO (DU)"
+    ],
+    "designation": "Associate Professor & Head, ENT",
+    "name": "Dr. Capt. M. Asaduzzaman",
+    "speciality": "ENT Diseases Specialist & Surgeon",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/dr-capt-m-asaduzzaman.jpg"
+}

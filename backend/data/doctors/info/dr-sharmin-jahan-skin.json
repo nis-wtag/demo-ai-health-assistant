@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Better Life Hospital, Rampura",
+            "address": {
+                "name": "1, 1 Sahid Muktijoddha Faruk Iqbal & Taslim Road, Rampura, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809678786787",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MCPS",
+        "FCPS (Dermatology)"
+    ],
+    "designation": "Consultant (Dermatology)",
+    "name": "Dr. Sharmin Jahan",
+    "speciality": "Skin & Allergy Specialist",
+    "workplace": "Government Employee Hospital, Dhaka",
+    "image": "image/dr-sharmin-jahan-skin.jpg"
+}

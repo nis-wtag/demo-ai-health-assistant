@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (OBGYN)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Consultant, Obstetrics & Gynecology",
+    "name": "Dr. Sabina Yeasmin",
+    "speciality": "Gynecologist & Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-sabina-yeasmin-gynecology.jpg"
+}

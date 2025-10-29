@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DTCD (DU)",
+        "PhD (Chest)",
+        "DFM (UK)",
+        "FCCP (USA)",
+        "FWHO (Indonesia)"
+    ],
+    "designation": "Professor & Head, Respiratory Medicine",
+    "name": "Prof. Dr. Ratan Chandra Saha",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/prof-dr-ratan-chandra-saha.jpg"
+}

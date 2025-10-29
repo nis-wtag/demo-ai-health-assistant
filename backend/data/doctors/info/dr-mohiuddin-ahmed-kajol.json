@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Mohona Dental Surgery & Root Canal Centre",
+            "address": {
+                "name": "Kathgula Bazar, Jail Road, Mymensingh Sadar, Mymensingh",
+                "longitude": 90.39547,
+                "latitude": 24.655151
+            },
+            "contact": "+8801643163195",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS(RpMCH)",
+        "PGT (Oral & Maxillofacial Surgery)",
+        "Advanced Trained in Aesthetic Dentistry, Endodontics & Fixed Prosthesis"
+    ],
+    "designation": "Chief Consultant Surgeon, Dental Surgery",
+    "name": "Dr. Mohiuddin Ahmed Kajol",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mohiuddin-ahmed-kajol.jpg"
+}

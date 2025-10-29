@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Mirpur",
+            "address": {
+                "name": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+                "longitude": 90.36164,
+                "latitude": 23.8244224
+            },
+            "contact": "+8801847262996",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPC (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Sharmin Afroze",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Labaid Specialized Hospital, Dhanmondi",
+    "image": "image/dr-sharmin-afroze.jpg"
+}

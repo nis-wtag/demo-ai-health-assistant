@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "BIHS General Hospital",
+            "address": {
+                "name": "125/1 Darus Salam, Mirpur 1, Dhaka - 1216",
+                "longitude": 90.353668,
+                "latitude": 23.798285
+            },
+            "contact": "+8801740427276",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (OBGYN)",
+        "Training (Infertility & Laparoscopic)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Hasna Hossain Akhee",
+    "speciality": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-hasna-hossain-akhee.jpg"
+}

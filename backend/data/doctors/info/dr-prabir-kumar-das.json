@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499600",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "FACC (USA)",
+        "FCSI"
+    ],
+    "designation": "Professor, Cardiology",
+    "name": "Professor (Dr.) Prabir Kumar Das",
+    "speciality": "Heart Disease, Hypertension, Rheumatic Fever & Medicine Specialist",
+    "workplace": "Founder Professor & Former Head, Cardiology Dept, Chittagong Medical College, Secretary General, Chattogram Heart Foundation, President, Bangladesh Hypertension & Heart Failure Foundation",
+    "image": "image/dr-prabir-kumar-das.jpg"
+}

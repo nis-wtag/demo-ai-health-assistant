@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Mymensingh Divisional Specialized Hospital",
+            "address": {
+                "name": "171, Isha Kha Tower, Dhaka Road, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801762124047",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MS (Orthopedics Surgery)",
+        "FCPS (Ortho Surgery)"
+    ],
+    "designation": "Registrar (Orthopedics)",
+    "name": "Dr. Md. Sazzad Hosen (Dipu)",
+    "speciality": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-sazzad-hosen-dipu.jpg"
+}

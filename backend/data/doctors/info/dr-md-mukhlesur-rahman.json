@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.41496999981135,
+                "latitude": 23.76569885
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        },
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4180668,
+                "latitude": 23.7285093
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "FACC (USA)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Md. Mukhlesur Rahman",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-mukhlesur-rahman.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatric Hematology)",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Professor, Pediatric Hematology",
+    "name": "Prof. Dr. Chowdhury Yakub Jamal",
+    "speciality": "Child Blood Diseases & Cancer Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-chowdhury-yakub-jamal.jpg"
+}

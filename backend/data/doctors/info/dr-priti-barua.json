@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Belle Vue Hospital, Chittagong",
+            "address": {
+                "name": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.83005755928912,
+                "latitude": 22.3634534
+            },
+            "contact": "+8801713123100",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "MCPS (Dhaka)",
+        "MSC",
+        "MCH (London)"
+    ],
+    "designation": "Ex. Senior Consultant, Gynecology",
+    "name": "Dr. Priti Barua",
+    "speciality": "Obstetrician, Gynecologist & Surgeon",
+    "workplace": "Memon Maternity Hospital, Chittagong",
+    "image": "image/dr-priti-barua.jpg"
+}

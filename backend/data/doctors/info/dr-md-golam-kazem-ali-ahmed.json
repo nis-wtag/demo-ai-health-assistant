@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Dermatology)",
+        "DDV (BSMMU)"
+    ],
+    "designation": "Assistant Professor, Dermatology",
+    "name": "Dr. Md. Golam Kazem Ali Ahmed",
+    "speciality": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
+    "workplace": "Shah Mokhdum Medical College & Hospital",
+    "image": "image/dr-md-golam-kazem-ali-ahmed.jpg"
+}

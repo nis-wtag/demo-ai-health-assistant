@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Surgery)",
+        "MS (Ortho Surgery)"
+    ],
+    "designation": "Professor & Head, Orthopedics Surgery",
+    "name": "Prof. Dr. Shahidul Islam",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
+    "workplace": "Ad-Din Medical College & Hospital",
+    "image": "image/dr-shahidul-islam.jpg"
+}

@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "SIBL Foundation Hospital & Diagnostic Center",
+            "address": {
+                "name": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8801958339339",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Paediatrics)",
+        "FCPS (Paediatrics)",
+        "FCPS (Paediatric Nephrology)",
+        "IPNA Fellow (Bangalore, India)"
+    ],
+    "designation": "Associate Professor, Paediatric Nephrology Department",
+    "name": "Dr. Tarannum Khondaker",
+    "speciality": "Child & Child Kidney Diseases Specialist",
+    "workplace": "Bangladesh Shishu Hospital & Institute",
+    "image": "image/dr-tarannum-khondaker.jpg"
+}

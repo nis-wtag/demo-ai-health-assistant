@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center & Hospital, Sylhet",
+            "address": {
+                "name": "Subhanighat, Sylhet",
+                "longitude": 91.8779178,
+                "latitude": 24.8917942
+            },
+            "contact": "+8801773035138",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Medicine)",
+        "MRCP (UK)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Registrar, Gastroenterology",
+    "name": "Dr. Md. Nahian Faruque Chowdhury",
+    "speciality": "Gastroenterology, Liver, Pancreas & Medicine Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-nahian-faruque-chowdhury.jpg"
+}

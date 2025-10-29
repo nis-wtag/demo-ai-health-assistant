@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SOMC)",
+        "BCS (Health)",
+        "MD (Nephrology) DMC",
+        "CCD (BIRDEM)",
+        "MACP (Medicine) USA"
+    ],
+    "designation": "Consultant, Nephrology",
+    "name": "Dr. Md. Saiful Ahsan Rana",
+    "speciality": "Kidney Medicine, Diabetes, Hypertension, Dialysis Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-md-saiful-ahsan-rana.jpg"
+}

@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "La Aesthetica (Dental, Maxillofacial Care & Implant Center)",
+            "address": {
+                "name": "12/1 (Babel Corporation Building), Monipuripara, 4no Gate, Sangsad Avenue, Dhaka",
+                "longitude": 90.3750063,
+                "latitude": 23.760883
+            },
+            "contact": "+8801612999192",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "MS (OMFS)",
+        "FCPS (FINAL)",
+        "EX-BCS (HEALTH)",
+        "Certified in Dental Medicine (Pennsylvania, USA)",
+        "Certified in Implant Dentistry (Hong Kong University)"
+    ],
+    "designation": "Assistant Professor (OMFS)",
+    "name": "Dr. Mahmudul Hasan Mithun",
+    "speciality": "Oral, Maxillofacial, Head Neck Trauma & Oral Onco-Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-mahmudul-hasan-mithun.jpg"
+}

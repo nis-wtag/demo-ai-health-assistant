@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Arthroplasty Bangladesh",
+            "address": {
+                "name": "House # 01 & 03, Road # 04, Dhanmondi, Dhaka",
+                "longitude": 90.422801,
+                "latitude": 23.710957
+            },
+            "contact": "+8801970786970",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho)",
+        "AO Fellow (Germany)",
+        "Hand Reconstruction (Madras)",
+        "Trained in Hip & Knee Surgery (Bombay)"
+    ],
+    "designation": "Chief Consultant & Head, Ortho Surgery",
+    "name": "Prof. Dr. M. Amjad Hossain",
+    "speciality": "Orthopedics, Arthroscopic and Knee Surgeon",
+    "workplace": "Labaid Specialized Hospital, Dhanmondi",
+    "image": "image/prof-dr-m-amjad-hossain.jpg"
+}

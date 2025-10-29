@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Mirpur General Hospital & Diagnostic Center",
+            "address": {
+                "name": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+                "longitude": 90.401863,
+                "latitude": 23.85907
+            },
+            "contact": "+8801610964966",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DGO (BSMMU)",
+        "MRCOG (Part 2 - London)",
+        "FCPS (Part 2)"
+    ],
+    "designation": "Consultant (Gyne & Obs)",
+    "name": "Dr. Sahara Arabi",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-sahara-arabi.jpg"
+}

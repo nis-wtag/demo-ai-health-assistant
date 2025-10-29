@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gimcon Tower, 255, New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "01727-041923",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Orthopedic Surgery, NITOR)",
+        "Trained in Orthopedics (Japan)"
+    ],
+    "designation": "Assistant Professor, Department of Orthopedic Surgery",
+    "name": "Dr. Md. Nazmul Huda",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Spine, Arthroscopy, Arthroplasty) Specialist & Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-md-nazmul-huda-neurology.jpg"
+}

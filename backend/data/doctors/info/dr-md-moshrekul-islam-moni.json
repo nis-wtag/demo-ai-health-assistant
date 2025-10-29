@@ -1,0 +1,63 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": "+8801796586561",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "D-Ortho (BSMMU)",
+        "FCPS (Ortho)",
+        "MRCS (UK)"
+    ],
+    "designation": "Junior Consultant, Surgery",
+    "name": "Dr. Md. Mosrekul Islam Moni",
+    "speciality": "General, Colorectal, Breast & Orthopedic Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-moshrekul-islam-moni.jpg"
+}

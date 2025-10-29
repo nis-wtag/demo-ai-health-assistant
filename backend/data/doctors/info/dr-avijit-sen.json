@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Avi’s DENTAL HOME",
+            "address": {
+                "name": "109, Z.M Tower (1st Floor), Kazem Ali Road, West Side of Master-Pool, Ghatfarhadbag, Anderkilla, Chittagong",
+                "longitude": 40.25918,
+                "latitude": 40.94055
+            },
+            "contact": "+8801521225317",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (Chittagong Medical College Hospital)"
+    ],
+    "designation": "Medical Officer",
+    "name": "Dr. Avijit Sen",
+    "speciality": "Oral and Dental Surgeon",
+    "workplace": "Bangladesh Navy Shaheed Moazzem Hospital",
+    "image": "image/dr-avijit-sen.jpg"
+}

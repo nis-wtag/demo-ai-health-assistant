@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": {
+                "name": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+                "longitude": 90.3670992,
+                "latitude": 23.7520204
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH (NIPSOM)",
+        "MD (Oncology)",
+        "BCCPM (Kerala)"
+    ],
+    "designation": "Associate Professor, Radiotherapy & Medical Oncology",
+    "name": "Dr. Md. Abdul Ahsan Didar",
+    "speciality": "Cancer & Palliative Care Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-md-abdul-ahsan-didar.jpg"
+}

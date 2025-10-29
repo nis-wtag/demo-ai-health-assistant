@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Lab Diagnostic & Consultation Center",
+            "address": {
+                "name": "46, Babu Khan Road, West Side of Pioneer College, Khulna",
+                "longitude": 40.25918,
+                "latitude": 40.94055
+            },
+            "contact": "+8801973127423",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BHS",
+        "PGT (ENT)"
+    ],
+    "designation": "Assistant Registrar (Ex), ENT",
+    "name": "Dr. Khan Omor Faruk",
+    "speciality": "Ear, Nose, Throat Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-khan-omor-faruk.jpg"
+}

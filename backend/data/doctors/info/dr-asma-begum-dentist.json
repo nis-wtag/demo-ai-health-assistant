@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Decent specialized Dental Care, Khulna",
+            "address": "20, Wahab Avenue (East Side of Iqbal Nagar Girls School), Khulna",
+            "contact": "+8801913103828",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "BCS (Health)",
+        "DDS (Dentistry)",
+        "FICD (USA)",
+        "Fellow: OSSTEM Implant (South Korea)",
+        "Advanced Training on Cosmetic Dentistry (MICD)",
+        "Advanced Training on IAT Implants (Japan)",
+        "Advanced Training on Laser and IAT Implants (Japan)"
+    ],
+    "designation": "Associate Professor & Head (Dental)",
+    "name": "Dr. Asma Begum",
+    "speciality": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-asma-begum-dentist.jpg"
+}

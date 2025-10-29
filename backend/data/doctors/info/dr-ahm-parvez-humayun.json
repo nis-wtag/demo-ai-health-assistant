@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)",
+        "MS (ENT)"
+    ],
+    "designation": "Assistant Professor, ENT",
+    "name": "Dr. Abu Hena Mohammad Parvez Humayun",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+    "image": "image/dr-ahm-parvez-humayun.jpg"
+}

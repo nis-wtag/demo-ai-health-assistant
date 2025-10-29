@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Amana Hospital, Rajshahi",
+            "address": "Room 105, Jhautala More, Laxmipur, Rajpara, Rajshahi",
+            "contact": "+8801728404313",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (HEALTH)",
+        "MD (PAEDIATRICS)"
+    ],
+    "designation": "Junior Consultant, Pediatrics",
+    "name": "Dr. Bidhan Kumar Pramanik",
+    "speciality": "Neonate & Child Specialist",
+    "workplace": "Durgapur Upazila Health Complex, Rajshahi",
+    "image": "image/dr-bidhan-kumar-pramanik.jpg"
+}

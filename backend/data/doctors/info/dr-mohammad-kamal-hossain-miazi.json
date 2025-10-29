@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Comilla Trauma Center",
+            "address": {
+                "name": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+                "longitude": 90.39641,
+                "latitude": 23.729869
+            },
+            "contact": "+8801735274020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Dermatology)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Mohammad Kamal Hossain Miazi",
+    "speciality": "Dermatologist, Sexologist & Dermatosurgeon",
+    "workplace": "Comilla Trauma Center",
+    "image": "image/dr-mohammad-kamal-hossain-miazi.jpg"
+}

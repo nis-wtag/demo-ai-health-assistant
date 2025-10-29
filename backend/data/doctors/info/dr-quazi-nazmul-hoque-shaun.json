@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Diagnostic Center, Kushtia",
+            "address": "Sono Tower, College Mor, Court Para, Kushtia",
+            "contact": "+8801786359977",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Resident Physician, Internal Medicine",
+    "name": "Dr. Quazi Nazmul Hoque (Shaun)",
+    "speciality": "Medicine Specialist",
+    "workplace": "250 Bedded General Hospital, Kushtia",
+    "image": "image/dr-quazi-nazmul-hoque-shaun.jpg"
+}

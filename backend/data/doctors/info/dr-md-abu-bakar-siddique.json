@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Diagnostic Center, Kushtia",
+            "address": {
+                "name": "Sono Tower, College Mor, Court Para, Kushtia",
+                "longitude": 145.121893,
+                "latitude": -37.782304
+            },
+            "contact": "+8801711352859",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "FCPS (CHILD)"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Md. Abu Bakar Siddique",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-md-abu-bakar-siddique.jpg"
+}

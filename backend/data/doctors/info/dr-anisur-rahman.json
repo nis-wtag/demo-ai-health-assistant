@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DIH",
+        "DEM",
+        "FACE"
+    ],
+    "designation": "Former Consultant, Endocrinology & Metabolism",
+    "name": "Dr. Anisur Rahman",
+    "speciality": "Diabetes & Hormone Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-anisur-rahman-khan.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD (Chest)",
+        "MPhil",
+        "FCCP (USA)"
+    ],
+    "designation": "Chest & Asthma Specialist",
+    "name": "Dr. ZR Zahid",
+    "speciality": "Chest & Asthma Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-zr-zahid.jpg"
+}

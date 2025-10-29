@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": "10666",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Plastic Surgery)",
+        "Clinical Fellow in Plastic & Reconstructive Surgery (Japan)"
+    ],
+    "designation": "Assistant Professor, Plastic Surgery",
+    "name": "Dr. Zaman Ummay Humayra",
+    "speciality": "Plastic & Reconstructive Surgeon",
+    "workplace": "Japan East West Medical College & Hospital",
+    "image": "image/dr-zaman-ummay-humayra.jpg"
+}

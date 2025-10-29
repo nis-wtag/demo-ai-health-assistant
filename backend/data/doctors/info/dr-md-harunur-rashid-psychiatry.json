@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Monovubon Center, Dhaka",
+            "address": {
+                "name": "2/5, Block - A, Lalmatia (East Side of Water Tank), Dhaka - 1207",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801717843533",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "M.Phil (BSMMU)",
+        "MCPS",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Associate professor, Psychiatry",
+    "name": "Dr. Md. Harunur Rashid",
+    "speciality": "Psychiatry (Mental Diseases, Brain, Mind, Drug Addiction) Specialist",
+    "workplace": "Delta Medical College & Hospital",
+    "image": "image/dr-md-harunur-rashid-psychiatry.jpg"
+}

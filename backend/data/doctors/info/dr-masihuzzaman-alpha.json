@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare Ltd. (East Gate Branch)",
+            "address": {
+                "name": "Room 603, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499700",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Neurology)"
+    ],
+    "designation": "Associate Professor of Neurology",
+    "name": "Dr. Masihuzzaman Alpha",
+    "speciality": "Neurology (Brain, Nerve, Stroke, Headache) & Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-masihuzzaman-alpha.jpg"
+}

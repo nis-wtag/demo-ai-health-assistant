@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedics)",
+        "Fellowship Training (Spine Surgery)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Pravas Chandra Saha",
+    "speciality": "Orthopedic, Trauma & Spine Specialist Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-pravas-chandra-saha.jpg"
+}

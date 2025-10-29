@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Health Care, Pallabi",
+            "address": {
+                "name": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
+                "longitude": 90.3678605,
+                "latitude": 23.810225
+            },
+            "contact": "+8801825002867",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Consultant, Orthopedics",
+    "name": "Dr. Md. Moshiur Rahman",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-moshiur-rahman-ortho.jpg"
+}

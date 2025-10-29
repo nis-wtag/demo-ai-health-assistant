@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": {
+                "name": "Jashimuddin Branch, House # 21, Road # 7, Sector # 4, Uttara, Dhaka",
+                "longitude": 121.019877,
+                "latitude": 14.689568
+            },
+            "contact": "+8801612140140",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedic Surgery)",
+        "Fellow - ILIZAROV Surgery (Mumbai)",
+        "AO Spine Principle Course",
+        "AO Trauma (India)"
+    ],
+    "designation": "Associate Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Sariful Hasan",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "East West Medical College & Hospital",
+    "image": "image/dr-md-sariful-hasan.jpg"
+}

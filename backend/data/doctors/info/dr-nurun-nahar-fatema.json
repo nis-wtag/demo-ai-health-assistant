@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "FRCP",
+        "FACC",
+        "FSCAI"
+    ],
+    "designation": "Professor & Head, Pediatric Cardiology",
+    "name": "Brig. Gen. Prof. Dr. Nurunnahar Fatema Begum",
+    "speciality": "Child Heart Diseases Specialist & Interventional Pediatric Cardiologist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/dr-nurun-nahar-fatema.jpg"
+}

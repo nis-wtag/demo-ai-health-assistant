@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil",
+        "FCPS",
+        "Medical Oncology Fellow (NCC, Singapore)"
+    ],
+    "designation": "Professor & Head, Oncology",
+    "name": "Prof. Dr. Zafor Md. Masud",
+    "speciality": "Cancer Specialist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-zafor-md-masud.jpg"
+}

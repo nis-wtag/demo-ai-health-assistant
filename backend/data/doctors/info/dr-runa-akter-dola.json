@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "FCPS (Feto-Maternal Medicine)"
+    ],
+    "designation": "Assistant Professor, Feto-Maternal Medicine",
+    "name": "Dr. Runa Akter Dola",
+    "speciality": "Gynecology, Obstetrics, High Risk Pregnancy Specialist & Surgeon",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-runa-akter-dola.jpg"
+}

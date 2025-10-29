@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Infertility Care & Research Center (ICRC)",
+            "address": {
+                "name": "5/13 Humayun Road, Block # B, Mohammadpur, Dhaka",
+                "longitude": 90.3673537,
+                "latitude": 23.7681518
+            },
+            "contact": "+8801717497868",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Obs & Gynae)",
+        "Trained in ART"
+    ],
+    "designation": "Consultantt, Infertility",
+    "name": "Dr. Pushpita Sharmin",
+    "speciality": "Gynecology, Infertility & IVF Specialist",
+    "workplace": "Infertility Care & Research Centre (ICRC)",
+    "image": "image/dr-pushpita-sharmin.jpg"
+}

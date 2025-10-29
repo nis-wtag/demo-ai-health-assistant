@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MSc (Tropical & Infectious Diseases)"
+    ],
+    "designation": "Registrar, Medicine",
+    "name": "Dr. Forhad Uddin Hasan Chowdhury",
+    "speciality": "Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-forhad-uddin-hasan-chowdhury.jpg"
+}

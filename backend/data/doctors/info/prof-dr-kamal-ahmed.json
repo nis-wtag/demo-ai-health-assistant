@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Oasis Hospital, Sylhet",
+            "address": {
+                "name": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801701266679",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Neurology)"
+    ],
+    "designation": "Professor, Neurology",
+    "name": "Prof. Dr. Kamal Ahmed",
+    "speciality": "Neurology (Brain, Nerve, Spine, Headache) & Medicine Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-kamal-ahmed.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801925466419",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Associate Professor, Child, Adolescent & Family Psychiatry",
+    "name": "Dr. Helal Uddin Ahmed",
+    "speciality": "Psychiatry (Mental Diseases, Autism, Brain Disorder, Drug Addiction) Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/dr-helal-uddin-ahmed.jpg"
+}

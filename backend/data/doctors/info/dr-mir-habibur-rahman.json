@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Habib Dental",
+            "address": {
+                "name": "CPDL Majesta (Above EBL Bank), 84 Jamal Khan Road, Chittagong",
+                "longitude": 91.83413,
+                "latitude": 22.345906
+            },
+            "contact": "+8802333365839 (after 4pm) 01319046299",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BSc",
+        "BDS (Dhaka)",
+        "FICD"
+    ],
+    "designation": "Former Head, Dental & Maxillofacial Surgery",
+    "name": "Dr. Mir Habibur Rahman",
+    "speciality": "Oral & Dental Surgeon with Special Interest on Third Molar Surgery, Root Canal Treatment",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mir-habibur-rahman.jpg"
+}

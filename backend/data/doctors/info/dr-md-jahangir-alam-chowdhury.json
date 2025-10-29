@@ -1,0 +1,132 @@
+{
+    "chambers": [
+        {
+            "place": "National Hospital, Chittagong",
+            "address": {
+                "name": "14/15, Dampara Lane, Mehedibag, Chattogram",
+                "longitude": -73.786337,
+                "latitude": 40.785865
+            },
+            "contact": "+8801822685066",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Shahjalal Diagnostic Clinic, Chittagong",
+            "address": {
+                "name": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+                "longitude": 91.811781,
+                "latitude": 22.324526
+            },
+            "contact": "+8801842508851",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "15:30"
+                }
+            ]
+        },
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801835203547",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Associate Professor & Head, Physical Medicine & Rehabilitation",
+    "name": "Dr. Md. Jahangir Alam Chowdhury",
+    "speciality": "Arthritis, Pain, Paralysis, Physical Medicine Rehabilitation Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-md-jahangir-alam-chowdhury.jpg"
+}

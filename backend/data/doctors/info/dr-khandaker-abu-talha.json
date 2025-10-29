@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Al Haramain Hospital, Sylhet",
+            "address": {
+                "name": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801931225555",
+            "visiting_hours": null
+        },
+        {
+            "place": "Mount Adora Hospital, Nayasarak, Sylhet",
+            "address": {
+                "name": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet – 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801575127225",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Surgery)",
+        "MPH",
+        "MS (Neurosurgery)",
+        "DCR (Canada)",
+        "Fellowship (Japan)"
+    ],
+    "designation": "Associate Professor & Head, Neurosurgery",
+    "name": "Dr. Khandaker Abu Talha",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine, Stroke Surgery) Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-khandaker-abu-talha.jpg"
+}

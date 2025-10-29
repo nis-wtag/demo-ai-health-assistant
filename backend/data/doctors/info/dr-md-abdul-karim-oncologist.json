@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rajshahi",
+            "address": {
+                "name": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": "+8801766661144",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Oncology)"
+    ],
+    "designation": "Consultant, Oncology",
+    "name": "Dr. Md. Abdul Karim",
+    "speciality": "Cancer Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-abdul-karim-oncologist.jpg"
+}

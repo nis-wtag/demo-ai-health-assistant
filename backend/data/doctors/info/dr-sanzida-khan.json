@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Sporsho Dental Care, Mirpur",
+            "address": {
+                "name": "1st Floor, Ramzannesa Super Market (Metro Rail Pillar 165), Mirpur 12, Dhaka",
+                "longitude": 90.3706719356546,
+                "latitude": 23.825104349999997
+            },
+            "contact": "+8801676347526",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Conservative Dentistry & Endodontics)",
+        "PGT (Oral & Maxillofacial Surgery)",
+        "Trained in Aesthetic Dentistry & Orthodontics"
+    ],
+    "designation": "Dental Consultant & Surgeon",
+    "name": "Dr. Sanzida Khan",
+    "speciality": "Oral Surgery, Root canal, Conservative, Orthodontics, Pediatric Dentistry",
+    "workplace": "Sporsho Dental Care, Mirpur",
+    "image": "image/dr-sanzida-khan.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": {
+                "name": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
+                "longitude": 91.7915352,
+                "latitude": 22.3025908
+            },
+            "contact": "+8801882534499",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801814651077",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Farhanaz Mabud Silvi",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-farhanaz-mabud-silvi.jpg"
+}

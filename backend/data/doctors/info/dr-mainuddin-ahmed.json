@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Fatema Hemato-oncology Center, Rajshahi",
+            "address": {
+                "name": "Nikunja Bhaban, 18, Greater Road, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": "+8801725017088",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Clinical Pathology)",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Head of the Dept.",
+    "name": "Dr. Mainuddin Ahmed",
+    "speciality": "Blood Disorder & Blood Cancer Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-mainuddin-ahmed.jpg"
+}

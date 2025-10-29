@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Associate Professor, Plastic Surgery",
+    "name": "Dr. Munny Momotaz",
+    "speciality": "General, Breast, Plastic, Reconstructive & Cosmetic Surgery Specialist",
+    "workplace": "Tairunnessa Memorial Medical College & Hospital",
+    "image": "image/dr-munny-momotaz.jpg"
+}

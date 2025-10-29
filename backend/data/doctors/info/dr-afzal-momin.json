@@ -1,0 +1,86 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801558220134",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MD (Neurology)"
+    ],
+    "designation": "Associate Professor, Neurology Department",
+    "name": "Dr. Afzal Momin",
+    "speciality": "Neurology (Brain, Stroke, Nerve, Migraine, Headache) Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-afzal-momin.jpg"
+}

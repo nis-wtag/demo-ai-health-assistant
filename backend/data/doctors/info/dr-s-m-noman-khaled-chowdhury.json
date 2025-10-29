@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Chittagong",
+            "address": {
+                "name": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801755666969",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Professor & Head, Neurosurgery",
+    "name": "Prof. Dr. S.M. Noman Khaled Chowdhury",
+    "speciality": "Neurosurgery (Brain, Spine, Nerve Surgery) Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-s-m-noman-khaled-chowdhury.jpg"
+}

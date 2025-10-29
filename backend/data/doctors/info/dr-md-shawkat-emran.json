@@ -1,0 +1,168 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "Room - 317, Katalganj Road, Panchlaish, Chittagong",
+                "longitude": 91.836646,
+                "latitude": 22.361152
+            },
+            "contact": "+8801716384419",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Chattogram Metropolitan Diagnostic Centre",
+            "address": {
+                "name": "Room – 415, Forum Central, Gol Pahar Mor, Chittagong",
+                "longitude": 91.8336874,
+                "latitude": 22.3436969
+            },
+            "contact": "+8801602839032",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Chatori Pharmacy, Anowara",
+            "address": {
+                "name": "Chatori, Chowmuhuni Bazar, Anowara, Chittagong",
+                "longitude": 90.668835,
+                "latitude": 23.078867
+            },
+            "contact": "+8801879173182",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Keranihat Ma-Shishu General Hospital",
+            "address": {
+                "name": "Keranihat, Satkania, Chittagong – 4386",
+                "longitude": 92.0576236,
+                "latitude": 22.074247
+            },
+            "contact": "+8801709618282",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology)"
+    ],
+    "designation": "Consultant, Neurology Department",
+    "name": "Dr. Md. Shawkat Emran",
+    "speciality": "Neurology (Brain, Stroke, Headache, Epilepsy, Migraine, Neck & Back Pain) Specialist",
+    "workplace": "Parkview Hospital, Chittagong",
+    "image": "image/dr-md-shawkat-emran.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Comilla",
+            "address": {
+                "name": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+                "longitude": 139.256238,
+                "latitude": -35.132366
+            },
+            "contact": "+8801841212275",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Consultant, Hepatology",
+    "name": "Dr. Md. Kamrul Millat",
+    "speciality": "Liver Diseases Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-kamrul-millat.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801735603075",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS"
+    ],
+    "designation": "Assistant Professor, Dental Surgery",
+    "name": "Dr. Tasnim Ahmed",
+    "speciality": "Dentist & Oral Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-tasnim-ahmed.jpg"
+}

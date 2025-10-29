@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sanjoy Kumer Das's Chamber",
+            "address": {
+                "name": "Batar Goli, Sadar Road, Barisal Sadar, Barisal - 8200",
+                "longitude": 90.3697409,
+                "latitude": 22.6993305
+            },
+            "contact": "+8801922709140",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "One Digital Diagnostic Center",
+            "address": {
+                "name": "A.Rob Market, Haspatal Road, Char Fasson, Bhola",
+                "longitude": 90.64403,
+                "latitude": 22.68759
+            },
+            "contact": "+8801747848292",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:30",
+                    "end_time": "15:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "DLO (BSMMU)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. Sanjoy Kumer Das",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-sanjoy-kumer-das.jpg"
+}

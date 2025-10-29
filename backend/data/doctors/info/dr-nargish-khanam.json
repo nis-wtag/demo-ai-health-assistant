@@ -1,0 +1,115 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Dolfin Hospital & Infertility Center",
+            "address": {
+                "name": "Kathpotti, Kamrangirchar, Dhaka – 1211",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801761510710",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Islami Hospital & Diagnostic Center, Bogura",
+            "address": {
+                "name": "Mofiz Paglar Mor, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8801936005870",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "FCPS Thesis (Infertility)",
+        "CPD (UK)",
+        "DMU (USG)"
+    ],
+    "designation": "Consultant, Infertility",
+    "name": "Dr. Nargish Khanam",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-nargish-khanam.jpg"
+}

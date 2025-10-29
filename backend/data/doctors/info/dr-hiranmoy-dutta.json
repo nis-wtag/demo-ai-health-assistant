@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Treatment Health Care, Chittagong",
+            "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+            "contact": "+8801323337344",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Chittagong",
+            "address": {
+                "name": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8801861294265",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS",
+        "FCPS (Medicine)",
+        "MRCP (UK)",
+        "MACP (USA)",
+        "Post Fellowship Advanced Training in Diagnostic & Therapeutic Gastro-Endoscopy"
+    ],
+    "designation": "Assistant Professor of Medicine",
+    "name": "Dr. Hiranmoy Dutta",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-hiranmoy-dutta.jpg"
+}

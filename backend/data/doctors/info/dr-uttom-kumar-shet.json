@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "The Dental Excellence",
+            "address": {
+                "name": "ABC Northridge,  House # 51, Road # 15, Rabindra Sarani, Sector # 3, Uttara, Dhaka",
+                "longitude": 103.84352526412056,
+                "latitude": 1.2888863000000002
+            },
+            "contact": "+8801960932832",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "PhD (South Korea)",
+        "MSD (South Korea)",
+        "BDS (Dhaka Dental College)",
+        "Special training on Implant (USA)"
+    ],
+    "designation": "Assistant Professor, Oral and Maxillofacial Surgery Department",
+    "name": "Dr. Uttom Kumar Shet",
+    "speciality": "Dental Implant Specialist and Course Director (Osstem Implant), Maxillofacial Surgery",
+    "workplace": "Sapporo Dental College & Hospital, Uttara",
+    "image": "image/dr-uttom-kumar-shet.jpg"
+}

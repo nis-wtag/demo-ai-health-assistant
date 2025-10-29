@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Hikmah Eye Hospital, Khilgaon",
+            "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
+            "contact": "+8801730767333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS (EYE)",
+        "FCPS (EYE)",
+        "Long Term Fellow in Glaucoma (NIOH)",
+        "Obsen Fellow in Glaucoma (AEH, India)"
+    ],
+    "designation": "Assistant Professor, Glaucoma",
+    "name": "Dr. S M Rejwan Raju",
+    "speciality": "Eye (Glaucoma) Specialist & Phaco surgeon",
+    "workplace": "Lions Eye Institute & Hospital",
+    "image": "image/dr-s-m-rejwan-raju.jpg"
+}

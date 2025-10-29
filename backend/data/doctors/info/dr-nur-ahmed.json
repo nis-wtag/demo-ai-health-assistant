@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Gomati Hospital, Comilla",
+            "address": "Nazrul Avenue, Kandirpar, Cumilla (Opposite to Farida Bidyayatan School)",
+            "contact": "+8801303339681",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "11:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DLO (CMH)",
+        "MCPS"
+    ],
+    "designation": "Registrar, Department of Otolaryngology & Head Neck Surgery",
+    "name": "Dr. Nur Ahmed",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/dr-nur-ahmed.jpg"
+}

@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Barisal",
+            "address": {
+                "name": "K Jahan Center, House # 106, Sadar Road, Barisal",
+                "longitude": 90.3466219,
+                "latitude": 22.3629664
+            },
+            "contact": "+8801766663305",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MCPS (OBGYN)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Former Associate Professor, Gynecology & Obstetrics",
+    "name": "Dr. Shahida Begum Minu",
+    "speciality": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Khwaja Yunus Ali Medical College & Hospital",
+    "image": "image/dr-shahida-begum-minu.jpg"
+}

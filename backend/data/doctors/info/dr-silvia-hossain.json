@@ -1,0 +1,78 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "10664",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Square Hospital Ltd, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "DGO",
+        "FCPS (Gynae & Obst)",
+        "FCPS( Gynecological Oncology)",
+        "Hands on Training in Gynecological Oncology (Tata, India) & Observership Training ( Boston, USA)"
+    ],
+    "designation": "",
+    "name": "Dr. Silvia Hossain",
+    "speciality": "Gynae, Gynaecological Oncologist & Laparoscopic surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-silvia-hossain.jpg"
+}

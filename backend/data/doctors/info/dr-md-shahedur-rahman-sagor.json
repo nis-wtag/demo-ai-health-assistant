@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Lab One Diagnostic & Consultation Center",
+            "address": {
+                "name": "293, Khan Jahan Ali Road, Royal More, Khulna – 9100",
+                "longitude": 89.5611935,
+                "latitude": 22.812203
+            },
+            "contact": "+8801743-407324",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-Ortho (NITOR)"
+    ],
+    "designation": "Registrar, Orthopedics",
+    "name": "Dr. Md. Shahedur Rahman Sagor",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-md-shahedur-rahman-sagor.jpg"
+}

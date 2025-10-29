@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ankur Diagnostic & Health Care",
+            "address": {
+                "name": "B/11, Majid Soroni, Molla Barir Mor, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801757992244",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Medicine)",
+        "Phase-A"
+    ],
+    "designation": "Assistant Registrar, Medicine",
+    "name": "Dr. Dip Kumar Dash",
+    "speciality": "Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-dip-kumar-dash.jpg"
+}

@@ -1,0 +1,112 @@
+{
+    "chambers": [
+        {
+            "place": "Insaf Barakah Kidney & General Hospital",
+            "address": {
+                "name": "Room 326, Bhaban 02, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+                "longitude": 90.4105097,
+                "latitude": 23.7539635
+            },
+            "contact": "+8801717672805",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Savar",
+            "address": {
+                "name": "Room 604, Jaleshwar, Aricha Road, Savar, Dhaka – 1340",
+                "longitude": 90.26667,
+                "latitude": 23.85
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Noakhali",
+            "address": {
+                "name": "Room 504, New Bus Stand (Near Shaheed Bhulu Stadium), Maijdee Court, Noakhali",
+                "longitude": 91.101048,
+                "latitude": 22.884555
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hematology)"
+    ],
+    "designation": "Consultant (Hematology)",
+    "name": "Dr. Md. Arif Ur Rahman",
+    "speciality": "Hemato-Oncologist/Blood Diseases, Blood Cancer Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-arif-ur-rahman.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Siyam Dental Surgery, Sylhet",
+            "address": {
+                "name": "H S Tower, East Dorgah Gate, Sylhet (Besides Noorjahan Hospital)",
+                "longitude": 91.86813,
+                "latitude": 24.902134
+            },
+            "contact": "+8801753040748",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (health)",
+        "MSc (London)"
+    ],
+    "designation": "Assistant professor (Dentistry)",
+    "name": "Dr. Md. Nurul Amin Miah",
+    "speciality": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-nurul-amin-miah.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801716773795",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)",
+        "FIMS (India)",
+        "Diploma in Lateral Skull Base & Post Doctoral Fellowship, Skull Base & Vascular Neurosurgery (India)"
+    ],
+    "designation": "Professor, Skull Base & Vascular Neurosurgery",
+    "name": "Prof. Dr. Dhiman Chowdhury",
+    "speciality": "Brain, Spine Specialist & Neurosurgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-dhiman-chowdhury.jpg"
+}

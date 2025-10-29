@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shin Shin Japan Hospital, Uttara",
+            "address": {
+                "name": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801929478565",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Pediatric)",
+        "PhD"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Nargis Rahman",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-nargis-rahman.jpg"
+}

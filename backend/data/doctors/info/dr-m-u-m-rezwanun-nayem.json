@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Shefa Homeo Pharmacy & Doctor's Chamber",
+            "address": {
+                "name": "Shop: 147, Level: 1, Shyamoli Square, Shyamoli, Dhaka",
+                "longitude": 90.366906,
+                "latitude": 23.775493
+            },
+            "contact": "+8801914383878",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Azima Manjil",
+            "address": {
+                "name": "Motipur Municipality Area, Sonapur, Noakhali",
+                "longitude": 50.455601,
+                "latitude": 26.21195
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "MS (Microbiology)",
+        "MPhil (In course Microbiology, JnU)",
+        "CMI (Infertility)",
+        "CMU (Ultrasonography)",
+        "CMDT (Medical Diagnostic Tools)",
+        "Introductory Course in Palliative Care (BSMMU)"
+    ],
+    "designation": "Private Practitioner",
+    "name": "Dr. M.U.M. Rezwanun Nayem",
+    "speciality": "Homeopathic Medicine Specialist",
+    "workplace": "Shefa Homeo Pharmacy and Doctor's Chamber",
+    "image": "image/dr-m-u-m-rezwanun-nayem.jpg"
+}

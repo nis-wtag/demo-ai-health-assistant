@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Lakecity Medical Limited",
+            "address": {
+                "name": "Kha- 48/A, Bot Tala, Sardar Market, Khilkhet, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801910020092",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)"
+    ],
+    "designation": "Assistant Professor, Neurology",
+    "name": "Dr. Snigdha Sarker (Chini)",
+    "speciality": "Neurology (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
+    "workplace": "International Medical College & Hospital, Gazipur",
+    "image": "image/dr-snigdha-sarker-chini.jpg"
+}

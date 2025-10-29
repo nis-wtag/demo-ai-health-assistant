@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Lab, Chittagong",
+            "address": {
+                "name": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801940876810",
+            "visiting_hours": null
+        },
+        {
+            "place": "Shajinaz Hospital Ltd.",
+            "address": {
+                "name": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+                "longitude": 91.79968016367557,
+                "latitude": 22.38510865
+            },
+            "contact": "+8801886-338811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Surgery)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Prabir Chowdhury",
+    "speciality": "General & Pediatric Surgeon",
+    "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+    "image": "image/dr-prabir-chowdhury.jpg"
+}

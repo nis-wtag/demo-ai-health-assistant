@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Manar Hospital Limited",
+            "address": {
+                "name": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801550020885",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MCPS",
+        "MS (Surgery)",
+        "MS (Plastic Surgery)",
+        "MRCS (UK)"
+    ],
+    "designation": "Associate Professor & Head, Burn, Plastic & Reconstructive Surgery",
+    "name": "Dr. Ahmad Seraji",
+    "speciality": "General, Plastic & Reconstructive Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-ahmad-seraji.jpg"
+}

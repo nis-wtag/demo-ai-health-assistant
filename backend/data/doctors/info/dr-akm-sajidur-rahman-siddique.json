@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": "+8801796586561",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "MPhil (Endocrinology)"
+    ],
+    "designation": "Professor & Head, Cardiology",
+    "name": "Prof. Dr. AKM Sajidur Rahman Siddique",
+    "speciality": "Cardiology, Medicine, Diabetes & Rheumatic Fever Specialist",
+    "workplace": "Shahid Syed Nazrul Islam Medical College & Hospital",
+    "image": "image/dr-akm-sajidur-rahman-siddique.jpg"
+}

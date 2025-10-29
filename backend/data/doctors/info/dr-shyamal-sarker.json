@@ -1,0 +1,73 @@
+{
+    "chambers": [
+        {
+            "place": "Global Specialized Hospital, Mirpur",
+            "address": {
+                "name": "Almas Tower, 282/1, First Kolony, Mazar Road, Mirpur, Dhaka",
+                "longitude": 90.3485571,
+                "latitude": 23.7918058
+            },
+            "contact": "+8801715818883",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "BCS (Health)",
+        "FCPS (Pediatric Neurology & Development)",
+        "PGPN (Boston, USA)"
+    ],
+    "designation": "Ex. Assistant Professor, Department of Child Neurology",
+    "name": "Dr. Shyamal Sarker",
+    "speciality": "Child Neurologist & Child Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-shyamal-sarker.jpg"
+}

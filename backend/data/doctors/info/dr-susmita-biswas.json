@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Pediatric Nephrology)"
+    ],
+    "designation": "Assistant Professor, Pediatric Nephrology",
+    "name": "Dr. Susmita Biswas",
+    "speciality": "Child Kidney Diseases, Dialysis, Transplant & Biopsy Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-susmita-biswas.jpg"
+}

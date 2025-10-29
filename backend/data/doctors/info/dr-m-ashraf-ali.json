@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Medicare Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "Nasir Garden, 282, Khan Jahan Ali Road, Mouloviparar Mor, Khulna",
+                "longitude": 89.5611935,
+                "latitude": 22.812203
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FRSH (LONDON)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Ex-Diabetologist",
+    "name": "Dr. M. Ashraf Ali",
+    "speciality": "Diabetes Specialist, Experience in Medicine",
+    "workplace": "Comilla & Khulna Diabetic Hospital",
+    "image": "image/dr-m-ashraf-ali.jpg"
+}

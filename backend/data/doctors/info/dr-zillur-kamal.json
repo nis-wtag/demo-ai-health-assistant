@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8801971819537",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801717417855",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPM",
+        "MSc (Psychology)",
+        "STOP (NIMHANS, India)"
+    ],
+    "designation": "Former Assistant Professor of Forensic Psychiatry",
+    "name": "Dr. Zillur Kamal",
+    "speciality": "Psychiatry and Sexual Health Specialist",
+    "workplace": "National Institute of Mental Health & Hospital, Dhaka",
+    "image": "image/dr-zillur-kamal.jpg"
+}

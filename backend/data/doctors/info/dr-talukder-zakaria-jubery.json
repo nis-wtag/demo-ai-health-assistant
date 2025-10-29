@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Rushmono Specialized Hospital",
+            "address": {
+                "name": "209, Outer Circular Road, Moghbazar, Dhaka - 1217",
+                "longitude": 90.4174394,
+                "latitude": 23.7421454
+            },
+            "contact": "+880248312358",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Plastic & Reconstructive Surgery)",
+        "Clinical Fellowship Plastic Surgery (Japan)"
+    ],
+    "designation": "Assistant Professor, Plastic Surgery",
+    "name": "Dr. Talukder Zakaria Jubery",
+    "speciality": "Burn, Plastic, Cosmetic & Reconstructive Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-talukder-zakaria-jubery.jpg"
+}

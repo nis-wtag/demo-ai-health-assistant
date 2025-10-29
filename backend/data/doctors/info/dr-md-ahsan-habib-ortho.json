@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Consultation Center, Kushtia",
+            "address": {
+                "name": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+                "longitude": 89.1295536,
+                "latitude": 23.8987955
+            },
+            "contact": "+8801770997352",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Assistant Professor, Orthopedics",
+    "name": "Dr. Md. Ahsan Habib",
+    "speciality": "Spine, Orthopedic & Trauma Specialist Surgeon",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-md-ahsan-habib-ortho.jpg"
+}

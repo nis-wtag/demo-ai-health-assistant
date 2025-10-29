@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Women's and Children's General Hospital",
+            "address": {
+                "name": "House-48/6, Road-9/A, Satmasjid Road, Dhanmondi R/A, Dhaka",
+                "longitude": 90.366289,
+                "latitude": 23.754459
+            },
+            "contact": "+880258151058",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD"
+    ],
+    "designation": "Consultant Gynecologist",
+    "name": "Dr. Zakiur Rahman",
+    "speciality": "Gynecologist, Infertility & IVF Specialist",
+    "workplace": "Women's and Children's General Hospital",
+    "image": "image/dr-zakiur-rahman.jpg"
+}

@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Unit 2, House # 05, Road # 2, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.35647823308156,
+                "latitude": 23.8061681
+            },
+            "contact": "+8801407062502",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Surgery)",
+        "FACS",
+        "FICS (USA)",
+        "Member (ASCRS)",
+        "Fellow (ISUCRS)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Md. Nazmul Hoque Masum",
+    "speciality": "General & Colorectal Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-nazmul-hoque-masum.jpg"
+}

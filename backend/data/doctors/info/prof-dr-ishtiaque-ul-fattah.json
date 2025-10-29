@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Queen's Hospital, Sylhet",
+            "address": {
+                "name": "Subid Bazar, Sylhet - 3100, Bangladesh",
+                "longitude": 91.8608083,
+                "latitude": 24.9071434
+            },
+            "contact": "+8801318210276",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHOPEDICS)"
+    ],
+    "designation": "Former Professor & Head, Ortho Surgery",
+    "name": "Prof. Dr. Ishtiaque Ul Fattah",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Spine, Injury) Specialist & Trauma Surgeon",
+    "workplace": "Parkview Medical College & Hospital",
+    "image": "image/prof-dr-ishtiaque-ul-fattah.jpg"
+}

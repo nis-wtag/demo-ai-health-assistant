@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Cumilla",
+            "address": {
+                "name": "Room - 603, House # 622/3, Laksam Road, 2nd Kandir Par, Cumilla",
+                "longitude": -69.55813,
+                "latitude": 44.401738
+            },
+            "contact": "+8801612371696",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Comilla Trauma Center",
+            "address": {
+                "name": "Room 706, New Building, Ranir Bazar Road, Kandirpar, Comilla",
+                "longitude": 91.1735141,
+                "latitude": 23.4596565
+            },
+            "contact": "+8801817411495",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "MS - Orthopaedics Surgery"
+    ],
+    "designation": "Assistant Registrar (Casualty Department)",
+    "name": "Dr. Gazi Md. Ariful Islam (Velia)",
+    "speciality": "Orthopaedic Specialist & Trauma Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-gazi-md-ariful-islam-velia.jpg"
+}

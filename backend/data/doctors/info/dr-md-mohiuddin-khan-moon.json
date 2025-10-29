@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "FCPS (Neurology)",
+        "MACP (USA)"
+    ],
+    "designation": "Registrar, Department of Medicine",
+    "name": "Dr. Md. Mohiuddin Khan (Moon)",
+    "speciality": "Medicine, Neurology & Rheumatology Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-mohiuddin-khan-moon.jpg"
+}

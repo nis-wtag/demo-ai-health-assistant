@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Bhaban 2, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.417025,
+                "latitude": 23.730042
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS-Ortho (NITOR)",
+        "AO Trauma Advanced (India)"
+    ],
+    "designation": "Assistant Professor (Orthopedics)",
+    "name": "Dr. Md. Ehteshamul Choudhury (Romu)",
+    "speciality": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-ehteshamul-choudhury-romu.jpg"
+}

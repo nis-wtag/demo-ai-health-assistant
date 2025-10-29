@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": null
+        },
+        {
+            "place": "Uttara Crescent Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+                "longitude": 90.4001501,
+                "latitude": 23.8678692
+            },
+            "contact": "+8809666710665",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Internal Medicine)",
+        "FACP (USA)",
+        "FRCP (UK)"
+    ],
+    "designation": "Professor & Head, Medicine",
+    "name": "Prof. Dr. Md. Billal Alam",
+    "speciality": "Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-md-billal-alam.jpg"
+}

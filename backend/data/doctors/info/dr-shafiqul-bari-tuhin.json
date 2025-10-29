@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MS (Pediatric Surgery)",
+        "Higher Training (India)"
+    ],
+    "designation": "Assistant Professor, Pediatric Surgery",
+    "name": "Dr. Shafiqul Bari Tuhin",
+    "speciality": "Neonatal & Pediatric Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-shafiqul-bari-tuhin.jpg"
+}

@@ -1,0 +1,33 @@
+{
+    "chambers": [
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)",
+        "MRCP (UK)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Md. Mostafa Faisal Rahat",
+    "speciality": "Medicine & Diabetes Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mostafa-faisal-rahat.jpg"
+}

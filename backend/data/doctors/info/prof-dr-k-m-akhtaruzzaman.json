@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801714000770",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCM",
+        "MCPS (Medicine)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Professor & Head, Cardiology",
+    "name": "Prof. Dr. K.M. Akhtaruzzaman",
+    "speciality": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/prof-dr-k-m-akhtaruzzaman.jpg"
+}

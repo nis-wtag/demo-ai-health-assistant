@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Badda General Hospital",
+            "address": {
+                "name": "107/2, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801790776722",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP",
+        "MPH (NIPSOM)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Assistant Professor, Endocrinology",
+    "name": "Dr. Zakirul Alam Ripon",
+    "speciality": "Diabetes & Hormone Specialist",
+    "workplace": "Shahabuddin Medical College & Hospital",
+    "image": "image/prof-dr-zakirul-alam-ripon.jpg"
+}

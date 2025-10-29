@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801726937871",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH (BSMMU)",
+        "FCPS (Pediatrics)",
+        "MD (Pediatric Neurology)"
+    ],
+    "designation": "Professor & Chairman, Pediatric Neurology",
+    "name": "Prof. Dr. Gopen Kumar Kundu",
+    "speciality": "Pediatric Neurology & Autism Specialist",
+    "workplace": "Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU",
+    "image": "image/dr-gopen-kumar-kundu.jpg"
+}

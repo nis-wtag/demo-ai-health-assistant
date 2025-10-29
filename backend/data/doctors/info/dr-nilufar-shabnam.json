@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Manar Hospital Limited",
+            "address": {
+                "name": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801550020885",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MRCS (Edinburgh)",
+        "MRCPS (Glasgow)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Registrar, Surgery",
+    "name": "Dr. Nilufar Shabnam",
+    "speciality": "General, Breast & Colorectal Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-nilufar-shabnam.jpg"
+}

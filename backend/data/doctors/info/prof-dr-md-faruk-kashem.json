@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Upasham Health Point (Pvt.) Ltd",
+            "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+            "contact": "+8801932200200",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Associate Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Faruk Kashem",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/prof-dr-md-faruk-kashem.jpg"
+}

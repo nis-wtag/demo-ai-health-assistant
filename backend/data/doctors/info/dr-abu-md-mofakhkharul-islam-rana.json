@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "D-Ortho (BSMMU)"
+    ],
+    "designation": "Assistant Professor (Ortho Surgery)",
+    "name": "Dr. Abu Md. Mofakhkharul Islam (Rana)",
+    "speciality": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-abu-md-mofakhkharul-islam-rana.jpg"
+}

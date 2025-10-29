@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DCH (BSMMU)",
+        "MD (Pediatrics)",
+        "PGPN (USA)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. A. T. Reza Ahmad",
+    "speciality": "Neonatal, Adolescent & Child Diseases Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-a-t-reza-ahmad.jpg"
+}

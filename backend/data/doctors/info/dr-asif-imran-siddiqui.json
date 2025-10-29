@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Skinic Dermatology Centre, Mirpur",
+            "address": {
+                "name": "House # 733, Road # 11, Avenue # 4, Mirpur DOHS, Dhaka",
+                "longitude": 90.4134684,
+                "latitude": 23.7038752
+            },
+            "contact": "+8801793256600",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Praava Health, Banani",
+            "address": "Plot # 9, Road # 17, Block – C, Banani – 1213",
+            "contact": "+8801844508402",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (AFMC)",
+        "DDV (Thailand)",
+        "Fellowship Training in Laser & Cutaneous Surgery (Thailand)"
+    ],
+    "designation": "Chief Consultant, Dermatology & Venerology",
+    "name": "Dr. Asif Imran Siddiqui",
+    "speciality": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Laser Surgeon",
+    "workplace": "Skinic Dermatology Centre, Mirpur",
+    "image": "image/dr-asif-imran-siddiqui.jpg"
+}

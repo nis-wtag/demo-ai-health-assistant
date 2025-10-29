@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Super Medical Hospital, Savar",
+            "address": {
+                "name": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+                "longitude": 90.246659,
+                "latitude": 23.841412
+            },
+            "contact": "+8801711266169",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Rashed Mahmud",
+    "speciality": "Neurosurgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-rashed-mahmud.jpg"
+}

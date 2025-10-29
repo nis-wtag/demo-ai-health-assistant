@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Shamimabad Dental Point, Sylhet",
+            "address": {
+                "name": "Shamimabad, Kanishail Road (Beside International University), Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801784431480",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT in Oral & Maxillofacial Surgery (BSMMU)"
+    ],
+    "designation": "Chief Consultant, Dental",
+    "name": "Dr. Sadia Sajnin Nipun",
+    "speciality": "Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Shamimabad Dental Point, Sylhet",
+    "image": "image/dr-sadia-sajnin-nipun.jpg"
+}

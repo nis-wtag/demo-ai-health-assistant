@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "FCPS (Reproductive Endocrinology & Infertility)",
+        "Postgraduate Diploma (IVF & Reproductive Medicine)"
+    ],
+    "designation": "Assistant Professor, Gyne & Obs",
+    "name": "Dr. Mukti Rani Saha",
+    "speciality": "Gynecology, Infertility, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mukti-rani-saha.jpg"
+}

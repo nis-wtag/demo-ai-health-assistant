@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Associate Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Taimoon Nahar Khanom",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Square Hospital, Dhaka",
+    "image": "image/dr-taimoon-nahar-khanom.jpg"
+}

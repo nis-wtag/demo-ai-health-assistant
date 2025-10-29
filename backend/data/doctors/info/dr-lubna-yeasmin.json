@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Al Haramain Hospital, Sylhet",
+            "address": {
+                "name": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801931225555",
+            "visiting_hours": null
+        },
+        {
+            "place": "Mount Adora Hospital, Nayasarak, Sylhet",
+            "address": {
+                "name": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet – 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801798522886",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Lubna Yeasmin",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-lubna-yeasmin.jpg"
+}

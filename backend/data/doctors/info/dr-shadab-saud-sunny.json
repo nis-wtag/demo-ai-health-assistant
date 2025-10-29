@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Cumilla",
+            "address": "Tomsom Bridge, Laksam Road, Cumilla",
+            "contact": "+8801824641090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Al-Kamy Hospital Ltd, Feni",
+            "address": "Shohid Sohidullah Kaiser(SSK) Road, Feni",
+            "contact": "+8801839994132",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Rheumatology)",
+        "ECRD (Switzerland)",
+        "MACR (USA)",
+        "European League Certified In Musculoskeletal Ultrasound"
+    ],
+    "designation": "Consultant Rheumatologist",
+    "name": "Dr. Shadab Saud Sunny",
+    "speciality": "Arthritis, Rheumatology & Medicine Specialist",
+    "workplace": "Ministry of Health & Family Welfare",
+    "image": "image/dr-shadab-saud-sunny.jpg"
+}

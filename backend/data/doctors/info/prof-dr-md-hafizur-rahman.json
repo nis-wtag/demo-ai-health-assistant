@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": {
+                "name": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+                "longitude": 90.422801,
+                "latitude": 23.710957
+            },
+            "contact": "10666",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "DEM (BIRDEM)",
+        "MD (Endocrinology)",
+        "MACE (USA)"
+    ],
+    "designation": "Professor, Endocrinology",
+    "name": "Prof. Dr. Md. Hafizur Rahman",
+    "speciality": "Diabetes, Thyroid & Hormone Diseases Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-md-hafizur-rahman-ansary.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Britto's Brainwaves",
+            "address": {
+                "name": "https://tanzirislambritto.com/",
+                "longitude": 16.23434,
+                "latitude": 53.87532
+            },
+            "contact": "+8801778320685",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD-Phase A (CMCH)",
+        "PGT (DMC)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Resident Physician, Department of Medicine",
+    "name": "Dr. Tanzir Islam Britto",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-tanzir-islam-britto.jpg"
+}

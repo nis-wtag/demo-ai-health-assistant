@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (DU)",
+        "CCD (BIRDEM)",
+        "Training (ECHO)"
+    ],
+    "designation": "Associate Professor & Head, Cardiology",
+    "name": "Dr. Tofayel Uddin Ahmed",
+    "speciality": "Cardiology & Diabetes Specialist",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-tofayel-uddin-ahmed.jpg"
+}

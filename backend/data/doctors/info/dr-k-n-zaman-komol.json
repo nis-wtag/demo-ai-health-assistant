@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Modern Dental Care",
+            "address": "31, Green Road, MAK Khan Tower (1st Floor), Besides Green Life Hospital, Dhanmondi, Dhaka",
+            "contact": "+8801913171524",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MSc (Thailand)",
+        "BDS (Dhaka)",
+        "PGT (BSMMU)",
+        "FMCC (QSNICH, Bangkok)"
+    ],
+    "designation": "Assistant Professor, Pediatric Dentistry",
+    "name": "Dr. Khandakar Nuruzzaman Komol",
+    "speciality": "Dental Surgeon & Pediatric Dentist",
+    "workplace": "University Dental College & Hospital",
+    "image": "image/dr-k-n-zaman-komol.jpg"
+}

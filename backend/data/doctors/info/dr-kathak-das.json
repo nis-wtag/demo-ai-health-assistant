@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Lions Charitable Eye Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Nasirabad, Khulsi, Chattogram",
+                "longitude": 67.916566,
+                "latitude": 27.381011
+            },
+            "contact": "+8801511624052",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (BSMMU)",
+        "Fellowship in Glaucoma (NIOH)",
+        "Trained in Micro & Phaco Surgery (IIEIH)"
+    ],
+    "designation": "Junior Consultant, Ophthalmology",
+    "name": "Dr. Kathak Das",
+    "speciality": "Eye, Glaucoma Specialist, Micro, Laser & Phaco Surgeon",
+    "workplace": "Lions Charitable Eye Hospital, Chittagong",
+    "image": "image/dr-kathak-das.jpg"
+}

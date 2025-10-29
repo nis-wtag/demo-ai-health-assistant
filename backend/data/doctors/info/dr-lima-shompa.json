@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801903280935",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Professor, Obstetrics & Gynecology",
+    "name": "Prof. Dr. Lima Shompa",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/dr-lima-shompa.jpg"
+}

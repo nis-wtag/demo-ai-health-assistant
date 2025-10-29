@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Alisha Optical",
+            "address": "Kashai Galli, Bandertilla, Chittagong",
+            "contact": "+8801748655609",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD",
+        "MPHO"
+    ],
+    "designation": "Senior Medical Officer",
+    "name": "Dr. Saiful Islam",
+    "speciality": "Eye Diseases Specialist",
+    "workplace": "Chittagong Diabetic General Hospital",
+    "image": "image/dr-saiful-islam-tipu-chowdhury.jpg"
+}

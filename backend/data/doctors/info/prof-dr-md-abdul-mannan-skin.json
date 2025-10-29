@@ -1,0 +1,63 @@
+{
+    "chambers": [
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801777951677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801558220134",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (DU)",
+        "Fellow WHO (Bangkok)",
+        "FRSH (London)"
+    ],
+    "designation": "Former Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. Md. Abdul Mannan",
+    "speciality": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/prof-dr-md-abdul-mannan-skin.jpg"
+}

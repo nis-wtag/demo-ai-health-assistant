@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Eye Hospital & Laser Center Limited",
+            "address": {
+                "name": "53, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801741420444",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Surgeon (Ex), Ophthalmology",
+    "name": "Dr. Subrata Kumar Biswas",
+    "speciality": "Eye, Laser, Retina Specialist & Phaco Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-subroto-kumar-biswas.jpg"
+}

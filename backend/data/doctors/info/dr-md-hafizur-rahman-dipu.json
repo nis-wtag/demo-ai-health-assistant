@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Proshanti Hospital & Diagnostic Ltd",
+            "address": {
+                "name": "6, Proshanti Goli (Opposite to Police Line School), Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724926114",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Outdoor Medical Officer",
+    "name": "Dr. Md. Hafizur Rahman (Dipu)",
+    "speciality": "General, Endo-laparoscopic, Breast, Colorectal, Cancer Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-hafizur-rahman-dipu.jpg"
+}

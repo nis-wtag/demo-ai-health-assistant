@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Royal Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Room-205, First Floor, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": "+88 01712240340",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MRCP (UK)",
+        "MRCP (London)",
+        "SCE (Neurology, UK)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Medicine Specialist",
+    "name": "Dr. Md. Asif Hossain",
+    "speciality": "Internal Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-asif-hossain.jpg"
+}

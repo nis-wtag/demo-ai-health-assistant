@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "CRS Physiotherapy Center",
+            "address": {
+                "name": "76, Gausul Azam Avenue, Sector-13, Uttara, Dhaka",
+                "longitude": 90.385638,
+                "latitude": 23.869464
+            },
+            "contact": "+8801912772241",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "B.Sc in Physiotherapy"
+    ],
+    "designation": "Clinical Physiotherapist, Physiotherapy",
+    "name": "Dr. Imtiaz Uddin Ahmed",
+    "speciality": "Physiotherapy (Pain, Arthritis & Paralysis) Specialist",
+    "workplace": "Centre for Rehabilitation Services - CRS",
+    "image": "image/dr-imtiaz-uddin-ahmed.jpg"
+}

@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": null
+        },
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology)",
+        "FRCP (UK)"
+    ],
+    "designation": "Associate Professor, Neurology Department",
+    "name": "Dr. Uttam Kumar Sarker",
+    "speciality": "Neurology (Brain, Nerve, Headache, Migraine)& Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-uttam-kumar-sarker.jpg"
+}

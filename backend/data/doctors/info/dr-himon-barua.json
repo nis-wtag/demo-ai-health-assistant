@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Diasonic Limited",
+            "address": {
+                "name": "Minhaz Complex (2nd Floor), 12, Jamal Khan Road, Chittagong",
+                "longitude": 91.83413,
+                "latitude": 22.345906
+            },
+            "contact": "+8801823553244",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO"
+    ],
+    "designation": "Assistant Professor, ENT",
+    "name": "Dr. Himon Barua",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "BGC Trust Medical College, Chittagong",
+    "image": "image/dr-himon-barua.jpg"
+}

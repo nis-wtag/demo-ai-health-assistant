@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Memorial Diagnostic Center",
+            "address": {
+                "name": "Haque Mansion, Charpara (Opposite to Hospital Gate), Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801747750114",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ORTHO)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Resident Surgeon, Orthopedics Surgery",
+    "name": "Dr. Khandaker Hafijur Rahman",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-khandaker-hafijur-rahman.jpg"
+}

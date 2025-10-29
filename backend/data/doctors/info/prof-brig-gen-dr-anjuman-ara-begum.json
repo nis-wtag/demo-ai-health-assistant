@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": "+8801915448491",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MS (OBGYN)",
+        "Fellowship in Reproductive Medicine",
+        "Endocrinology",
+        "Infertility & Test Tube Baby"
+    ],
+    "designation": "Professor & Head, Gynecology & Obstetrics",
+    "name": "Prof. Brig Gen. Dr. Anjuman Ara Begum",
+    "speciality": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Universal Medical College & Hospital",
+    "image": "image/prof-brig-gen-dr-anjuman-ara-begum.jpg"
+}

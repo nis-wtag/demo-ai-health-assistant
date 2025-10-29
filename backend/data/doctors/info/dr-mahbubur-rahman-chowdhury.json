@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Founder",
+    "name": "Dr. Mahbubur Rahman Chowdhury",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital & Institute",
+    "image": "image/dr-mahbubur-rahman-chowdhury.jpg"
+}

@@ -1,0 +1,75 @@
+{
+    "chambers": [
+        {
+            "place": "Lancet Diagnostic Center, Chittagong",
+            "address": {
+                "name": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192333,
+                "latitude": 23.7034311
+            },
+            "contact": "+8801728542154",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PhD"
+    ],
+    "designation": "Consultant, Dental & Maxillofacial Surgery",
+    "name": "Dr. S.M. Ali Ahsan",
+    "speciality": "General, Cosmetic Dentistry Specialist & Surgeon",
+    "workplace": "Lancet Hospital, Chittagong",
+    "image": "image/dr-s-m-ali-ahsan.jpg"
+}

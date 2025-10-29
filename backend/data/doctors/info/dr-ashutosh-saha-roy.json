@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)",
+        "MACP (USA)"
+    ],
+    "designation": "Professor, Nephrology",
+    "name": "Prof. Dr. Ashutosh Saha Roy",
+    "speciality": "Kidney Diseases, Dialysis & Medicine Specialist (Nephrologist)",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-ashutosh-saha-roy.jpg"
+}

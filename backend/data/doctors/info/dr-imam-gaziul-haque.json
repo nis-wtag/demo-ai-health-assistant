@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedic Surgery)"
+    ],
+    "designation": "Associate Professor, Orthopedic Surgery",
+    "name": "Dr. Imam Gaziul Haque",
+    "speciality": "Orthopedic Specialist, Arthroplasty & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-imam-gaziul-haque.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Stadium Market, Sylhet",
+            "address": {
+                "name": "43, Stadium Market, Lamabazar Road, Rikabi Bazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801734800710",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Neurology)",
+        "FCPS (Medicine Final)"
+    ],
+    "designation": "Consultant, Neuromedicine",
+    "name": "Dr. Md. Mostafizur Rahman (Rakib)",
+    "speciality": "Neurology (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-mostafizur-rahman-rakib.jpg"
+}

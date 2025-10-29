@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "BCS (Health)",
+        "MD (Medicine)"
+    ],
+    "designation": "Lecturer, Community Medicine",
+    "name": "Dr. Suraiya Akhter",
+    "speciality": "Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-suraiya-akhter.jpg"
+}

@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh ENT Hospital Ltd",
+            "address": {
+                "name": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
+                "longitude": 90.37623340903042,
+                "latitude": 23.7556275
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)",
+        "MS (ENT)"
+    ],
+    "designation": "Associate Professor, ENT & Head Neck Surgery",
+    "name": "Md. Sahbub Alam",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-sahbub-alam.jpg"
+}

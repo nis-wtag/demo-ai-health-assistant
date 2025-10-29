@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Khulna",
+            "address": {
+                "name": "House # A5, Majid Sarani, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801816-929983",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Sami Hospital, Khulna",
+            "address": {
+                "name": "129/A, Majid Swarani, Mollah Bari Mor, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801733-354565",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "BCS (Health)",
+        "MCPS ( Surgery)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Department of Surgery",
+    "name": "Dr. Abdur Rob",
+    "speciality": "General, Laparoscopic & Colorectal Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-abdur-rob.jpg"
+}

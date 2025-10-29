@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Consultant (Medicine)",
+    "name": "Dr. Farhana Afroz",
+    "speciality": "Medicine & Diabetes Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-farhana-afroz.jpg"
+}

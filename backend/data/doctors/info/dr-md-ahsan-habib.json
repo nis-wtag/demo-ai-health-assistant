@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Laser Colorectal Center",
+            "address": {
+                "name": "Rupayan Prime Tower (Level 7), Dhanmondi 7, Green Road, Dhaka",
+                "longitude": 90.3851862,
+                "latitude": 23.7423123
+            },
+            "contact": "+8801721036644",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MRCS (UK)",
+        "MS (Colorectal Surgery)"
+    ],
+    "designation": "Associate Professor, Colorectal Surgery",
+    "name": "Dr. Md. Ahsan Habib",
+    "speciality": "Colorectal (Piles, Fistula, Rectum, Colon) & Laser Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-ahsan-habib-ortho.jpg"
+}

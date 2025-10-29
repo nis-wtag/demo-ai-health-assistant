@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Impulse Hospital, Dhaka",
+            "address": {
+                "name": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
+                "longitude": 90.38971,
+                "latitude": 23.76296
+            },
+            "contact": "+8801313434425",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho-Surgery, NITOR)",
+        "WOC-SICOT (UK)",
+        "Fellow (Spine & Joints Surgery)",
+        "Fellow Spine Deformity Correction (India)",
+        "Fellow Spine Microsurgery"
+    ],
+    "designation": "Senior Consultant",
+    "name": "Prof. Dr. Abu Bakar Siddique",
+    "speciality": "Orthopedic Trauma, Joint & Spine Surgeon",
+    "workplace": "Impulse Hospital, Dhaka",
+    "image": "image/dr-abu-bakar-siddique-2.jpg"
+}

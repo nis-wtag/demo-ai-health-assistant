@@ -1,0 +1,86 @@
+{
+    "chambers": [
+        {
+            "place": "Venus Hospital, Mymensingh",
+            "address": {
+                "name": "Suprabha Tower, 8/3, Bhatikashor, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801403181379",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Bhaluka Digital Hospital, Bhaluka",
+            "address": {
+                "name": "Sadik Tower, Dhaka-mymensingh Highway, Bhaluka, Mymensingh",
+                "longitude": 90.38615,
+                "latitude": 24.40479
+            },
+            "contact": "+8801772806973",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Assistant Professor, Department of Pediatrics",
+    "name": "Dr. Md. Monirul Islam Khan (Ranju)",
+    "speciality": "Newborn, Child & Adolescent Specialist",
+    "workplace": "Shahid Syed Nazrul Islam Medical College, Kishoreganj",
+    "image": "image/dr-md-monirul-islam-khan-ranju.jpg"
+}

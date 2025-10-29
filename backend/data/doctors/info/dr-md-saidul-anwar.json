@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Comilla Tower (Room - 659), Laksam Road, Kandirpar, Cumilla",
+                "longitude": 91.065709,
+                "latitude": 23.21595
+            },
+            "contact": "+8801740918797",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Resident Surgeon, Surgery",
+    "name": "Dr. Md. Saidul Anwar",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-saidul-anwar.jpg"
+}

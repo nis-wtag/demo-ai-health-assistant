@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Vision Eye Hospital",
+            "address": {
+                "name": "229 Green Road, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.385587,
+                "latitude": 23.7471253
+            },
+            "contact": "+8809610244123",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (EYE)",
+        "Fellow Orbit & Oculoplasty (NIOH)",
+        "Fellow Ocular Oncology (Wills Eye Hospital, USA)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Md. Hasanuzzaman",
+    "speciality": "Phaco, Ocular Oncologist and Eye Cosmetic Surgeon",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-md-hasanuzzaman-2.jpg"
+}

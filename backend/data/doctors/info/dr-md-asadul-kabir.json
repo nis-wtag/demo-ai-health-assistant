@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Kabir Eye Center",
+            "address": {
+                "name": "9/1, Nawab Street, Wari, Dhaka 1203",
+                "longitude": 90.4190871,
+                "latitude": 23.7157611
+            },
+            "contact": "+8801715734076",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO"
+    ],
+    "designation": "Chief Consultant and Micro-Surgeon",
+    "name": "Dr. Md. Asadul Kabir",
+    "speciality": "Eye Diseases Specialist & Micro Surgeon",
+    "workplace": "Kabir Eye Centre",
+    "image": "image/dr-md-asadul-kabir.jpg"
+}

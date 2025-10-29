@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Professor & Head, Pediatric Surgery",
+    "name": "Prof. Dr. ASM Lokman Hossain Chowdhury",
+    "speciality": "Neonatal & Pediatric Specialist Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-a-s-m-lokman-hossain-chowdhury.jpg"
+}

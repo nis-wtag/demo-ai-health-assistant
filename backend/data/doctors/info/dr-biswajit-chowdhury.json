@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Mymensingh",
+            "address": {
+                "name": "72, Charpara, Medical College Gate, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801766663000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MD (Child Health)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Biswajit Chowdhury",
+    "speciality": "Neonatal & Child Diseases Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-biswajit-chowdhury.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Gyne)",
+        "DGO"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Syeda Zakia Rahman",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-syeda-zakia-rahman.jpg"
+}

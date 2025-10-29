@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Habib Dental",
+            "address": {
+                "name": "CPDL Majesta (Above EBL Bank), 84 Jamal Khan Road, Chittagong",
+                "longitude": 91.83413,
+                "latitude": 22.345906
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MFD",
+        "RCS (Ireland)",
+        "MSc (UCL, London)",
+        "FICD"
+    ],
+    "designation": "Dental Surgeon, Dental & Maxillofacial Surgery",
+    "name": "Dr. Mir Abeed Rahman",
+    "speciality": "Oral & Dental Surgeon (Conservative Dentistry)",
+    "workplace": "Evercare Hospital, Chattogram",
+    "image": "image/dr-mir-abeed-rahman.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        },
+        {
+            "place": "Super Medical Hospital, Savar",
+            "address": {
+                "name": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+                "longitude": 90.246659,
+                "latitude": 23.841412
+            },
+            "contact": "+8801711266169",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Hepatobiliary Surgery)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Mohammad Emrul Hasan Khan",
+    "speciality": "General, Liver, Biliary & Pancreatic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-emrul-hasan-khan.jpg"
+}

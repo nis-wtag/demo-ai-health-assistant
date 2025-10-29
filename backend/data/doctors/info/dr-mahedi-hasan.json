@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
+            "address": {
+                "name": "House # 79/1E, Demra Road, Bibir Bagicha, Uttor Jatrabari, Dhaka",
+                "longitude": 90.451604,
+                "latitude": 23.747201
+            },
+            "contact": "+8809610-009626",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MMBS",
+        "CCD",
+        "MD (Gastroenterology)",
+        "MACP",
+        "MACG"
+    ],
+    "designation": "Consultant & Head of the Department of Gastroenterology & Hepatology",
+    "name": "Dr. Mahedi Hasan",
+    "speciality": "Gastroenterologist & Hepatologist",
+    "workplace": "Central Police Hospital, Dhaka",
+    "image": "image/dr-mahedi-hasan.jpg"
+}

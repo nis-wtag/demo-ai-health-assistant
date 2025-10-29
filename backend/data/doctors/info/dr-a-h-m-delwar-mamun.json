@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Room - 314 (2nd Floor), Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711246978",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO (ENT)",
+        "MCPS (ENT)",
+        "MRCPS (UK)",
+        "FMRC (USA)",
+        "MD (Audiology) Spain",
+        "FICS (USA)"
+    ],
+    "designation": "Professor & Head of ENT",
+    "name": "Prof. Dr. A.H.M. Delwar Mamun",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-a-h-m-delwar-mamun.jpg"
+}

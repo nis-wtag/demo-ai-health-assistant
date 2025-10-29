@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "MicroLab Diagnostic & Consultation Center",
+            "address": {
+                "name": "Samshur Rahman Road, Baitipara Mor, Beside 7 Masjid (2nd Floor), Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Expert Sample Diagnostic Center, Khulna",
+            "address": {
+                "name": "29/B, KDA Avenue, Khulna (In front of Rashida Memorial Hospital)",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801749891135",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "DOC (SKIN & SEX)",
+        "PG Diploma (SKIN & SEX, UK)",
+        "DMF",
+        "MCPS",
+        "FCGP (Family Medicine)",
+        "Fellow, Sexology, Psycho Sexual Therapy & Cosmotology (India)"
+    ],
+    "designation": "Professor",
+    "name": "Prof. Dr. Khan Shakil Ahmed",
+    "speciality": "Diabetes, Family Medicine, Skin & Sexual Diseases Specialist",
+    "workplace": "Gazi Medical College & Hospital, Khulna",
+    "image": "image/prof-dr-khan-shakil-ahmed-skin.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:30",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)"
+    ],
+    "designation": "Senior Consultant, Ophthalmology",
+    "name": "Dr. Mushtaque Ahmed",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Ahsania Mission Cancer & General Hospital",
+    "image": "image/dr-mushtaque-ahmed.jpg"
+}

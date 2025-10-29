@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center & Hospital, Sylhet",
+            "address": {
+                "name": "Subhanighat, Sylhet",
+                "longitude": 91.8779178,
+                "latitude": 24.8917942
+            },
+            "contact": "+8801710890539",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Fellow, Arthroscopic Surgery & Sports Medicine (India)",
+        "Fellow, Joint Replacement Surgery (India)"
+    ],
+    "designation": "Professor & Head, Orthopedics Surgery",
+    "name": "Prof. Dr. Cyrus Shakiba",
+    "speciality": "Orthopedics, Sports Medicine, Arthroscopy, Joint Replacement Surgery Specialist",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/prof-dr-cyrus-shakiba.jpg"
+}

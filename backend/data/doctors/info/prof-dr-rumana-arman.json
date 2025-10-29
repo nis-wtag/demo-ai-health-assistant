@@ -1,0 +1,82 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital & Diagnostic Center",
+            "address": {
+                "name": "68/B, Kristopur Road, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801842290220",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "TMC Diagnostic & Hospital, Mymensingh",
+            "address": {
+                "name": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
+                "longitude": 90.3951768,
+                "latitude": 24.5823196
+            },
+            "contact": "+8801774955555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)",
+        "MCPS (OBGYN)",
+        "Training (IUI)"
+    ],
+    "designation": "Professor & Head, Obstetrics & Gynecology",
+    "name": "Prof. Dr. Rumana Arman",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "President Abdul Hamid Medical College & Hospital",
+    "image": "image/prof-dr-rumana-arman.jpg"
+}

@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Advanced Dental Solution",
+            "address": {
+                "name": "310/2 Queens Garden, Polytechnic Mor, Sadar, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801937-563282",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "Bachelor of Dental Surgery (BDS)"
+    ],
+    "designation": "Dentist",
+    "name": "Dr. Niyaz Rahman",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Advanced Dental Solution, Mymensingh",
+    "image": "image/dr-niyaz-rahman.jpg"
+}

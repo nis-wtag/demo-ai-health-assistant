@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": {
+                "name": "78, Satmasjid Road, Dhanmondi, Dhaka-1209",
+                "longitude": 90.3735204,
+                "latitude": 23.7431516
+            },
+            "contact": "10620",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Bangladesh Eye Care Hospital, Zigatola",
+            "address": {
+                "name": "21/3 Zigatola, Dhanmondi, Dhaka – 1209",
+                "longitude": 90.380238,
+                "latitude": 23.739651
+            },
+            "contact": "+8809613213213",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "MCPS (Eye)",
+        "FCPS (Eye)",
+        "Fellow - Cataract Surgery & Neuro-Ophthalmology (BEH&I)"
+    ],
+    "designation": "Consultant, Neuro-Ophthalmology",
+    "name": "Dr. Most. Sanjida Akter",
+    "speciality": "Neuro-Ophthalmologist & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital & Institute",
+    "image": "image/dr-most-sanjida-akter.jpg"
+}

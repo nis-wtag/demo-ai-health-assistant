@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Hospital, Mirpur",
+            "address": {
+                "name": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801301254924",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:30",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO"
+    ],
+    "designation": "Associate Professor & Head, Orthopedics",
+    "name": "Dr. Md. Shoriful Islam",
+    "speciality": "Orthopedics, Bone, Joint, Trauma & Pain Specialist",
+    "workplace": "Delta Medical College & Hospital",
+    "image": "image/dr-md-shoriful-islam.jpg"
+}

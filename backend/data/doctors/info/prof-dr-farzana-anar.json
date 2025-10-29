@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS"
+    ],
+    "designation": "Assistant Professor, Dental",
+    "name": "Dr. Farzana Anar",
+    "speciality": "Conservative Dentistry & Endodotics Specialist",
+    "workplace": "Community Based Medical College",
+    "image": "image/prof-dr-farzana-anar.jpg"
+}

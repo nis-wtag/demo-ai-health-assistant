@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        },
+        {
+            "place": "Euro Medical Center, Pabna",
+            "address": {
+                "name": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801772974000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Md. Shahidul Islam",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shahidul-islam-akon.jpg"
+}

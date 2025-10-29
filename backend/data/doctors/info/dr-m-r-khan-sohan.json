@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "BCS (Health)",
+        "DO (BSMMU)"
+    ],
+    "designation": "Resident Surgeon, Ophthalmology",
+    "name": "Dr. M R Khan Sohan",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-m-r-khan-sohan.jpg"
+}

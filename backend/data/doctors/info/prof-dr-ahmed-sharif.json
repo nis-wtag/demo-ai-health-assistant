@@ -1,0 +1,142 @@
+{
+    "chambers": [
+        {
+            "place": "National Hospital, Chittagong",
+            "address": {
+                "name": "14/15, Dampara Lane, Mehedibag, Chattogram",
+                "longitude": -73.786337,
+                "latitude": 40.785865
+            },
+            "contact": "+8801863265857",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Chittagong",
+            "address": {
+                "name": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+                "longitude": 90.091751,
+                "latitude": 23.604324
+            },
+            "contact": "+8801886610115",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Al Manar Consultation Center-5, Dhaka",
+            "address": {
+                "name": "House-1/1, Block-E, Lalmatia, Satmasjid Road, Mohammadpur, Dhaka",
+                "longitude": 90.36563725518101,
+                "latitude": 23.75275065
+            },
+            "contact": "+8801550-698070",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Hitoishi X-Ray Clinic, Chandpur",
+            "address": {
+                "name": "700, Shahid Muktijodda Road, Chandpur – 3600",
+                "longitude": 90.7111818,
+                "latitude": 23.2252149
+            },
+            "contact": "+88 01732856040",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "Professor & Head, ENT & HNS Department",
+    "name": "Prof. Dr. Ahmed Sharif",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-ahmed-sharif.jpg"
+}

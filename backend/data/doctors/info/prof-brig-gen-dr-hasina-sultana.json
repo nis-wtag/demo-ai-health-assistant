@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Health Care, Kachukhet",
+            "address": {
+                "name": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801725694669",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801710828074",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (DU)",
+        "FCPS (OBGYN)",
+        "Advanced Training Infertility (Thailand, India & Malaysia)"
+    ],
+    "designation": "Professor, Gynecology & Obstetrics",
+    "name": "Prof. Brig. Gen. Dr. Hasina Sultana",
+    "speciality": "Gynecology, Infertility, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Armed Forces Medical College, Dhaka",
+    "image": "image/prof-brig-gen-dr-hasina-sultana.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "AMZ Hospital, Badda",
+            "address": {
+                "name": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801847331019",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Child Specialist",
+    "name": "Prof. Dr. Ariful Islam",
+    "speciality": "Child Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/prof-dr-ariful-islam.jpg"
+}

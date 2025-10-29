@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "AVE Dental Surgery & Orthodontics",
+            "address": {
+                "name": "102, Panchlaish R/A (Opposite to Probartak School), Chattogram",
+                "longitude": -8.574639,
+                "latitude": 40.984603
+            },
+            "contact": "+8801892610236",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS ( CMC)",
+        "DDS (BSMMU)",
+        "BCS (Health)"
+    ],
+    "designation": "Lecturer, Department of Periodontology",
+    "name": "Dr. Jannatul Maowa Rumky",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-jannatul-maowa-rumky.jpg"
+}

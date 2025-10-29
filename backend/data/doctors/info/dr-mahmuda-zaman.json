@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "10616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (CHILD)",
+        "Fellow, Pediatric Hematology Oncology, CMC Vellore, India"
+    ],
+    "designation": "Associate Consultant,Pediatric & Pediatric Hemato-Oncology",
+    "name": "Dr. Mahmuda Zaman",
+    "speciality": "Child Diseases, Child Blood Diseases Specialist",
+    "workplace": "Square Hospital, Dhaka",
+    "image": "image/dr-mahmuda-zaman.jpg"
+}

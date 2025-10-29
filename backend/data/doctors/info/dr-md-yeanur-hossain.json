@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Md. Yeanur Hossain",
+    "speciality": "Medicine, Diabetes & Cardiology Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-yeanur-hossain.jpg"
+}

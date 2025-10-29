@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Jannat Homeo Hall, Mirpur",
+            "address": {
+                "name": "Near Kazipara Bus Stand, 672/B, Monipur, Mirpur-1216",
+                "longitude": 90.370784,
+                "latitude": 23.800603
+            },
+            "contact": "+8801712114464",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "PGDHE (DU)",
+        "MHE (DU)",
+        "PG-HOM (LONDON)"
+    ],
+    "designation": "Lecturer, Department of Practice of Medicine",
+    "name": "Dr. Nur-E-Alam Rasel",
+    "speciality": "Cancer, Tumour, CKD, CLD, Piles, Infertility and Sex Diseases Specialist",
+    "workplace": "Government Homeopathic Medical College & Hospital, Dhaka",
+    "image": "image/dr-nur-e-alam-rasel.jpg"
+}

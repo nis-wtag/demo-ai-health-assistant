@@ -1,0 +1,30 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711144786",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Neurology)"
+    ],
+    "designation": "Associate Professor & Head, Neuromedicine",
+    "name": "Dr. Nur Uddin Mohammad Yousuf",
+    "speciality": "Brain, Stroke, Nerve, Medicine & Neurology Specialist",
+    "workplace": "Ad-Din Medical College & Hospital",
+    "image": "image/dr-nur-uddin-mohammad-yousuf.jpg"
+}

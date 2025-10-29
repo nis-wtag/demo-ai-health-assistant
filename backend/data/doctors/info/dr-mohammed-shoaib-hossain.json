@@ -1,0 +1,19 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+            "contact": "+8801828880299",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO (BSMMU)"
+    ],
+    "designation": "Assistant Professor, ENT",
+    "name": "Dr. Md. Shoaib Hossain",
+    "speciality": "Ear, Nose, Throat Specialist",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/dr-mohammed-shoaib-hossain.jpg"
+}

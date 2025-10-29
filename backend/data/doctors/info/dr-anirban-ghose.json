@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "Room - 323, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.82524911417809,
+                "latitude": 22.359029149999998
+            },
+            "contact": "+8801886083708",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Sensiv Private Limited, Chittagong",
+            "address": {
+                "name": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+                "longitude": 74.98151,
+                "latitude": 29.327893
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)"
+    ],
+    "designation": "Assistant Registrar, Urology",
+    "name": "Dr. Anirban Ghose",
+    "speciality": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-anirban-ghose.jpg"
+}

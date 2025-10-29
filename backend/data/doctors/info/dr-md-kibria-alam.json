@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801743673149",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "MS (EYE)",
+        "Research Fellow (Japan)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Kibria Alam",
+    "speciality": "Cornea, Uvea, Phaco & Laser Specialist Surgeon",
+    "workplace": "Harun Eye Foundation Hospital",
+    "image": "image/dr-md-kibria-alam.jpg"
+}

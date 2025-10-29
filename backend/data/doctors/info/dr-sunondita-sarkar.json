@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Hepta Health Care, Rajshahi",
+            "address": {
+                "name": "Soccho Tower, Bangabandhu Chattar, Ghoramara, Rajshahi",
+                "longitude": -120.837117,
+                "latitude": 35.764549
+            },
+            "contact": "+8801701647321",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Sunondita Sarkar",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-sunondita-sarkar.jpg"
+}

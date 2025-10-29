@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "DentCare Dental Clinic\nSomota Diagnostic and Hospital",
+            "address": {
+                "name": "Ashar Uddin Manzil, 336, Chorpara Mor, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801752505010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Oral & Maxillofacial Surgery)",
+        "PGT (Orthodontics)"
+    ],
+    "designation": "Dental Surgeon, Dentistry",
+    "name": "Dr. Mohajer Mohiuddin",
+    "speciality": "General Dentist & Cosmetics Dentistry Specialist",
+    "workplace": "TMC Diagnostic & Hospital, Mymensingh",
+    "image": "image/dr-mohajer-mohiuddin.jpg"
+}

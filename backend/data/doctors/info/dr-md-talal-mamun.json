@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Al Haramain Hospital, Sylhet",
+            "address": {
+                "name": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801931225555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT",
+        "FCPS (OMS)"
+    ],
+    "designation": "Consultant, Dental",
+    "name": "Dr. Md. Talal Mamun",
+    "speciality": "Dental, Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Al Haramain Hospital, Sylhet",
+    "image": "image/dr-md-talal-mamun.jpg"
+}

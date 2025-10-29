@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Blue Light Dental Care, Sylhet",
+            "address": {
+                "name": "Choyab Ali Bhaban (2nd Floor), Mendibagh, Sylhet",
+                "longitude": -89.70131,
+                "latitude": 20.5328
+            },
+            "contact": "+8801708529206",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ma Pharmacy, Sherpur",
+            "address": "Haji Tota Miya Market, Afrojganj, Sherpur, Moulovibazar",
+            "contact": "+8801761570191",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Rajshahi Medical College)"
+    ],
+    "designation": "Senior Consultant",
+    "name": "Dr. Pangkaj Paul",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Blue Light Dental Care, Sylhet",
+    "image": "image/dr-pangkaj-paul.jpg"
+}

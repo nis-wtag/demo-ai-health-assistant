@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine & Rehabilitation)",
+        "DTM&H (Thailand)",
+        "MPH (Belgium)"
+    ],
+    "designation": "Professor (Physical Medicine & Rehabilitation)",
+    "name": "Prof. Dr. Sunam Kumar Barua",
+    "speciality": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-sunam-kumar-barua.jpg"
+}

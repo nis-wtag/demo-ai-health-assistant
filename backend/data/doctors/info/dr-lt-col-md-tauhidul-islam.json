@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+            "contact": "+88029672277",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DLO",
+        "FCPS (ENT)"
+    ],
+    "designation": "ENT Specialist & Head Neck Surgeon",
+    "name": "Dr. Lt. Col. Md. Tauhidul Islam",
+    "speciality": "ENT Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka"
+}

@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+            "contact": "+8809666787805",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "MCPS (Skin & STD)"
+    ],
+    "designation": "Assistant Professor, Dermatology",
+    "name": "Dr. Md. Nazmul Haque Sarker",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/dr-md-nazmul-haque-sarker.jpg"
+}

@@ -1,0 +1,86 @@
+{
+    "chambers": [
+        {
+            "place": "Chittagong Pain Center",
+            "address": {
+                "name": "Rahim Mansion, Suborna Abasik, 1st Goli, Golpahar Mor, Chattogram",
+                "longitude": 84.999689,
+                "latitude": 24.871303
+            },
+            "contact": "+8801963382866",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499600",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Assistant Professor, Physical Medicine & Rehabilitation",
+    "name": "Dr. Mohammad Abdur Rahim",
+    "speciality": "Pain, Arthritis, Paralysis, Physical Medicine & Rehabilitation Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mohammad-abdur-rahim.jpg"
+}

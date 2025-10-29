@@ -1,0 +1,21 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center & Hospital, Sylhet",
+            "address": "Room 327 (3rd Floor), Subhanighat, Sylhet",
+            "contact": "+8801717683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DEM (Endocrinology)",
+        "FCPS (Endocrinology)",
+        "MACE (USA)"
+    ],
+    "designation": "Associate Professor & Head (Endocrinology)",
+    "name": "Dr. Md. Abdul Hannan (Tareque)",
+    "speciality": "Diabetes, Thyroid, Hormone & Medicine Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-abdul-hannan-tareque.jpg"
+}

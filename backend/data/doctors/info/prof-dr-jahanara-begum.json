@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (OBGYN)",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Professor (Ex), Gynecology & Obstetrics",
+    "name": "Prof. Dr. Jahanara Begum",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/prof-dr-jahanara-begum.jpg"
+}

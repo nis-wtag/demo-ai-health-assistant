@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Janani Homeo Medicare",
+            "address": {
+                "name": "House # 02, Road # 04, Mirpur 10, Roundabout,, Dhaka",
+                "longitude": 90.3697085,
+                "latitude": 23.8149851
+            },
+            "contact": "+8801991508827",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)"
+    ],
+    "designation": "Medical Officer(Homeopathic)",
+    "name": "Dr. Momtaz Akter",
+    "speciality": "Child, Gynecology & Infertility Specialist (Homeopathy)",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/dr-momtaz-akter.jpg"
+}

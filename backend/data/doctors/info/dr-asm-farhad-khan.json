@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Savar",
+            "address": {
+                "name": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+                "longitude": 90.35976,
+                "latitude": 23.76493
+            },
+            "contact": "+88 09610009613",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Centre, Kushtia",
+            "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+            "contact": "+8809666787817",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. ASM Farhad Khan",
+    "speciality": "Kidney Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-asm-farhad-khan.jpg"
+}

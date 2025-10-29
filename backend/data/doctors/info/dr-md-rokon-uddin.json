@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801765389249",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MCPS",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Md. Rokon Uddin",
+    "speciality": "Medicine, Diabetes & Rheumatology Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-rokon-uddin.jpg"
+}

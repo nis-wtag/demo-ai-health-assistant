@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Motijheel",
+            "address": {
+                "name": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+                "longitude": 90.4174733,
+                "latitude": 23.7418769
+            },
+            "contact": "10653",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801727666741",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MCPS (Medicine)",
+        "MD (Neurology)",
+        "FCPS (Neurology)",
+        "MACP",
+        "MAAN (USA)",
+        "Fellow Parkinson's & Movement Disorder (Malaysia)"
+    ],
+    "designation": "Assistant Professor, Neurology",
+    "name": "Dr. Imran Sarker",
+    "speciality": "Neurologist, Parkinson's & Movement Disorder Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-imran-sarker.jpg"
+}

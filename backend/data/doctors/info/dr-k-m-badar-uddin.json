@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801815380048",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Health View Diagnostic & Consultation Center",
+            "address": {
+                "name": "Taherabad R/A, Aturar Depo, Panchlaish, Chattogram",
+                "longitude": 90.401771,
+                "latitude": 23.748805
+            },
+            "contact": "+8801812379384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. K. M. Badar Uddin",
+    "speciality": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+    "workplace": "Chakaria Upazila Health Complex, Cox's Bazar",
+    "image": "image/dr-k-m-badar-uddin.jpg"
+}

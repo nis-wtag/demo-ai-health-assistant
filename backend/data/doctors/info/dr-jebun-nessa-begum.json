@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Jebun Nessa Begum",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-jebun-nessa-begum.jpg"
+}

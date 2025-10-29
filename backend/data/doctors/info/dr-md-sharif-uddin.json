@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic Limited, Sylhet",
+            "address": {
+                "name": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801927867934",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "CCD",
+        "MACC"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Md. Sharif Uddin",
+    "speciality": "Heart Diseases, Medicine & Diabetes Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-md-sharif-uddin.jpg"
+}

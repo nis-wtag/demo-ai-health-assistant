@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Sensiv Private Limited, Chittagong",
+            "address": {
+                "name": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+                "longitude": 74.98151,
+                "latitude": 29.327893
+            },
+            "contact": "+8801772500760",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP (Medicine)",
+        "CCD (BIRDEM)",
+        "PGT (Diabetology)",
+        "Training (Malaysia)"
+    ],
+    "designation": "Diabetes Specialist",
+    "name": "Dr. Md. Elias Talukder",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Chittagong Diabetic General Hospital",
+    "image": "image/dr-md-elias-talukder.jpg"
+}

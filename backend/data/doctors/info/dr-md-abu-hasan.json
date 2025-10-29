@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Hathazari",
+            "address": {
+                "name": "Hathazari N Johur Shopping Complex, Kachari Road, Hathazari, Chattogram",
+                "longitude": 91.735554,
+                "latitude": 22.471724
+            },
+            "contact": "+8801755666943",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Green Health Hospital & Diagnostic Center",
+            "address": {
+                "name": "Fatepur, Modonhat, Hathazari, Chattogram",
+                "longitude": 88.232376,
+                "latitude": 22.283494
+            },
+            "contact": "+8801864491318",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Orthopedic Surgeon",
+    "name": "Dr. Md. Abu Hasan",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-abu-hasan.jpg"
+}

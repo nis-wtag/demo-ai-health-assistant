@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 6, Uttara, Dhaka",
+                "longitude": 90.422801,
+                "latitude": 23.710957
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Uttara Crescent Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+                "longitude": 90.4001501,
+                "latitude": 23.8678692
+            },
+            "contact": "+8801917704150",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH (Epidemiology)",
+        "MS (Obs & Gynae)",
+        "FACS (USA)"
+    ],
+    "designation": "Professor & Unit Head, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Munira Ferdausi",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/prof-dr-munira-ferdausi.jpg"
+}

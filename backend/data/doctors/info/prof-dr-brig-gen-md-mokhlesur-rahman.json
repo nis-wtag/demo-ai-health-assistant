@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "Fellowship Gastroenterology & Hepatology (PAK)"
+    ],
+    "designation": "Former Professor & Head, Gastroenterology",
+    "name": "Prof. Dr. Brig. Gen. Md. Mokhlesur Rahman",
+    "speciality": "Gastroenterology, Medicine & Liver Diseases Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-dr-brig-gen-md-mokhlesur-rahman.jpg"
+}

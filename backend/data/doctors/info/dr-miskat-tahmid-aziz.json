@@ -1,0 +1,125 @@
+{
+    "chambers": [
+        {
+            "place": "Alif Hospital & Diagnostic Center",
+            "address": {
+                "name": "Ishaque Complex, Kalabagan, Rangamati Road, Hathazari, Chattogram",
+                "longitude": 91.8326915,
+                "latitude": 22.507271
+            },
+            "contact": "+8801823512145",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Silva Diagnostic Center",
+            "address": {
+                "name": "Mazar Gate, Station Road, Sarkarhat, Hathazari, Chittagong",
+                "longitude": 91.7949231,
+                "latitude": 22.4708073
+            },
+            "contact": "+8801833481762",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Khwaja Pharmacy",
+            "address": {
+                "name": "Madanhat, Lamar Bazar, Meher Nigar Road, Hathazari, Chittagong",
+                "longitude": 92.026916,
+                "latitude": 22.795468
+            },
+            "contact": "+8801837713378",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Peerless Diagnostic Center",
+            "address": {
+                "name": "1504, O.R Nizam Road, Golpahar, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801823986447",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "FCGP (Family Medicine)",
+        "ACLS (USA)",
+        "CMU (BMRC)",
+        "PGT (Internal Medicine)",
+        "Msc in Diabetes (UK)",
+        "Fellowship in Diabetes (London)",
+        "Advanced Certificate Course on Diabetology (India)",
+        "Fellowship in Family Medicine (Singapore)"
+    ],
+    "designation": "Consultant, Family Medicine",
+    "name": "Dr. Miskat Tahmid Aziz",
+    "speciality": "Diabetes, Hormone & Family Medicine Specialist",
+    "workplace": "Peerless Diagnostic Center Limited",
+    "image": "image/dr-miskat-tahmid-aziz.jpg"
+}

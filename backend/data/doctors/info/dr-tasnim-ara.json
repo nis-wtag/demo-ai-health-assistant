@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Associate Professor, Hepatology",
+    "name": "Dr. Tasneem Ara",
+    "speciality": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-tasnim-ara.jpg"
+}

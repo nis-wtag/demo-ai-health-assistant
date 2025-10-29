@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Uttara Crescent Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+                "longitude": 90.4001501,
+                "latitude": 23.8678692
+            },
+            "contact": "+8809666710665",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)",
+        "MACE (USA)"
+    ],
+    "designation": "Associate Professor, Endocrinology",
+    "name": "Dr. Shahjada Selim",
+    "speciality": "Diabetes, Thyroid Disorders, Obesity, Metabolic Disorders, Sexual Dysfunctions Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-shahjada-selim.jpg"
+}

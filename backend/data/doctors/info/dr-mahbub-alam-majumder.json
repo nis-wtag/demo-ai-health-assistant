@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Consultant, Nephrology",
+    "name": "Dr. Mahbub Alam Majumder",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Dhaka Pain Physiotherapy & Rehabilitation Center",
+    "image": "image/dr-mahbub-alam-majumder.jpg"
+}

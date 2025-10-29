@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Dhanmondi 15/A",
+            "address": {
+                "name": "House # 68, Road -15/A, Sankar, Dhanmondi R/A, Dhaka",
+                "longitude": 90.365705,
+                "latitude": 23.749588
+            },
+            "contact": "+8809610009630",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "FCPS (Reproductive Endocrinology & Infertility)",
+        "Diploma in Infertility",
+        "MBBS",
+        "BCS",
+        "MCPS",
+        "FCPS",
+        "MRCOG (UK)"
+    ],
+    "designation": "Associate Professor of Gynae, Obs & Infertility",
+    "name": "Dr. Jesmin Iqbal (Jui)",
+    "speciality": "Gynecologist, Obstetrician, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-jesmin-iqbal-jui.jpg"
+}

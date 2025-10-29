@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8809611996699",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (Edin)"
+    ],
+    "designation": "General & Laparoscopic Surgeon",
+    "name": "Prof. Dr. ABM Jamal",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-abm-jamal.jpg"
+}

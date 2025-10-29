@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka – 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (PSYCHIATRY)"
+    ],
+    "designation": "Professor (Department of Psychiatry)",
+    "name": "Prof. Dr. Sultana Algin",
+    "speciality": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-sultana-algin.jpg"
+}

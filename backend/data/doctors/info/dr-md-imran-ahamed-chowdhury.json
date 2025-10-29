@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Imran's Dental Care",
+            "address": "4th Floor (Noorjahan Hospital), Dargah Gate, Sylhet",
+            "contact": "+8801717542450",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (ShSMC)",
+        "Trained in Dental Implant",
+        "Advanced training on Root Canal Treatment & Teeth Whitening"
+    ],
+    "designation": "Lecturer (Department of Dental Anatomy)",
+    "name": "Dr. Md. Imran Ahamed Chowdhury",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Sylhet Central Dental college & Hospital, Sylhet",
+    "image": "image/dr-md-imran-ahamed-chowdhury.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+            "contact": "+8801828880299",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "DCH (CU)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Rasheda Begum",
+    "speciality": "Newborn, Child Diseases & Diabetes Specialist",
+    "workplace": "Chittagong Diabetic General Hospital",
+    "image": "image/dr-rasheda-begum.jpg"
+}

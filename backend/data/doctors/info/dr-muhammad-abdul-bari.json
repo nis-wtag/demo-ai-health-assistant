@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)",
+        "MD (Internal Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Associate Professor, Department of Medicine",
+    "name": "Dr. Muhammad Abdul Bari",
+    "speciality": "Medicine Specialist & Diabetologist",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-muhammad-abdul-bari.jpg"
+}

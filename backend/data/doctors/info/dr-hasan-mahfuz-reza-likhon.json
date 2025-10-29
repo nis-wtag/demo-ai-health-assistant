@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "Centre For Hormone Care",
+            "address": {
+                "name": "Sono Consultation Centre, Sono Tower-2, Room 502, Courtpara, Kushtia",
+                "longitude": 89.11943,
+                "latitude": 23.9028
+            },
+            "contact": "+8801799694760",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD",
+        "DEM",
+        "MPhil",
+        "MACP",
+        "MSc",
+        "MPH"
+    ],
+    "designation": "Consultant Endocrinologist",
+    "name": "Dr. Hasan Mahfuz Reza (Likhon)",
+    "speciality": "Diabetes, Thyroid, Hormone & Medicine Specialist",
+    "workplace": "Sono Consultation Centre, Kushtia",
+    "image": "image/dr-hasan-mahfuz-reza-likhon.jpg"
+}

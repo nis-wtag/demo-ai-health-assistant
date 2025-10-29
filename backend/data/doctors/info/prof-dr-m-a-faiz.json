@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+8801946713377",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "PhD (UK)",
+        "FRCP (UK)"
+    ],
+    "designation": "Former Professor & Head, Medicine",
+    "name": "Prof. Dr. M. A. Faiz",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-m-a-faiz.jpg"
+}

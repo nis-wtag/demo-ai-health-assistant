@@ -1,0 +1,73 @@
+{
+    "chambers": [
+        {
+            "place": "Central Hospital, Dhanmondi",
+            "address": "Room 240, House # 02, Road # 05, Green Road, Dhanmondi, Dhaka",
+            "contact": "+8801622351235",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Sonia Nursing Home, Tangail",
+            "address": {
+                "name": "New Bus Stand (Opposite of Janata Bank), Tangail",
+                "longitude": 89.9151479,
+                "latitude": 24.2507461
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "MD (Endocrinology & Metabolism)",
+        "MACE (USA)"
+    ],
+    "designation": "Consultant Endocrinologist , Department of Endocrinology",
+    "name": "Dr. Md. Mahmud Hasan",
+    "speciality": "Endocrinologist (Diabetes, Thyroid, Obesity & Hormone Specialist)",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-mahmud-hasan-lenin.jpg"
+}

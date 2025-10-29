@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Diabetic Association General Hospital",
+            "address": {
+                "name": "Jhautola Mor, Laxmipur, Rajshahi",
+                "longitude": 91.174227,
+                "latitude": 23.465501
+            },
+            "contact": "+8801712567334",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MPH",
+        "FICD"
+    ],
+    "designation": "Surgeon, Dental Surgery",
+    "name": "Dr. Md. Roknuzzaman Ripon",
+    "speciality": "Oral & Dental Disease Specialist",
+    "workplace": "Rajshahi Diabetic Association General Hospital",
+    "image": "image/dr-md-roknuzzaman-ripon.jpg"
+}

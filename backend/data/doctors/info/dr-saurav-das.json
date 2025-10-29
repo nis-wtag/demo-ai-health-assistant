@@ -1,0 +1,28 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology) BSMMU",
+        "MACP",
+        "MRCP-UK (PACES)",
+        "FCPS (FP)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Saurav Das",
+    "speciality": "Clinical and Interventional Cardiologist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-saurav-das.jpg"
+}

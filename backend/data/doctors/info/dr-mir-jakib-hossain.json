@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Associate Professor & Head of the Gastroenterology Unit",
+    "name": "Assoc. Prof. Dr. Mir Jakib Hossain",
+    "speciality": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-mir-jakib-hossain.jpg"
+}

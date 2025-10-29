@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mediland Diagnostic Center",
+            "address": {
+                "name": "Opposite to Sarak Bhaban, Dhap, Jail Road, Rangpur",
+                "longitude": 89.236612,
+                "latitude": 25.763657
+            },
+            "contact": "+8801748245562",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Md. Hamidul Islam",
+    "speciality": "General, Colorectal, Breast & Laparoscopic Surgery Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-hamidul-islam-surgeon.jpg"
+}

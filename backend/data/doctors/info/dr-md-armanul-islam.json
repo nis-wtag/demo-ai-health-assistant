@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "29 (Opposite to Shyamoli Shishu Mela), Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.3657562,
+                "latitude": 23.7715302
+            },
+            "contact": "+8801793035635",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:45",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FACS (USA)",
+        "FICS (USA)",
+        "FMAS (India)",
+        "BCS (Health)"
+    ],
+    "designation": "Resident Surgeon, Colorectal Surgery Department",
+    "name": "Dr. Md. Armanul Islam",
+    "speciality": "Laser Colorectal, Breast, Laparoscopic and General surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-md-armanul-islam.jpg"
+}

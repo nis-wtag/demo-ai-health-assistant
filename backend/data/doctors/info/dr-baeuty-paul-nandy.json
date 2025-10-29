@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "People's Hospital, Chittagong",
+            "address": {
+                "name": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801923829051",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MCPS (OBGYN)"
+    ],
+    "designation": "Senior Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Beauty Paul Nandy",
+    "speciality": "Obstetrics, Gynecology Specialist & Surgeon",
+    "workplace": "Jemison Red Crescent Maternity Hospital, Chittagong",
+    "image": "image/dr-baeuty-paul-nandy.jpg"
+}

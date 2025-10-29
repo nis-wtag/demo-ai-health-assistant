@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Nayasarak, Sylhet",
+            "address": {
+                "name": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+88 01718973110",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD (NICVD)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Md. Mosharul Haque",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-mosharul-haque.jpg"
+}

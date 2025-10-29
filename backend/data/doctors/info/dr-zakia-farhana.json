@@ -1,0 +1,113 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": "Room 311, 1/1-B, Kallyanpur, Mirpur Road, Dhaka-1216",
+            "contact": "+8801703725590",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Hospital, Motijheel",
+            "address": {
+                "name": "Room 403, 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+                "longitude": 90.4174733,
+                "latitude": 23.7418769
+            },
+            "contact": "+8801727666741",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RU)",
+        "DO (BSMMU)",
+        "Long Term Fellowship in Glaucoma (VIH)",
+        "Special Training in Cataract, Phaco & Refractive Surgery"
+    ],
+    "designation": "Registrar & Consultant, Ophthalmology",
+    "name": "Dr. Zakia Farhana",
+    "speciality": "Eye (Glaucoma) Specialist & Surgeon",
+    "workplace": "Ibn Sina Medical College & Hospital",
+    "image": "image/dr-zakia-farhana.jpg"
+}
