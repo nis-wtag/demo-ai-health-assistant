@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ultra Assay Diagnostic Center",
+            "address": "36, .Fazlul Quader Road, Medical Staff Quarter, Chattogram",
+            "contact": "+8801680615880",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MPH (DU)",
+        "PGT (BSMMU)"
+    ],
+    "designation": "Lecturer, SDM",
+    "name": "Dr. Shihab Uzzaman",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chattogram International Dental College",
+    "image": "image/dr-shihab-uzzaman.jpg"
+}

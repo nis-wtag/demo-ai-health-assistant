@@ -1,0 +1,22 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+            "contact": "+8801841906010",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD",
+        "MCPS",
+        "MPhil",
+        "WHO Fellowship (Thailand)"
+    ],
+    "designation": "Chest Diseases & Pathology Specialist",
+    "name": "Dr. Md. Kamrul Hasan Ponir",
+    "speciality": "Chest Diseases & Pathology Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-kamrul-hasan-ponir.jpg"
+}

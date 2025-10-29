@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        },
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801731630215",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Thoracic Surgery)"
+    ],
+    "designation": "Associate Professor, Cardiovascular Surgery",
+    "name": "Dr. A.K.M Akramul Haque",
+    "speciality": "Thoracic, Pulmonary, Pleural & Esophageal Surgery Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/dr-a-k-m-akramul-haque.jpg"
+}

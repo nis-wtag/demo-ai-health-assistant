@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Mirpur General Hospital & Diagnostic Center",
+            "address": {
+                "name": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+                "longitude": 90.401863,
+                "latitude": 23.85907
+            },
+            "contact": "+8801610964966",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP (Medicine)",
+        "MD (Dermatology)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant (Dermatology)",
+    "name": "Dr. Tanvir Ahmed Siddiqui",
+    "speciality": "Skin, Sex, Allergy, Medicine & Diabetes Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-tanvir-ahmed-siddiqui.jpg"
+}

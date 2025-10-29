@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Mirpur",
+            "address": {
+                "name": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+                "longitude": 90.35710284999999,
+                "latitude": 23.8071276
+            },
+            "contact": "+8801722617404",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Centre, Kushtia",
+            "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+            "contact": "+8809666787817",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Fellow - Laparoscopic Surgery (India)",
+        "Fellow - Pelvic Floor Reconstruction Surgery (Germany)",
+        "Life Member - SOSB (BD)",
+        "SELSB (BD)",
+        "ASI (India)",
+        "AMASI (India)",
+        "ACRSI (India)"
+    ],
+    "designation": "Assistant Professor, Colorectal Surgery",
+    "name": "Dr. Subal Chandra Paul",
+    "speciality": "Colorectal, Advance Laparoscopic Surgeon & Laser Proctologist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-subal-chandra-paul.jpg"
+}

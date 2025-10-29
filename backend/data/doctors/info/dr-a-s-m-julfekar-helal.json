@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)",
+        "CCD (BIRDEM)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Associate Professor, Nephrology",
+    "name": "Dr. A.S.M. Julfekar Helal",
+    "speciality": "Kidney, Diabetes & Medicine Specialist",
+    "workplace": "TMSS Medical College & Hospital",
+    "image": "image/dr-a-s-m-julfekar-helal.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Chittagong Eye Infirmary & Training Complex",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram - 4202",
+                "longitude": 91.830001,
+                "latitude": 22.361585
+            },
+            "contact": "+8802334466011",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO (BSMMU)",
+        "FPOS (India)",
+        "Fellowship in Pediatric Ophthalmology & Strabismus (Inida)"
+    ],
+    "designation": "Consultant, Pediatric Ophthalmology",
+    "name": "Dr. Farhadul Alam",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Chittagong Eye Infirmary & Training Complex",
+    "image": "image/dr-farhadul-alam.jpg"
+}

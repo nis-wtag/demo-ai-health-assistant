@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Farazy Diagnostic & Hospital, Natun Bazar",
+            "address": {
+                "name": "1204, Madani Avenue, 100 Feet Road, Vatara, Natun Bazar, Dhaka",
+                "longitude": 74.754293,
+                "latitude": 13.3102
+            },
+            "contact": "+8801635995555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)",
+        "MACP (USA)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Nephrology",
+    "name": "Dr. Sheikh Imran Hossen",
+    "speciality": "Kidney Diseases Specialist (Nephrologist)",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-sheikh-imran-hossen.jpg"
+}

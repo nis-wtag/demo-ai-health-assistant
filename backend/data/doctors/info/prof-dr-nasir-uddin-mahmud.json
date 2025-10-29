@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Professor, Pediatrics",
+    "name": "Prof. Dr. Nasir Uddin Mahmud",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-nasir-uddin-mahmud.jpg"
+}

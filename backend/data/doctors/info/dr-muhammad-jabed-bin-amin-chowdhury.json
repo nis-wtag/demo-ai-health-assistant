@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban (3rd Floor), Room-318, Block-B, O.R. Nizam Road, Chattogram",
+                "longitude": 91.822045,
+                "latitude": 22.357872
+            },
+            "contact": "+8801674302839",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Pediatrics)",
+        "BCS (Health)"
+    ],
+    "designation": "Assistant Professor (Pediatrics)",
+    "name": "Dr. Muhammad Jabed Bin Amin Chowdhury",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-muhammad-jabed-bin-amin-chowdhury.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "MCPS (Pathology)",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Assistant Professor & Head, Hepatology",
+    "name": "Dr. Morsed Zaman Miah",
+    "speciality": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-m-morsed-zaman-miah.jpg"
+}

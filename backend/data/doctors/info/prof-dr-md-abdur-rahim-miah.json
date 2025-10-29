@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Digilab Medical Services Ltd, Mirpur",
+            "address": {
+                "name": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
+                "longitude": 90.4262332,
+                "latitude": 23.7469552
+            },
+            "contact": "+8801626792323",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Professor & Ex. Chairman (Gastroenterology)",
+    "name": "Prof. Dr. Md. Abdur Rahim Miah",
+    "speciality": "Gastroenterology, Liver Diseases & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-md-abdur-rahim-miah.jpg"
+}

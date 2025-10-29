@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PhD (Neurosurgery)"
+    ],
+    "designation": "Professor & Head, Pediatric Neurosurgery",
+    "name": "Prof. Dr. Sheikh Muhammad Ekramullah",
+    "speciality": "Brain, Spine & Pediatric Neurosurgery Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/prof-dr-sheikh-muhammad-ekramullah.jpg"
+}

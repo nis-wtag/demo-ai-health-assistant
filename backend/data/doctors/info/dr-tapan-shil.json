@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+88031658501",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MCPS (Medicine)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Tapan Shil",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-tapan-shil.jpg"
+}

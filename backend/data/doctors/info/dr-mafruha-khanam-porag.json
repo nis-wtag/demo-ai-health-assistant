@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": {
+                "name": "Unit 2, Room # 421, 53/1, Panchlaish, Chattogram",
+                "longitude": 91.8343558,
+                "latitude": 22.3625353
+            },
+            "contact": "+8801711208859",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MCPS (OBGYN)",
+        "MS (OBGYN)"
+    ],
+    "designation": "Associate Professor & Head, Gynecology & Obstetrics",
+    "name": "Dr. Mafruha Khanam Porag",
+    "speciality": "Infertility Specialist & Gynecologist",
+    "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+    "image": "image/dr-mafruha-khanam-porag.jpg"
+}

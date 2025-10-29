@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Comilla",
+            "address": {
+                "name": "Laksam Road, Cumilla",
+                "longitude": 91.1740901,
+                "latitude": 23.441231
+            },
+            "contact": "+8801917179434",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Psychiatry)",
+        "FRSH (London)",
+        "PGT (Medicine)"
+    ],
+    "designation": "Associate Professor & Head, Psychiatry",
+    "name": "Dr. Md. Azizur Rahman",
+    "speciality": "Psychiatry Specialist",
+    "workplace": "Eastern Medical College & Hospital",
+    "image": "image/dr-md-azizur-rahman-roman.jpg"
+}

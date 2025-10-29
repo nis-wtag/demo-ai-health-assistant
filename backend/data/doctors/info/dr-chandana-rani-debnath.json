@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801521782053",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Chandana Rani Debnath",
+    "speciality": "Infertility, Gynecology Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-chandana-rani-debnath.jpg"
+}

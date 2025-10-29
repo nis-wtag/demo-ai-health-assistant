@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MS (ORTHO)"
+    ],
+    "designation": "Professor & Head, Orthopedics",
+    "name": "Prof. Dr. Hamidul Haque Khandker",
+    "speciality": "Bone-Joint, Injury, Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/prof-dr-hamidul-haque-khandker.jpg"
+}

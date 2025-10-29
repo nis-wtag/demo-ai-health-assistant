@@ -1,0 +1,123 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)",
+        "FACS (USA)"
+    ],
+    "designation": "Professor & Head, Dept. of Urology",
+    "name": "Prof. Dr. Md Saifuddin Ahmed Siddique (Suza)",
+    "speciality": "Urology (Kidney, Prostate, Ureter, Hernia, Scrotum) Specialist & Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/prof-dr-md-saifuddin-ahmed-siddique-suza.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Milton Kumer Saha",
+    "speciality": "Specialist Neurosurgeon",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-milton-kumer-saha.jpg"
+}

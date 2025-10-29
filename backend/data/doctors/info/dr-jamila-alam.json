@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "DGO (BSMMU)",
+        "MCPS (OBGYN)"
+    ],
+    "designation": "Professor of Gynecology",
+    "name": "Prof. Dr. Jamila Alam",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/dr-jamila-alam.jpg"
+}

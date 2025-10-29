@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT",
+        "MPH",
+        "LU (OM&S)"
+    ],
+    "designation": "Consultant, Dental",
+    "name": "Dr. M. A. Shahed",
+    "speciality": "Dental, Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Ibn Sina Hospital Sylhet Limited",
+    "image": "image/dr-m-a-shahed.jpg"
+}

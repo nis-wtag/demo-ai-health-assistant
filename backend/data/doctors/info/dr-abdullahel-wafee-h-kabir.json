@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-ORTHO",
+        "FCGP (Medicine)",
+        "PGT (General, Plastic & Hand Surgery)"
+    ],
+    "designation": "Assistant Registrar, Orthopedics & Trauma",
+    "name": "Dr. Abdullahel Wafee H.Kabir",
+    "speciality": "Bone Joint, Trauma Spine Specialist & Surgeon",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/dr-abdullahel-wafee-h-kabir.jpg"
+}

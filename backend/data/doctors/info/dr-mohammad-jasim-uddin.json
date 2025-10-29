@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Medi-Aid Diagnostic & Consultation Center",
+            "address": {
+                "name": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+                "longitude": 91.85357672746755,
+                "latitude": 24.90202515
+            },
+            "contact": "+8801711275902",
+            "visiting_hours": null
+        },
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet – 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801715944733",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Mohammad Jasim Uddin",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-mohammad-jasim-uddin.jpg"
+}

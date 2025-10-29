@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Moner Khabor For Care (MK4C)",
+            "address": {
+                "name": "Navana Barek Carmela (Level 3), 11, Moghbazar Road, Dhaka",
+                "longitude": 90.4127822,
+                "latitude": 23.7497222
+            },
+            "contact": "+8801858727030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Psychiatry)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Professor & Ex. Chairman, Department of Psychiatry",
+    "name": "Prof. Dr. Shalahuddin Qusar Biplob",
+    "speciality": "Psychiatric Disorders, Sexual Problems & Drug Addiction Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-shalahuddin-qusar-biplob.jpg"
+}

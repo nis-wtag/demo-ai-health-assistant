@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Araf Specialised Dental Care",
+            "address": {
+                "name": "96/D (3rd Floor), Road # 10, Shantibag R/A, Agrabad, Chittagong",
+                "longitude": 86.822679,
+                "latitude": 23.438639
+            },
+            "contact": "+8801535220648",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (CU)"
+    ],
+    "designation": "Dental Surgeon, Conservative Dentistry",
+    "name": "Dr. Md. Sifat Uddin",
+    "speciality": "General Dentistry (Fillings, Root Canals, Extractions) Specialist",
+    "workplace": "Araf Specialised Dental Care",
+    "image": "image/dr-md-sifat-uddin.jpg"
+}

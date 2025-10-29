@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712934739",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Labmed Diagnostic Center, Natore",
+            "address": {
+                "name": "Boro Horishpur (Near Goni Petrol Pump), Natore Sadar, Natore",
+                "longitude": 88.98673,
+                "latitude": 24.41112
+            },
+            "contact": "+8801767405380",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. H.N.M Shafiquzzaman",
+    "speciality": "General, Laparoscopic, Laser & Colorectal Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-h-n-m-shafikuzzaman.jpg"
+}

@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DCH",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Mohammad Shohel",
+    "speciality": "Neonatal & Pediatrics Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-mohammad-shohel.jpg"
+}

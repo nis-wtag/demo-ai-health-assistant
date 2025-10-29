@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. Md. Enamul Kabir",
+    "speciality": "Kidney Diseases Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-md-enamul-kabir.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shapla Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Greater Road, Laxmipur, Kazihata, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801732688664",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil (Radiotherapy)",
+        "FRCS (EDIN)",
+        "FRCP (EDIN)"
+    ],
+    "designation": "Assistant Professor, Oncology",
+    "name": "Dr. Rawshan Ara Khatun",
+    "speciality": "Cancer Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-rawshan-ara-khatun.jpg"
+}

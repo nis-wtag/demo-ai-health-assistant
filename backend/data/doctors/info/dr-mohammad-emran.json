@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": {
+                "name": "Unit 2, 53/1, Panchlaish, Chattogram – 4203",
+                "longitude": 91.8343731,
+                "latitude": 22.3967454
+            },
+            "contact": "+8801881667776",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DLO (BSMMU)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. Mohammad Emran",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mohammad-emran.jpg"
+}

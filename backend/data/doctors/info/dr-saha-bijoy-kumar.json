@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Baraka Diagnostic & Hospital Complex Ltd.",
+            "address": {
+                "name": "40, Shahid Faruque Road, North Jatrabari, Dhaka - 1204",
+                "longitude": 90.43459887693214,
+                "latitude": 23.71072195
+            },
+            "contact": "+8801963505955",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (SKIN & VD)"
+    ],
+    "designation": "Former Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Saha Bijoy Kumar",
+    "speciality": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-saha-bijoy-kumar.jpg"
+}

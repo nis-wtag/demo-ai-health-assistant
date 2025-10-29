@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rangpur",
+            "address": {
+                "name": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+                "longitude": 89.241459,
+                "latitude": 25.7569808
+            },
+            "contact": "+8801843786848",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "Registrar, ENT",
+    "name": "Dr. Md. Akimul Islam",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-akimul-islam.jpg"
+}

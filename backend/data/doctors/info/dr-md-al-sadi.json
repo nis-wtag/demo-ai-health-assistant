@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD",
+        "DEM (BIRDEM)",
+        "MAC (USA)"
+    ],
+    "designation": "Diabetes & Hormone Specialist",
+    "name": "Dr. Md. Al-Sadi",
+    "speciality": "Endocrinologist",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-md-al-sadi.jpg"
+}

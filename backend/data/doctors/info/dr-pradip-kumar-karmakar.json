@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)",
+        "MCPS (Medicine)",
+        "FACC (USA)",
+        "FESC (EU)",
+        "FSCAI (USA)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Pradip Kumar Karmakar",
+    "speciality": "Clinical & Interventional Cardiologist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-pradip-kumar-karmakar.jpg"
+}

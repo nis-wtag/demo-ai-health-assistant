@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Midland Hospital, Comilla",
+            "address": {
+                "name": "Laksam Road, Ramghat, Kandirpar, Cumilla",
+                "longitude": 91.065709,
+                "latitude": 23.21595
+            },
+            "contact": "+8801711795740",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Dept of Surgery",
+    "name": "Dr. Sujit Kumar Saha",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-sujit-kumar-saha.jpg"
+}

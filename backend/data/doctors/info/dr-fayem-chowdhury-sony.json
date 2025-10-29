@@ -1,0 +1,100 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FACS (USA)",
+        "MS (Colorectal Surgery)",
+        "Advanced Colorectal Training (Singapore)",
+        "Fellow,Laparoscopy Hernia & Endoscopic Surgery (India)"
+    ],
+    "designation": "Senior Consultant (Surgery)",
+    "name": "Dr. Fayem Chowdhury (Sony)",
+    "speciality": "Colorectal (Piles, Fistula, Rectum, Colon) & Laser Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-fayem-chowdhury-sony.jpg"
+}

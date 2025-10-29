@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801876097271",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801814651077",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Radiotherapy)"
+    ],
+    "designation": "Resident Surgeon, Radiotherapy",
+    "name": "Dr. Jannatun Nisa",
+    "speciality": "Cancer Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-jannatun-nisa.jpg"
+}

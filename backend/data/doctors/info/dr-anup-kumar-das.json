@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Super Medical Hospital, Savar",
+            "address": {
+                "name": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+                "longitude": 90.246659,
+                "latitude": 23.841412
+            },
+            "contact": "+8801711266169",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "D-CARD (BSMMU)",
+        "FCPS (Medicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Junior Consultant, Cardiology",
+    "name": "Dr. Anup Kumar Das",
+    "speciality": "Cardiology, Diabetes & Medicine Specialist",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-anup-kumar-das.jpg"
+}

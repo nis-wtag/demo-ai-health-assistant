@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (General Dentistry)"
+    ],
+    "designation": "Dental Specialist",
+    "name": "Dr. Najran Kader Chowdhari",
+    "speciality": "Dental Specialist",
+    "workplace": "Khidmah Hospital, Dhaka",
+    "image": "image/dr-najran-kader-chowdhari.jpg"
+}

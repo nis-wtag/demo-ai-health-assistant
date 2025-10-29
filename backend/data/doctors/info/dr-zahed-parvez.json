@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Zahed's Hair & Skin Clinic",
+            "address": {
+                "name": "Health & Hope Hospital, 152/1/H Panthapath, Green Road, Dhaka-1205",
+                "longitude": -79.938642,
+                "latitude": 34.133695
+            },
+            "contact": "+8801567845419",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH (NIPSOM)",
+        "DDV (DU)"
+    ],
+    "designation": "Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Zahed Parvez",
+    "speciality": "Skin, Sexual Diseases Specialist & Hair Transplant Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-zahed-parvez.jpg"
+}

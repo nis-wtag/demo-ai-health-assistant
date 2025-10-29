@@ -1,0 +1,109 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Shumi & Genesis",
+            "address": {
+                "name": "AS Tower (Level-3), 553 Shishu Academy Road (Beside Mimi Super Market) Hillview R/A, Probortak Circle, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "01782666066",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Belle Vue Hospital, Chittagong",
+            "address": {
+                "name": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.83005755928912,
+                "latitude": 22.3634534
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:30"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road (East gate of Chittagong Medical College Hospital), Panchlaish, Chattogram",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MS (Gyne)",
+        "MSc in Sexual & Reproductive Medicine (UK)"
+    ],
+    "designation": "Assistant Professor (Gyne), Department of Obstetrics & Gynecology",
+    "name": "Farida Yasmin Shumi",
+    "speciality": "Obstetrician, Gynecologist, Infertility Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-farida-yasmin-shumi.jpg"
+}

@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801814651077",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Mohammad Kutubuddin",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mohammad-kutubuddin.jpg"
+}

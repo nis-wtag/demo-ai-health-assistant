@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "10617",
+            "visiting_hours": null
+        },
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Radiation Oncology)",
+        "DMRT (Radiotherapy)"
+    ],
+    "designation": "Managing Director & Senior Consultant, Oncology",
+    "name": "Prof. Dr. Qamruzzaman Chowdhury",
+    "speciality": "Cancer & Radiotherapy Specialist",
+    "workplace": "Ahsania Mission Cancer & General Hospital",
+    "image": "image/prof-dr-qamruzzaman-chowdhury.jpg"
+}

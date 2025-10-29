@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Prince Hospital, Khulna",
+            "address": {
+                "name": "31/A, KDA Avenue, Royal Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801775187335",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)",
+        "Fellow (Asian Epilepsy Academy)"
+    ],
+    "designation": "Consultant, Neurology",
+    "name": "Dr. Abdus Salam",
+    "speciality": "Neurology & Epilepsy Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-abdus-salam-neurology.jpg"
+}

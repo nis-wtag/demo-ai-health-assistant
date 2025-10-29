@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+8801931527252",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Shahed Iqbal",
+    "speciality": "Neonatal & Child Diseases Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-shahed-iqbal.jpg"
+}

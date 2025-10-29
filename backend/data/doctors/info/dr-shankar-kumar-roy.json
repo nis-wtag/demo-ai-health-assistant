@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic Limited, Sylhet",
+            "address": {
+                "name": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801766662727",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Associate Professor & Head, Orthopedics",
+    "name": "Dr. Shankar Kumar Roy",
+    "speciality": "Bone Joint, Trauma, Orthopedics Specialist & Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-shankar-kumar-roy.jpg"
+}

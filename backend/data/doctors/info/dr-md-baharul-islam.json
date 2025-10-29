@@ -1,0 +1,33 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        },
+        {
+            "place": "Rajshahi Model Hospital",
+            "address": {
+                "name": "United Plaza, Laxmipur Mor, Rajshahi",
+                "longitude": -58.583436,
+                "latitude": 48.5515
+            },
+            "contact": "+8801773844844",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "General & Laparoscopic Surgeon",
+    "name": "Dr. Md. Baharul Islam",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-baharul-islam.jpg"
+}

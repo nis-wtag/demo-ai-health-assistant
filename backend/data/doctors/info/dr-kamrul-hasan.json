@@ -1,0 +1,129 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809610847847",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "Room: 416A, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+8801304232507",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801632766389",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:30",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Clinical Hematology)",
+        "BCS (Health)",
+        "Fellowship in Pediatric Bone Marrow Transplant ((Tehran Medical University))"
+    ],
+    "designation": "Associate Professor & Head, Department of Hematology",
+    "name": "Dr. Md. Kamrul Hasan",
+    "speciality": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-kamrul-hasan-lohani.jpg"
+}

@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Falaq Diagnostic & Hospital, Mymensingh",
+            "address": {
+                "name": "55/5 (Medical College Gate), Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801737284876",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (HEALTH)",
+        "D-ORTHO (BSMMU)",
+        "AO Trauma (Basic)",
+        "AO Trauma (Advance)"
+    ],
+    "designation": "Resident Surgeon (Orthopedics)",
+    "name": "Dr. Zahid Hasan Hemal",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-zahid-hasan-hemal.jpg"
+}

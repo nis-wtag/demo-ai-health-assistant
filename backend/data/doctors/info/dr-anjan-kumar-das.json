@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Jamuna Homoeo Centre",
+            "address": {
+                "name": "City Corporation Market, Andarkilla, Chattogram",
+                "longitude": -83.827524,
+                "latitude": 34.08851
+            },
+            "contact": "+8801711959836",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS (BHB)",
+        "MBA",
+        "Silva Mind Control Graduate"
+    ],
+    "designation": "Secretary General",
+    "name": "Dr. Anjan Kumar Das",
+    "speciality": "Homeopathic Medicine Specialist",
+    "workplace": "Bangladesh Homoeopathic Parishad, Central Committee",
+    "image": "image/dr-anjan-kumar-das.jpg"
+}

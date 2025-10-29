@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Rahman Dental Surgery, Sylhet",
+            "address": "Temukhi Point (Above Banoful), Kumargao, Sylhet",
+            "contact": "+8801781113241",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Chief Consultant",
+    "name": "Dr. Mehdi Rahman",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Rahman Dental Surgery, Sylhet",
+    "image": "image/dr-mehdi-rahman.jpg"
+}

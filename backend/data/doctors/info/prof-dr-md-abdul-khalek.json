@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "10674",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Professor of Ophthalmology Department",
+    "name": "Prof. Dr. Md. Abdul Khalek",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-md-abdul-khalek.jpg"
+}

@@ -1,0 +1,121 @@
+{
+    "chambers": [
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Shafique Hospital, Pabna",
+            "address": {
+                "name": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+                "longitude": 89.198787,
+                "latitude": 23.445755
+            },
+            "contact": "+8801701654390",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": {
+                "name": "1/1 B, Kallyanpur, Dhaka",
+                "longitude": 90.3613321,
+                "latitude": 23.7806848
+            },
+            "contact": "+8801703725590",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "Ex. Consultant (ENT)",
+    "name": "Dr. Md. Atikur Rahman",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "ENT & Head-Neck Cancer Hospital & Institute",
+    "image": "image/dr-md-atikur-rahman.jpg"
+}

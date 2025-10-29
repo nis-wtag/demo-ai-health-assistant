@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801724563481",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgery)",
+        "FACS (USA)",
+        "FASCRS",
+        "Colorectal Fellow (USA)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Jawhar Lal Singha",
+    "speciality": "Rectal, Colon, Piles Specialist & Colorectal Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-jowhar-lal-sing.jpg"
+}

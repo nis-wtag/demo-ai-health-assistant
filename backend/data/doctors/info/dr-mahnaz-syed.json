@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "National Diagnostic Center, Sylhet",
+            "address": {
+                "name": "33, Arnob Mirer Moydan Point, Polica Line, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801737321777",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Lecturer, Pathology",
+    "name": "Dr. Mahnaz Syed",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-mahnaz-syed.jpg"
+}

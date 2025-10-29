@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "+8801810-004550",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "DCH (CU)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Md. Fazle Rabbi (Shihab)",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "BGC Trust Medical College, Chandanaish",
+    "image": "image/dr-md-fazle-rabbi-shihab.jpg"
+}

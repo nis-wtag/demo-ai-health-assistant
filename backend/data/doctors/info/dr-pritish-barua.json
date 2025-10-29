@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Shahjalal Diagnostic Clinic, Chittagong",
+            "address": {
+                "name": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+                "longitude": 91.811781,
+                "latitude": 22.324526
+            },
+            "contact": "+8801812506020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DGUM (UK)",
+        "DD (Australia)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Pritish Barua",
+    "speciality": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
+    "workplace": "Lab One Health Services, Chittagong",
+    "image": "image/dr-pritish-barua.jpg"
+}

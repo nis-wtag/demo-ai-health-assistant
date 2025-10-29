@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8809666787821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MS (Orthopedic Surgery)"
+    ],
+    "designation": "Resident Surgeon, Orthopedics & Traumatology",
+    "name": "Dr. Shibendu Mistry",
+    "speciality": "Orthopedic, Ilizarov, Arthroplasty, Arthroscopy, Spine & Trauma Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-shibendu-mistry.jpg"
+}

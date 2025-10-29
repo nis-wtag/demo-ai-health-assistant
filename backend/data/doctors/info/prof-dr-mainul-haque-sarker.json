@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "10658",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)",
+        "Board Certified in Neurosurgery (Hungary)"
+    ],
+    "designation": "Former Professor & Head, Neurosurgery",
+    "name": "Prof. Dr. Mainul Haque Sarker",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine Surgery) Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-mainul-haque-sarker.jpg"
+}

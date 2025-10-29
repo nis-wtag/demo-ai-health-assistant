@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Associate Professor, Gynecology & Obstetrics",
+    "name": "Dr. Eti Saha",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-eti-saha.jpg"
+}

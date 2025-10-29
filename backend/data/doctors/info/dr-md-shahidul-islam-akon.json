@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Manar Hospital Limited",
+            "address": {
+                "name": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801550020885",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedics)",
+        "AOSpine Fellow (India & Singapore)"
+    ],
+    "designation": "Associate Professor (Spine Surgery)",
+    "name": "Dr. Md. Shahidul Islam Akon",
+    "speciality": "Consultant Spine Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-shahidul-islam-akon.jpg"
+}

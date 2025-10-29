@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD",
+        "MD (Chest)",
+        "FRCP (Edin)",
+        "FCCP (America)",
+        "FWHO (Bangkok)"
+    ],
+    "designation": "Director, National Institute of Diseases of the Chest & Hospital (Ex), Departmental Head (Respiratory Medicine)",
+    "name": "Prof. Dr. A.K.M Mustafa Hussain",
+    "speciality": "Chest, Asthma, Medicine & TB Specialist",
+    "workplace": "Dhaka Medical College & Hospital, Dhaka (Ex)",
+    "image": "image/prof-dr-a-k-m-mustafa-hussain.jpg"
+}

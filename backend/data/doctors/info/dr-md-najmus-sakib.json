@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "Room 304, Puraton Bhaban, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8801929961960",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "MD (CARDIOLOGY)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant (Cardiology)",
+    "name": "Dr. Md. Najmus Sakib",
+    "speciality": "Clinical & Interventional Cardiologist and Rheumatic Fever Specialist",
+    "workplace": "Mohammad Ali Hospital, Bogra",
+    "image": "image/dr-md-najmus-sakib.jpg"
+}

@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Colorectal & Gastroenterology Centre",
+            "address": {
+                "name": "Rupayan Prime, Level: 08, Plot: 08, Road: 07, Green Road, Dhaka",
+                "longitude": 90.3851643,
+                "latitude": 23.7423978
+            },
+            "contact": "+8801614077044",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FMAS (India)",
+        "MASCRS (USA)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Mir Rasekh Alam Ovi",
+    "speciality": "General, Laparoscopic & Colorectal Surgeon",
+    "workplace": "OSD, DGHS, Attached: BSMMU",
+    "image": "image/dr-mir-rasekh-alam-ovi.jpg"
+}

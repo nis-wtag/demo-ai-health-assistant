@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room 502, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.3779588,
+                "latitude": 23.7429777
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine, Gold Medalist)",
+        "MRCP (UK)",
+        "MACP (USA)",
+        "CCD (BIRDEM)",
+        "EULAR Fellow (Rheumatology)"
+    ],
+    "designation": "Consultant (Medicine)",
+    "name": "Dr. Sayeef Hossain Khan Mark",
+    "speciality": "Medicine, Diabetes & Rheumatology Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-sayeef-hossain-khan-mark.jpg"
+}

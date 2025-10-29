@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DD (Japan & Thailand)"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. M M Insan",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-m-m-insan.jpg"
+}

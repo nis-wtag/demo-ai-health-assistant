@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+            "contact": "+88029672277",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MRCS (Edin)",
+        "MS (Surgical Oncology)"
+    ],
+    "designation": "Associate Professor, Surgical Oncology",
+    "name": "Dr. AKM Minhaj Uddin Bhuiyan",
+    "speciality": "Cancer & General Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-minhaj-bhuiyan.jpg"
+}

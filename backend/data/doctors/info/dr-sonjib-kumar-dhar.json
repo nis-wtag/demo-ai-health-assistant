@@ -1,0 +1,80 @@
+{
+    "chambers": [
+        {
+            "place": "Radiant Diagnostic & General Hospital Ltd",
+            "address": {
+                "name": "110, Baghmara, Brahmapalli Road, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801713211664",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "New Mediplus Hospital & Diagnostic Center",
+            "address": {
+                "name": "68/B, Baghmara Road, (Near to Jamia Islamia Madrasah at Charpara Mor), Mymensingh",
+                "longitude": -77.95373,
+                "latitude": 43.357996
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Paediatrics)"
+    ],
+    "designation": "Junior Consultant, Pediatrics",
+    "name": "Dr. Sonjib Kumar Dhar",
+    "speciality": "Newborn, Child & Adolescent Disease Specialist",
+    "workplace": "Haluaghat Upazila Health Complex, Mymensingh",
+    "image": "image/dr-sonjib-kumar-dhar.jpg"
+}

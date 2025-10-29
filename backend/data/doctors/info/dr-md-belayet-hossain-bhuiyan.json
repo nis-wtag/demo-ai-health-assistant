@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711144786",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Consultant, Psychiatry",
+    "name": "Dr. Md. Belayet Hossain Bhuiyan",
+    "speciality": "Psychiatry (Brain, Mind, Mental Diseases, Depression) Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/dr-md-belayet-hossain-bhuiyan.jpg"
+}

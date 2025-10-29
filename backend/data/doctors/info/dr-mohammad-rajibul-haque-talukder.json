@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Mohammad Rajibul Haque Talukder",
+    "speciality": "General, Laparoscopic, Colorectal & Diabetic Foot Surgery Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-mohammad-rajibul-haque-talukder.jpg"
+}

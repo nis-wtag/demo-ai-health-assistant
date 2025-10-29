@@ -1,0 +1,79 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Zigatola",
+            "address": {
+                "name": "21/3, Zigatola Bus Stand, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3808943,
+                "latitude": 23.739132
+            },
+            "contact": "+8801841710671",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "ICON Eye Hospital Ltd.",
+            "address": {
+                "name": "1220, Ghatarchor, After Bosila Bridge, Mohammadpur, Dhaka",
+                "longitude": 89.04115,
+                "latitude": 23.17219
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (BSMMU)",
+        "DMU",
+        "Long-term Fellowship in Cataract Surgery",
+        "Long-term Fellowship Oculoplasty & Ocular Oncology",
+        "Advance Training in Adnexa & Ocular Oncology (Moorfields Eye Hospital, London)"
+    ],
+    "designation": "Consultant, Oculoplastic & Phaco Surgeon",
+    "name": "Dr. Ashfaque Rahman Khan",
+    "speciality": "Oculoplasty, Squint, Ocular Oncologist & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital, Zigatola",
+    "image": "image/dr-ashfaque-rahman-khan.jpg"
+}

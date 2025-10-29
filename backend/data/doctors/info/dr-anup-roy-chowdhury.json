@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labcon Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "63, Ahsan Ahmed Road, Khulna",
+                "longitude": 89.566344,
+                "latitude": 22.811292
+            },
+            "contact": "+8801707080462",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Urology, BSMMU)"
+    ],
+    "designation": "Consultant, Urology",
+    "name": "Dr. Anup Roy Chowdhury",
+    "speciality": "Urology Specialist & Surgeon",
+    "workplace": "National Institute of Kidney Diseases & Urology",
+    "image": "image/dr-anup-roy-chowdhury.jpg"
+}

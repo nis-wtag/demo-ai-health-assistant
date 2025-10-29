@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Noman's Dental Care & Implant Center, Chittagong",
+            "address": "316 Erfan Tower (1st Floor), Opposite to Safa Arcade Community Center, Chandanpura Circle, Nabab Siraj Ud Daula Road, Chittagong",
+            "contact": "+8801687915551",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (CMC)",
+        "FICOI (USA)(Dental Implant)"
+    ],
+    "designation": "Dental Surgeon",
+    "name": "Dr. Abdullah Al Noman",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-abdullah-al-noman.jpg"
+}

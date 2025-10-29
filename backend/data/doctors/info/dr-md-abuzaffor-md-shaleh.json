@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Room: 658 (5th Floor), New Building, Laksam Road, Kandirpar, Cumilla",
+                "longitude": 80.584278,
+                "latitude": 30.039031
+            },
+            "contact": "+8801897-915652",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MRCS (England)"
+    ],
+    "designation": "Resident Surgeon, Casualty",
+    "name": "Dr. Abuzaffor Md. Shaleh",
+    "speciality": "General, Laparoscopic, Laser, Colorectal & Cancer Surgeon",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-md-abuzaffor-md-shaleh.jpg"
+}

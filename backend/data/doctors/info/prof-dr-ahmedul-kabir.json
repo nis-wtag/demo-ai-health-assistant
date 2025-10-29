@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "AMZ Hospital, Badda",
+            "address": {
+                "name": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801847331011",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS",
+        "FCPS (Internal Medicine)",
+        "FACP",
+        "FRCP (Medicine)"
+    ],
+    "designation": "Additional Director General, Medicine",
+    "name": "Prof. Dr. Ahmedul Kabir",
+    "speciality": "Medicine Specialist",
+    "workplace": "Directorate General of Health Services",
+    "image": "image/prof-dr-ahmedul-kabir.jpg"
+}

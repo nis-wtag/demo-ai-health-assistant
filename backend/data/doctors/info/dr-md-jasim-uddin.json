@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Micropath Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801734286181",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Medical Officer, Psychiatry",
+    "name": "Dr. Md. Jasim Uddin",
+    "speciality": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-jasim-uddin.jpg"
+}

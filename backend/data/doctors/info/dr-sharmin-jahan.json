@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Doyagonj",
+            "address": {
+                "name": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "longitude": 90.402917,
+                "latitude": 23.720652
+            },
+            "contact": "+8801878115751",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Associate Professor, Endocrinology & Metabolism",
+    "name": "Dr. Sharmin Jahan",
+    "speciality": "Diabetes, Thyroid & Hormone Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-sharmin-jahan-skin.jpg"
+}

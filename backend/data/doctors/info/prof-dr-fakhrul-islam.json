@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (EYE)",
+        "FCPS (EYE)",
+        "MS (EYE)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Md. Fakhrul Islam",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Northern International Medical College & Hospital",
+    "image": "image/prof-dr-fakhrul-islam.jpg"
+}

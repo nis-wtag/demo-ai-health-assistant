@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8801766662525",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MACP (USA)",
+        "MRACP(Australia)",
+        "FCPS (Medicine)",
+        "FRCP",
+        "Fellowship in Nephrology (India & KSA)"
+    ],
+    "designation": "Professor & Head, Department of Nephrology",
+    "name": "Prof. Brig. Gen. Dr. Mamun Mostafi",
+    "speciality": "Medicine, Kidney & Joint Diseases Specialist",
+    "workplace": "Gonoshasthaya Samaj Vittik Medical College",
+    "image": "image/prof-brig-gen-dr-mamun-mostafi.jpg"
+}

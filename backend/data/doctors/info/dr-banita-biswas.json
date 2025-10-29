@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801754635455",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Banita Biswas",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-banita-biswas.jpg"
+}

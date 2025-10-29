@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Kidney)",
+        "FCGP (BD)"
+    ],
+    "designation": "Kidney Specialist",
+    "name": "Dr. Shahnewaz Dewan",
+    "speciality": "Kidney Specialist",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/dr-shahnewaz-dewan.jpg"
+}

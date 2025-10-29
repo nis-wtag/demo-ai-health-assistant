@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Shayaan Dental & Orthodontics",
+            "address": {
+                "name": "7th Floor, Goribullah Tower, Opposite to CMM Court, Kacharibazar, Rangpur",
+                "longitude": 89.057401,
+                "latitude": 25.761971
+            },
+            "contact": "+8801795733183",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS (Orthodontics)",
+        "BCS (Health)"
+    ],
+    "designation": "Assistant Professor, Orthodontics",
+    "name": "Dr. Md. Abdur Rahman (Shaku)",
+    "speciality": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-abdur-rahman-shaku.jpg"
+}

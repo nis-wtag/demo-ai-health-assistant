@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS, (Kolkata)",
+        "MS (PGI, Chandigar)",
+        "FMRF"
+    ],
+    "designation": "Eye Surgeon",
+    "name": "Dr. Tamal Kanti Roy Sarkar",
+    "speciality": "Eye & Retina Specialist",
+    "workplace": "Vasan Eye Care Hospital, Kolkata",
+    "image": "image/dr-tamal-kanti-roy-sarkar.jpg"
+}

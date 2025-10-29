@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Amin Diagnostic & Medical Services, Kushtia",
+            "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+            "contact": "+8801712243514",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)"
+    ],
+    "designation": "Associate Professor, ENT",
+    "name": "Dr. Md. Asadur Rahman",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-md-asadur-rahman-ent.jpg"
+}

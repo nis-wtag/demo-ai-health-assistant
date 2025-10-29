@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Chamber",
+            "address": {
+                "name": "House - 1084, Block - D, Main Road (East side of SWAPNO), Uposhohor, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801308533863",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO",
+        "FMAS",
+        "DMAS (INDIA)",
+        "Advanced Trained on Infertility from India"
+    ],
+    "designation": "Senior Consultant (Gyne & Obs Dept)",
+    "name": "Dr. Kaji Md. Nasimuzzaman",
+    "speciality": "Infertility, Obstetrics & Gynecology Specialist & Laparoscopic Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-kaji-md-nasimuzzaman.jpg"
+}

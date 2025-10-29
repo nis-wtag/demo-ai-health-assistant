@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Lancet Diagnostic Center, Chittagong",
+            "address": {
+                "name": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192333,
+                "latitude": 23.7034311
+            },
+            "contact": "+8801726285486",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Professor, Pediatric Surgery",
+    "name": "Prof. Dr. Kamrun Laila Mili",
+    "speciality": "Neonatal, Pediatric Surgery & Laparoscopic Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-kamrun-laila-mili.jpg"
+}

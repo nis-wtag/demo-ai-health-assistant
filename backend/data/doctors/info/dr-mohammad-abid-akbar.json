@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Vision Eye Hospital, Dhaka",
+            "address": {
+                "name": "229 Green Road, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.385587,
+                "latitude": 23.7471253
+            },
+            "contact": "+8809610244123",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)"
+    ],
+    "designation": "Consultant & Surgeon, Oculoplasty",
+    "name": "Dr. Mohammad Abid Akbar",
+    "speciality": "Eye (Oculoplasty & Laser DCR) Specialist & Surgeon",
+    "workplace": "Vision Eye Hospital, Dhaka",
+    "image": "image/dr-mohammad-abid-akbar.jpg"
+}

@@ -1,0 +1,82 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Savar",
+            "address": {
+                "name": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+                "longitude": 90.35976,
+                "latitude": 23.76493
+            },
+            "contact": "+88 09610009613",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "D-CARD (NICVD)"
+    ],
+    "designation": "Associate Professor, Medicine",
+    "name": "Dr. Ahmed Manadir Hossain",
+    "speciality": "Medicine & Cardiology Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical College & Hospital",
+    "image": "image/prof-dr-ahmed-manadir-hossain.jpg"
+}

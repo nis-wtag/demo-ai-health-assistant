@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Psychiatric Care",
+            "address": {
+                "name": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+                "longitude": -58.453983,
+                "latitude": -34.551344
+            },
+            "contact": "+8801872863002",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Central Hospital, Pabna",
+            "address": {
+                "name": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801322912612",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (PSYCHIATRY)"
+    ],
+    "designation": "Consultant, Psychiatry",
+    "name": "Dr. Md. Mahbub Hasan Bappi",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/dr-md-mahbub-hasan-bappi.jpg"
+}

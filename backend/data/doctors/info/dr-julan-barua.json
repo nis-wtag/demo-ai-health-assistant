@@ -1,0 +1,132 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "01810-004550",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Surecell Medical, Chattogram",
+            "address": {
+                "name": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+                "longitude": 91.8231931,
+                "latitude": 22.3589254
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Consultant, Hepatology",
+    "name": "Dr. Julan Barua",
+    "speciality": "Hepatology (Liver, Jaundice, Gastric, Pancreas) Specialist",
+    "workplace": "General Hospital, Chittagong",
+    "image": "image/dr-julan-barua.jpg"
+}

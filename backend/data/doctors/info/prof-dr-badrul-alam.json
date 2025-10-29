@@ -1,0 +1,89 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Badrul Alam Home Chamber",
+            "address": {
+                "name": "Equity Excelsia, 105, Panchlaish R/A, Chittagong",
+                "longitude": -8.931988,
+                "latitude": 39.760043
+            },
+            "contact": "+8801716430043",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (CHILD)"
+    ],
+    "designation": "Former Professor & Head, Pediatrics",
+    "name": "Prof. Dr. Badrul Alam",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-badrul-alam.jpg"
+}

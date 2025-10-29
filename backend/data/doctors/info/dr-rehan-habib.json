@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Rehan Habib",
+    "speciality": "Gastroenterology & Medicine Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-rehan-habib.jpg"
+}

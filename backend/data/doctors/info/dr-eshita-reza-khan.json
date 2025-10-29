@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Pediatrics)",
+        "MD (Pediatric Hematology & Oncology)"
+    ],
+    "designation": "Assistant Professor, Pediatric Hematology and Oncology",
+    "name": "Dr. Eshita Reza Khan",
+    "speciality": "Child, Child Blood Diseases & Blood Cancer Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-eshita-reza-khan.jpg"
+}

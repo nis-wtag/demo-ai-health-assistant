@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Birdem General Hospital 2",
+            "address": {
+                "name": "1/A, Segun Bagicha Road, Dhaka – 1000",
+                "longitude": 90.4067589,
+                "latitude": 23.7337696
+            },
+            "contact": "+8801921876704",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Associate Professor, Pediatric Surgery",
+    "name": "Dr. Tamanna Narmeen",
+    "speciality": "General, Breast & Laparoscopic Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-tamanna-narmeen.jpg"
+}

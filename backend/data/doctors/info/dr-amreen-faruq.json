@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgery)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Amreen Faruq",
+    "speciality": "General, Laparoscopic, Breast, Hernia & Diabetic Foot Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-amreen-faruq.jpg"
+}

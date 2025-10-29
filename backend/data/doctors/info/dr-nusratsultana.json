@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801845565366",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DD",
+        "MSc",
+        "Fellow AAAM"
+    ],
+    "designation": "Consultant Dermatologist",
+    "name": "Dr. Nusrat Sultana",
+    "speciality": "Laser & Aesthetic Dermatology Specialist",
+    "workplace": "Apollo Imperial Hospital, Chittagong",
+    "image": "image/dr-nusratsultana.jpg"
+}

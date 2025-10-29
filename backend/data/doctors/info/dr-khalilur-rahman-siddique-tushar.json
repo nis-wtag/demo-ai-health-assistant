@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Gomati Hospital, Comilla",
+            "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
+            "contact": "+8801711798083",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Mohammad Khalilur Rahman Siddiqui",
+    "speciality": "Cardiology, Rheumatic Fever & Hypertension Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-khalilur-rahman-siddique-tushar.jpg"
+}

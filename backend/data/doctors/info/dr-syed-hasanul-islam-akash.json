@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "Room - 309, 211,Charpara (Beside Foot Overbridge), Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801612200065",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)",
+        "BCS (Health)",
+        "MACP (Internal Medicine, America)"
+    ],
+    "designation": "Consultant, Department of Nephrology",
+    "name": "Dr. Syed Hasanul Islam (Akash)",
+    "speciality": "Intervention Nephrologist & Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-syed-hasanul-islam-akash.jpg"
+}

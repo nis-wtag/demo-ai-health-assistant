@@ -1,0 +1,75 @@
+{
+    "chambers": [
+        {
+            "place": "The Sylhet X-Ray & Diagnostic Center",
+            "address": {
+                "name": "10, Modhu Shahid, Medical Raod, Rikabibazar, Sylhet",
+                "longitude": 91.858421,
+                "latitude": 24.906238
+            },
+            "contact": "+8801711164912",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Medical Center & Hospital, Sylhet",
+            "address": {
+                "name": "Subhanighat, Sylhet",
+                "longitude": 91.8779178,
+                "latitude": 24.8917942
+            },
+            "contact": "+8801601164912",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Rashida Akhter",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/prof-dr-rashida-akhter.jpg"
+}

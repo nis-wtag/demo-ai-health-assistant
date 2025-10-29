@@ -1,0 +1,100 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara (Opposite Medical College Gate), Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801969729205",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Consultant (Cardiology)",
+    "name": "Dr. Md. Saiful Islam",
+    "speciality": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mdsaiful-islam.jpg"
+}

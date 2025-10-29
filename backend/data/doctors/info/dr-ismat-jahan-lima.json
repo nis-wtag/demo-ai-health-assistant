@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801810000118",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Colorectal & Pelvic Floor Center",
+            "address": {
+                "name": "Dhaka Central International Medical College, 38/1 Ring Road, Shyamoli, Dhaka",
+                "longitude": 90.3617701,
+                "latitude": 23.7734098
+            },
+            "contact": "+8801409967444",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Gold Medalist) Surgery",
+        "MS (Colorectal Surgery)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor, Colorectal Surgery",
+    "name": "Dr. Ismat Jahan Lima",
+    "speciality": "Colorectal (Piles, Fissure, Fistula) & Pelvic Floor Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-ismat-jahan-lima.jpg"
+}

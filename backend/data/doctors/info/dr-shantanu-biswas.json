@@ -1,0 +1,76 @@
+{
+    "chambers": [
+        {
+            "place": "SIBL Foundation Hospital & Diagnostic Center",
+            "address": {
+                "name": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8801538104977",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Surgical Gastroenterology",
+    "name": "Dr. Shantanu Biswas",
+    "speciality": "Gastrointestinal, Hepatobiliary & Pancreatic Specialist Surgeon",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-shantanu-biswas.jpg"
+}

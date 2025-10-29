@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Room - 1412, Sylhet-Sunamganj Highway, Akhalia, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801711070477",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Associate Professor & Head, Pediatric Surgery",
+    "name": "Dr. Md. Tawhidul Islam",
+    "speciality": "Pediatric Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-tawhidul-islam-imdad.jpg"
+}

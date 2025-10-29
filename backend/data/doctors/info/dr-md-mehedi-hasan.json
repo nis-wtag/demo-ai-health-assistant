@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (UK)",
+        "FCCS (Singapore)",
+        "FICM (India)"
+    ],
+    "designation": "Medicine & ICU Specialist",
+    "name": "Dr. Md. Mehedi Hasan",
+    "speciality": "Medicine & ICU Specialist",
+    "workplace": "Sengkang General Hospital, Singapore",
+    "image": "image/dr-md-mehedi-hasan-diabetologist.jpg"
+}

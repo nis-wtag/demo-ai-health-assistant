@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (DU)",
+        "FWHO (Spine Surgery)",
+        "APOA (AU)",
+        "EOF (RU)"
+    ],
+    "designation": "Former Senior Consultant, Orthopedic Surgery",
+    "name": "Dr. Md. Nurul Islam Akanda",
+    "speciality": "Orthopedic Specialist, Trauma & Spine Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-nurul-islam-akanda.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)",
+        "FCPS (Medicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. A.B.M. Imam Hossain Jewel",
+    "speciality": "Cardiology, Diabetes, Hypertension & Medicine Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-a-b-m-imam-hossain-jewel.jpg"
+}

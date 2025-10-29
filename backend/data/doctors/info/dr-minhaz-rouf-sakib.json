@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Anodyne Dental Care",
+            "address": {
+                "name": "Queens Tower, Humayun Chottor, Kodomtoli, Sylhet",
+                "longitude": -73.86712,
+                "latitude": 40.732662
+            },
+            "contact": "+8801316431567",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (SUST)",
+        "PGT (NEMC)"
+    ],
+    "designation": "Honorary Medical Officer, Conservative Dentistry & Endodontics",
+    "name": "Dr. Minhaz Rouf Sakib",
+    "speciality": "Oral & Dental Surgeon (Root Canal & Braces System Expert)",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-minhaz-rouf-sakib.jpg"
+}

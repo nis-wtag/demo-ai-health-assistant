@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Islam Homeo Pharmacy",
+            "address": {
+                "name": "24/3, Chamelibagh, Shantinagar, Dhaka",
+                "longitude": 90.41231587938742,
+                "latitude": 23.7416163
+            },
+            "contact": "+8801712293006",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "BSC",
+        "MD (AM)"
+    ],
+    "designation": "Lecturer",
+    "name": "Dr. Md. Nazrul Islam Bhuiyan",
+    "speciality": "Homeopathic Doctor & Consultant",
+    "workplace": "Government Homeopathic Medical College & Hospital",
+    "image": "image/dr-md-nazrul-islam-bhuiyan-homeo.jpg"
+}

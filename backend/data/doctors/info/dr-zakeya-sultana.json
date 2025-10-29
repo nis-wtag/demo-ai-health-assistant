@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "01976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Shajinaz Hospital Ltd.",
+            "address": {
+                "name": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+                "longitude": 91.79968016367557,
+                "latitude": 22.38510865
+            },
+            "contact": "01886-338811",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPC",
+        "DGO",
+        "Trainer in Infertility (USA)"
+    ],
+    "designation": "Associate Professor & Head (Ex)",
+    "name": "Dr. Zakeya Sultana Begum",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/dr-zakeya-sultana.jpg"
+}

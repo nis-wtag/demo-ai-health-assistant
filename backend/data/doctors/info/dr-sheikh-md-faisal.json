@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Dr.Faisal's Laser Hair & Skin Care",
+            "address": "SK House, 1635B, Mimi Residential Area, Beside Mimi Super Market, Nasirabad, Chittagong",
+            "contact": "+8801784978763",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DDV (Skin & VD)",
+        "Fellowship Training in Dermatosurgery",
+        "Aesthetic Dermatology & Laser Certified Course in Hair Transplant Surgery (India)"
+    ],
+    "designation": "Medical Officer, Department of Dermatology & Venereology",
+    "name": "Dr. Sheikh Mohammad Faisal",
+    "speciality": "Skin, Allergy, Leprosy, Sex Diseases Specialist & Dermato Surgeon",
+    "workplace": "Chittagong Medical College & Hospial",
+    "image": "image/dr-sheikh-md-faisal.jpg"
+}

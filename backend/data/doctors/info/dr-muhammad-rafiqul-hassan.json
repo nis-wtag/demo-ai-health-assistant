@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Advance Hospital, Banasree",
+            "address": {
+                "name": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+                "longitude": 90.359409,
+                "latitude": 23.77451
+            },
+            "contact": "+8801999242424",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Dept of Surgery",
+    "name": "Dr. Muhammad Rafiqul Hassan",
+    "speciality": "General, Laparoscopic, Hepato-Biliary & Pancreatic Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-muhammad-rafiqul-hassan.jpg"
+}

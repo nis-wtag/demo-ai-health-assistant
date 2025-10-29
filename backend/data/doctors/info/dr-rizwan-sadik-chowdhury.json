@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Chowdhury's Premium Dental",
+            "address": {
+                "name": "Behind Chowdhury Complex, Kuwaish Link Road, Oxygen, Chattogram",
+                "longitude": 91.284598,
+                "latitude": 23.323283
+            },
+            "contact": "+8801841649474",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Chowdhury’s Premium Dental",
+            "address": {
+                "name": "Luxury Heights, Flat # A-2/2029, Zakir Hossain By Lane, Khulsi, Chattogram",
+                "longitude": 91.819806,
+                "latitude": 22.362087
+            },
+            "contact": "+8801975136494",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (CU)",
+        "MPH (NSU)",
+        "Advanced Trained in Dental Implantology & Smile Design",
+        "Prosthodontics"
+    ],
+    "designation": "Consultatant, Dental",
+    "name": "Dr. Rizwan Sadik Chowdhury",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chowdhury's Premium Dental, Chattogram",
+    "image": "image/dr-rizwan-sadik-chowdhury.jpg"
+}

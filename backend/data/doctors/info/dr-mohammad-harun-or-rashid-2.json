@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "BRB Hospital, Dhaka",
+            "address": {
+                "name": "77/A, East Rajabazar, West Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10647",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Colorectal Surgery)",
+        "MRCS (Edin)",
+        "FACS (USA)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Mohammad Harun-Or-Rashid",
+    "speciality": "Colorectal (Piles, Colon, Rectum, Anus) & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mohammad-harun-or-rashid-2.jpg"
+}

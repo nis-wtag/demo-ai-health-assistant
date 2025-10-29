@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Khulna",
+            "address": {
+                "name": "House # A5, Majid Sarani, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801766661020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)",
+        "MD (Neurology-Course)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Forhadul Islam Tuhin",
+    "speciality": "Medicine & Neurology Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-forhadul-islam-tuhin.jpg"
+}

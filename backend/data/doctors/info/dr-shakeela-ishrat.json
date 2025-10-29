@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Specialized & General Hospital, Nayapaltan",
+            "address": {
+                "name": "71-72, VIP Road, Nayapaltan, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801977552283",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "MS (OBGYN)",
+        "Training in Gynecological Endoscopy & In Vitro Fertilization (India)"
+    ],
+    "designation": "Professor, Reproductive Endocrinology & Infertility",
+    "name": "Prof. Dr. Shakeela Ishrat",
+    "speciality": "Infertility, Gynecology Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-shakeela-ishrat.jpg"
+}

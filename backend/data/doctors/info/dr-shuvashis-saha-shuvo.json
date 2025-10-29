@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Christian Mission Hospital, Rajshahi",
+            "address": {
+                "name": "Kazihata, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+88 01733845247",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine - FP)",
+        "MRCP (UK) (PACES)",
+        "FCPS (Gastroenterology - FP)"
+    ],
+    "designation": "Indoor Medical Officer, Gastroenterology",
+    "name": "Dr. Shuvashis Saha Shuvo",
+    "speciality": "Gastroenterology & Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-shuvashis-saha-shuvo.jpg"
+}

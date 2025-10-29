@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Hi-Care General Hospital, Uttara",
+            "address": {
+                "name": "House # 24 & 26 , Lake Drive Road, Sector # 7, Uttara, Dhaka",
+                "longitude": -2.9205145020284418,
+                "latitude": 54.360670400000004
+            },
+            "contact": "+880255094231",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)"
+    ],
+    "designation": "Assistant Professor, Urology",
+    "name": "Dr. Tanbir Al-Misbah",
+    "speciality": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-tanbir-al-misbah.jpg"
+}

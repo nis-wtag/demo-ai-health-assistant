@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "New Medicare Path. Lab, Mymensingh",
+            "address": "3rd Floor, Charpara (Opposite Hospital Gate No. 1), Mymensingh",
+            "contact": "+8801743788100",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Resident Surgeon",
+    "name": "Dr. Israt Zahan Swarna",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-israt-zahan-swarna.jpg"
+}

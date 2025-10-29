@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Pediatric Surgery)",
+        "Advanced Training in Pediatric Endo-Urology & Bronchoscopy (India)"
+    ],
+    "designation": "Assistant Professor, Pediatric Surgery",
+    "name": "Dr. Abdullah Al Mahmud Ratan",
+    "speciality": "Neonatal & Pediatric Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-abdullah-al-mahmud-ratan.jpg"
+}

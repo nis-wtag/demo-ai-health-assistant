@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Classified Specialist & Head, Psychiatry",
+    "name": "Dr. Major S. M. Ashek Uddin Bhuiyan",
+    "speciality": "Mental Diseases, Brain Disorder & Psychiatry Specialist",
+    "workplace": "Combined Military Hospital, Chittagong",
+    "image": "image/dr-major-s-m-ashek-uddin-bhuiyan.jpg"
+}

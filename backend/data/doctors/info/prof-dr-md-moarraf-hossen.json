@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801903082062",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DMRT (BSMMU)",
+        "FCPS (Radiotherapy)",
+        "Fellowship Training (India, Singapore)"
+    ],
+    "designation": "Former Director cum Professor, Radiotherapy",
+    "name": "Prof. Dr. Md. Moarraf Hossen",
+    "speciality": "Cancer Specialist & Radiation Oncologist",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/prof-dr-md-moarraf-hossen.jpg"
+}

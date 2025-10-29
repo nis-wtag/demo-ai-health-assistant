@@ -1,0 +1,153 @@
+{
+    "chambers": [
+        {
+            "place": "Super Specialized Hospital Ltd.",
+            "address": {
+                "name": "79, Satmosjid Road, Dhanmondi Dhaka (Beside Bangladesh Eye Hospital)",
+                "longitude": 90.3673685,
+                "latitude": 23.7517112
+            },
+            "contact": "+8801734500605",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Padma General Hospital",
+            "address": {
+                "name": "House No. 290, Sonargaon Road, Dhaka 1205, Bangladesh",
+                "longitude": 90.392462,
+                "latitude": 23.745658
+            },
+            "contact": "+8801778267553",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Nargis Memorial Hospital, Khulna",
+            "address": {
+                "name": "61, South Central Road, Khulna, Bangladesh",
+                "longitude": 89.5714524,
+                "latitude": 22.8101451
+            },
+            "contact": "+8801711-298376",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Surgery)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Medical Officer, Surgery",
+    "name": "Dr. Quazi Mehranuddin Ahmed",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-quazi-mehranuddin-ahmed.jpg"
+}

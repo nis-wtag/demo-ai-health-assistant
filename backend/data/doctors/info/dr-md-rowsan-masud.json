@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Padma Diagnostic Center, Malibagh",
+            "address": {
+                "name": "245/2 New Circular Road, West Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809617444222",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD (NICVD)",
+        "CCD (BIRDEM)",
+        "Diploma in Echocardiography & Trans-Esophageal Echocardiography (Austria)"
+    ],
+    "designation": "Associate Consultant, Non-Invasive Cardiology",
+    "name": "Dr. Md. Rowsan Masud",
+    "speciality": "Cardiology, Hypertension & Diabetes Specialist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/dr-md-rowsan-masud.jpg"
+}

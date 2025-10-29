@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+8801816872702",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (ENT)"
+    ],
+    "designation": "Junior Consultant, ENT",
+    "name": "Dr. Supran Biswas",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-supran-biswas.jpg"
+}

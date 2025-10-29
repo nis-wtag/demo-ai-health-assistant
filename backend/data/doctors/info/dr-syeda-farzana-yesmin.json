@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mishu Clinic & Diagnostic Center, Khulna",
+            "address": {
+                "name": "20/4, Shamsur Rahman Road, Khulna, Bangladesh",
+                "longitude": 89.5638206,
+                "latitude": 22.8123098
+            },
+            "contact": "+8801304462108",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO"
+    ],
+    "designation": "Associate Professor (Gyne & Obs)",
+    "name": "Dr. Syeda Farzana Yesmin",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Ad-din Akij Medical College Hospital, Khulna",
+    "image": "image/dr-syeda-farzana-yesmin.jpg"
+}

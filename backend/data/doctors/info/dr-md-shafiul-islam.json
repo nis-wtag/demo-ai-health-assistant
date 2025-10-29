@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Medical Services, Sylhet",
+            "address": {
+                "name": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801730585050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGT (Medicine)",
+        "M.Phil (Psychiatry)"
+    ],
+    "designation": "Associate Professor & Head, Psychiatry",
+    "name": "Dr. Md. Shafiul Islam",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/dr-md-shafiul-islam.jpg"
+}

@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801714991475",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO (DU)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Fahmida Khan (Lima)",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/prof-dr-fahmida-khan-lima.jpg"
+}

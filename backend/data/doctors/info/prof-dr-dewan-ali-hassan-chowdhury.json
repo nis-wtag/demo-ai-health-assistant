@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Stadium Market, Sylhet",
+            "address": {
+                "name": "53, Stadium Market, Rikabi Bazar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801711349091",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (EDIN)",
+        "FRCS (Glasgow)"
+    ],
+    "designation": "Professor & Head, Surgery",
+    "name": "Prof. Dr. D. A. Hassan Chowdhury",
+    "speciality": "General, Laparoscopic & Colorectal (Piles) Surgery Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/prof-dr-dewan-ali-hassan-chowdhury.jpg"
+}

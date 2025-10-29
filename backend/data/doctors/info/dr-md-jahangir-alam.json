@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Savar",
+            "address": {
+                "name": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787808",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Diabetes & Hormone Specialist",
+    "name": "Dr. Md. Jahangir Alam",
+    "speciality": "Diabetes & Hormone Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-md-jahangir-alam-shohan.jpg"
+}

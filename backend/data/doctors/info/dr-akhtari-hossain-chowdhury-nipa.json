@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Doctors Clinic, Bogura",
+            "address": {
+                "name": "Unit 2, Thanthania, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8801716106796",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "23:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO",
+        "MCPS (OBGYN)",
+        "Training in Infertility (Malaysia)"
+    ],
+    "designation": "Associate Professor & Head, Gynecology & Obstetrics",
+    "name": "Dr. Akhtari Hossain Chowdhury Nipa",
+    "speciality": "Gynecology, Infertility Specialist & Surgeon",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-akhtari-hossain-chowdhury-nipa.jpg"
+}

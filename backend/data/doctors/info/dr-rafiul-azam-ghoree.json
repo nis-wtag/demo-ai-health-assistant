@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Ideal Computerized Diagnostic Center",
+            "address": {
+                "name": "Madan Mohan College Road, Rikabi Bazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801747298867",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DLO (DMC)"
+    ],
+    "designation": "Consultant & Surgeon, ENT",
+    "name": "Dr. Rafiul Azam Ghoree",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Shahid Shamsuddin Ahmed District Hospital, Sylhet",
+    "image": "image/dr-rafiul-azam-ghoree.jpg"
+}

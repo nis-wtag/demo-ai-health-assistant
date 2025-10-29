@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "+8809610010616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Internal Medicine)",
+        "Clinical Fellowship in Rheumatology & Clinical Immunology (AIIMS, New Delhi)"
+    ],
+    "designation": "Professor, Rheumatology",
+    "name": "Prof. Maj Gen. Dr. Md Shameem Haidar",
+    "speciality": "Rheumatology & Medicine Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-maj-gen-dr-md-shameem-haidar.jpg"
+}

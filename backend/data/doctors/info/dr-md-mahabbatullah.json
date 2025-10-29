@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8809611996699",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Medinova Medical Services, Narayanganj",
+            "address": {
+                "name": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8801913119989",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Associate Professor, Orthopedics",
+    "name": "Dr. Md. Mahabbatullah",
+    "speciality": "Orthopedic, Bone Joint, Trauma & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-md-mahabbatullah.jpg"
+}

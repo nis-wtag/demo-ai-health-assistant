@@ -1,0 +1,84 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801711848692",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Bashundhara Eye Hospital & Research Institute",
+            "address": {
+                "name": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+                "longitude": 90.40753001848913,
+                "latitude": 23.7519999
+            },
+            "contact": "+8809643200700",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (BD)",
+        "MS (EYE)",
+        "MHPED (AU)",
+        "FCPS (PK)",
+        "FICS"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Md. Salehuddin",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-md-saleh-uddin.jpg"
+}

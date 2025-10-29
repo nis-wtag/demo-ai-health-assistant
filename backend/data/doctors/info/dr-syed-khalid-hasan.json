@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": "10658",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Colorectal Surgery)",
+        "MRCS (UK)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Syed Khalid Hasan",
+    "speciality": "Colorectal & Laparoscopic Surgeon",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/dr-syed-khalid-hasan.jpg"
+}

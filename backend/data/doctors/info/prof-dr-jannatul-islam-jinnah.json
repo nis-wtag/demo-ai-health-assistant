@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "10674",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FICS (USA)"
+    ],
+    "designation": "Ex. Prof. & Head of Department (Surgery)",
+    "name": "Prof. Dr. Jannatul Islam Jinnah",
+    "speciality": "General, Laparoscopic, Colorectal & Breast Surgeon",
+    "workplace": "Barisal Medical College & Hospital",
+    "image": "image/prof-dr-jannatul-islam-jinnah.jpg"
+}

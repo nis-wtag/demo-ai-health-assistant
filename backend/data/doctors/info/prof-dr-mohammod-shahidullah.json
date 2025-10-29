@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Women's and Children's General Hospital",
+            "address": {
+                "name": "House-48/6, Road-9/A, Satmasjid Road, Dhanmondi R/A, Dhaka",
+                "longitude": 90.366289,
+                "latitude": 23.754459
+            },
+            "contact": "+880248112560",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS"
+    ],
+    "designation": "Ex. Professor of Neonatology",
+    "name": "Prof. Dr. Mohammod Shahidullah",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-mohammod-shahidullah.jpg"
+}

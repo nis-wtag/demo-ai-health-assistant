@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934-998688",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (KMC)",
+        "PGT (Child Health)",
+        "ICPPN (Pediatric Nutrition)"
+    ],
+    "designation": "Medical Officer, Pediatrics",
+    "name": "Dr. Md. Shahinur Rahman",
+    "speciality": "Child and Pediatric Nutrition Expert",
+    "workplace": "Khulna Shishu Hospital, Khulna",
+    "image": "image/dr-md-shahinur-rahman-child.jpg"
+}

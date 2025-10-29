@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Gulshan",
+            "address": {
+                "name": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
+                "longitude": 90.4069139,
+                "latitude": 23.7927316
+            },
+            "contact": "10666",
+            "visiting_hours": null
+        },
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (USA)"
+    ],
+    "designation": "Senior Consultant, Respiratory Medicine",
+    "name": "Tarek Alam",
+    "speciality": "Medicine & Chest Specialist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-tarek-alam.jpg"
+}

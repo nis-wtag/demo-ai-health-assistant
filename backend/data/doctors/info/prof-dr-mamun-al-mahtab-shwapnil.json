@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Farabi General Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 8/3, Road # 14 (New), Dhanmondi R/A, (West Side of Sobhanbag Mosque), Dhaka",
+                "longitude": 90.416246,
+                "latitude": 23.742909
+            },
+            "contact": "+8801316345602",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSc (Gastroenterology, London)",
+        "MD (Hepatology)",
+        "FICP (India)",
+        "FRCP (Ireland)",
+        "FRCP (London)",
+        "FBAS",
+        "PhD (University of Malaya)"
+    ],
+    "designation": "Head, Interventional Hepatology Division, Former Chairman, Department of Hepatology",
+    "name": "Prof. Dr. Mamun Al Mahtab Shwapnil",
+    "speciality": "Hepatologist & Gastroenterologist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-mamun-al-mahtab-shwapnil.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH (Community Medicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Former Central Director, Diabetes",
+    "name": "Dr. Faysal Ahmed",
+    "speciality": "Diabetics Consultant",
+    "workplace": "Ibrahim Genaral Hospital, Savar",
+    "image": "image/dr-faysal-ahmed-heaptologist.jpg"
+}

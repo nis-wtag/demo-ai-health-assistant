@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Nova IVF Fertility, Bangladesh (Basundhara Unit)",
+            "address": {
+                "name": "Adept Aamir Complex, KA-3/1-C, (Level -4), Basundhara Road, Jogonnathpur, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "Diploma in ART (ISRME, Mumbai)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Lubna Yasmin",
+    "speciality": "Fertility & IVF Specialist",
+    "workplace": "Nova IVF Fertility, Bangladesh (Basundhara Unit)",
+    "image": "image/dr-lubna-yasmin.jpg"
+}

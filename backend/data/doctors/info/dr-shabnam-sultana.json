@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801987595060",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Oncology)"
+    ],
+    "designation": "Consultant, Dept. of Radiotherapy & Oncology",
+    "name": "Dr. Shabnam Sultana",
+    "speciality": "Cancer Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-shabnam-sultana.jpg"
+}

@@ -1,0 +1,82 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Lalbagh",
+            "address": {
+                "name": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+                "longitude": 90.364902,
+                "latitude": 23.762253
+            },
+            "contact": "+8801783356048",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801558220134",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "D-CARD",
+        "Training (India)"
+    ],
+    "designation": "Professor, Cardiology",
+    "name": "Prof. Dr. Md. Azizul Bari",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-dr-md-azizul-bari.jpg"
+}

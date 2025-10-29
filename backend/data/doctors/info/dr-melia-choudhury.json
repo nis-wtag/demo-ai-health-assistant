@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801552355224",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "MS (EYE)",
+        "Fellow in Oculoplasty & Ocular Oncology (LVPEI)"
+    ],
+    "designation": "Associate Professor, Ophthalmology",
+    "name": "Dr. Melia Choudhury",
+    "speciality": "Phaco, Glaucoma & Extraocular Surgeon",
+    "workplace": "Holy Family Red Crescent Medical College & Hospital",
+    "image": "image/dr-melia-choudhury.jpg"
+}

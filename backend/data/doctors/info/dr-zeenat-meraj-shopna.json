@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "Not Available",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DD (Bangkok)",
+        "FCPS",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Consultant, Dermatology",
+    "name": "Prof. Dr. Zeenat Meraj Shopna",
+    "speciality": "Aesthetic Dermatology & Laser Specialist",
+    "workplace": "United Hospital Limited, Dhaka",
+    "image": "image/dr-zeenat-meraj-shopna.jpg"
+}

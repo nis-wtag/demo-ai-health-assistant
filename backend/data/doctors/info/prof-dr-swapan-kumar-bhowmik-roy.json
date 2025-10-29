@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "MS (EYE)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Swapan Kumar Bhowmik Roy",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/prof-dr-swapan-kumar-bhowmik-roy.jpg"
+}

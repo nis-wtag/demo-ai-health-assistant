@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Trust Medical Services, Sylhet",
+            "address": {
+                "name": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801797571056",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Shamima Akter Shipa",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Parkview Medical College & Hospital, Sylhet",
+    "image": "image/dr-shamima-akter-shipa.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "BRB Hospital, Dhaka",
+            "address": {
+                "name": "77/A, East Rajabazar, West Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801777764800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (UK)",
+        "FACS (USA)"
+    ],
+    "designation": "Professor, Surgery",
+    "name": "Prof. Dr. Mohammad Ali",
+    "speciality": "Hepato-Biliary, Pancreatic Surgery & Liver Transplant Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-dr-mohammad-ali-surgery.jpg"
+}

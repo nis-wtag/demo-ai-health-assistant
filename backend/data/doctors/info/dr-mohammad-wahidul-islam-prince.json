@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Your Dentist",
+            "address": {
+                "name": "House # 39/A, Road # 8, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.3794447,
+                "latitude": 23.7455737
+            },
+            "contact": "+8801711152706",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS (OMFS)"
+    ],
+    "designation": "Assistant Professor, Oral & Maxillofacial Surgery",
+    "name": "Dr. Mohammad Wahidul Islam Prince",
+    "speciality": "Oral & Maxillofacial Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-mohammad-wahidul-islam-prince.jpg"
+}

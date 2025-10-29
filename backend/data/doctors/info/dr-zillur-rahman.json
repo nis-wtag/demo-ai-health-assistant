@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Medicine Specialist doctor",
+    "name": "Dr. Zillur Rahman",
+    "speciality": "Medicine Specialist",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-zillur-rahman.jpg"
+}

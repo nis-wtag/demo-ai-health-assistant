@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Diagnostic & Research Center",
+            "address": {
+                "name": "2nd Floor, Nur Shopping Complex, Bandartila, Chattogram",
+                "longitude": 91.7824896,
+                "latitude": 22.2906357
+            },
+            "contact": "+8801819-635144",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Consultant, Neurosurgery",
+    "name": "Dr. Md. Saiful Alam",
+    "speciality": "Neurosurgery (Brain, Stroke, Spine Surgery) Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-saiful-alam.jpg"
+}

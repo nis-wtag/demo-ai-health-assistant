@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shahjalal Diagnostic Clinic, Chittagong",
+            "address": {
+                "name": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+                "longitude": 91.811781,
+                "latitude": 22.324526
+            },
+            "contact": "+8801819311367",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTM&H (Liverpool)",
+        "DTCD (UK)",
+        "FRSH (London)"
+    ],
+    "designation": "Consultant, Respiratory Medicine",
+    "name": "Dr. Animesh Mallick",
+    "speciality": "Chest Diseases & Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-animesh-mallick.jpg"
+}

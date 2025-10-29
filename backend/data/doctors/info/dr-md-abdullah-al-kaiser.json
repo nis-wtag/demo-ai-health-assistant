@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Dental Care",
+            "address": "Damkura Hat College Market (2nd Floor), Paba, Rajshahi",
+            "contact": "+8801303285818",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)",
+        "PGT (Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Lecturer, Dental Unit",
+    "name": "Dr. Md. Abdullah-Al-Kaiser",
+    "speciality": "Oral & Dental Diseases Specialist & Surgeon",
+    "workplace": "Rajshahi Medical College",
+    "image": "image/dr-md-abdullah-al-kaiser.jpg"
+}

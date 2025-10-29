@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MPH (Preventive Medicine)",
+        "CCD (BIRDEM)",
+        "Diploma in Family Medicine",
+        "CTM (DU)",
+        "FRSH (London)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Md. Ferdous Hasan",
+    "speciality": "Medicine, Diabetes & Hormonal Diseases Specialist",
+    "workplace": "Medinova Medical Services, Malibagh",
+    "image": "image/dr-md-ferdous-hasan.jpg"
+}

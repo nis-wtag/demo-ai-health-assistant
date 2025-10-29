@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (EM)",
+        "MRCP (UK)",
+        "MSc (CANADA)"
+    ],
+    "designation": "Assistant Professor, Endocrinology & Metabolism",
+    "name": "Dr. Tahniyah Haq",
+    "speciality": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-tahniyah-haq.jpg"
+}

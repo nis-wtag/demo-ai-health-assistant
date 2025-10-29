@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "Room - 403, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801811979034",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "Fellowship Training in Neonatal Intensive Care Unit & Newborn Medicine (USA)"
+    ],
+    "designation": "Former Professor & Head, Pediatrics",
+    "name": "Prof. Dr. Sayeeda Anwar",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-sayeeda-anwar.jpg"
+}

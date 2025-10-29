@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Associate Professor, Gynecology & Obstetrics",
+    "name": "Dr. Afroza Chowdhury",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+    "image": "image/dr-afroja-chowdhury.jpg"
+}

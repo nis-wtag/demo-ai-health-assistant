@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+88029613930",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "FCPS (EYE)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. M. Ziaul Karim",
+    "speciality": "Eye, Glaucoma, Phaco Specialist & Surgeon",
+    "workplace": "Harun Eye Foundation Hospital",
+    "image": "image/dr-m-ziaul-karim.jpg"
+}

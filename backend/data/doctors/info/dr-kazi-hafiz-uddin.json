@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+880966678782",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Kazi Hafiz Uddin",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-kazi-hafiz-uddin.jpg"
+}

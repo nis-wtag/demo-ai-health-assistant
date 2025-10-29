@@ -1,0 +1,66 @@
+{
+    "chambers": [
+        {
+            "place": "National Hospital, Chittagong",
+            "address": {
+                "name": "Room 2001, 14/15, Dampara Lane, Mehedibag, Chattogram",
+                "longitude": -73.786337,
+                "latitude": 40.785865
+            },
+            "contact": "+8801822685066",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Shahjalal Diagnostic Clinic, Chittagong",
+            "address": {
+                "name": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+                "longitude": 91.811781,
+                "latitude": 22.324526
+            },
+            "contact": "+8801842508851",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Hafiza Marjan",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Chittagong Medical College Hospital",
+    "image": "image/dr-hafiza-marjan.jpg"
+}

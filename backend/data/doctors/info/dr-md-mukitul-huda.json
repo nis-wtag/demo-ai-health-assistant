@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Khulna",
+            "address": {
+                "name": "House # A5, Majid Sarani, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801766661020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8809666787821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "M.Phil (Oncology)",
+        "FCPS (Radiotherapy)",
+        "Fellow (Singapore)"
+    ],
+    "designation": "Assistant Professor & Head, Department of Radiotherapy",
+    "name": "Dr. Md. Mukitul Huda",
+    "speciality": "Cancer Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-md-mukitul-huda.jpg"
+}

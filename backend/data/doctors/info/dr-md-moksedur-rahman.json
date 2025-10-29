@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rajshahi",
+            "address": {
+                "name": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801766661144",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Amin Diagnostic & Medical Services, Kushtia",
+            "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+            "contact": "+8801712243514",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "MD (Dermatology & Venereology)"
+    ],
+    "designation": "Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. Md. Moksedur Rahman",
+    "speciality": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-moksedur-rahman.jpg"
+}

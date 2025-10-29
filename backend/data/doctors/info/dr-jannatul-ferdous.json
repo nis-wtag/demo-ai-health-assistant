@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT"
+    ],
+    "designation": "Oral & Dental Surgeon",
+    "name": "Dr. Jannatul Ferdous",
+    "speciality": "Dentist",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-jannatul-ferdous-jesmin.jpg"
+}

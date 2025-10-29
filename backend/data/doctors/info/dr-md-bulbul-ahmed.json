@@ -1,0 +1,73 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "Room 507, Block-B, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8801620807692",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Human Diagnostic Center & Hospital, Comilla",
+            "address": "Racecourse (Beside Mukti Hospital), Cumilla",
+            "contact": "+8801724081159",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Orthopedic Surgery)"
+    ],
+    "designation": "Assistant Professor (Orthopedic Surgery)",
+    "name": "Dr. Md. Bulbul Ahmed",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Spine) Specialist & Trauma Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-bulbul-ahmed.jpg"
+}

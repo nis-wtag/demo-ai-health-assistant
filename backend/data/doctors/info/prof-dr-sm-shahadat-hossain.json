@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Hepatology)",
+        "MRCP (Medicine),(UK)",
+        "APASL",
+        "AASLD"
+    ],
+    "designation": "Consultant, Hepatology",
+    "name": "Dr. SM Shahadat Hossain",
+    "speciality": "Interventional Hepatologist (Liver Diseases) & Endoscopist",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/prof-dr-sm-shahadat-hossain.jpg"
+}

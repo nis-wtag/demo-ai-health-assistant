@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal – 8200",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801810000121",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "FCPS (ENT)",
+        "Higher Training in Ear Microsurgery & Endoscopic Sinus Surgery (India)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. M. Shariful Islam Rumen",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-m-shariful-islam-rumen.jpg"
+}

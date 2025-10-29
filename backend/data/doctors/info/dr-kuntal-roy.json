@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "FCPS (CHILD)"
+    ],
+    "designation": "Associate Professor, Pediatrics",
+    "name": "Dr. Kuntal Roy",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Anwer Khan Modern Medical College & Hospital, Consultant, Bangadesh Bank, Dhaka",
+    "image": "image/dr-kuntal-roy.jpg"
+}

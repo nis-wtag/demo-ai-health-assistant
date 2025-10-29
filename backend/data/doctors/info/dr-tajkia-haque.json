@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Central Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4262213,
+                "latitude": 23.7472085
+            },
+            "contact": "+8801321213964",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": "10666",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Rheumatology)"
+    ],
+    "designation": "Medical Officer, Department of Medicine",
+    "name": "Dr. Tajkia Haque",
+    "speciality": "Rheumatology (Pain, Arthritis, Rheumatoid Arthritis, Gout, Lupus) Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-tajkia-haque.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.41496999981135,
+                "latitude": 23.76569885
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MSc",
+        "MPH",
+        "MD (Neurology)"
+    ],
+    "designation": "Professor, Neurology Department",
+    "name": "Prof. Dr. Kanuj Kumar Barman",
+    "speciality": "Neurology (Brain, Stroke, Headache) & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-kanuj-kumar-barman.jpg"
+}

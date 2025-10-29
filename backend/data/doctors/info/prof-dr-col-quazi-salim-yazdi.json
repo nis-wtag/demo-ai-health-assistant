@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+            "contact": "+8809666-787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV",
+        "MCPS",
+        "FCPS",
+        "Trained in Cosmetic and Laser Surgery (Thailand)"
+    ],
+    "designation": "Senior Classified Dermatologist, Skin Department",
+    "name": "Prof. Dr. (Col) Quazi Salim Yazdi",
+    "speciality": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-dr-col-quazi-salim-yazdi.jpg"
+}

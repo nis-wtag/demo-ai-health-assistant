@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": "10666",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Anesthesiology)"
+    ],
+    "designation": "Assistant Professor, Anesthesiology",
+    "name": "Dr. Munshi Kalamur Rahman",
+    "speciality": "Anesthesiology, Pain Management & Critical Care Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/dr-munshi-kalamur-rahman.jpg"
+}

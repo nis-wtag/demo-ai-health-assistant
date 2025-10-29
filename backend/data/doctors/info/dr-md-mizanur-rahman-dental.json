@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mizan Dental Care, Rajshahi",
+            "address": {
+                "name": "House # 106/2, Baharampur, Rajshahi",
+                "longitude": 88.718874,
+                "latitude": 24.312508
+            },
+            "contact": "+8801748876927",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "PGT (OMS)"
+    ],
+    "designation": "Consultant, Dental Surgery",
+    "name": "Dr. Md. Mizanur Rahman",
+    "speciality": "Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Mizan Dental Care, Rajshahi",
+    "image": "image/dr-md-mizanur-rahman-dental.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10678",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS",
+        "FCPS (Orthodontics & Dentofacial Orthopedics)"
+    ],
+    "designation": "Consultant, Orthodoctics",
+    "name": "Dr. Md. Golam Rubby",
+    "speciality": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
+    "workplace": "Evercare Hospital, Dhaka",
+    "image": "image/dr-md-golam-rubby.jpg"
+}

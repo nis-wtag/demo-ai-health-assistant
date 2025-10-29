@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical Imaging Center, Zigatola",
+            "address": {
+                "name": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+88 09610009625",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (Urology)",
+        "BCS",
+        "FACS (USA)"
+    ],
+    "designation": "Associate Professor, Urology",
+    "name": "Dr. Mohammod Bakhtiar Uddin",
+    "speciality": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-mohammod-bakhtiar-uddin.jpg"
+}

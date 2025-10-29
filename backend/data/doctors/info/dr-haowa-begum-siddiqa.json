@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO"
+    ],
+    "designation": "Consultant, Gynecology",
+    "name": "Dr. Haowa Begum Siddiqa",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-haowa-begum-siddiqa.jpg"
+}

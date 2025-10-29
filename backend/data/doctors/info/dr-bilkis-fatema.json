@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Treatment Health Care, Chittagong",
+            "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+            "contact": "+8801323337344",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DGO",
+        "MCPS (OBGYN)"
+    ],
+    "designation": "Assistant Professor (Gyne & Obs)",
+    "name": "Dr. Bilkis Fatema",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Rangamati Medical College & Hospital",
+    "image": "image/dr-bilkis-fatema.jpg"
+}

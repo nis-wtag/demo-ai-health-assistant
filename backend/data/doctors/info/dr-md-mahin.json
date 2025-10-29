@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801715944733",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Md. Mahin",
+    "speciality": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-md-mahin.jpg"
+}

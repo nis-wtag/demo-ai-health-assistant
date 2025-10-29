@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801766662050",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD-Endocrinology (BSMMU)",
+        "CCD (BIRDEM)",
+        "PGDIP-DIABETES (UK)"
+    ],
+    "designation": "Consultant, Endocrinology",
+    "name": "Dr. Ahmed Ifrad bin Rawnak",
+    "speciality": "Diabetes, Thyroid and Hormone Diseases Specialist",
+    "workplace": "Labaid Limited Diagnostic, Uttara (Unit 02)",
+    "image": "image/dr-ahmed-ifrad-bin-rawnak.jpg"
+}

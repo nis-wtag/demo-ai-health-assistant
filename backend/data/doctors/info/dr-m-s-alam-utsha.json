@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room 505, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.3779588,
+                "latitude": 23.7429777
+            },
+            "contact": "+8801872777770",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "FCPS ( Gastroenterology, Thesis)",
+        "CCD (BIRDEM)",
+        "EDC (BIRDEM)",
+        "C-CARD",
+        "EULAR Fellow of Rheumatology",
+        "Fellowship in Gastroenterology, Hyderabad, India"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. M S Alam (Utsha)",
+    "speciality": "Medicine, Gastroliver, Rheumatology, Hormone & Diabetes Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-m-s-alam-utsha.jpg"
+}

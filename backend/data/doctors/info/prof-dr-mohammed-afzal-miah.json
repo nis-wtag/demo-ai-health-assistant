@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+880 1715944733",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTM&H (London)"
+    ],
+    "designation": "Professor, Medicine",
+    "name": "Prof. Dr. Mohammed Afzal Miah",
+    "speciality": "Medicine Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-mohammed-afzal-miah.jpg"
+}

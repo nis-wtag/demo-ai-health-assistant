@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Savar",
+            "address": {
+                "name": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+                "longitude": 90.35976,
+                "latitude": 23.76493
+            },
+            "contact": "+88 09610009613",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Heapatology)"
+    ],
+    "designation": "Assistant Professor, Hepatology",
+    "name": "Dr. Md. Saiful Islam Parvez",
+    "speciality": "Liver Diseases Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-md-saiful-islam-parvez.jpg"
+}

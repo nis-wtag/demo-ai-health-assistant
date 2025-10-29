@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Model Hospital",
+            "address": {
+                "name": "United Plaza, Laxmipur Mor, Rajshahi",
+                "longitude": -58.583436,
+                "latitude": 48.5515
+            },
+            "contact": "+8801773844844",
+            "visiting_hours": null
+        },
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Medicine Specialist",
+    "name": "Dr. Md. Amzad Hossain Sardar",
+    "speciality": "Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-amzad-hossain-sardar.jpg"
+}

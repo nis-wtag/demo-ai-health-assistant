@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO(DU)",
+        "MS (EYE)",
+        "MCPS (EYE)"
+    ],
+    "designation": "Consultant, Glaucoma",
+    "name": "Dr. Kamal Haider Khan",
+    "speciality": "Eye Diseases (Glaucoma) Specialist & Phaco Surgeon",
+    "workplace": "Bangladesh Eye Hospital & Institute",
+    "image": "image/dr-kamal-haider-khan.jpg"
+}

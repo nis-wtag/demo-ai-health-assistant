@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Md. Shamsul Haque",
+    "speciality": "Eye Diseases Specialist & Phaco Surgeon",
+    "workplace": "Popular Medical College & Hospital",
+    "image": "image/prof-dr-md-shamsul-haque.jpg"
+}

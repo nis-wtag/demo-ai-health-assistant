@@ -1,0 +1,74 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Malibagh",
+            "address": {
+                "name": "House # B-65, Chowdhury Para, Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "01766660208",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "General Hospital Cox’s Bazar",
+            "address": {
+                "name": "Hospital Road, Cox’s Bazar",
+                "longitude": 91.9764641,
+                "latitude": 21.4410479
+            },
+            "contact": "01818650463",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FACS (USA)",
+        "FMAS (India)",
+        "EFIAGES (India)"
+    ],
+    "designation": "Assistant Professor (Surgery)",
+    "name": "Dr. Md. Arif Hossain",
+    "speciality": "General, Laparoscopic & Colorectal Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-arif-hossain.jpg"
+}

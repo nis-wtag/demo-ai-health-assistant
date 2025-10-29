@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Barishal ENT Care Centre",
+            "address": {
+                "name": "Nurjahan, Bund Road (Opposite to Doctor's Quarter) South Alekenda, Barishal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801838-615130",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO",
+        "FRCS (Glasgow, UK)"
+    ],
+    "designation": "Professor & Head (Ex), ENT & Head Neck Surgery",
+    "name": "Prof. Dr. Md. Mahbubur Rahman",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/prof-dr-md-mahbubur-rahman.jpg"
+}

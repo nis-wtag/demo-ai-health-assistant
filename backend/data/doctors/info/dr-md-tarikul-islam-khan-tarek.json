@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801712685297",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Junior Consultant, Physical Medicine",
+    "name": "Dr. Md. Tariqul Islam Khan",
+    "speciality": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-tarikul-islam-khan-tarek.jpg"
+}

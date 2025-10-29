@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DDV (DMC)",
+        "Fellowship in Cutaneous & Laser Surgery (Bankok)",
+        "NSC-Stiefel Fellowship in Dermatology (Singapore)",
+        "Advanced Course in Paediatric Dermatology (UK)"
+    ],
+    "designation": "Associate Professor, Dermatology & Venereology",
+    "name": "Dr. Yasmin Joardar",
+    "speciality": "Skin, Allergy, Leprosy, Hair, Sex & Child Skin Diseases Specialist",
+    "workplace": "Dr. MR Khan Shishu hospital & Institute of Child Health",
+    "image": "image/prof-dr-yasmin-joardar.jpg"
+}

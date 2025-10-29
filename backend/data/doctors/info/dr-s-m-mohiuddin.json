@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Consultant, Endocrinology & Metabolism",
+    "name": "Dr. S.M Mohiuddin",
+    "speciality": "Diabetes, Hormone & Thyroid Specialist",
+    "workplace": "Islami Bank Hospital, Mugda",
+    "image": "image/dr-s-m-mohiuddin.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10678",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDSc (UK)",
+        "MDSc (USA)"
+    ],
+    "designation": "Senior Consultant & Coordinator, Dermatology & Laser",
+    "name": "Dr. Jasmin Manzoor",
+    "speciality": "Dermatology (Skin, Allergy, Hair, Nail) Specialist & Laser Surgeon",
+    "workplace": "Evercare Hospital, Dhaka",
+    "image": "image/dr-jasmin-manzoor.jpg"
+}

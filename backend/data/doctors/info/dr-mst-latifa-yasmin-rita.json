@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Prosthodontics)"
+    ],
+    "designation": "Consultant, Dental",
+    "name": "Dr. Mst. Latifa Yasmin Rita",
+    "speciality": "Oral, Dental & Maxillofacial Surgery Specialist",
+    "workplace": "Ibn Sina Hospital Sylhet Limited",
+    "image": "image/dr-mst-latifa-yasmin-rita.jpg"
+}

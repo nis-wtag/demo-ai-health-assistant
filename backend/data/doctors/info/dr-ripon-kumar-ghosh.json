@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MS (Ortho Surgery)",
+        "CCD (BIRDEM)",
+        "A.O (Basic), Switzerland",
+        "A.O (Advance)",
+        "A.O (Recon, India)",
+        "Member, SICIT"
+    ],
+    "designation": "Assistant Professor (Orthopedics)",
+    "name": "Dr. Ripon Kumer Ghosh",
+    "speciality": "Orthopedic, Traumatology, Spine Specialist & Surgeon",
+    "workplace": "Ad-din Medical College & Hospital",
+    "image": "image/dr-ripon-kumar-ghosh.jpg"
+}

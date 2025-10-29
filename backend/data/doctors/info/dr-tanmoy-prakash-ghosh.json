@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Al Helal Specialized Hospital",
+            "address": {
+                "name": "150, Begum Rokeya Sarani, Senpara-Parbata, Mirpur-10, Dhaka",
+                "longitude": 90.359374,
+                "latitude": 23.802377
+            },
+            "contact": "+8801723929007",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "New Dhaka Modern Clinic",
+            "address": {
+                "name": "4 DC Roy Lane, Mitford Road, Dhaka – 1100",
+                "longitude": 90.4042573,
+                "latitude": 23.7104781
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Plastic Surgeon, Plastic Surgery",
+    "name": "Dr. Tanmoy Prakash Ghosh",
+    "speciality": "Plastic, Burn, Hand, Breast, Aesthetic & Cosmetic Surgery Specialist",
+    "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "image": "image/dr-tanmoy-prakash-ghosh.jpg"
+}

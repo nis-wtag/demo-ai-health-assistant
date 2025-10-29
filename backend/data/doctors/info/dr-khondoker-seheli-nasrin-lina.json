@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Khondoker Seheli Nasrin Lina",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Islami Bank Medical College & Hospital",
+    "image": "image/dr-khondoker-seheli-nasrin-lina.jpg"
+}

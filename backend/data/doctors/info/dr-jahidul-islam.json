@@ -1,0 +1,82 @@
+{
+    "chambers": [
+        {
+            "place": "D G Lab, Mymensingh",
+            "address": {
+                "name": "210, Mondol Plaza, Opposite to Hospital Gate, Mymenshingh",
+                "longitude": -100.807638,
+                "latitude": 20.517998
+            },
+            "contact": "+8801764663355",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Sodesh Hospital, Mymensingh",
+            "address": {
+                "name": "298/2, Maskanda (Bus Stand), Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666777990",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)",
+        "MACP (USA)"
+    ],
+    "designation": "Associate Professor & Head, Cardiology",
+    "name": "Dr. Md. Zahidul Islam",
+    "speciality": "Cardiology (Heart Diseases), Medicine & Rheumatic Fever Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-jahidul-islam.jpg"
+}

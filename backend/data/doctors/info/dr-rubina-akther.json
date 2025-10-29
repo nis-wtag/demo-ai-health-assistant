@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Bashundhara Eye Hospital & Research Institute",
+            "address": {
+                "name": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+                "longitude": 90.40753001848913,
+                "latitude": 23.7519999
+            },
+            "contact": "+8809643200700",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "FCPS (EYE)"
+    ],
+    "designation": "Assistant Professor, Vitreo Retina",
+    "name": "Dr. Rubina Akther",
+    "speciality": "Phaco, Vitreo Retina Specialist & Surgeon",
+    "workplace": "Bashundhara Eye Hospital & Research Institute",
+    "image": "image/dr-rubina-akther.jpg"
+}

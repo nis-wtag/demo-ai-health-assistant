@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Triodent Dental BD",
+            "address": {
+                "name": "21/4/A (2nd Floor), Zigatola Road, Dhanmondi, Dhaka",
+                "longitude": 90.4149371,
+                "latitude": 23.7947121
+            },
+            "contact": "+8801819352939",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "AVE Dental Surgery & Orthodontics",
+            "address": {
+                "name": "102, Panchlaish R/A (Opposite to Probartak School), Chattogram",
+                "longitude": -8.574639,
+                "latitude": 40.984603
+            },
+            "contact": "+8801860753635",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MS (Orthodontics & Dentofacial Orthopedics)",
+        "MCPS (Dental Surgery)"
+    ],
+    "designation": "Medical Officer (Department of Orthodontics)",
+    "name": "Dr. Himel Chakma",
+    "speciality": "Orthodontics & Dentofacial Orthopedics Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-himel-chakma.jpg"
+}

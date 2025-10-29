@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "RMB Hospital & Diagnostic Center",
+            "address": {
+                "name": "467/5, Jhautola More, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": "+8801717-514454",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "BCS (Health)",
+        "FCPS (Orthodontics & Dentofacial Orthopedics)"
+    ],
+    "designation": "Consultant (Orthodontics)",
+    "name": "Dr. Naznin Sultana (Munni)",
+    "speciality": "Oral & Dental Surgeon (Orthodontist)",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-naznin-sultana-munni.jpg"
+}

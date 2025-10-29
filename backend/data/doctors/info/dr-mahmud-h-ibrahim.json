@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Shamela Memorial Clinic",
+            "address": {
+                "name": "348/2, Jamat khana, Khan Jahan Ali Road, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801938629245",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Registrar, Medicine",
+    "name": "Dr. Mahmud H. Ibrahim",
+    "speciality": "Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mahmud-h-ibrahim.jpg"
+}

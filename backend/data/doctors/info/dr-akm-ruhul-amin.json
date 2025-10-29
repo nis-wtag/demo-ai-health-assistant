@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Malibagh",
+            "address": {
+                "name": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801844141717",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (General Surgery)"
+    ],
+    "designation": "General & Laparoscopic Surgeon",
+    "name": "Dr. AKM Ruhul Amin",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Dr. Sirajul Islam Medical College & Hospital",
+    "image": "image/dr-akm-ruhul-amin.jpg"
+}

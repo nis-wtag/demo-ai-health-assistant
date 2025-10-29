@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Focus Eye Hospital, Khulna",
+            "address": {
+                "name": "43, KDA Avenue, Sathi Complex (2nd Floor), Moylapota, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801313292404",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "BCS (HEALTH)",
+        "MCPS (EYE)",
+        "FCPS (EYE)"
+    ],
+    "designation": "Eye Specialist, Department of Ophthalmology",
+    "name": "Dr. Fazilatun Nesa Bristy",
+    "speciality": "Eye Specialist and Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-fazilatun-nesa-bristy.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare Hospital, Chattogram",
+            "address": {
+                "name": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+                "longitude": 4.393308,
+                "latitude": 51.924856
+            },
+            "contact": "+8809610810663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedics)",
+        "Fellowship Training (Singapore, Korea, India)"
+    ],
+    "designation": "Senior Consultant, Orthopedic Surgery",
+    "name": "Dr. A.H.M Rezaul Haque",
+    "speciality": "Orthopedic, Arthroplasty & Arthroscopic Surgeon",
+    "workplace": "Evercare Hospital, Chattogram",
+    "image": "image/dr-a-h-m-rezaul-haque.jpg"
+}

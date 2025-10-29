@@ -1,0 +1,68 @@
+{
+    "chambers": [
+        {
+            "place": "The Dental Centre, Dhanmondi",
+            "address": {
+                "name": "Room # 3/3 (Level 4), House # 50, Road # 9/A, Satmasjid Road, Dhanmandi, Dhaka",
+                "longitude": 90.3664459,
+                "latitude": 23.8256208
+            },
+            "contact": "+8801817541005",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "The Dental Centre, Rampura",
+            "address": {
+                "name": "17/A, DIT Road (1st Floor), East Rampura, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801758898742",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "DAND",
+        "DDS",
+        "MS",
+        "Diploma of Fellowship FDS RCPS (Glasgow)"
+    ],
+    "designation": "Professor, Oral & Maxillofacial Surgery",
+    "name": "Prof. Dr. Md. Ruhul Amin",
+    "speciality": "Dental, Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Dhaka Dental College & Hospital",
+    "image": "image/prof-dr-md-ruhul-amin-dentist.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Chittagong",
+            "address": {
+                "name": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801731253990",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MRCP (UK)",
+        "MRCP (Edin)",
+        "MACP (USA)"
+    ],
+    "designation": "Medicine Specialist doctor",
+    "name": "Dr. Mohammad Forkan",
+    "speciality": "Medicine Specialist",
+    "workplace": "Queen's Hospital, London, UK",
+    "image": "image/dr-mohammad-forkan.jpg"
+}

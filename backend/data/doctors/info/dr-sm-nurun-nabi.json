@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Child)",
+        "MD (Pediatric)"
+    ],
+    "designation": "Child Specialist doctor",
+    "name": "Dr. SM Nurun Nabi",
+    "speciality": "Child Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-sm-nurun-nabi.jpg"
+}

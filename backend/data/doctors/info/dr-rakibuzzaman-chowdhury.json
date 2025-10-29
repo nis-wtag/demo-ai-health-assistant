@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Zaman Pathology, Rajshahi",
+            "address": {
+                "name": "23, Greater Road, Laxmipur Mor, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801723300778",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Psychiatry)",
+        "PhD (Fellow)"
+    ],
+    "designation": "Consultant Psychiatrist",
+    "name": "Dr. Rakibuzzaman Chowdhury",
+    "speciality": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-rakibuzzaman-chowdhury.jpg"
+}

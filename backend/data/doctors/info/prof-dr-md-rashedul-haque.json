@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Professor, Pediatrics",
+    "name": "Prof. Dr. Md. Rashedul Haque",
+    "speciality": "Newborn, Child & Adolescent Diseases Specialist",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/prof-dr-md-rashedul-haque.jpg"
+}

@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Saumik Dental Surgery",
+            "address": "VIP Road (Opposite to Modon Mohon College), Lamabazar, Sylhet",
+            "contact": "+8801676112058",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MPH (Community Dentistry)",
+        "PGT (Oral & Maxillofacial Surgery)"
+    ],
+    "designation": "Dentist, Dental",
+    "name": "Dr. Snigdha Biswas",
+    "speciality": "Dental, Oral & Maxillofacial Surgeon",
+    "workplace": "Saumik Dental Surgery",
+    "image": "image/dr-snigdha-biswas.jpg"
+}

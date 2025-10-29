@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        },
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801558220134",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Fellowship in Hand Surgery (UK)"
+    ],
+    "designation": "Professor & Unit Head, Orthopedic Surgery",
+    "name": "Prof. Dr. Golam Faruque",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-golam-faruque.jpg"
+}

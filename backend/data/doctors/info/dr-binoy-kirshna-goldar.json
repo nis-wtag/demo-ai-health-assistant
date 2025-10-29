@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DMAS",
+        "FMAS",
+        "MRCOG (UK)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Binoy Kirshna Goldar",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "Patuakhali Medical College & Hospital",
+    "image": "image/dr-binoy-kirshna-goldar.jpg"
+}

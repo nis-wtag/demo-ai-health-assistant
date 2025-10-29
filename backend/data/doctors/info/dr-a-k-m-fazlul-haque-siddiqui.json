@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Siddiqi Piles Care Center, Chittagong",
+            "address": {
+                "name": "95, Lal Dighir Par, Beside Bata Showroom, Kotwali, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801819-544950",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS (BHB)",
+        "DUMS (BUASM)",
+        "BAMS (Alternative Medicine)",
+        "PDT (Medicine)"
+    ],
+    "designation": "Consultant, Homeopathy",
+    "name": "Dr. A.K.M. Fazlul Haque Siddiqui",
+    "speciality": "Piles, Tonsil, Tumor, STD & Kidney Stone Specialist",
+    "workplace": "Dr. Siddiqi Piles Care Center, Chittagong",
+    "image": "image/dr-a-k-m-fazlul-haque-siddiqui.jpg"
+}

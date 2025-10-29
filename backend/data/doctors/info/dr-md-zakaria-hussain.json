@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Oasis Hospital, Sylhet",
+            "address": {
+                "name": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801611990000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDT",
+        "DPH",
+        "DCH",
+        "MAMS"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Md. Zakaria Hussain",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Oasis Hospital, Sylhet",
+    "image": "image/dr-md-zakaria-hussain.jpg"
+}

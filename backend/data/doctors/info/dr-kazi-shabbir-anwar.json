@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Dhanmondi",
+            "address": {
+                "name": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+                "longitude": 90.36723,
+                "latitude": 23.751929
+            },
+            "contact": "+8809666787878",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO (DU)",
+        "MD",
+        "Fellow (Pediatric Ophthalmology)"
+    ],
+    "designation": "Consultant, Pediatric Ophthalmology",
+    "name": "Dr. Kazi Shabbir Anwar",
+    "speciality": "Child Eye Diseases Specialist & Surgeon",
+    "workplace": "Bangladesh Eye Hospital & Institute",
+    "image": "image/dr-kazi-shabbir-anwar.jpg"
+}

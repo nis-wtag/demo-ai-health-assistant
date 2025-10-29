@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Samorita Hospital Ltd, Panthapath",
+            "address": {
+                "name": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+                "longitude": 90.382323,
+                "latitude": 23.752391
+            },
+            "contact": "10674",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Professor (Endocrinology)",
+    "name": "Prof. Dr. M A Hasanat",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-m-a-hasnat.jpg"
+}

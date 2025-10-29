@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801558220134",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MS (ORTHO)",
+        "AO (Trauma)",
+        "AO (Spine)"
+    ],
+    "designation": "Consultant, Orthopedics",
+    "name": "Dr. AC Saha",
+    "speciality": "Orthopedic, Trauma & Spine Surgeon",
+    "workplace": "City Hospital Limited, Dhaka",
+    "image": "image/dr-ac-saha.jpg"
+}

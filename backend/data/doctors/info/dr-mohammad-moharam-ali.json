@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)",
+        "FCCS (CCM-USA)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Mohammad Moharam Ali",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mohammad-moharam-ali.jpg"
+}

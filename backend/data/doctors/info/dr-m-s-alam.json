@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "Room - 505, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.3779588,
+                "latitude": 23.7429777
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MACP (USA)",
+        "CCD (BIRDEM)",
+        "EVC (BIRDEM)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. M.S. Alam",
+    "speciality": "Medicine, Gastroliver, Rheumatology & Diabetes Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-m-s-alam-utsha.jpg"
+}

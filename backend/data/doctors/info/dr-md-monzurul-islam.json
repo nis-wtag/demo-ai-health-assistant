@@ -1,0 +1,34 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Former Associate Professor, Neurosurgery",
+    "name": "Dr. Md. Monzurul Islam",
+    "speciality": "Neurosurgery (Brain, Nerve, Spine, Stroke Surgery) Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-monzurul-islam.jpg"
+}

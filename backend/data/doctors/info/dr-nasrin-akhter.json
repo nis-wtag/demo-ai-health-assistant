@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH",
+        "MCPS",
+        "M.Phil (Psychiatry)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Nasrin Akhter",
+    "speciality": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-nasrin-akhter.jpg"
+}

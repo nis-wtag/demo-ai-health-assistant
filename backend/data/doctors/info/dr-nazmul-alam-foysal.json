@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Rowshan Homoeopathic Chamber",
+            "address": {
+                "name": "House 4, 1 Ranavhola Road, Dhorangertek, Turag, Dhaka",
+                "longitude": 90.31667,
+                "latitude": 23.76667
+            },
+            "contact": "+8801812333433",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "CDV (Skin & Sex)",
+        "CMU (Ultrasonography)",
+        "CMI (Infertility)"
+    ],
+    "designation": "Homeopathic Doctor",
+    "name": "Dr. Nazmul Alam Foysal",
+    "speciality": "Homeopathic (Skin, Sex, Infertility) Specialist",
+    "workplace": "Rowshan Homoeopathic Chamber",
+    "image": "image/dr-nazmul-alam-foysal.jpg"
+}

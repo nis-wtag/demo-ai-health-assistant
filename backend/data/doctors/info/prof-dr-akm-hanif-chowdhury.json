@@ -1,0 +1,22 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Cardiologist",
+    "name": "Prof. Dr. AKM Hanif Chowdhury",
+    "speciality": "Cardiology & Heart Diseases Specialist",
+    "workplace": "Rangpur Community Medical College & Hospital"
+}

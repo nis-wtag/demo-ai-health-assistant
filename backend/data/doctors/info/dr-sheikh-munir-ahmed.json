@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labcon Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "63, Ahsan Ahmed Road, Khulna",
+                "longitude": 89.566344,
+                "latitude": 22.811292
+            },
+            "contact": "+8801707080462",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGT (Pediatrics)",
+        "PGPN (Boston, USA)"
+    ],
+    "designation": "Senior Medical Officer, Pediatrics",
+    "name": "Dr. Sheikh Munir Ahmed",
+    "speciality": "Child & Nutrition Specialist",
+    "workplace": "Khulna Shishu Hospital",
+    "image": "image/dr-sheikh-munir-ahmed.jpg"
+}

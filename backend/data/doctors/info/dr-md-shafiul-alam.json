@@ -1,0 +1,156 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "01764-792288",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Mirpur General Hospital & Diagnostic Center",
+            "address": {
+                "name": "Plot – 10, Road – 4/5, Section – 12, Kalshi Road, Mirpur, Dhaka",
+                "longitude": 90.381575,
+                "latitude": 23.740648
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:30"
+                }
+            ]
+        },
+        {
+            "place": "Badda General Hospital",
+            "address": {
+                "name": "107/2, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Neurosurgery)",
+        "FICS",
+        "FACS (America)",
+        "MRCPS (Glasgow)"
+    ],
+    "designation": "Professor of Neurosurgery (Gamma Knife)",
+    "name": "Prof. Dr. Md. Shafiul Alam",
+    "speciality": "Neurosurgery (Brain, Nerve & Spine) Specialist Surgeon",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-md-shafiul-alam-koreshi.jpg"
+}

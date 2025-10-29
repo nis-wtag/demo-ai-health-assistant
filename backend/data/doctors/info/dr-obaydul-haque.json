@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "PHD (Fellow)"
+    ],
+    "designation": "Orthopedic Specialist doctor",
+    "name": "Dr. Obaydul Haque",
+    "speciality": "Orthopedic Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-obaydul-haque.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (ENT)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Dr. Md. Mahmudul Amin Sakik",
+    "speciality": "Ear, Nose & Throat Specialist & Head-Neck Surgeon",
+    "workplace": "National Institute of ENT & Hospital",
+    "image": "image/dr-md-mahmudul-amin-sakik.jpg"
+}

@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801770736139",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "FMAS (India)"
+    ],
+    "designation": "Residential Surgeon, Surgery",
+    "name": "Dr. Mayin Uddin Mahmud",
+    "speciality": "General, Colorectal & Laparoscopic Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mayin-uddin-mahmud.jpg"
+}

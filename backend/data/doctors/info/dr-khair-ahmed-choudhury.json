@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center, Sylhet",
+            "address": {
+                "name": "New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801752158437",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)",
+        "ICO",
+        "FRCS (EDINBURGH)",
+        "FRCS (GLASGOW)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Dr. Khair Ahmed Choudhury",
+    "speciality": "Eye Specialist & Pediatric Ophthalmologist",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-khair-ahmed-choudhury.jpg"
+}

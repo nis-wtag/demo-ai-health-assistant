@@ -1,0 +1,43 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "FMD (Family Medicine)",
+        "CCD (Diabetology)",
+        "MPH",
+        "MPhil",
+        "CND (Nutrition)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Moushumi Afrin Eva",
+    "speciality": "Family Medicine, Diabetes & Nutrition Specialist",
+    "workplace": "Holy Family Red Crescent Medical College & Hospital",
+    "image": "image/dr-moushumi-afrin-eva.jpg"
+}

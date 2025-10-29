@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)",
+        "FCPS (OBGYN)",
+        "Training (Infertility)"
+    ],
+    "designation": "Associate Professor, Obstetrics & Gynecology",
+    "name": "Dr. Akter Jahan",
+    "speciality": "Gynecology, Infertility Specialist & Surgeon",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/dr-akter-jahan.jpg"
+}

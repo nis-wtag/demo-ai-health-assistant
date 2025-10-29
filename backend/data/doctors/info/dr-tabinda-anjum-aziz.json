@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Dogma Hospital, Badda",
+            "address": {
+                "name": "Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801921088076",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. Tabinda Anjum Aziz",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-tabinda-anjum-aziz.jpg"
+}

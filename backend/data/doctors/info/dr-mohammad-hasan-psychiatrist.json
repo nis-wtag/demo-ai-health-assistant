@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+8801722-169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Psychiatrist",
+    "name": "Dr. Mohammad Hasan",
+    "speciality": "Psychiatry (Mental Diseases, Brain, Mind & Drug Addiction) Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mohammad-hasan-psychiatrist.jpg"
+}

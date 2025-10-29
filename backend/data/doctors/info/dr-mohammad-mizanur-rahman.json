@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Cardiology, NICVD)",
+        "FACC (USA)"
+    ],
+    "designation": "Senior Consultant",
+    "name": "Dr. Mohammad Mizanur Rahman",
+    "speciality": "Clinical & Interventional Cardiologist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/dr-mohammad-mizanur-rahman.jpg"
+}

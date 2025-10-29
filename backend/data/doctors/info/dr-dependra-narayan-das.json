@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center, Sylhet",
+            "address": {
+                "name": "New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801780832185",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "M.Phil (Psychiatry)"
+    ],
+    "designation": "Professor & Head, Psychiatry",
+    "name": "Prof. Dr. Dipendra Narayan Das",
+    "speciality": "Psychiatry (Brain, Mind, Depression, Drug Addiction) Specialist",
+    "workplace": "Parkview Medical College & Hospital, Sylhet",
+    "image": "image/dr-dependra-narayan-das.jpg"
+}

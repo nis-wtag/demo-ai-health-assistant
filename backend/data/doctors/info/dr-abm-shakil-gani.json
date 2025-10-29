@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Savar",
+            "address": {
+                "name": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787808",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD"
+    ],
+    "designation": "Assistant Professor, Hepatology",
+    "name": "Dr. ABM Shakil Gani",
+    "speciality": "Hepatology (Liver Diseases) Specialist",
+    "workplace": "Sheikh Hasina Medical College, Tangail",
+    "image": "image/dr-abm-shakil-gani.jpg"
+}

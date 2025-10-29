@@ -1,0 +1,76 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": {
+                "name": "Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500",
+                "longitude": 90.655774,
+                "latitude": 23.22696
+            },
+            "contact": "+8801711144786",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Cardiovascular Surgery)"
+    ],
+    "designation": "Consultant, Vascular Surgery",
+    "name": "Dr. AKM Ziaul Huque",
+    "speciality": "Vascular & Endovascular Surgeon",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-a-k-m-ziaul-huque.jpg"
+}

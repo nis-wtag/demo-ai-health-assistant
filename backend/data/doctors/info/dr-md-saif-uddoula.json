@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Aurora Specialized Hospital",
+            "address": {
+                "name": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
+                "longitude": -0.199431,
+                "latitude": 51.801243
+            },
+            "contact": "+8801404450401",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MCPS (Medicine)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Associate Professor & Head, Gastroenterology",
+    "name": "Dr. Md. Saif Uddoula",
+    "speciality": "Medicine, Liver & Gastroenterology Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-saif-uddoula.jpg"
+}

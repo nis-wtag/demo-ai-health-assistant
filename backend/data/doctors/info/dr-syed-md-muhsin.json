@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram – 4203",
+            "contact": "+8801711946412",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "MS (Surgery)",
+        "FRCS (Hon.)",
+        "FACS (Hon.)",
+        "FMAS"
+    ],
+    "designation": "Associate Professor of Surgery",
+    "name": "Dr. Syed Md. Muhsin",
+    "speciality": "General and Laparoscopic Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-syed-md-muhsin.jpg"
+}

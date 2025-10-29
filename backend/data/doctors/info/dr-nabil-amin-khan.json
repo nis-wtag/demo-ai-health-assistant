@@ -1,0 +1,87 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Micare Health",
+            "address": {
+                "name": "Shyamoli Cinema Hall Building Complex, 3rd Floor (Lift-3), Ring Road, Shyamoli, Dhaka",
+                "longitude": 90.3598415,
+                "latitude": 23.7728269
+            },
+            "contact": "+8801915728266",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Rheumatology)",
+        "ECRD (Switzerland)"
+    ],
+    "designation": "Consultant (Rheumatology)",
+    "name": "Dr. Nabil Amin Khan",
+    "speciality": "Rheumatology (Arthritis, Gout, Lupus, Pain) & Medicine Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-nabil-amin-khan.jpg"
+}

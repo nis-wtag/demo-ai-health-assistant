@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801737513492",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Modern Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "207, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8801619088999",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "Fellow in Joint Replacement Surgery (India)"
+    ],
+    "designation": "Professor, Orthopedic Surgery",
+    "name": "Prof. Dr. Shyamal Debnath",
+    "speciality": "Bone, Joint & Traumatology Specialist",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/prof-dr-shyamal-debnath.jpg"
+}

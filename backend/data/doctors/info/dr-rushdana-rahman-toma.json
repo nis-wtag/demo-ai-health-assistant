@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+            "contact": "+8801711647877",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Rushdana Rahman (Toma)",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-rushdana-rahman-toma.jpg"
+}

@@ -1,0 +1,75 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "10666",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "United Hospital Ltd, Dhaka",
+            "address": {
+                "name": "Plot # 15, Road # 71, Gulshan, Dhaka",
+                "longitude": 90.3784481,
+                "latitude": 23.8074058
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (DU)"
+    ],
+    "designation": "Former Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. Chowdhury Mohammad Ali",
+    "speciality": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-chowdhury-mohammad-ali.jpg"
+}

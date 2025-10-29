@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934998688",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Surgery)",
+        "FCPS(C)"
+    ],
+    "designation": "Registrar, Surgery",
+    "name": "Dr. Sabrina Rahman Snigdha",
+    "speciality": "General, Laparoscopic, Breast, Piles, Fistula & Colorectal Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-sabrina-rahman-snigdha.jpg"
+}

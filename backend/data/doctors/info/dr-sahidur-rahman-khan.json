@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": "Room - 205 (Lift 1), Hospital Building, 1/1 B, Kallyanpur, Dhaka",
+            "contact": "+8809610009616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "MS (ORTHOPAEDIC SURGERY)",
+        "D-ORTHO (NITOR)",
+        "BCS (HEALTH)",
+        "EDC (BIRDEM)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Md. Sahidur Rahman Khan",
+    "speciality": "Orthopedic, Trauma & Spine Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-sahidur-rahman-khan.jpg"
+}

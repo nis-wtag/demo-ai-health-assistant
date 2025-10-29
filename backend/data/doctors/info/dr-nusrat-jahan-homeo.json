@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Homeopathy Health Center",
+            "address": {
+                "name": "House #15 (Lift-2), Sonargaon Janapath, Sector#7 (House Building), Uttara, Dhaka",
+                "longitude": 116.079591,
+                "latitude": 5.945092
+            },
+            "contact": "+8801317706216",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (Homeopathy, DU)",
+        "DMU (Ultra)",
+        "PGT (Palliative Care)"
+    ],
+    "designation": "Senior Medical Officer, Homeopathy",
+    "name": "Dr. Nusrat Jahan",
+    "speciality": "Gynecology & Obstetrics, Maternal & Child Health Care, Cancer with Palliative Care, Gastroenterology, Pain Management with Rheumatology, Chronic Disease, Hair Problem, Heart disease, Heart Block, General Weakness & Skin Disease Specialist",
+    "workplace": "Bangladesh Homeopathy Health Center",
+    "image": "image/dr-nusrat-jahan-homeo.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Rangpur",
+            "address": {
+                "name": "House # 69, Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801766663099",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Dermatology & Venereology)"
+    ],
+    "designation": "Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Md. Lutfor Rahman",
+    "speciality": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-lutfor-rahman.jpg"
+}

@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Cognitive Cure",
+            "address": {
+                "name": "House 4, Road 7, Block L, Dakkhin Banasree, Dhaka",
+                "longitude": 90.4376006,
+                "latitude": 23.7596585
+            },
+            "contact": "+8801684320857",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Islamic Mission Diagnostic & Consultation Centre",
+            "address": {
+                "name": "Islamic Foundation, Baitul Mukarram North Gate, Dhaka",
+                "longitude": 90.38183,
+                "latitude": 23.819149
+            },
+            "contact": "+8801550687777",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MD (Psychiatry, NIMH)"
+    ],
+    "designation": "Psychiatrist",
+    "name": "Dr. Muntasir Khan",
+    "speciality": "Psychiatrist (Mental Diseases, Headache, Drug Addiction & Sexual Dysfunction Specialist)",
+    "workplace": "Shariatpur Sadar Hospital",
+    "image": "image/dr-muntasir-khan.jpg"
+}

@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": {
+                "name": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+                "longitude": -67.923124,
+                "latitude": 3.878753
+            },
+            "contact": "+8801720143448",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (Glasgow)",
+        "FACS (USA)"
+    ],
+    "designation": "Chairman & Professor, Surgery",
+    "name": "Prof. Dr. A.H.M. Towhidul Alam",
+    "speciality": "Gastrointestinal, Pancreato-Biliary, Endoscopic & Laparoscopic Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-towhidul-alam.jpg"
+}

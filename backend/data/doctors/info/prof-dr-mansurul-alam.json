@@ -1,0 +1,99 @@
+{
+    "chambers": [
+        {
+            "place": "Epic Healthcare, Chittagong",
+            "address": {
+                "name": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801984499600",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Dermatology)",
+        "MD (SKIN & VD)",
+        "PhD",
+        "FRCP (GLASGOW)"
+    ],
+    "designation": "Former Professor & Head, Dermatology & Venereology",
+    "name": "Prof. Dr. Mansurul Alam",
+    "speciality": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-mansurul-alam.jpg"
+}

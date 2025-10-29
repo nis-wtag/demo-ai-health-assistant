@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+88029670295",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-CARD",
+        "MD (Cardiology)",
+        "FRCP (UK)",
+        "FACC (USA)"
+    ],
+    "designation": "Professor, Cardiology",
+    "name": "Prof. Dr. H. I. Lutfur Rahman Khan",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Anwer Khan Modern Medical College & Hospital",
+    "image": "image/prof-dr-h-i-lutfur-rahman-khan.jpg"
+}

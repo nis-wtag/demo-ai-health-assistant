@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Bornali Mor, Rajshahi",
+                "longitude": 88.593041,
+                "latitude": 24.375441
+            },
+            "contact": "+8801711359480",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gyne & Obs",
+    "name": "Dr. Nargis Jahan",
+    "speciality": "Obstetrics, Gynecology Specialist & Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-nargis-jahan.jpg"
+}

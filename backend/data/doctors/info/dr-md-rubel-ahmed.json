@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Dental Care",
+            "address": {
+                "name": "Sanwar Mansion, West Shibgonj, Sylhet",
+                "longitude": 91.678084,
+                "latitude": 24.705173
+            },
+            "contact": "+8801819129677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MPH"
+    ],
+    "designation": "Assistant Professor, SDM",
+    "name": "Dr. Md. Rubel Ahmed",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Popular Dental Care",
+    "image": "image/dr-md-rubel-ahmed.jpg"
+}

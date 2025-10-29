@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Better Life Hospital, Rampura",
+            "address": {
+                "name": "1, DIT Road, East Rampura, Dhaka - 1219",
+                "longitude": 90.419164,
+                "latitude": 23.758885
+            },
+            "contact": "+8809639786786",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Consultant, Endocrinology & Metabolism",
+    "name": "Dr. Mostafa Hasan Rajib",
+    "speciality": "Diabetes, Thyroid & Hormonal Diseases Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-mostafa-hasan-rajib.jpg"
+}

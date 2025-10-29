@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Diagnostic & Consultation Center, Khulna",
+            "address": "59/1, Shamsur Rahman Road (In front of School Health Clinic), Khulna",
+            "contact": "+8801842‑676389",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (AFMC)",
+        "FCPS (Internal Medicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Assistant Professor, Medicine",
+    "name": "Dr. Md. Aslam Hossain",
+    "speciality": "Medicine & Diabetes Specialist",
+    "workplace": "Ad-din Akij Medical College Hospital, Khulna",
+    "image": "image/dr-md-aslam-hossain.jpg"
+}

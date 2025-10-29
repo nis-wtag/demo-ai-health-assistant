@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (BSMMU)"
+    ],
+    "designation": "Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Emily Akter",
+    "speciality": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-emily-akter.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Badda General Hospital",
+            "address": {
+                "name": "107/2, Progati Sarani, Uttar Badda, Dhaka",
+                "longitude": 90.09551,
+                "latitude": 23.81892
+            },
+            "contact": "+8801790776722",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGDP (UK)",
+        "MPH",
+        "Diploma (USA)"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. M R Karim Reza",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Dhaka Central International Medical College & Hospital",
+    "image": "image/dr-m-r-karim-reza.jpg"
+}

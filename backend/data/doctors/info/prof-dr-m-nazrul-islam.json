@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "FRCP (London)",
+        "FESC",
+        "FACC (USA)"
+    ],
+    "designation": "Former Director and Professor, Cardiology",
+    "name": "Prof. Dr. M. Nazrul Islam",
+    "speciality": "Cardiology (Heart Diseases) Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/prof-dr-m-nazrul-islam-siddique.jpg"
+}

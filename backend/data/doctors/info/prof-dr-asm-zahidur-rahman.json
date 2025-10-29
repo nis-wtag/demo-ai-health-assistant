@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Lubana General Hospital, Uttara",
+            "address": {
+                "name": "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230",
+                "longitude": 67.00594,
+                "latitude": 24.95427
+            },
+            "contact": "+8801615888808",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Former Professor, Surgery",
+    "name": "Prof. Dr. ASM Zahidur Rahman",
+    "speciality": "General & Laparoscopic Surgery Specialist, Hernia, Piles, Fissure, Fistula, Abscess, Pilonidal Sinus & Gallstones Surgeon",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/prof-dr-asm-zahidur-rahman.jpg"
+}

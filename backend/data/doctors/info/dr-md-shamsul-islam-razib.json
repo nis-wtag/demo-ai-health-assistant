@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neuromedicine)",
+        "Training (Medicine)"
+    ],
+    "designation": "Assistant Professor, Neuromedicine",
+    "name": "Dr. Md. Shamsul Islam Razib",
+    "speciality": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+    "workplace": "Jahurul Islam Medical College & Hospital",
+    "image": "image/dr-md-shamsul-islam-razib.jpg"
+}

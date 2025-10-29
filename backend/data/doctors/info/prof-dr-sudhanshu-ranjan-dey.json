@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "National Heart Foundation Hospital, Sylhet",
+            "address": {
+                "name": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801787487117",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Medinova Medical Services, Sylhet",
+            "address": {
+                "name": "98, New Medical Road, Kajolshah, Sylhet – 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+880821710918",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)",
+        "MCSI",
+        "FESC",
+        "FACC (USA)"
+    ],
+    "designation": "Professor & Ex. Head (Cardiology)",
+    "name": "Prof. Dr. Sudhanshu Ranjan Dey",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/prof-dr-sudhanshu-ranjan-dey.jpg"
+}

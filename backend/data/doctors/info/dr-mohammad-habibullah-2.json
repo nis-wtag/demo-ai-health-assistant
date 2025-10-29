@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801788222000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (EYE)"
+    ],
+    "designation": "Senior Consultant, Eye",
+    "name": "Dr. Mohammad Habibullah",
+    "speciality": "Eye, Retina Specialist & Phaco Surgeon",
+    "workplace": "Sheikh Hasina Medical College & Hospital, Jamalpur",
+    "image": "image/dr-mohammad-habibullah-2.jpg"
+}

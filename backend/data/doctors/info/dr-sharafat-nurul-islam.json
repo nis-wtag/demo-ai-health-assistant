@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Associate Professor & Head, Cardiology",
+    "name": "Dr. Sharafat Nurul Islam",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-sharafat-nurul-islam.jpg"
+}

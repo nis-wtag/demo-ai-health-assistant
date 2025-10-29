@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801842365430",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Neurology)"
+    ],
+    "designation": "Assistant Professor, Neuromedicine",
+    "name": "Dr. Md Abdullah Al Hasan",
+    "speciality": "Neuromedicine (Barin, Stroke, Nerve, Spine, Headache, Migraine) Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-abdullah-al-hasan.jpg"
+}

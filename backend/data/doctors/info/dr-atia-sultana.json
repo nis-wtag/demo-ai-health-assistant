@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Medipath Diagnostic Complex, Rajshahi",
+            "address": {
+                "name": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+                "longitude": 88.5864007,
+                "latitude": 24.3767519
+            },
+            "contact": "+8801704560599",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Bornali Mor, Rajshahi",
+                "longitude": 88.593041,
+                "latitude": 24.375441
+            },
+            "contact": "+8801711359480",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (OBGYN)",
+        "DGO",
+        "MCPS (OBGYN)"
+    ],
+    "designation": "Associate Professor & Head, Gynecology & Obstetrics",
+    "name": "Dr. Atia Sultana",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic & Hysteroscopic Surgeon",
+    "workplace": "Shah Mokhdum Medical College & Hospital",
+    "image": "image/dr-atia-sultana.jpg"
+}

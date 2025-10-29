@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801751363995",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor of Medicine and Principal",
+    "name": "Prof. Brig. Gen. Dr. S. M. Selimuzzaman",
+    "speciality": "Medicine Specialist",
+    "workplace": "Army Medical College, Rangpur",
+    "image": "image/prof-brig-gen-dr-s-m-selimuzzaman.jpg"
+}
