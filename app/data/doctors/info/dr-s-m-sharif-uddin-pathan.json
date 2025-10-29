@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "DTCD (Chest Diseases)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. S. M. Sharif Uddin Pathan",
+    "speciality": "Asthma, Chest Diseases & Cardiology Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-s-m-sharif-uddin-pathan.jpg"
+}

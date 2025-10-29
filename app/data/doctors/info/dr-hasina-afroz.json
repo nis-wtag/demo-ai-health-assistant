@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Motijheel",
+            "address": {
+                "name": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+                "longitude": 90.4174733,
+                "latitude": 23.7418769
+            },
+            "contact": "+8801727666741",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "MS (OBGYN)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Hasina Afroz",
+    "speciality": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+    "workplace": "United Hospital Ltd, Dhaka",
+    "image": "image/dr-hasina-afroz.jpg"
+}

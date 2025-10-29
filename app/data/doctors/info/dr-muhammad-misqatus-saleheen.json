@@ -1,0 +1,137 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Alif Diagnostic & Consultation Center",
+            "address": {
+                "name": "9, Khan Jahan Ali Road (Tutpara Koborsthan Mor), Khulna",
+                "longitude": 89.572403,
+                "latitude": 22.804486
+            },
+            "contact": "+8801831008682",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Lab One Diagnostic & Consultation Center",
+            "address": {
+                "name": "293, Khan Jahan Ali Road, Royal More, Khulna – 9100",
+                "longitude": 89.5611935,
+                "latitude": 22.812203
+            },
+            "contact": "+8801612238810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "DDV (BSMMU)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Muhammad Misqatus Saleheen",
+    "speciality": "Skin, Sex, Allergy, Leprosy, Hair & Cosmetic Darmato Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-muhammad-misqatus-saleheen.jpg"
+}

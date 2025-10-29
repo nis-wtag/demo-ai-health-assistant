@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+8801766662829",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (ENT)",
+        "MCPS (ENT)"
+    ],
+    "designation": "Resident Surgeon, ENT",
+    "name": "Dr. Sanjoy Das",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-sanjoy-das.jpg"
+}

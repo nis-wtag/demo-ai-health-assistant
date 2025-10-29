@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801675405295",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "DDV (SUST)"
+    ],
+    "designation": "Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Parveen Afroz Chowdhury",
+    "speciality": "Skin, Sexual Diseases Specialist & Dermatosurgeon",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/dr-parveen-afroz-chowdhury.jpg"
+}

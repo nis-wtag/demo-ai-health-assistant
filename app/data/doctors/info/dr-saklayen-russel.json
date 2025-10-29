@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Ibrahim Cardiac Hospital & Research Institute",
+            "address": "Room # 6009, Level # 5, Vascular Surgery Department, Shahbag, Dhaka",
+            "contact": "+8801717021090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (CVTS)",
+        "Trained in Endovascular & Laser Surgery (India)",
+        "Trained in Fistula for Hemodialysis (Singapore)"
+    ],
+    "designation": "Associate Professor & Head, Vascular Surgery",
+    "name": "Dr. Saklayen Russel",
+    "speciality": "Vascular, Endovascular & Laser Surgeon",
+    "workplace": "Ibrahim Cardiac Hospital & Research Institute",
+    "image": "image/dr-saklayen-russel.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801987595060",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Assistant Professor & Head, Physical Medicine",
+    "name": "Jafor Sadiq",
+    "speciality": "Physical Medicine (Pain, Paralysis, Sports Injury) & Rehabilitation Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-jafor-sadiq.jpg"
+}

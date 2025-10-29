@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Brain & Mind Consultation and Diagnostic Centre",
+            "address": {
+                "name": "Near 8 Tola Masjid, Kakuli Lane, Dhap, jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801710373434",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MD (Medicine) BSMMU",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant (Medicine)",
+    "name": "Dr. Md. Adnanul Alam",
+    "speciality": "Medicine Specialist",
+    "workplace": "Saidpur 100 Bed Hospital, Nilphamari",
+    "image": "image/dr-md-adnanul-alam.jpg"
+}

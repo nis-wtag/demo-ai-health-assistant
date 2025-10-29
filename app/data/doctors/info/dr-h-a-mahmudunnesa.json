@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "TMC Diagnostic & Hospital, Mymensingh",
+            "address": {
+                "name": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
+                "longitude": 90.3951768,
+                "latitude": 24.5823196
+            },
+            "contact": "+8801774955555",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "PGT (OBGYN)",
+        "PGT (Radiology)",
+        "DMU (SU)",
+        "TVS (SU)"
+    ],
+    "designation": "Consultant, Obstetrics & Gynecology",
+    "name": "Dr. H. A. Mahmudunnesa",
+    "speciality": "Gynecology, Obstetrics & Ultrasonogram Specialist",
+    "workplace": "TMC Diagnostic & Hospital, Mymensingh",
+    "image": "image/dr-h-a-mahmudunnesa.jpg"
+}

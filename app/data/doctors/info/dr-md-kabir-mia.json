@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Md. Kabir Mia",
+    "speciality": "General & Laparoscopic Specialist Surgeon",
+    "workplace": "General Hospital, Barisal",
+    "image": "image/dr-md-kabir-mia.jpg"
+}

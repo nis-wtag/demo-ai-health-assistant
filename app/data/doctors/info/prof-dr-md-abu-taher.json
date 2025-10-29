@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801787946132",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgery)",
+        "FRCS (UK)",
+        "FACS (USA)",
+        "FISCP (IN)",
+        "FASCRS (USA)"
+    ],
+    "designation": "Professor, Colorectal Surgery",
+    "name": "Prof. Dr. Md. Abu Taher",
+    "speciality": "Colorectal, Endo-Laparoscopic & Laser Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-md-abu-taher-mental.jpg"
+}

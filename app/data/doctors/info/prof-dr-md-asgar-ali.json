@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPH",
+        "MCPS",
+        "DLO",
+        "FCPS (UK)"
+    ],
+    "designation": "Professor & Head, ENT",
+    "name": "Prof. Dr. Md. Asgar Ali",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/prof-dr-md-asgar-ali.jpg"
+}

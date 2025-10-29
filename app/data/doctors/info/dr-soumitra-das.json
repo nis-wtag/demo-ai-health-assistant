@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Comilla Trauma Center",
+            "address": {
+                "name": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+                "longitude": 90.39641,
+                "latitude": 23.729869
+            },
+            "contact": "+8809612808182",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neurology)"
+    ],
+    "designation": "Consultant, Neurology",
+    "name": "Dr. Soumitra Das",
+    "speciality": "Brain, Stroke, Nerve & Neurology Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-soumitra-das.jpg"
+}

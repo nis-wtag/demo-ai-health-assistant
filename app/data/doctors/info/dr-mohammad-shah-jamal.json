@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "CD Path & Hospital Pvt. Ltd.",
+            "address": {
+                "name": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
+                "longitude": 76.511062,
+                "latitude": 10.082321
+            },
+            "contact": "+8801708437891",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "Training (Diabetes-BIRDEM)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Mohammad Shah Jamal",
+    "speciality": "Gastroenterology, Liver, Medicine & Diabetes Specialist",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-mohammad-shah-jamal.jpg"
+}

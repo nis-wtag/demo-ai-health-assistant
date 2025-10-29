@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Manar Hospital Limited",
+            "address": {
+                "name": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801550020885",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FMAS (India)",
+        "Fellow GI Surgery & Liver Transplant (India)",
+        "Advance Training in Proctology (Mumbai)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Anharur Rahman",
+    "speciality": "General & Laparoscopic Surgeon",
+    "workplace": "Kumudini Womens Medical College & Hospital",
+    "image": "image/dr-anharur-rahman.jpg"
+}

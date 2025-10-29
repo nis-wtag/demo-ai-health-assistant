@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801992346632",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "Consultant, ENT",
+    "name": "Mohammad Idris Ali",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-mohammad-idris-ali.jpg"
+}

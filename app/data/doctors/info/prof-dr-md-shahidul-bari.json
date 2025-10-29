@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "City Hospital Limited, Dhaka",
+            "address": {
+                "name": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+                "longitude": 90.363244,
+                "latitude": 23.7636683
+            },
+            "contact": "+8801732196738",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Trained in Plastic & Cosmetic Surgery (Italy & France)"
+    ],
+    "designation": "Former Professor, Burn & Plastic Surgery",
+    "name": "Prof. Dr. Md. Shahidul Bari",
+    "speciality": "Burn, Plastic & Cosmetic Surgeon",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/prof-dr-md-shahidul-bari.jpg"
+}

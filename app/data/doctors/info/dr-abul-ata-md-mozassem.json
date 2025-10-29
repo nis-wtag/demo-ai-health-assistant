@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+            "contact": "+8801819311844",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)",
+        "MCPS (Surgery)"
+    ],
+    "designation": "Consultant, Urology",
+    "name": "Dr. Abul Ata Md. Mozassem",
+    "speciality": "Urology (Kidney, Prostate, Bladder) Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-abul-ata-md-mozassem.jpg"
+}

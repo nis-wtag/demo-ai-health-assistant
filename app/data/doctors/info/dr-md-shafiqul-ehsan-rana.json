@@ -1,0 +1,52 @@
+{
+    "chambers": [
+        {
+            "place": "Nexus Hospital, Mymensingh",
+            "address": {
+                "name": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+                "longitude": 90.3851826,
+                "latitude": 24.7360946
+            },
+            "contact": "+8801796586561",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Gastroenterology)",
+        "MACP (USA)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Gastroenterology",
+    "name": "Dr. Md. Shafiqul Ehsan Rana",
+    "speciality": "Gastroenterology, Liver, , Pancreas & Diabetes Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-shafiqul-ehsan-rana.jpg"
+}

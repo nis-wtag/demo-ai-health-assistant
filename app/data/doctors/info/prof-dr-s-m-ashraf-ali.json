@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Royal Hospital, Chittagong",
+            "address": {
+                "name": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+                "longitude": 91.82858859999999,
+                "latitude": 22.36043685
+            },
+            "contact": "+880241355934",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FMAS (India)",
+        "FACS (USA)",
+        "Higher Training in Advanced Laparoscopic Surgery (Singapore & Japan)"
+    ],
+    "designation": "Professor & Head, Surgery",
+    "name": "Prof. Dr. S.M. Ashraf Ali",
+    "speciality": "General & Advanced Laparoscopic Surgeon",
+    "workplace": "Marine City Medical College & Hospital",
+    "image": "image/prof-dr-s-m-ashraf-ali.jpg"
+}

@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801976022333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801766662828",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Surgery)"
+    ],
+    "designation": "Registrar, Surgery",
+    "name": "Dr. Raihana Ahmed",
+    "speciality": "Breast, General, Laparoscopic & Colorectal Surgery Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-raihana-ahmed.jpg"
+}

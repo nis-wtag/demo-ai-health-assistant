@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD (Dhaka)",
+        "DTCE (Japan)",
+        "FCCP (USA)",
+        "MRIT (Japan)"
+    ],
+    "designation": "Senior Consultant (Ex), Respiratory Medicine",
+    "name": "Dr. Md. Monirul Islam",
+    "speciality": "Asthma & Chest Diseases Specialist",
+    "workplace": "Chest Disease Hospital, Sylhet",
+    "image": "image/dr-md-monirul-islam-chest.jpg"
+}

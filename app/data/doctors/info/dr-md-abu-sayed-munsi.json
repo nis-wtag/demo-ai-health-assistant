@@ -1,0 +1,89 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801766556655",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (Pediatrics)",
+        "Fellowship in Pediatric Cardiology (RTIICS)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. Md. Abu Sayed Munsi",
+    "speciality": "Child Diseases & Child Heart Specialist",
+    "workplace": "Dhaka Shishu Hospital",
+    "image": "image/dr-md-abu-sayed-munsi.jpg"
+}

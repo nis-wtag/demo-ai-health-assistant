@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Prime Medical College & Hospital",
+            "address": {
+                "name": "Pirjabad, Badargonj Road, Rangpur, Bangladesh",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801332023203",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:30"
+                }
+            ]
+        },
+        {
+            "place": "Microlab & Consultation Center",
+            "address": {
+                "name": "Dhap, Jail Road (In front of Sarak Bhaban), Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801701-585200",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD",
+        "DLO"
+    ],
+    "designation": "Associate Professor, Department of ENT & HNS",
+    "name": "Dr. Md. Sazedul Islam Sazed",
+    "speciality": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+    "workplace": "Prime Medical College Hospital, Rangpur",
+    "image": "image/dr-md-sazedul-islam-sazed.jpg"
+}

@@ -1,0 +1,78 @@
+{
+    "chambers": [
+        {
+            "place": "Garib Nawaz Clinic Diagnostic Limited, Khulna",
+            "address": {
+                "name": "C3, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801766344663",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Doctor’s Lab & Imaging Khulna",
+            "address": {
+                "name": "Kohinur Tower, A-12, KDA Majid Saroni, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Reproductive Endocrinology & Infertility)",
+        "FCPS (Gyne & Obs) Final Part",
+        "MRCOG (2nd Part)"
+    ],
+    "designation": "Consultant (Infertility)",
+    "name": "Dr. Tandra Ghosh",
+    "speciality": "Infertility, Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-tandra-ghosh.jpg"
+}

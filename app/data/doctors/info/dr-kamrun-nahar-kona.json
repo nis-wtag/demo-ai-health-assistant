@@ -1,0 +1,69 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+880966678782",
+            "visiting_hours": null
+        },
+        {
+            "place": "Good Health Clinic & Diagnostic, Khulna",
+            "address": {
+                "name": "268, Khan Jahan Ali Road, Tootpara Kabarsthan More, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS ( Health)",
+        "FCPS (Medicine)",
+        "MD (Internal Medicine)",
+        "MACP (USA)",
+        "CCD (BIRDEM)",
+        "Diploma in Asthma Care (UK)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Kamrun Nahar (Kona)",
+    "speciality": "Medicine, Diabetes & Respiratory Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-kamrun-nahar-kona.jpg"
+}

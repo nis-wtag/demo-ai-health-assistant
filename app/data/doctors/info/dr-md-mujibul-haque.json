@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+8801825763275",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD (BSMMU)"
+    ],
+    "designation": "Cardiologist",
+    "name": "Dr. Md. Mujibul Haque",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-mujibul-haque.jpg"
+}

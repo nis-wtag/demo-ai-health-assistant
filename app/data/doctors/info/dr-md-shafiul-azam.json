@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Surgery)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Md. Shafiul Azam",
+    "speciality": "General, Colorectal (Piles) & Laparoscopic Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-shafiul-azam.jpg"
+}

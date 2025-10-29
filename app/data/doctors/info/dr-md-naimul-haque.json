@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Retina and Faco Center",
+            "address": {
+                "name": "Laxmipur (East Side of North Bengal City Scan), Rajshahi",
+                "longitude": 89.31506,
+                "latitude": 22.311085
+            },
+            "contact": "+8801750004388",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "Fellow (Vitreo Retina)",
+        "Fellow (LVPEI)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Md. Naimul Haque",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-naimul-haque.jpg"
+}

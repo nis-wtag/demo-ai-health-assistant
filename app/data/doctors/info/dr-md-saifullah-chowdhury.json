@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "People's Hospital, Chittagong",
+            "address": {
+                "name": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+88031658911",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DEM (BIRDEM)",
+        "CCD (Diabetology)"
+    ],
+    "designation": "Diabetes, Thyroid & Hormone Specialist",
+    "name": "Dr. Md. Saifullah Chowdhury",
+    "speciality": "Endocrinologist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-saifullah-chowdhury.jpg"
+}

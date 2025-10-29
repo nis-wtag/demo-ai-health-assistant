@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Avenue, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801934-998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Lab One Diagnostic & Consultation Center",
+            "address": {
+                "name": "293, Khan Jahan Ali Road, Royal More, Khulna – 9100",
+                "longitude": 89.5611935,
+                "latitude": 22.812203
+            },
+            "contact": "+8801911492801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MRCP (UK)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Tahmida Khanom",
+    "speciality": "Medicine (All Diseases of Adults) Specialist",
+    "workplace": "Khulna Medical College & Hospital"
+}

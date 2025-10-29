@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "National Heart Foundation, Rajshahi",
+            "address": "Bakir More, Laxmipur, Rajpara, Rajshahi",
+            "contact": "+8801728-830544",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "New Haven Diagnostic Center",
+            "address": {
+                "name": "Sher Shah Road, Laxmipur, Rajshahi",
+                "longitude": 88.27485,
+                "latitude": 25.81429
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-Card (NICVD)",
+        "MACP (America)",
+        "Advanced training in Child Echocardiography"
+    ],
+    "designation": "Registrar, Cardiology",
+    "name": "Dr. A.S.M. Sayem",
+    "speciality": "Clinical & Interventional Cardiologist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-a-s-m-sayem.jpg"
+}

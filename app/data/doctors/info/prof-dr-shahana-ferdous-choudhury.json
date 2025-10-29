@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "United Poly Clinic, Sylhet",
+            "address": {
+                "name": "Box Mansion, Zindabazar, Sylhet",
+                "longitude": 91.868725,
+                "latitude": 24.894894
+            },
+            "contact": "+8801712731512",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "Training (VVF & Laparoscopic Surgery)"
+    ],
+    "designation": "Professor & Head, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Shahana Ferdous Choudhury",
+    "speciality": "Gynecology Specialist & Surgeon",
+    "workplace": "Sylhet Womens Medical College & Hospital",
+    "image": "image/prof-dr-shahana-ferdous-choudhury.jpg"
+}

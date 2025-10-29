@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "BRB Hospital, Dhaka",
+            "address": {
+                "name": "77/A, East Rajabazar, West Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801972598407",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka – 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8801311205586",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "Fellowship in Hepato-Biliary-Pancreatic Surgery & Liver Transplant (India)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Nazmul Hakim Shaheen",
+    "speciality": "Hepatobilliary, Pancreatic & Liver Transplant Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-nazmul-hakim-shahin.jpg"
+}

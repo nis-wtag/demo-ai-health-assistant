@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Room 210, Gohorpur Road, South Surma, Sylhet – 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801719-485051",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Cure Medical Services, Sylhet",
+            "address": {
+                "name": "Prottasha Complex,, Shahporan Gate, Khadimnagar, Sylhet",
+                "longitude": 91.86813,
+                "latitude": 24.902134
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSc (Gastroenterology)",
+        "Fellowship in Gastroenterology"
+    ],
+    "designation": "Assistant Professor (CC)",
+    "name": "Dr. M A Awal Chowdhury (Ashik)",
+    "speciality": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) Specialist",
+    "workplace": "North East Medical College Hospital",
+    "image": "image/dr-m-a-awal-chowdhury-ashik.jpg"
+}

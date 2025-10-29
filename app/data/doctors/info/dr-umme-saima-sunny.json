@@ -1,0 +1,89 @@
+{
+    "chambers": [
+        {
+            "place": "Tasnim Dental Care, Khulna",
+            "address": {
+                "name": "Sheikh Para, Khulna",
+                "longitude": 89.5543932,
+                "latitude": 22.8184779
+            },
+            "contact": "+8801911740267",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (OMFS)"
+    ],
+    "designation": "Head, Dentistry",
+    "name": "Dr. Umme Saima Sunny",
+    "speciality": "Oral & Dental Surgery Specialist",
+    "workplace": "Gazi Medical College & Hospital, Khulna",
+    "image": "image/dr-umme-saima-sunny.jpg"
+}

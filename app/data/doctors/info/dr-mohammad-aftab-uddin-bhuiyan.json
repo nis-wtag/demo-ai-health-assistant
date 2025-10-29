@@ -1,0 +1,158 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801738332616",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Modern Hospital, Comilla",
+            "address": "Laksam Road, Shaktola, Cumilla – 3500",
+            "contact": "+8801711785199",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (DU)",
+        "Fellowship Training in Pediatric Orthopedics (India, Dhaka)"
+    ],
+    "designation": "Former Assistant Professor, Orthopedics",
+    "name": "Dr. Mohammad Aftab Uddin Bhuiyan",
+    "speciality": "Orthopedics Specialist & Surgeon",
+    "workplace": "Central Medical College & Hospital, Comilla",
+    "image": "image/dr-mohammad-aftab-uddin-bhuiyan.jpg"
+}

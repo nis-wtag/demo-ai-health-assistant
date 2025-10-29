@@ -1,0 +1,105 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801985-498224",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Khulna",
+            "address": {
+                "name": "House # A5, Majid Sarani, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "MD (Psychiatry - BSMMU)"
+    ],
+    "designation": "Assistant Professor, Psychiatry",
+    "name": "Dr. Basudeb Chandra Pal",
+    "speciality": "Mental Disorder, Psycho-Sexual Disorder, Drug & Internet Addiction Specialist & Psychotherapist",
+    "workplace": "Khulna City Medical College & Hospital",
+    "image": "image/dr-basudeb-chandra-pal.jpg"
+}

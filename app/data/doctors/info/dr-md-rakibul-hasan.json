@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "+8801810-004550",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Oncology)"
+    ],
+    "designation": "Assistant Professor, Oncology",
+    "name": "Dr. Md. Rakibul Hasan",
+    "speciality": "Cancer Specialist & Clinical Oncologist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-rakibul-hasan.jpg"
+}

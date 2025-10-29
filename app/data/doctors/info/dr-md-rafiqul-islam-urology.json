@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801911753806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)"
+    ],
+    "designation": "Urology Specialist & Surgeon",
+    "name": "Dr. Md. Rafiqul Islam",
+    "speciality": "Urology",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-rafiqul-islam-urology.jpg"
+}

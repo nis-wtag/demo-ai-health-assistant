@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "+8801810-004550",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)",
+        "CCD (Diabetology)"
+    ],
+    "designation": "Consultant, Physical Medicine & Rehabilitation",
+    "name": "Dr. Palash Nag",
+    "speciality": "Pain, Arthritis, Diabetes, Neuromedicine & Joint Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-palash-nag.jpg"
+}

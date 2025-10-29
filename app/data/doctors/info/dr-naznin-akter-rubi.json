@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Pediatric Neurology)"
+    ],
+    "designation": "Assistant Professor, Pediatric Neurology",
+    "name": "Dr. Naznin Akter (Ruby)",
+    "speciality": "Child Neurology (Epilepsy, Seizures, Autism) Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-naznin-akter-rubi.jpg"
+}

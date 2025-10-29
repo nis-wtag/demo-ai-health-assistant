@@ -1,0 +1,31 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Urology)",
+        "FCPS (Surgery)",
+        "MRCS (Edin, UK)"
+    ],
+    "designation": "Associate Professor, Urology",
+    "name": "Dr. Md. Mashiur Arefin (Rubel)",
+    "speciality": "Urologist & Laparoscopic Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-mashiur-arefin-rubel.jpg"
+}

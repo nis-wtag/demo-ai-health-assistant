@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801719617852",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. DM Arman",
+    "speciality": "Neurosurgery (Brain, Stroke, Paralysis & Spine) Specialist & Surgeon",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-dm-arman.jpg"
+}

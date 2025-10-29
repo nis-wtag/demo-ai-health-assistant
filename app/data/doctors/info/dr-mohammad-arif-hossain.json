@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MS (ORTHO)",
+        "Fellowship in Joint Replacement Surgery (India)"
+    ],
+    "designation": "Consultant & Surgeon, Orthopedics",
+    "name": "Dr. Mohammad Arif Hossain",
+    "speciality": "Orthopedics Specialist & Trauma Surgeon",
+    "workplace": "Government Employee Hospital",
+    "image": "image/dr-mohammad-arif-hossain.jpg"
+}

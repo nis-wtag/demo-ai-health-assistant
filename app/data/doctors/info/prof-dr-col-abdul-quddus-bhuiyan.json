@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka – 1212",
+                "longitude": 90.42555,
+                "latitude": 23.77658
+            },
+            "contact": "+8809610009614",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (Medicine)",
+        "FCPS (Nephrology)"
+    ],
+    "designation": "Professor, Nephrology",
+    "name": "Prof. Dr. Col. Abdul Quddus Bhuiyan",
+    "speciality": "Kidney Medicine Specialist",
+    "workplace": "Armed Forces Medical College, Dhaka",
+    "image": "image/prof-dr-col-abdul-quddus-bhuiyan.jpg"
+}

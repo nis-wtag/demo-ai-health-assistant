@@ -1,0 +1,139 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Room - 605, Unit # 02, Building # 15, Shantinagar, Dhaka",
+                "longitude": 90.4139156,
+                "latitude": 23.7385358
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Authentic Diagnostic & Consultation Center",
+            "address": {
+                "name": "House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801841715269",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "15:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Barisal",
+            "address": {
+                "name": "K Jahan Center, House # 106, Sadar Road, Barisal",
+                "longitude": 90.3466219,
+                "latitude": 22.3629664
+            },
+            "contact": "+8801766663305",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Neurosurgery)",
+        "Fellow - Skull Base Surgery (IRCAD, France)",
+        "Fellowship in Endoscopic Neurosurgery (India)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Md. Mahfuzur Rahman",
+    "speciality": "Brain, Nerve, Stroke, Spine Specialist & Neurosurgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-mahfuzur-rahman.jpg"
+}

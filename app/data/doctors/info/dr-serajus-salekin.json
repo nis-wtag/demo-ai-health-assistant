@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sirajul Islam Medical College & Hospital",
+            "address": {
+                "name": "12/3, New Circular Road, Malibagh, Dhaka - 1217",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809612808182",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Comilla Trauma Center",
+            "address": {
+                "name": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+                "longitude": 90.39641,
+                "latitude": 23.729869
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (CVTS)"
+    ],
+    "designation": "Assistant Professor, Thoracic Surgery",
+    "name": "Dr. Serajus Salekin",
+    "speciality": "Cardiovascular & Thoracic Specialist Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-serajus-salekin.jpg"
+}

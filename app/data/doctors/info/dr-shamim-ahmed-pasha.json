@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Heaven Dental Surgery, Sylhet",
+            "address": {
+                "name": "Mitali Complex (1st Floor), Subidbazar Point, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801750025531",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (SOMC)",
+        "PGT (OMS)"
+    ],
+    "designation": "Oral & Dental Surgeon, Dental",
+    "name": "Dr. Shamim Ahmed Pasha",
+    "speciality": "Oral, Dental & Maxillofacial Surgery Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-shamim-ahmed-pasha.jpg"
+}

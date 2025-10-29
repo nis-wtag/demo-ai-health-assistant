@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center, Sylhet",
+            "address": {
+                "name": "New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801737328942",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Associate Professor, Physical Medicine & Rehabilitation",
+    "name": "Dr. Fauzia Sobhan",
+    "speciality": "Arthritis, Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/dr-fauzia-sobhan.jpg"
+}

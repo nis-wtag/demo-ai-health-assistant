@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Associate Professor & Head, Nephrology",
+    "name": "Dr. Rezwanur Rahman",
+    "speciality": "Chronic Kidney Disease, Dialysis & Transplantation Specialist",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/dr-rezwanur-rahman.jpg"
+}

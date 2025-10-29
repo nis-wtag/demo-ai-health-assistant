@@ -1,0 +1,85 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Apollo Diagnostic Center, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801733008088",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Professor, Neurosurgery",
+    "name": "Prof. Dr. Md. Tofael Hossain Bhuiyan",
+    "speciality": "Brain, Spine & Pediatric Neurosurgery Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/prof-dr-md-tofayel-hossain-bhuiyan.jpg"
+}

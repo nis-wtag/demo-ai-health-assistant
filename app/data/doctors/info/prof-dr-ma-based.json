@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Malibagh",
+            "address": {
+                "name": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801844141717",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+            "address": {
+                "name": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8801701560011",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (DU)",
+        "WHO Fellow (Australia)"
+    ],
+    "designation": "Professor & Head, Orthopedic Surgery",
+    "name": "Prof. Dr. M.A. Based",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+    "workplace": "Ad-Din Medical College & Hospital",
+    "image": "image/prof-dr-ma-based.jpg"
+}

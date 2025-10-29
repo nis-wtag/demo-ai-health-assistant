@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Aesthetic & Baby Care",
+            "address": {
+                "name": "House # 01, Block # D, Road, 01, Ghoroar Mor, Pallabi, Mirpur",
+                "longitude": 73.778965,
+                "latitude": 33.183744
+            },
+            "contact": "+8801616465255",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "Diploma (Aesthetic Dermatology)",
+        "Advanced Course in Microdermabrasion & Chemical Peeling (VLCC)"
+    ],
+    "designation": "Consultant, Dermatology & Venereology",
+    "name": "Dr. Shaila Afroz Sume",
+    "speciality": "Aesthetic Dermatologist",
+    "workplace": "Farazy Hospital Limited, Banasree",
+    "image": "image/dr-shaila-afroz-sume.jpg"
+}

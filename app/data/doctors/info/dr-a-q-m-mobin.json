@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mugda",
+            "address": {
+                "name": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801724008677",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Gastroenterology",
+    "name": "Dr. A Q M Mobin",
+    "speciality": "Medicine, Liver & Gastroenterology Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-a-q-m-mobin.jpg"
+}

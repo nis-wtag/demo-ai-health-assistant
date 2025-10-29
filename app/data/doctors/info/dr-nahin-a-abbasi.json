@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:30",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PGT",
+        "MPH",
+        "FCGP",
+        "CCD"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Nahin A. Abbasi",
+    "speciality": "Medicine Specialist",
+    "workplace": "Farazy Hospital Limited, Banasree",
+    "image": "image/dr-nahin-a-abbasi.jpg"
+}

@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Al-Manar Hospital Limited",
+            "address": {
+                "name": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801711-891027",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "D-Ortho (BSMMU)",
+        "MS-Ortho (BSMMU)"
+    ],
+    "designation": "Associate Professor & Head, Department of Orthopedic Surgery",
+    "name": "Dr. Md. Fayez Ahmed",
+    "speciality": "Orthopedics, Bone, Joint, Trauma Specialist & Surgeon",
+    "workplace": "Shahabuddin Medical College & Hospital",
+    "image": "image/dr-md-fayez-ahmed.jpg"
+}

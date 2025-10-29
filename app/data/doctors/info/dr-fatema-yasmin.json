@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Oasis Hospital, Sylhet",
+            "address": {
+                "name": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801763990044",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Resident Physician, Pediatrics",
+    "name": "Dr. Fatema Yasmin",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-fatema-yasmin-popy.jpg"
+}

@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "MPHiL (Psychiatry)",
+        "MMEd",
+        "Fellow Child Psychiatry (Pakistan)",
+        "MACP (USA)",
+        "FRCP (UK)"
+    ],
+    "designation": "Adviser Specialist, Psychiatry",
+    "name": "Prof. Brig. Gen. Dr. Kumrul Hasan",
+    "speciality": "Psychiatry, Brain, Drug Addiction, Sex Specialist & Neuro Psychiatrist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/prof-brig-gen-dr-kumrul-hasan.jpg"
+}

@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical Imaging Center, Zigatola",
+            "address": {
+                "name": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801743879047",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8809636300300",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "FCPS (Physical Medicine)",
+        "FRCP (Glasg. UK)",
+        "MACP (USA)"
+    ],
+    "designation": "Professor & Head, Dept. of Physical Medicine",
+    "name": "Prof. Dr. Kazi Abdullah Al Mamun",
+    "speciality": "Physical Medicine, Rheumatology, Neurology & Sports Injury, Medical & Interventional Rehab Physician",
+    "workplace": "Central Medical College & Hospital",
+    "image": "image/prof-dr-kazi-abdullah-al-mamun.jpg"
+}

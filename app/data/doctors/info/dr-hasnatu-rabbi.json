@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Medical Mor, Laxmipur, Rajshahi - 6000",
+                "longitude": 88.5921038,
+                "latitude": 24.3715513
+            },
+            "contact": "+8801777242536",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-CARD",
+        "MD (Internal Medicine)-Resident (Phase B)"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Hasnatu Rabbi",
+    "speciality": "Cardiology & Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-hasnatu-rabbi.jpg"
+}

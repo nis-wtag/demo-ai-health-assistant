@@ -1,0 +1,103 @@
+{
+    "chambers": [
+        {
+            "place": "Medical Centre Hospital, Chittagong",
+            "address": {
+                "name": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+                "longitude": 91.8282847,
+                "latitude": 22.3599098
+            },
+            "contact": "+8801854530414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": {
+                "name": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+                "longitude": 91.78877,
+                "latitude": 22.333523
+            },
+            "contact": "+8801828880299",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Alif Hospital & Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Ishaq Complex, Kolabagan, Hathazari Bus Stand, Chattogram",
+                "longitude": 76.489618,
+                "latitude": 30.020743
+            },
+            "contact": "+8801823512145",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CMC)",
+        "BCS (Health)",
+        "MD (Physical Medicine)",
+        "Fellowship in Pain Medicine (India)"
+    ],
+    "designation": "Registrar, Physical Medicine & Rehabilitation",
+    "name": "Dr. Md. Tanzim Hasan Refat",
+    "speciality": "Pain, Arthritis, Stroke, Paralysis, Sports Injury, Physical Medicine & Rehabilitation Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-tanzim-hasan-refat.jpg"
+}

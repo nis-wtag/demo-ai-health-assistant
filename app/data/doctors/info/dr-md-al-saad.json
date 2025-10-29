@@ -1,0 +1,95 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Mirpur",
+            "address": {
+                "name": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+                "longitude": 90.35710284999999,
+                "latitude": 23.8071276
+            },
+            "contact": "+8801300550448",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "National Heart Foundation, Rajshahi",
+            "address": {
+                "name": "911, Bakir mor, Laxmipur, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801409214624",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "MS (Vascular Surgery)-BSMMU"
+    ],
+    "designation": "Assistant Professor, Endovascular & Vascular Surgery Department",
+    "name": "Dr. Md. Al – Saad",
+    "speciality": "Endovascular & Vascular Surgeon",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-md-al-saad.jpg"
+}

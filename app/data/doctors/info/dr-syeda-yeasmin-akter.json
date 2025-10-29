@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Asperia Health Care Ltd, Chittagong",
+            "address": {
+                "name": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+                "longitude": 91.822772,
+                "latitude": 22.36105
+            },
+            "contact": "+8801810-004550",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Gynecology & Obstetrics)"
+    ],
+    "designation": "Consultant, Gyne & Obs",
+    "name": "Dr. Syeda Yeasmin Akter",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-syeda-yeasmin-akter.jpg"
+}

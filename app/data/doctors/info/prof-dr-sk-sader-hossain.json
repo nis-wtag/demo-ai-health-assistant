@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FICS (USA)",
+        "Training (Micro Neurosurgery, Germany)"
+    ],
+    "designation": "Professor & Head, Neurosurgery",
+    "name": "Prof. Dr. SK Sader Hossain",
+    "speciality": "Neurosurgery (Brain, Nerve & Spine) Specialist Surgeon",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/prof-dr-sk-sader-hossain.jpg"
+}

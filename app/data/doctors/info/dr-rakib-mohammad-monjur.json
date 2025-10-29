@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "CSCR Hospital, Chittagong",
+            "address": {
+                "name": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+                "longitude": 91.8216617,
+                "latitude": 22.3591556
+            },
+            "contact": "+88031656565",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Rakib Mohammad Monjur",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopaedic Rehabilitation",
+    "image": "image/dr-rakib-mohammad-monjur.jpg"
+}

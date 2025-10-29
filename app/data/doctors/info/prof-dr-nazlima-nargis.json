@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": {
+                "name": "1/1 B, Kallyanpur, Dhaka",
+                "longitude": 90.3613321,
+                "latitude": 23.7806848
+            },
+            "contact": "+8801703725590",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Professor, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Nazlima Nargis",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Ibn Sina Medical College & Hospital",
+    "image": "image/prof-dr-nazlima-nargis.jpg"
+}

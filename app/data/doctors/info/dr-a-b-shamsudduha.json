@@ -1,0 +1,42 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801767273185",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DO",
+        "FCPS (EYE)",
+        "MS (EYE)",
+        "Fellow in Retina Vitreous (Aravind Eye Hospital, India)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. A. B. Shamsudduha",
+    "speciality": "Eye Specialist & Vitreo Retina Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-a-b-shamsudduha.jpg"
+}

@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic Limited, Sylhet",
+            "address": {
+                "name": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801799456656",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho)",
+        "FICS"
+    ],
+    "designation": "Former Professor & Head, Orthopedic Department, Sylhet MAG Osmani Medical College & Hospital",
+    "name": "Prof. Col. (Hon.) Dr. Partha Sarathi Shome",
+    "speciality": "Bone Joint, Trauma, Orthopedics Specialist & Surgeon",
+    "workplace": "Colonel (Hon), Consultant Orthopedic Surgeon, CMH, Jalalabad Cantonment & BGB Sylhet",
+    "image": "image/prof-col-hon-dr-partha-sarathi-shome.jpg"
+}

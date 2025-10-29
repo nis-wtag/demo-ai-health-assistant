@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTCD",
+        "PhD (USA)",
+        "FCCP (USA)",
+        "ICTC (IUATLD)",
+        "FWHO ( Tanzania)"
+    ],
+    "designation": "Former Professor, Respiratory Medicine",
+    "name": "Prof. Dr. Md. Siddiqur Rahman",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/prof-dr-md-siddiqur-rahman.jpg"
+}

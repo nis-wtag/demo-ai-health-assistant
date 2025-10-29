@@ -1,0 +1,88 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801844610513",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Mirpur",
+            "address": {
+                "name": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+                "longitude": 90.36164,
+                "latitude": 23.8244224
+            },
+            "contact": "+8801847262996",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Physical Medicine)",
+        "FIPM (India)",
+        "Fellow (TOBI USA)"
+    ],
+    "designation": "Professor & Head, Physical Medicine",
+    "name": "Prof. Dr. Md. Ruhul Amin",
+    "speciality": "Physical Medicine (Pain, Paralysis) & Rehabilitation Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-ruhul-amin-khan.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Amin Diagnostic & Medical Services, Kushtia",
+            "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+            "contact": "+8801712243514",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gastroenterology",
+    "name": "Dr. Sushmita Paul",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-sushmita-paul.jpg"
+}

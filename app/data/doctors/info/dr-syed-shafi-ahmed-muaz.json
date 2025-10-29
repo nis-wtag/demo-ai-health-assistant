@@ -1,0 +1,102 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Medinova Medical Services, Sylhet",
+            "address": {
+                "name": "98, New Medical Road, Kajolshah, Sylhet – 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801712931041",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "MD (CHILD)",
+        "PhD"
+    ],
+    "designation": "Professor & Head, Pediatrics",
+    "name": "Prof. Dr. Syed Shafi Ahmed Muaz",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Dhaka Shishu Hospital",
+    "image": "image/dr-syed-shafi-ahmed-muaz.jpg"
+}

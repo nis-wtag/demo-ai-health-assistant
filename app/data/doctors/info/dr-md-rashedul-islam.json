@@ -1,0 +1,83 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8809666787806",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "FCPS (Neurology)",
+        "MRCP (UK)",
+        "FACP (USA)"
+    ],
+    "designation": "Associate Professor, Neurology Department",
+    "name": "Dr. Md. Rashedul Islam",
+    "speciality": "Neurology & Medicine Specialist",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/dr-md-rashedul-islam.jpg"
+}

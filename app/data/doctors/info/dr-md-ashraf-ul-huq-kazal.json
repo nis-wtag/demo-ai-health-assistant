@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801731403790",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Pediatric Surgery)",
+        "FICS",
+        "EMSB (Australia)",
+        "PhD",
+        "FACS"
+    ],
+    "designation": "Professor & Head, Pediatric Surgery",
+    "name": "Prof. Dr. Md. Ashraf Ul Huq Kazal",
+    "speciality": "Pediatric Surgeon, Pediatric Urologist, Laparoscopic Surgeon & Intersex specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-ashraf-ul-huq-kazal.jpg"
+}

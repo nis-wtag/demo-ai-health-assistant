@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Unity Aid Hospital Limited",
+            "address": {
+                "name": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801872661375",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "General Surgery Specialist",
+    "name": "Dr. Wasih Uddin Ahmed Sohan",
+    "speciality": "General Surgery Specialist",
+    "workplace": "Mugda Medical College & Hospital",
+    "image": "image/dr-wasih-uddin-ahmed-sohan.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Stadium Market, Sylhet",
+            "address": {
+                "name": "30, Stadium Market, Rikabi Bazar, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801711735766",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Nurul Quayum Md. Musallin",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+    "image": "image/dr-nurul-quayum-md-musallin.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna Eye Hospital & Laser Center Limited",
+            "address": {
+                "name": "53, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801741420444",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCO",
+        "Fellow (Vitreo Retina, PAK)"
+    ],
+    "designation": "Senior Consultant, Eye & Retina",
+    "name": "Dr. Md. Mostafizur Rahman",
+    "speciality": "Diabetic Eye Diseases, Retina & Laser Specialist",
+    "workplace": "Khulna BNSB Eye Hospital",
+    "image": "image/dr-md-mostafizur-rahman-eye.jpg"
+}

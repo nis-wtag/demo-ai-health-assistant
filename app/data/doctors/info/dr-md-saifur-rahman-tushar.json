@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Barisal",
+            "address": {
+                "name": "K Jahan Center, House # 106, Sadar Road, Barisal",
+                "longitude": 90.3466219,
+                "latitude": 22.3629664
+            },
+            "contact": "+8801766663305",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "AIC (Malaysia)",
+        "PGT (Oral Surgery)",
+        "MPH (Course)"
+    ],
+    "designation": "Consultant Surgeon, Dental",
+    "name": "Dr. Md. Saifur Rahman Tushar",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Islami Bank Hospital, Barisal",
+    "image": "image/dr-md-saifur-rahman-tushar.jpg"
+}

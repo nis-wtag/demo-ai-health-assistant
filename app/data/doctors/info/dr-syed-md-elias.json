@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Doctors Point Specialized Hospital, Khulna",
+            "address": {
+                "name": "49, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801795383803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "22:30"
+                }
+            ]
+        },
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO (Surgery)",
+        "FRSH (UK)"
+    ],
+    "designation": "Professor & Head (Ex), Orthopedics",
+    "name": "Prof. Dr. Syed Md. Elias",
+    "speciality": "Orthopedics (Bone, Joint, Trauma, Injury) Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-syed-md-elias.jpg"
+}

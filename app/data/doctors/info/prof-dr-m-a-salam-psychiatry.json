@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Psychiatric Care",
+            "address": {
+                "name": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+                "longitude": -58.453983,
+                "latitude": -34.551344
+            },
+            "contact": "+8801872863002",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                }
+            ]
+        },
+        {
+            "place": "Moon Hospital, Comilla",
+            "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+            "contact": "+8801717294611",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DPM (DU)",
+        "MCPS (Psychiatry)"
+    ],
+    "designation": "Former Professor, Psychiatry",
+    "name": "Prof. Dr. Md. Abdus Salam",
+    "speciality": "Psychiatry (Brain, Mind, Depression, Drug Addiction) Specialist & Psychotherapist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-m-a-salam-psychiatry.jpg"
+}

@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, English Road",
+            "address": {
+                "name": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+                "longitude": 90.410145,
+                "latitude": 23.7140672
+            },
+            "contact": "+8809666787802",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Hepatology)"
+    ],
+    "designation": "Associate Professor, Hepatology",
+    "name": "Dr. Jhumur Ghosh",
+    "speciality": "Liver, Gastroenterology, Medicine Specialist & Interventional Endoscopist",
+    "workplace": "MH Samorita Hospital & Medical College",
+    "image": "image/dr-jhumur-ghosh.jpg"
+}

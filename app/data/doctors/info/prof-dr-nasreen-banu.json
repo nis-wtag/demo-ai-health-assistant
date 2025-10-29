@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801766662829",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Nasreen Banu",
+    "speciality": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
+    "workplace": "Chittagong International Medical College & Hospital",
+    "image": "image/prof-dr-nasreen-banu.jpg"
+}

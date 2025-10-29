@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934-998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Medical Officer, Diabetology",
+    "name": "Dr. MD. Mehedi Hasan",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Diabetic Hospital, Boyra, Khulna",
+    "image": "image/dr-md-mehedi-hasan-diabetologist.jpg"
+}

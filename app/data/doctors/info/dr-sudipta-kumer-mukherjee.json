@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801750363018",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)"
+    ],
+    "designation": "Associate Professor, Pediatric Neurosurgery",
+    "name": "Dr. Sudipta Kumer Mukherjee",
+    "speciality": "Neurosurgery (Brain, Stroke, Spine) Specialist & Pediatric Neurosurgeon",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-sudipta-kumer-mukherjee.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Multicare Hospital, Rampura",
+            "address": {
+                "name": "382, DIT Road, West Rampura, Dhaka - 1219",
+                "longitude": 90.41249,
+                "latitude": 23.76364
+            },
+            "contact": "+8801321147333",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSc",
+        "MPH",
+        "DDV"
+    ],
+    "designation": "Assistant Professor, Dermatology",
+    "name": "Dr. S.M. Rasel Faruk",
+    "speciality": "Skin, Sex, Hair Transplant, Cosmetic, Laser & Dermatosurgery Specialist",
+    "workplace": "Aichi Medical College & Hospital",
+    "image": "image/dr-s-m-rasel-faruk.jpg"
+}

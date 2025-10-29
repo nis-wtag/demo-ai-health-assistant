@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Trust Medical Services, Sylhet",
+            "address": {
+                "name": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+8801712604174",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "DDS",
+        "BCS",
+        "Fellow in Oral Implantology (ICOI), Germany"
+    ],
+    "designation": "Associate Professor & Head-SDM, Dental Unit",
+    "name": "Dr. Muhammad Alam Sikder",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-muhammad-alam-shikder.jpg"
+}

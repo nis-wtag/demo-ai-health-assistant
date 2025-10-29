@@ -1,0 +1,27 @@
+{
+    "chambers": [
+        {
+            "place": "People's Hospital, Chittagong",
+            "address": {
+                "name": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 91.8306115,
+                "latitude": 22.3607886
+            },
+            "contact": "+8801930533981",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "AO (Trauma)",
+        "Masters (LE)",
+        "MIO",
+        "Fellow (AIIMS)"
+    ],
+    "designation": "Professor, Orthopedics",
+    "name": "Dr. Chandan Kumar Das",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-chandan-kumar-das.jpg"
+}

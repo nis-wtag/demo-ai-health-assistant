@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801790118855",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Oncology)",
+        "MPhil (Radiotherapy)"
+    ],
+    "designation": "Ex. Director, Professor & Head of the Department",
+    "name": "Prof. Dr. Swapan Bandyopadhyay",
+    "speciality": "Cancer Specialist",
+    "workplace": "National Institute of Cancer Research & Hospital, Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/prof-dr-swapan-bandyopadhyay.jpg"
+}

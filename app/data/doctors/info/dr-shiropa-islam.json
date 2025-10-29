@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (SKIN & VD)"
+    ],
+    "designation": "Junior Consultant, Dermatology & Venereology",
+    "name": "Dr. Shiropa Islam",
+    "speciality": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-shiropa-islam.jpg"
+}

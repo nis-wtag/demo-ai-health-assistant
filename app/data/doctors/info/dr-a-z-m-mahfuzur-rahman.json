@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Surgery)"
+    ],
+    "designation": "General Surgery Specialist",
+    "name": "Dr. A.Z.M. Mahfuzur Rahman",
+    "speciality": "General Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-a-z-m-mahfuzur-rahman.jpg"
+}

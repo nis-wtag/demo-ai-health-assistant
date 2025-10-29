@@ -1,0 +1,104 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FICS (USA)",
+        "FACS (USA)",
+        "FRCS (Glasgow)",
+        "FWHO (Urology)"
+    ],
+    "designation": "Former Professor, Surgery",
+    "name": "Prof. Dr. Md. Mazibar Rahman",
+    "speciality": "General, Laparoscopic, Urological & Colorectal Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-md-mazibar-rahman.jpg"
+}

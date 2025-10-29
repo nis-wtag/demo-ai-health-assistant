@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Eye Hospital, Khulna",
+            "address": {
+                "name": "9B, Opposite to KDA Mosque, Majid Sharani, Shibbri, Khulna",
+                "longitude": 10.085513,
+                "latitude": 53.624285
+            },
+            "contact": "+8801799209075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPH (NIPSOM)",
+        "DO (EYE)"
+    ],
+    "designation": "Professor, Ophthalmology",
+    "name": "Prof. Dr. Monoj Kumar Bose",
+    "speciality": "Eye Diseases Specialist & Micro Surgeon",
+    "workplace": "Gazi Medical College & Hospital, Khulna",
+    "image": "image/prof-dr-monoj-kumar-bose.jpg"
+}

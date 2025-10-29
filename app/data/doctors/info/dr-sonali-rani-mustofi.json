@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Update Diagnostic, Rangpur",
+            "address": {
+                "name": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801971555555",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Sonali Rani Mustofi",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-sonali-rani-mustofi.jpg"
+}

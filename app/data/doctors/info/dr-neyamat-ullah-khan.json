@@ -1,0 +1,85 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Badda",
+            "address": {
+                "name": "House # 04, Road # 10, Merul Badda, Dhaka",
+                "longitude": 90.413468,
+                "latitude": 23.703875
+            },
+            "contact": "+8801766660208",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)"
+    ],
+    "designation": "Professor, ENT",
+    "name": "Prof. Dr. Neyamat Ullah Khan",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "MH Samorita Hospital & Medical College",
+    "image": "image/dr-neyamat-ullah-khan.jpg"
+}

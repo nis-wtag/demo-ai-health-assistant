@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Rajshahi Model Hospital",
+            "address": {
+                "name": "United Plaza, Laxmipur Mor, Rajshahi",
+                "longitude": -58.583436,
+                "latitude": 48.5515
+            },
+            "contact": "+8801773844844",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCGP",
+        "PGT",
+        "MPH",
+        "PhD"
+    ],
+    "designation": "Surgery Specialist",
+    "name": "Dr. Khandaker Golam Mostafa Kabir",
+    "speciality": "Surgery Specialist",
+    "workplace": "Rajshahi Model Hospital",
+    "image": "image/dr-khandaker-golam-mostafa-kabir.jpg"
+}

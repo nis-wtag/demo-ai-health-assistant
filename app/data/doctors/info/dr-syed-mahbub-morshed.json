@@ -1,0 +1,82 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Savar",
+            "address": {
+                "name": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809666787808",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. Syed Mahbub Morshed",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-syed-mahbub-morshed.jpg"
+}

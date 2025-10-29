@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Medi-Aid Diagnostic & Consultation Center",
+            "address": {
+                "name": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+                "longitude": 91.85357672746755,
+                "latitude": 24.90202515
+            },
+            "contact": "+8801711275902",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Md. Fakhrul Islam",
+    "speciality": "Cardiology Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-fakhrul-islam-eye.jpg"
+}

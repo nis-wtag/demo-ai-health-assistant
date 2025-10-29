@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+8801755591384",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Senior Consultant, Surgery",
+    "name": "Dr. Jotirmay Shaha",
+    "speciality": "General  Laparoscopic Specialist Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-jotirmay-shaha.jpg"
+}

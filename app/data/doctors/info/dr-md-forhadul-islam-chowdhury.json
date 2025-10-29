@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": "+8801915448491",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Hepatology)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Assistant Professor, Hepatology",
+    "name": "Dr. Md. Forhadul Islam Chowdhury",
+    "speciality": "Hepatology (Liver, Gallbladder, Jaundice, Pancreas) Specialist",
+    "workplace": "BIHS General Hospital, Mirpur",
+    "image": "image/dr-md-forhadul-islam-chowdhury.jpg"
+}

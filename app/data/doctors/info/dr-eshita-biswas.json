@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Medicine Specialist",
+    "name": "Dr. Eshita Biswas",
+    "speciality": "Medicine Specialist",
+    "workplace": "Dhaka National Medical College & Hospital",
+    "image": "image/dr-eshita-biswas.jpg"
+}

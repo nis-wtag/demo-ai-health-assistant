@@ -1,0 +1,77 @@
+{
+    "chambers": [
+        {
+            "place": "Hi-Care General Hospital, Uttara",
+            "address": {
+                "name": "House # 24 & 26 , Lake Drive Road, Sector # 7, Uttara, Dhaka",
+                "longitude": -2.9205145020284418,
+                "latitude": 54.360670400000004
+            },
+            "contact": "10617",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Ahsania Mission Cancer & General Hospital",
+            "address": {
+                "name": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+                "longitude": 90.416961,
+                "latitude": 23.821074
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "D-CARD (DU)",
+        "MSC (Clinical Cardiology)",
+        "DIC (UK)"
+    ],
+    "designation": "Consultant, Cardiology",
+    "name": "Dr. Nilufar Fatema",
+    "speciality": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) & Echocardiography Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-nilufar-fatema.jpg"
+}

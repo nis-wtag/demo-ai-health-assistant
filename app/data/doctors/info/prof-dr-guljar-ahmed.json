@@ -1,0 +1,64 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801715944733",
+            "visiting_hours": null
+        },
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet – 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (General Surgery)"
+    ],
+    "designation": "Professor & Head, General Surgery",
+    "name": "Prof. Dr. Guljar Ahmed",
+    "speciality": "General, Laparoscopic & Colorectal Specialist Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-guljar-ahmed.jpg"
+}

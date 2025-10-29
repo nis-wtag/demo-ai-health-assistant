@@ -1,0 +1,65 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal - 8200",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801318321847",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Resident Physician, Pediatrics",
+    "name": "Dr. Md. Nurul Alam",
+    "speciality": "Child Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-md-nurul-alam-child.jpg"
+}

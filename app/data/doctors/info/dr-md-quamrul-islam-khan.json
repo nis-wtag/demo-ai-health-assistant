@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801712774732",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)",
+        "ICO (UK)",
+        "Fellowship in Glaucoma LVPEI (India)"
+    ],
+    "designation": "Associate Professor, Ophthalmology",
+    "name": "Dr. Md. Quamrul Islam Khan",
+    "speciality": "Glaucoma, Phaco, Medical Retina & Laser Specialist",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-md-quamrul-islam-khan.jpg"
+}

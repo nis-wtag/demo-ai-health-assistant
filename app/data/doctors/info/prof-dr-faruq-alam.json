@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "WHO Fellow (Child Psychiatry)"
+    ],
+    "designation": "Former Director, Psychiatry",
+    "name": "Prof. Dr. Faruq Alam",
+    "speciality": "Mental Diseases, Drug Addiction, Psychiatry & Child Psychiatry Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/prof-dr-faruq-alam.jpg"
+}

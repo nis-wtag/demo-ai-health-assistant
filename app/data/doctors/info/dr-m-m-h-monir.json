@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (EYE)",
+        "MS (EYE)",
+        "Longterm Fellow (Glaucoma)",
+        "Higher Training in Glaucoma (India)"
+    ],
+    "designation": "Assistant Professor, Glaucoma",
+    "name": "Dr. M.M.H. Monir",
+    "speciality": "Eye Diseases Specialist & Phaco, Glaucoma & Laser Surgeon",
+    "workplace": "National Institute of Ophthalmology & Hospital",
+    "image": "image/dr-m-m-h-monir.jpg"
+}

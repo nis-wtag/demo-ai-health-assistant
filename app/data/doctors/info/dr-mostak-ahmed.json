@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Health and Hope Hospital",
+            "address": {
+                "name": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+                "longitude": 90.3853147,
+                "latitude": 23.7457869
+            },
+            "contact": "+8809611996699",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (EYE)"
+    ],
+    "designation": "Eye Specialist & Phaco Surgeon",
+    "name": "Dr. Mostak Ahmed",
+    "speciality": "Eye Specialist",
+    "workplace": "Colonel Malek Medical College, Manikganj",
+    "image": "image/dr-mostak-ahmed.jpg"
+}

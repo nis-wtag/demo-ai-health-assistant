@@ -1,0 +1,35 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801766662828",
+            "visiting_hours": [
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DNM (DU)",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Former Professor, Nuclear Medicine",
+    "name": "Prof. Dr. Anjuman Ara Akhter",
+    "speciality": "Endocrinology (Diabetes, Thyroid, Hormone) & Nuclear Medicine Specialist",
+    "workplace": "Institute of Nuclear Medicine and Allied Sciences, Chattogram",
+    "image": "image/prof-dr-anjuman-ara-akhter.jpg"
+}

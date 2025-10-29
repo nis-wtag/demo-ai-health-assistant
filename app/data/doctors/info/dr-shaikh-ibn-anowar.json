@@ -1,0 +1,63 @@
+{
+    "chambers": [
+        {
+            "place": "Digital Diagnostic Center, Pabna",
+            "address": {
+                "name": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801748343270",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine - FP)",
+        "PGT (Medicine)",
+        "CMU",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Consultant, Medicine",
+    "name": "Dr. Shaikh Ibn Anowar",
+    "speciality": "Medicine (All Diseases of Adults) Specialist",
+    "workplace": "Pabna Medical College & Hospital",
+    "image": "image/dr-shaikh-ibn-anowar.jpg"
+}

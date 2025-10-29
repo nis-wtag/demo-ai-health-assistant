@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Star Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "41, Shamsur Rahman Road (East Side of Shantidham Mor), Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Star Diagnostic & Consultation Center – 2",
+            "address": {
+                "name": "21, Shamsur Rahman Road (East Side of Shantidham Mor), Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801674191918",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)",
+        "MRCP (UK)",
+        "MACC (USA)"
+    ],
+    "designation": "Assistant Professor, Cardiology",
+    "name": "Dr. Alok Kumar Mandal",
+    "speciality": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+    "workplace": "Shaheed Shaikh Abu-Naser Specialized Hospital",
+    "image": "image/dr-alok-kumar-mandal.jpg"
+}

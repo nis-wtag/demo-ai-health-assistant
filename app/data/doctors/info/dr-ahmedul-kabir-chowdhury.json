@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8809666700100",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Plastic Surgery)",
+        "FACS"
+    ],
+    "designation": "Associate Professor, Burn & Plastic Surgery",
+    "name": "Dr. Ahmedul Kabir Chowdhury",
+    "speciality": "Burn, Plastic, Reconstructive & Craniofacial Clefts Surgery Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-ahmedul-kabir-chowdhury.jpg"
+}

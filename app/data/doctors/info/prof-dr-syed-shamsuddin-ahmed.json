@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Multicare Hospital",
+            "address": {
+                "name": "382, DIT Road, West Rampura, Dhaka - 1219",
+                "longitude": 90.41249,
+                "latitude": 23.76364
+            },
+            "contact": "+8801814793091",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DTM",
+        "PhD (Plastic Surgery)"
+    ],
+    "designation": "Former Professor, Burn & Plastic Surgery",
+    "name": "Prof. Dr. Syed Shamsuddin Ahmed",
+    "speciality": "Plastic, Burn, Hand, Reconstructive & Cosmetic Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/prof-dr-syed-shamsuddin-ahmed.jpg"
+}

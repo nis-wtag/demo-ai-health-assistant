@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:30",
+                    "end_time": "11:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Chest Diseases)"
+    ],
+    "designation": "Professor, Respiratory Medicine",
+    "name": "Prof. Dr. Ali Hossain",
+    "speciality": "Chest Diseases & Respiratory Medicine Specialist & Pulmonologist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/prof-dr-ali-hossain.jpg"
+}

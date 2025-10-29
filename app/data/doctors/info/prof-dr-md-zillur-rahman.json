@@ -1,0 +1,100 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh ENT Hospital Ltd",
+            "address": {
+                "name": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
+                "longitude": 90.37623340903042,
+                "latitude": 23.7556275
+            },
+            "contact": "10678",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Evercare Hospital, Dhaka",
+            "address": {
+                "name": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (ENT)",
+        "MS (ENT)"
+    ],
+    "designation": "Professor, ENT",
+    "name": "Prof. Dr. Md. Zillur Rahman",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Ibn Sina Medical College & Hospital",
+    "image": "image/prof-dr-md-zillur-rahman-neuro.jpg"
+}

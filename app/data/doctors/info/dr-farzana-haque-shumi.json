@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+            "address": {
+                "name": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+                "longitude": 90.422801,
+                "latitude": 23.710957
+            },
+            "contact": "+8809666787805",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Resident Surgeon, Surgery",
+    "name": "Dr. Farjana Haque Shumi",
+    "speciality": "General, Laparoscopic & Breast Specialist Surgeon",
+    "workplace": "Uttara Adhunik Medical College & Hospital",
+    "image": "image/dr-farzana-haque-shumi.jpg"
+}

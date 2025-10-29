@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": {
+                "name": "1/1 B, Kallyanpur, Dhaka",
+                "longitude": 90.3613321,
+                "latitude": 23.7806848
+            },
+            "contact": "+8801976113412",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                }
+            ]
+        },
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "07:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Neurosurgery)",
+        "Fellow- Skullbase (Bangalore, India)"
+    ],
+    "designation": "Assistant Professor, Neurotrauma, Neurosurgery",
+    "name": "Dr. Md. Ismail Hossain",
+    "speciality": "Neurosurgery (Brain, Nerve & Stroke Surgery) Specialist",
+    "workplace": "National Institute of Neurosciences & Hospital",
+    "image": "image/dr-md-ismail-hossain-child.jpg"
+}

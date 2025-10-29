@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "MRSH (UK)",
+        "MACP (USA)",
+        "Training in Neuropsychiatry"
+    ],
+    "designation": "Head of the Department, Psychiatry",
+    "name": "Dr. Col. Mohammad Monirul Islam",
+    "speciality": "Psychiatrist & Neuropsychiatrist",
+    "workplace": "Combined Military Hospital (CMH), Dhaka",
+    "image": "image/dr-col-mohammad-monirul-islam.jpg"
+}

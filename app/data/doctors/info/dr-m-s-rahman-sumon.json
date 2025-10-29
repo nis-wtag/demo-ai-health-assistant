@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Junior Consultant, Dept of Surgery",
+    "name": "Dr. M.S. Rahman Sumon",
+    "speciality": "General, Colorectal & Laparoscopic Surgery Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-m-s-rahman-sumon.jpg"
+}

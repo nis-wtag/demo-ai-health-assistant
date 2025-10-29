@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Gynecology & Obstetrics Specialist",
+    "name": "Dr. Shamima Hasnat",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Delta Health Care, Chittagong",
+    "image": "image/dr-shamima-hasnat.jpg"
+}

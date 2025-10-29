@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MD (Nephrology)",
+        "FCPS (Medicine)",
+        "MASN (USA)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. Mohammad Asaduzzaman (Ratan)",
+    "speciality": "Kidney Diseases & Medicine Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mohammad-asaduzzaman-ratan.jpg"
+}

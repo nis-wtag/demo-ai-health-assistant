@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+            "contact": "+8801747500115",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MSc in Diabetes (UK)"
+    ],
+    "designation": "Consultant, Diabetes",
+    "name": "Dr. Ata Md. Adnan",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Surgiscope Hospital, Chittagong",
+    "image": "image/dr-ata-md-adnan.jpg"
+}

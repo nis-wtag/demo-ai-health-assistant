@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sadia's Dental Solutions",
+            "address": {
+                "name": "Opposite to Sensiv Diagnostic, 2nd Floor, Jamal Khan Road, Chattogram",
+                "longitude": 91.834717,
+                "latitude": 22.346784
+            },
+            "contact": "+8801625254571",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "PGT (OMFS)",
+        "MPH (Gold Medalist)"
+    ],
+    "designation": "Dentist, Dental",
+    "name": "Dr. Sadia Afroz",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Dr. Sadia's Dental Solutions",
+    "image": "image/dr-sadia-afroz.jpg"
+}

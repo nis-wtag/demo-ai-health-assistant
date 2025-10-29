@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "National Heart Foundation Hospital, Sylhet",
+            "address": {
+                "name": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801787487117",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Cardiology)"
+    ],
+    "designation": "Senior Consultant",
+    "name": "Dr. Rajib Das",
+    "speciality": "Clinical & Interventional Cardiologist",
+    "workplace": "National Heart Foundation Hospital, Sylhet",
+    "image": "image/dr-rajib-das.jpg"
+}

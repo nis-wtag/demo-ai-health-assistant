@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Diagnostic Center, Rangpur",
+            "address": {
+                "name": "Dhap, Jail Road, Rangpur",
+                "longitude": 89.245598,
+                "latitude": 25.683206
+            },
+            "contact": "+8801733008088",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Kidney Diseases Specialist",
+    "name": "Dr. Md. Abdul Mukit",
+    "speciality": "Nephrologist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-md-abdul-mukit.jpg"
+}

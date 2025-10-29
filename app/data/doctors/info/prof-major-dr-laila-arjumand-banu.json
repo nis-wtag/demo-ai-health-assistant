@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "10606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "FCPS (OBGYN)",
+        "FICS"
+    ],
+    "designation": "Chief Consultant, Gynecology & Obstetrics",
+    "name": "Prof. (Major) Dr. Laila Arjumand Banu",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+    "workplace": "Labaid Specialized Hospital, Dhanmondi",
+    "image": "image/prof-major-dr-laila-arjumand-banu.jpg"
+}

@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Hasib’s Dental Surgery and Implant Centre",
+            "address": {
+                "name": "Jahin Complex (2nd Floor); Boropol more, Road-06; Block-G, Halishahar Housing Estate, Chittagong",
+                "longitude": 92.026916,
+                "latitude": 22.795468
+            },
+            "contact": "+8801812711471",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MCPS (Dental Surgery)",
+        "FCPS (OMFS)"
+    ],
+    "designation": "Chief Consultant",
+    "name": "Dr. Hasanul Hasib",
+    "speciality": "Oral & Maxillofacial Surgery Specialist",
+    "workplace": "Dr. Hasib’s Dental Surgery and Implant Centre",
+    "image": "image/dr-hasanul-hasib.jpg"
+}

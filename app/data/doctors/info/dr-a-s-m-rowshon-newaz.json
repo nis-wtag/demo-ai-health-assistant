@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Shafique Hospital, Pabna",
+            "address": {
+                "name": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+                "longitude": 89.198787,
+                "latitude": 23.445755
+            },
+            "contact": "+8801701654390",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MPhil (Physio)",
+        "PGT (Skin & Sex)"
+    ],
+    "designation": "Associate Professor & Head, Dermatology",
+    "name": "Dr. A.S.M Rowshon Newaz",
+    "speciality": "Skin, Allergy & Sexual Diseases Specialist",
+    "workplace": "Shaheed M. Monsur Ali Medical College, Sirajganj",
+    "image": "image/dr-a-s-m-rowshon-newaz.jpg"
+}

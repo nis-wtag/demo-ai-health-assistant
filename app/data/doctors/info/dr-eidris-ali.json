@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Homeopathy",
+            "address": {
+                "name": "Krishi Market, Ring Road, Mohammadpur, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801819476612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "DHMS",
+        "CAPT"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Eidris Ali",
+    "speciality": "Infertility Specialist (Homeopathy)",
+    "workplace": "Dhaka Homeopathy",
+    "image": "image/dr-eidris-ali.jpg"
+}

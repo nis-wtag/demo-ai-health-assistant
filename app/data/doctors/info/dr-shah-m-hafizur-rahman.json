@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Khidmah Hospital, Dhaka",
+            "address": {
+                "name": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809606063030",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "MMEd"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Shah M. Hafizur Rahman",
+    "speciality": "Bone, Joint, Arthritis, Spine, Trauma Specialist & Surgeon",
+    "workplace": "Khidmah Hospital, Dhaka",
+    "image": "image/dr-shah-m-hafizur-rahman.jpg"
+}

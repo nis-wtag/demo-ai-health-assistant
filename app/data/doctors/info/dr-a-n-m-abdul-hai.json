@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": "+8801915448491",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Super Medical Hospital, Savar",
+            "address": {
+                "name": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+                "longitude": 90.246659,
+                "latitude": 23.841412
+            },
+            "contact": "+8801711266169",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. A.N.M. Abdul Hai",
+    "speciality": "Kidney Diseases Specialist",
+    "workplace": "National Institute of Kidney Diseases & Urology",
+    "image": "image/dr-a-n-m-abdul-hai.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Expert Sample Diagnostic Center, Khulna",
+            "address": {
+                "name": "29/B, KDA Avenue, Khulna (In front of Rashida Memorial Hospital)",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801749891135",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "EOC",
+        "CPCR (Dhaka)",
+        "CCD (BIRDEM & UK)",
+        "PGT (Medicine & Surgery)"
+    ],
+    "designation": "Senior Medical Officer",
+    "name": "Dr. Md. Akteruzzaman",
+    "speciality": "Diabetes Specialist & General Practitioner",
+    "workplace": "Diabetic Samity, Khulna",
+    "image": "image/dr-mdakteruzzaman.jpg"
+}

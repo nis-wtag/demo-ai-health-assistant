@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Union Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "337, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801958280000",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Dhaka)",
+        "PGT"
+    ],
+    "designation": "Chief Consultant, Dental",
+    "name": "Dr. Farhana Rima",
+    "speciality": "Oral & Dental Specialist Surgeon",
+    "workplace": "Union Specialized Hospital, Mymensingh",
+    "image": "image/dr-farhana-rima.jpg"
+}

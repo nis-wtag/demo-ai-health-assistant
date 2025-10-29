@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Sayem Diagno Complex & Hospital, Mymensingh",
+            "address": {
+                "name": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+                "longitude": 90.4070186,
+                "latitude": 24.750662
+            },
+            "contact": "+8801725516141",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Medicine)",
+        "CCD (BIRDEM)",
+        "MACP (USA)"
+    ],
+    "designation": "Professor, Department of Medicine",
+    "name": "Prof. Dr. Md. Aminul Islam",
+    "speciality": "Medicine Specialist",
+    "workplace": "Community Based Medical College & Hospital",
+    "image": "image/prof-dr-md-aminul-islam-medicine.jpg"
+}

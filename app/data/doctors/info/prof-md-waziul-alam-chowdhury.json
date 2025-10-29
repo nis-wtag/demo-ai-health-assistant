@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Square Hospital, Dhaka",
+            "address": {
+                "name": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+                "longitude": 90.3833456,
+                "latitude": 23.7525464
+            },
+            "contact": "+8801715315288",
+            "visiting_hours": null
+        },
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "MACP (USA)",
+        "WHO Fellowship (India)"
+    ],
+    "designation": "Professor & Director, Psychiatry",
+    "name": "Prof. Md. Waziul Alam Chowdhury",
+    "speciality": "Psychiatry & Mental Health Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/prof-md-waziul-alam-chowdhury.jpg"
+}

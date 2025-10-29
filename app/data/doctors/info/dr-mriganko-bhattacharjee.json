@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Doctor's Community Hospital, Rangpur",
+            "address": {
+                "name": "Medical East Gate, Health City Road, Dhap, Rangpur",
+                "longitude": 88.411605,
+                "latitude": 22.639806
+            },
+            "contact": "+8801717292458",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "FIPM (INDIA)"
+    ],
+    "designation": "Consultant (Orthopedics)",
+    "name": "Dr. Mriganko Bhattacharjee",
+    "speciality": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+    "workplace": "Rangpur Community Medical College & Hospital",
+    "image": "image/dr-mriganko-bhattacharjee.jpg"
+}

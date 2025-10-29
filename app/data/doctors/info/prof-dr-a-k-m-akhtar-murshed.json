@@ -1,0 +1,90 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": "10658",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "FICS (USA)"
+    ],
+    "designation": "Professor & Head, Orthopedic Surgery",
+    "name": "Prof. Dr. A.K.M. Akhtar Murshed",
+    "speciality": "Orthopedic, Bone, Joint & Trauma Specialist Surgeon",
+    "workplace": "Bangladesh Medical College & Hospital",
+    "image": "image/prof-dr-a-k-m-akhtar-murshed.jpg"
+}

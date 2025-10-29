@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Chattogram Metropolitan Hospital",
+            "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+            "contact": "+8801814651077",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "MS (CV&T)",
+        "NICVD"
+    ],
+    "designation": "Chief Cardiac Surgeon, Cardiac Surgery",
+    "name": "Dr. Sarwar Kamal",
+    "speciality": "Cardiovascular, Chest Diseases & Heart Specialist Surgeon",
+    "workplace": "Chittagong Metropolitan Hospital Heart Center",
+    "image": "image/dr-sarwar-kamal.jpg"
+}

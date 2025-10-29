@@ -1,0 +1,93 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Chest Diseases)",
+        "FCCP (USA)"
+    ],
+    "designation": "Associate Professor & Head, Respiratory Medicine",
+    "name": "Dr. Saroj Kanti Chowdhury",
+    "speciality": "Asthma, Medicine & Chest Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-saroj-kanti-chowdhury.jpg"
+}

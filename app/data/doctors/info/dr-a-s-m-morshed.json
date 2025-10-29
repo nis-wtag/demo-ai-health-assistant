@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Psychiatry & Sexual Medicine Specialist",
+    "name": "Dr. A. S. M. Morshed",
+    "speciality": "Psychiatry & Sexual Medicine Specialist",
+    "workplace": "Dr. Sirajul Islam Medical College & Hospital",
+    "image": "image/dr-a-s-m-morshed.jpg"
+}

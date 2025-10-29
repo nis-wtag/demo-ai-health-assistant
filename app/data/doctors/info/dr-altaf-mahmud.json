@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MPH",
+        "CCD (BIRDEM)",
+        "PGT (Skin, Sex & Medicine)"
+    ],
+    "designation": "Consultant, Diabetes",
+    "name": "Dr. Altaf Mahmud",
+    "speciality": "Diabetes & Medicine Specialist",
+    "workplace": "Diabetic Hospital, Barisal",
+    "image": "image/dr-altaf-mahmud.jpg"
+}

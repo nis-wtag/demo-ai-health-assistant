@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Peerless Diagnostic Center, Chittagong",
+            "address": {
+                "name": "504, O.R Nizam Road, Gol Pahar Mor, Chttogram",
+                "longitude": 91.8236139,
+                "latitude": 22.3585817
+            },
+            "contact": "+8801716-396048",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Meshkat Uddin Khan",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Chittagong International Medical College & Hospital",
+    "image": "image/dr-meshkat-uddin-khan.jpg"
+}

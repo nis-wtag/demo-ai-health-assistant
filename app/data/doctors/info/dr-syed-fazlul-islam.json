@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Doyagonj",
+            "address": {
+                "name": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "longitude": 90.402917,
+                "latitude": 23.720652
+            },
+            "contact": "+8801878115751",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Kidney & Medicine Specialist",
+    "name": "Dr. Syed Fazlul Islam",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-syed-fazlul-islam.jpg"
+}

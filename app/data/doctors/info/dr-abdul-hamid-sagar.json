@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Halishahar",
+            "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+            "contact": "+8801701229090",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Medicine Specialist",
+    "name": "Dr. Abdul Hamid Sagar",
+    "speciality": "Medicine Specialist",
+    "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+    "image": "image/dr-abdul-hamid-sagar.jpg"
+}

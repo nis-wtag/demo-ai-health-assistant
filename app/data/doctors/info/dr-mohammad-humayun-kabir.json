@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Shahjalal Mental Health & Research Center",
+            "address": {
+                "name": "Akhalia, Sylhet",
+                "longitude": 91.8377276,
+                "latitude": 24.9056709
+            },
+            "contact": "+8801712875304",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Shuvo Pharmacy",
+            "address": {
+                "name": "13, Chowhatta (Under ABC Diagnostic), Sylhet",
+                "longitude": 9.702034,
+                "latitude": 53.574277
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "MD (Psychiatry, BSMMU)",
+        "Trained in Sexual Medicine (South Asian Society of Sexual Medicine)"
+    ],
+    "designation": "Former Resident Doctor, Psychiatry",
+    "name": "Dr. Mohammad Humayun Kabir",
+    "speciality": "Psychiatry (Brain, Mind, Medicine & Sex and Drug Addiction Specialist)",
+    "workplace": "Consultant: Shahjalal Mental Health & Research Center, Akhalia, Sylhet",
+    "image": "image/dr-mohammad-humayun-kabir.jpg"
+}

@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8801810000116",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "23:00"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Central Hospital, Kakrail",
+            "address": {
+                "name": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+                "longitude": 90.40984,
+                "latitude": 23.737534
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Urology)",
+        "FCPS (Urology)",
+        "FRCP (EDIN)"
+    ],
+    "designation": "Professor, Urology",
+    "name": "Prof. Dr. A.Z.M. Zahid Hossain",
+    "speciality": "Urology Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-a-z-m-zahid-hossain.jpg"
+}

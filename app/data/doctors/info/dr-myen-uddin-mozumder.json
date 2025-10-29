@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801766662828",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+            "contact": "+8802334450694",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Assistant Professor, Ortho Surgery",
+    "name": "Dr. Myen Uddin Mozumder",
+    "speciality": "Orthopedics, Trauma, Joint Replacement & Arthroscopic Surgeon",
+    "workplace": "Rangamati Medical College & Hospital",
+    "image": "image/dr-myen-uddin-mozumder.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mamota Specialised Hospital",
+            "address": {
+                "name": "Kali Bari Road, Barisal Sadar, Barisal - 8200",
+                "longitude": 90.3667313,
+                "latitude": 22.7077472
+            },
+            "contact": "+8801715080560",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Dipak Chandra Kirttania",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Patuakhali Medical College Hospital",
+    "image": "image/dr-dipak-chandra-kirttania.jpg"
+}

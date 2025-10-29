@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801794631222",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (OBGYN)",
+        "IVF&ICSI (Thailand)",
+        "MSc in Human Assisted Reproduction & Embryology (IVI Valencia, Spain)",
+        "Diploma in Reproductive Medicine & Embryology (Germany)",
+        "Diploma in Gynecological Endoscopy (Germany)",
+        "Fellow in Infertility & ART (Thailand)",
+        "Master Certification in Hysteroscopy (India)"
+    ],
+    "designation": "Professor & Head, Reproductive Medicine",
+    "name": "Prof. Dr. Maruf Siddiqui",
+    "speciality": "Infertility & IVF Specialist",
+    "workplace": "Anwer Khan Modern Medical College & Hospital",
+    "image": "image/prof-dr-maruf-siddiqui.jpg"
+}

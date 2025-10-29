@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "Room - 437, Old Building, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8801766142663",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "MS (ORTHO)",
+        "DMC"
+    ],
+    "designation": "Associate Professor (Pediatric Orthopedic Surgery)",
+    "name": "Dr. Quazi Shahid-Ul-Alam",
+    "speciality": "Pediatric Orthopedic (Birth Deformity, Spine, Trauma Rheumatic & Joint) Surgery Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-quazi-shahid-ul-alam.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Hospital, Mirpur",
+            "address": {
+                "name": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801795699147",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Consultant, Surgery",
+    "name": "Dr. Md. Tuhin Talukder",
+    "speciality": "General, Laparoscopic, Hepatobiliary & Pancreatic Surgery Specialist",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-md-tuhin-talukder.jpg"
+}

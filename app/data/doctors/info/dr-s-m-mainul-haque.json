@@ -1,0 +1,25 @@
+{
+    "chambers": [
+        {
+            "place": "United Diagnostic & Consultation Center.",
+            "address": {
+                "name": "3, South Central Road (Opposite to Govt. Pioneer College), Khulna",
+                "longitude": 89.571084,
+                "latitude": 22.810227
+            },
+            "contact": "+8801611170805",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DTCD",
+        "MD (CHEST)"
+    ],
+    "designation": "Assistant Professor, Respiratory Medicine",
+    "name": "Dr. S. M. Mainul Haque",
+    "speciality": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-s-m-mainul-haque.jpg"
+}

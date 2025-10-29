@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Southern Medical College & Hospital",
+            "address": {
+                "name": "4th Floor, East Nasirabad, Khulshi, Polytechnical, Chattogram",
+                "longitude": -21.915741,
+                "latitude": 64.143412
+            },
+            "contact": "+8801843584625",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        },
+        {
+            "place": "Dr.Amit Sen Shishu Doctor Chamber",
+            "address": "Meyor goli (1st Mosjid er por), Sholosohor R/A (2 no Gate), Panchlaish, Chattogram",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DCH (BSMMU)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Registrar (Pediatrics)",
+    "name": "Dr. Amit Sen",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Southern Medical College & Hospital, Chittagong",
+    "image": "image/dr-amit-sen.jpg"
+}

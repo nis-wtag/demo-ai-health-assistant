@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal - 8200",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801318321847",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DO (BSMMU)",
+        "MCPS (EYE)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Borna",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-borna.jpg"
+}

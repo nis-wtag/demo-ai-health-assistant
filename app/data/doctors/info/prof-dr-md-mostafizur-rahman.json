@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801757138425",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "FRCP (UK)",
+        "FCCP (USA)"
+    ],
+    "designation": "Professor & Head, Medicine",
+    "name": "Prof. Dr. Md. Mostafizur Rahman",
+    "speciality": "Medicine Specialist",
+    "workplace": "Anwer Khan Modern Medical College & Hospital",
+    "image": "image/prof-dr-md-mostafizur-rahman.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shantinagar",
+            "address": {
+                "name": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+                "longitude": 90.4211957,
+                "latitude": 23.7272598
+            },
+            "contact": "+8809666787803",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Medicine)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Associate Professor, Hepatology",
+    "name": "Dr. Faiz Ahmad Khondaker",
+    "speciality": "Liver Diseases & Medicine Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-faiz-ahmad-khondaker.jpg"
+}

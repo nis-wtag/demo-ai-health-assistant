@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801754635455",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MCPS (Medicine)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Associate Professor & Head, Hepatology",
+    "name": "Dr. Aloke Kumar Raha",
+    "speciality": "Liver Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-alok-kumar-raha.jpg"
+}

@@ -1,0 +1,23 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "10606",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "FCPS (Orthodontics)"
+    ],
+    "designation": "Consultant, Dental Department",
+    "name": "Dr. Mohammad Shamim Al Mamun",
+    "speciality": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
+    "workplace": "Labaid Dental Clinic, Dhaka",
+    "image": "image/dr-mohammad-shamim-al-mamun.jpg"
+}

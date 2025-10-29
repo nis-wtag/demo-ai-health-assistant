@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Comilla Trauma Center",
+            "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+            "contact": "+8801328461125",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery) BSMMU"
+    ],
+    "designation": "Consultant (Neurosurgery)",
+    "name": "Dr. Jalal Ahmed Ripon",
+    "speciality": "Neurosurgery (Brain, Spine, Nerve, Stroke) Specialist & Surgeon",
+    "workplace": "Comilla Trauma Center (Specialized Orthopedic & General Hospital)",
+    "image": "image/dr-jalal-ahmed-ripon.jpg"
+}

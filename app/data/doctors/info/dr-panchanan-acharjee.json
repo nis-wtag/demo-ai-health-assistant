@@ -1,0 +1,76 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801852302835",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Hospital, Chittagong",
+            "address": {
+                "name": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801766662829",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Assistant Professor & Head, Psychiatry",
+    "name": "Dr. Panchanan Acharjee",
+    "speciality": "Psychiatry (Mental Diseases, Drug Addiction) Specialist & Psychotherapist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-panchanan-acharjee.jpg"
+}

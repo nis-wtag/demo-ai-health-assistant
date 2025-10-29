@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801713998199",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)"
+    ],
+    "designation": "Professor & Head, Medicine",
+    "name": "Prof. Dr. Sujat Paul",
+    "speciality": "Medicine, Rheumatology & Diabetes Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-sujat-paul.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+                "longitude": -122.276393,
+                "latitude": 37.558211
+            },
+            "contact": "+8801812821889",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DLO (DU)"
+    ],
+    "designation": "Former Professor & Head, ENT",
+    "name": "Prof. Dr. Md. Mujibul Haque Khan",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-md-mujibul-haque-khan.jpg"
+}

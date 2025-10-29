@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Neuromedicine)"
+    ],
+    "designation": "Associate Professor, Neuromedicine",
+    "name": "Dr. Saiful Bashar",
+    "speciality": "Neuromedicine (Brain, Nerve, Headache, Migraine, Stroke) Specialist",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-saiful-bashar.jpg"
+}

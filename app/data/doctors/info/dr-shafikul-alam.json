@@ -1,0 +1,88 @@
+{
+    "chambers": [
+        {
+            "place": "Bondhu Deental Surgery & Endodontic Clinic",
+            "address": {
+                "name": "White Rose Market, Ideal Hospital, Rikabibazar, Sylhet",
+                "longitude": 0.11717,
+                "latitude": 52.228822
+            },
+            "contact": "+8801834863906",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)"
+    ],
+    "designation": "Consultant, Conservative & Pediatric Dentistry",
+    "name": "Dr. Shafikul Alam",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Ideal Hospital, Sylhet",
+    "image": "image/dr-shafikul-alam.jpg"
+}

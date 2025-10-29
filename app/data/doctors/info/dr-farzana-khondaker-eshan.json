@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Mukti Hospital, Comilla",
+            "address": {
+                "name": "Race Course, Sasongacha, Cumilla - 3500",
+                "longitude": 15.602329,
+                "latitude": 48.422094
+            },
+            "contact": "+8801847555786",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Obs & Gyne)"
+    ],
+    "designation": "Consultant (Gyne & Obs Dept)",
+    "name": "Dr. Farzana Khondaker Eshan",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon/Experience in Infertility",
+    "workplace": "Cumilla Medical College & Hospital",
+    "image": "image/dr-farzana-khondaker-eshan.jpg"
+}

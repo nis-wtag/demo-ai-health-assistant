@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Hematology)"
+    ],
+    "designation": "Associate Professor, Hematology",
+    "name": "Dr. Farzana Rahman",
+    "speciality": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-farzana-rahman-chowdhury.jpg"
+}

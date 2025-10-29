@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Medical Imaging Center, Zigatola",
+            "address": {
+                "name": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8801711625173",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ENT)"
+    ],
+    "designation": "ENT Specialist & Head Neck Surgeon",
+    "name": "Dr. Tawfiqur Rahman",
+    "speciality": "ENT",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-tawfiqur-rahman.jpg"
+}

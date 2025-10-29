@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": "Unit 2, Seamen’s Hostel Gate, Salt Gola Crossing, EPZ, Chattogram",
+            "contact": "+8801882534499",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Shayera Medico",
+            "address": "South Middle Halishahar, Dhuppol (beside 38 no ward office), Bandar, Chattogram",
+            "contact": "+8801689627212",
+            "visiting_hours": null
+        },
+        {
+            "place": "Green Life Diagnostic Center",
+            "address": {
+                "name": "Noor Shopping Complex (1st Floor), Over Fulkoli, Bandartila, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801839878233",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH"
+    ],
+    "designation": "Assistant Registrar, Pediatrics",
+    "name": "Dr. Mohammad Inzamam Ul Hoque",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Chattogram Maa-Shishu O General Hospital",
+    "image": "image/dr-mohammad-inzamam-ul-hoque.jpg"
+}

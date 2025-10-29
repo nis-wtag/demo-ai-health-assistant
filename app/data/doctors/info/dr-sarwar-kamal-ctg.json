@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Heath Aid Diagnostic",
+            "address": "Kashem Mansion (Basek Vai's Building 1st Floor), Access Road, Shanti Nagar, Bakalia, Chattogram",
+            "contact": "+8801810-116667",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Apollo Diagnostic Center",
+            "address": {
+                "name": "Beside north gate of Najirhat health complex, Fatikchori, Chattogram",
+                "longitude": 90.689726,
+                "latitude": 22.575899
+            },
+            "contact": "+8801824-323230",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "CCD"
+    ],
+    "designation": "Registrar (Department of Paediatrics)",
+    "name": "Dr. Sarwar Kamal",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Bangabandhu Memorial Hospital, USTC",
+    "image": "image/dr-sarwar-kamal-ctg.jpg"
+}

@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": {
+                "name": "Unit 2, 53/1, Panchlaish R/A, Chattogram - 4203",
+                "longitude": -8.693138,
+                "latitude": 39.14259
+            },
+            "contact": "+8801881667776",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (CU)",
+        "DCO (BSMMU)",
+        "FICO (UK)"
+    ],
+    "designation": "Registrar, Ophthalmology",
+    "name": "Dr. Tahamina Parvin Ritu",
+    "speciality": "Eye Specialist & Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-tahamina-parvin-ritu.jpg"
+}

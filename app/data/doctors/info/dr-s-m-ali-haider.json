@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "Room 504, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Gastroenterology)",
+        "FRCP (Glasg)"
+    ],
+    "designation": "Associate Professor, Gastroenterology",
+    "name": "Dr. Salahuddin Mohammed Ali Haider",
+    "speciality": "Gastroenterology & Liver Diseases Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-s-m-ali-haider.jpg"
+}

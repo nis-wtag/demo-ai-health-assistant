@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Prince Diagnostic & Consultation Center, Khulna",
+            "address": {
+                "name": "10/3, KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801722169821",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "FCPS (OBGYN)",
+        "Diploma in Reproductive Health (Sweden)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Nayar Islam (Bindu)",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-nayar-islam-bindu.jpg"
+}

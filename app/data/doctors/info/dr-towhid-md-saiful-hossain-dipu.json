@@ -1,0 +1,115 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Japan Bangladesh Friendship Hospital",
+            "address": {
+                "name": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+                "longitude": 90.3670992,
+                "latitude": 23.7520204
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "MS (Urology)",
+        "Fellowship (Laparoscopic & Endoscopic)",
+        "Asia Pacific Preceptorship in Urology (Singapore)",
+        "Advanced Training in Urology (USA, Singapore, India)"
+    ],
+    "designation": "Professor, Urology",
+    "name": "Prof. Dr. Towhid Md. Saiful Hossain Dipu",
+    "speciality": "Urology Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-towhid-md-saiful-hossain-dipu.jpg"
+}

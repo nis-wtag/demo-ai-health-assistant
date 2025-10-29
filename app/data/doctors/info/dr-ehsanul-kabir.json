@@ -1,0 +1,24 @@
+{
+    "chambers": [
+        {
+            "place": "Khulna City Medical College & Hospital",
+            "address": {
+                "name": "25/26, KDA Avenue, Moilapota Square, Khulna Sadar, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801999099099",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "Higher Training in Child Diseases (Malaysia)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Ehsanul Kabir",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Khulna City Medical College & Hospital",
+    "image": "image/dr-ehsanul-kabir.jpg"
+}

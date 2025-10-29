@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "National Skin Center, Dhaka",
+            "address": {
+                "name": "57/E (Near Samorita Hospital), Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+88029103130",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (Vienna)",
+        "AFICA (USA)",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Professor, Dermatology & Venereology",
+    "name": "Prof. Dr. M. U. Kabir Chowdhury",
+    "speciality": "Skin, Allergy & Sexual Diseases Specialist",
+    "workplace": "Holy Family Red Crescent Medical College & Hospital",
+    "image": "image/prof-dr-m-u-kabir-chowdhury.jpg"
+}

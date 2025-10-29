@@ -1,0 +1,36 @@
+{
+    "chambers": [
+        {
+            "place": "Bangladesh Specialized Hospital",
+            "address": {
+                "name": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+                "longitude": 90.3698427,
+                "latitude": 23.7663784
+            },
+            "contact": "+8801711043435",
+            "visiting_hours": null
+        },
+        {
+            "place": "Cosmetic Surgery Centre Ltd, Dhanmondi",
+            "address": {
+                "name": "Shankar Plaza, 72, Satmasjid Road, Dhanmondi R/A, Dhaka",
+                "longitude": 90.36844342130108,
+                "latitude": 23.751171749999997
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Surgery)",
+        "FRCS (UK)",
+        "FICS",
+        "FACS (USA)"
+    ],
+    "designation": "Plastic & Cosmetic Surgeon",
+    "name": "Prof. Dr. Sayeed Ahmed Siddiky",
+    "speciality": "Plastic & Cosmetic Surgeon",
+    "workplace": "Cosmetic Surgery Centre Ltd, Dhanmondi",
+    "image": "image/prof-dr-sayeed-ahmed-siddiky.jpg"
+}

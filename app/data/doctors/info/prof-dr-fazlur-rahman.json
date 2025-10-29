@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801718103356",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MCPS (Medicine)",
+        "D-Card (DU)",
+        "MD (Cardiology)",
+        "FRCP (UK)",
+        "FACC (USA)",
+        "Fellowship in Interventional Cardiology (USA)",
+        "Advanced Training in Interventional Cardiology (USA, India, Switzerland)"
+    ],
+    "designation": "Professor, Cardiology",
+    "name": "Prof. Dr. Fazlur Rahman",
+    "speciality": "Cardiology, Medicine & Rheumatology Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-fazlur-rahman.jpg"
+}

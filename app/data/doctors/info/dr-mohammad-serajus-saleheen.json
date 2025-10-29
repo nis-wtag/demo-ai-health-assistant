@@ -1,0 +1,108 @@
+{
+    "chambers": [
+        {
+            "place": "Aalok Healthcare & Hospital, Mirpur 10",
+            "address": {
+                "name": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+                "longitude": 90.415943,
+                "latitude": 23.781967
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Aalok Health Care, Mirpur 1",
+            "address": {
+                "name": "21 Darus Salam Road, Mirpur 1, Dhaka",
+                "longitude": 90.3539461,
+                "latitude": 23.789539
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:00",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ORTHO)",
+        "Fellowship Training in Oncology & Arthroplasty (England, UK)"
+    ],
+    "designation": "Assistant Professor, Ortho Surgery",
+    "name": "Dr. Mohammad Serajus Saleheen",
+    "speciality": "Orthopedics, Trauma, Bone Tumor & Sarcoma Surgeon",
+    "workplace": "National Institute of Cancer Research & Hospital",
+    "image": "image/dr-mohammad-serajus-saleheen.jpg"
+}

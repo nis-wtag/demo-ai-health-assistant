@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Jatrabari",
+            "address": {
+                "name": "House # 79/1E, Demra Road, Uttar Jatrabari, Dhaka",
+                "longitude": 90.451604,
+                "latitude": 23.747201
+            },
+            "contact": "+8809610009626",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Associate Professor, Gastroenterology",
+    "name": "Dr. Kazi Monisur Rahman",
+    "speciality": "Gastroenterology, Liver & Medicine Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-kazi-monisur-rahman.jpg"
+}

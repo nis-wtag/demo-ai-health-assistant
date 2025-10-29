@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Motijheel",
+            "address": {
+                "name": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+                "longitude": 90.4174733,
+                "latitude": 23.7418769
+            },
+            "contact": "+8801727666741",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (ORTHO)",
+        "D-ORTHO (NITOR)",
+        "AO BASIC (Trauma)",
+        "APSS Fellow (Spine)"
+    ],
+    "designation": "Assistant Professor, Orthopedic Surgery",
+    "name": "Dr. Captain. Md. Saiful Islam Saif",
+    "speciality": "Orthopedic, Bone Joint, Trauma & Spine Specialist Surgeon",
+    "workplace": "Holy Family Red Crescent Medical College & Hospital",
+    "image": "image/dr-captain-md-saiful-islam-saif.jpg"
+}

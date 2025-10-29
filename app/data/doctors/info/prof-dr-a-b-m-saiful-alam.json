@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Khulna",
+            "address": {
+                "name": "37 KDA Avenue, Khulna",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+880966678782",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Internal Medicine)"
+    ],
+    "designation": "Professor, Department of Medicine",
+    "name": "Prof. Dr. A.B.M. Saiful Alam",
+    "speciality": "Medicine Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/prof-dr-a-b-m-saiful-alam.jpg"
+}

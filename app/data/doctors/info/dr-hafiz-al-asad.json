@@ -1,0 +1,133 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "City Diagnostic Center, Pabna",
+            "address": {
+                "name": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+                "longitude": 89.2372,
+                "latitude": 24.00644
+            },
+            "contact": "+8801757204642",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Shimla Hospital, Pabna",
+            "address": {
+                "name": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+                "longitude": 89.2395133,
+                "latitude": 23.9986311
+            },
+            "contact": "+8801713228218",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS ( Urology)",
+        "Training in Urology (Singapore)",
+        "Young Fellow of Asian Urological Association (Malaysia)"
+    ],
+    "designation": "Assistant Professor, Urology",
+    "name": "Dr. Hafiz Al Asad",
+    "speciality": "Kidney, Ureters, Bladder, Prostate, Male Sexuality Specialist & Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-hafiz-al-asad.jpg"
+}

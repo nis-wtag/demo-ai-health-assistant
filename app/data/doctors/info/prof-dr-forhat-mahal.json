@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Mother Care Clinic",
+            "address": {
+                "name": "VIP Road (Old Medical Road), Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801613713131",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Professor & Head, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Forhat Mahal",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-forhat-mahal.jpg"
+}

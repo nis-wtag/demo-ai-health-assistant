@@ -1,0 +1,48 @@
+{
+    "chambers": [
+        {
+            "place": "Upasham Health Point (Pvt.) Ltd",
+            "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+            "contact": "+8801932200200",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Badda",
+            "address": {
+                "name": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka – 1212",
+                "longitude": 90.35375362049459,
+                "latitude": 23.7179868
+            },
+            "contact": "+8809666787809",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Genaral Surgery)",
+        "FCPS (Surgery)",
+        "FAECS"
+    ],
+    "designation": "Assistant Professor, Surgery",
+    "name": "Dr. Sadia Afrin Tani",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgeon",
+    "workplace": "Dhaka Medical College & Hospital",
+    "image": "image/dr-sadia-afrin-tani.jpg"
+}

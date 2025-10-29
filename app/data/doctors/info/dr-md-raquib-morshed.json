@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Lake City Diagnostic & Consultation Center",
+            "address": {
+                "name": "Kha - 48/A, Sharder Market, Bottala, Khilkhet, Dhaka",
+                "longitude": 89.961592,
+                "latitude": 23.396548
+            },
+            "contact": "+8801753887953",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Kidney Specialist doctor",
+    "name": "Dr. Md. Raquib Morshed",
+    "speciality": "Kidney Specialist",
+    "workplace": "National Institute of Kidney Diseases & Urology",
+    "image": "image/dr-md-raquib-morshed.jpg"
+}

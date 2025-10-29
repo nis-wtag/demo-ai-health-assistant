@@ -1,0 +1,121 @@
+{
+    "chambers": [
+        {
+            "place": "Enam Medical College & Hospital",
+            "address": {
+                "name": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801716358146",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "14:30"
+                }
+            ]
+        },
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801766111137",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Medical College Hospital, Kallyanpur",
+            "address": {
+                "name": "1/1 B, Kallyanpur, Dhaka",
+                "longitude": 90.3613321,
+                "latitude": 23.7806848
+            },
+            "contact": "+8801703725590",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Sonia Akter",
+    "speciality": "General, Laparoscopic, Breast & Colorectal Surgeon",
+    "workplace": "Enam Medical College & Hospital",
+    "image": "image/dr-sonia-akter.jpg"
+}

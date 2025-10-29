@@ -1,0 +1,46 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Cardiologist",
+    "name": "Dr. S.M. Iftekharul Islam",
+    "speciality": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-s-m-iftekharul-islam.jpg"
+}

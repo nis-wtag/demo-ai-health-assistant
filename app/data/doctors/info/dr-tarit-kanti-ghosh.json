@@ -1,0 +1,140 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934-998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "16:00"
+                }
+            ]
+        },
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+8801917609738",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Uposhom Diagnostic & Consultation Center",
+            "address": {
+                "name": "17, Shamsur Rahman Road (RCC FM Tower), Shantidham More, Khulna",
+                "longitude": 89.561374,
+                "latitude": 22.812133
+            },
+            "contact": "+8801741031771",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "MSc Internal Medicine & Neurology (England)",
+        "MAAN (USA)",
+        "Fellow, Clinical Neurology University College of London (UK)",
+        "Specialist, Research Clinical Neuroscience, Melbourne University (Australia)"
+    ],
+    "designation": "Consultant, Neurology",
+    "name": "Dr. Tarit Kanti Ghosh",
+    "speciality": "Medicine Specialist & Neurologist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-tarit-kanti-ghosh.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Kids Consultation",
+            "address": {
+                "name": "KMC House, Beside NMC School, Khaja Road, Chandgoan, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801835535791",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH"
+    ],
+    "designation": "Junior Consultant, Pediatrics",
+    "name": "Dr. Md. Mohiuddin",
+    "speciality": "Neonatal, Adolescent & Child Diseases Specialist",
+    "workplace": "Jameson Red Crescent Maternity Hospital",
+    "image": "image/dr-md-mohiuddin-child.jpg"
+}

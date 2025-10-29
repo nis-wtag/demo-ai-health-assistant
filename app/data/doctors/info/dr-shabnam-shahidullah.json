@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+                "longitude": 90.3656575,
+                "latitude": 23.8062586
+            },
+            "contact": "+8801882084414",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:30",
+                    "end_time": "18:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Pediatrics)",
+        "MD (Pediatric Nephrology)"
+    ],
+    "designation": "Assistant Registrar, Pediatrics",
+    "name": "Dr. Shabnam Shahidullah",
+    "speciality": "Child Diseases & Child Kidney Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-shabnam-shahidullah.jpg"
+}

@@ -1,0 +1,110 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Mymensingh",
+            "address": {
+                "name": "55/5, Medical College Gate, Charpara, Mymensingh",
+                "longitude": 90.40646,
+                "latitude": 24.75636
+            },
+            "contact": "+8801847158301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh – 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "00:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MS (CTS)"
+    ],
+    "designation": "Junior Consultant, Cardiac Surgery",
+    "name": "Dr. Md. Shakhawat Hossain Shakil",
+    "speciality": "Cardiovascular & Thoracic Specialist Surgeon",
+    "workplace": "United Hospital Ltd, Dhaka",
+    "image": "image/dr-md-shakhawat-hossain-shakil.jpg"
+}

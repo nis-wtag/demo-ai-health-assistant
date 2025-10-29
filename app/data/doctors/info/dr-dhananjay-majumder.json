@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Holy Health Hospital, Chittagong",
+            "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+            "contact": "+8801812605505",
+            "visiting_hours": null
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": null,
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO (ENT)"
+    ],
+    "designation": "Associate Professor & Head, Otolaryngology",
+    "name": "Dr. Dhananjay Majumder",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Southern Medical College & Hospital",
+    "image": "image/dr-dhananjay-majumder.jpg"
+}

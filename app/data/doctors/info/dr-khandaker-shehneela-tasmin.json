@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801992346632",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)",
+        "Diploma (Infertility & IVF)",
+        "Fellowship Training on Maternal Fetal Medicine (High Risk Pregnancy) (BSMMU)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Khandaker Shehneela Tasmin",
+    "speciality": "Gynecology, Infertility & High Risk Pregnancy Specialist",
+    "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+    "image": "image/dr-khandaker-shehneela-tasmin.jpg"
+}

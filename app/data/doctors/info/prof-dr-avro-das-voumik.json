@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mirpur",
+            "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+            "contact": "+8809666787807",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "MAPA (USA)"
+    ],
+    "designation": "Associate Professor, Psychiatry",
+    "name": "Avro Das Voumik",
+    "speciality": "Psychiatry (Mental Diseases, Epilepsy, Drug Addiction) Specialist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/prof-dr-avro-das-voumik.jpg"
+}

@@ -1,0 +1,94 @@
+{
+    "chambers": [
+        {
+            "place": "Metro Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "Station Road, Ghoshpara Mor, Sipaipara, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": "+8801911024385",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "14:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "MRCP (UK)",
+        "FRCP (EDIN)",
+        "FAAP (USA)",
+        "MAC",
+        "DTMH"
+    ],
+    "designation": "Former Professor & Head, Pediatrics",
+    "name": "Prof. Dr. A. B. Siddiqui",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/prof-dr-a-b-siddiqui.jpg"
+}

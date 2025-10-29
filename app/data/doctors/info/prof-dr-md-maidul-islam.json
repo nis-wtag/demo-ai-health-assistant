@@ -1,0 +1,86 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801992346632",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "14:30"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Specialized & General Hospital, Nayapaltan",
+            "address": {
+                "name": "71-72, VIP Road, Nayapaltan, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801977552283",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)",
+        "FCPS (Physical Medicine)"
+    ],
+    "designation": "Professor (Ex), Orthopedic Surgery",
+    "name": "Prof. Dr. Md. Maidul Islam",
+    "speciality": "Orthopedics, Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+    "workplace": "Z.H. Sikder Women's Medical College & Hospital",
+    "image": "image/prof-dr-md-maidul-islam.jpg"
+}

@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Evercare, Rangpur",
+            "address": {
+                "name": "Evercare Hospital, Rangpur",
+                "longitude": 90.431555,
+                "latitude": 23.810223
+            },
+            "contact": "+8801637363636",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "DA",
+        "FMD",
+        "BCS (HEALTH)",
+        "FIPM (INDIA)",
+        "CPEM (UK)"
+    ],
+    "designation": "Consultant, Anesthesia & ICU",
+    "name": "Dr. Mutasim Mehedi Masum",
+    "speciality": "Anesthesia, ICU, Pain & Emergency Medicine Specialist",
+    "workplace": "Rangpur Medical College & Hospital",
+    "image": "image/dr-mutasim-mehedi-masum.jpg"
+}

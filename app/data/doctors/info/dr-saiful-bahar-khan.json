@@ -1,0 +1,49 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Specialized & General Hospital, Nayapaltan",
+            "address": {
+                "name": "71-72, VIP Road, Nayapaltan, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801977552283",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. Saiful Bahar Khan",
+    "speciality": "Kidney Diseases, Medicine & Diabetes Specialist",
+    "workplace": "Ad-Din Medical College & Hospital",
+    "image": "image/dr-saiful-bahar-khan.jpg"
+}

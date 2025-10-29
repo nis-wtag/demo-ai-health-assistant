@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Surgiscope Hospital, Chittagong",
+            "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+            "contact": "+8801732200645",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "FCPS (Surgery)",
+        "MS (Plastic Surgery)"
+    ],
+    "designation": "Associate Professor, Burn & Plastic Surgery",
+    "name": "Dr. Kishore Kumar Das",
+    "speciality": "Burn, Plastic & Reconstructive Surgeon",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-kishore-kumar-das.jpg"
+}

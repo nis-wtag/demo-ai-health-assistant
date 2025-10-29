@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801735603075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS"
+    ],
+    "designation": "Medical Officer, Dental Surgery",
+    "name": "Dr. Md. Saif Hasan",
+    "speciality": "Dental Specialist & Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-md-saif-hasan.jpg"
+}

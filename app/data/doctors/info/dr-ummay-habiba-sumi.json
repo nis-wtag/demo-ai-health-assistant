@@ -1,0 +1,101 @@
+{
+    "chambers": [
+        {
+            "place": "Dr. Sumi,s Hair & Skin Care Center",
+            "address": {
+                "name": "1-B, Avenue 1-13, Main Road, Kolwalapara, Mirpur-1, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801819221861",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Savar Prime Hospital",
+            "address": {
+                "name": "A-89, Thana Road, Talbagh, Savar, Dhaka – 1340",
+                "longitude": 90.3651757,
+                "latitude": 23.7102144
+            },
+            "contact": "+8801752561542",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (DU)",
+        "Fellowship in Hair Transplants Surgery (Singapore)"
+    ],
+    "designation": "Chief Consultant, Dermatology & Hair Transplant",
+    "name": "Dr. Ummay Habiba Sumi",
+    "speciality": "Skin, Hair Transplant, Sex Specialist & Cosmetic Surgeon",
+    "workplace": "Dr. Sumi,s Hair & Skin Care Center",
+    "image": "image/dr-ummay-habiba-sumi.jpg"
+}

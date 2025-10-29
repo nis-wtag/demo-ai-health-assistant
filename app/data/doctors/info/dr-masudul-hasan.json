@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Vision Eye Hospital, Dhaka",
+            "address": {
+                "name": "229 Green Road, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.385587,
+                "latitude": 23.7471253
+            },
+            "contact": "+8801988815702",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)",
+        "DO (DU)",
+        "MCPS (EYE)"
+    ],
+    "designation": "Consultant, Cornea",
+    "name": "Dr. Masudul Hasan",
+    "speciality": "Eye (Cornea & Interior segment) Specialist & Refractive Surgeon",
+    "workplace": "Vision Eye Hospital, Dhaka",
+    "image": "image/dr-masudul-hasan.jpg"
+}

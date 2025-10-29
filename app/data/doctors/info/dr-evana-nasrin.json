@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Khulna",
+            "address": {
+                "name": "House # A5, Majid Sarani, Sonadanga, Khulna",
+                "longitude": 89.32047,
+                "latitude": 23.37724
+            },
+            "contact": "+8801766661020",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "BCS (Health)",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Consultant, Pediatrics",
+    "name": "Dr. Evana Nasrin",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-evana-nasrin.jpg"
+}

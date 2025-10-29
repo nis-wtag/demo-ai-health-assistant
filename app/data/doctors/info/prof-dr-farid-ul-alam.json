@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Shahjalal Diagnostic Clinic, Chittagong",
+            "address": {
+                "name": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+                "longitude": 91.811781,
+                "latitude": 22.324526
+            },
+            "contact": "+8801811185610",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "DME (UK)"
+    ],
+    "designation": "Professor & Head (Ex), Pediatrics",
+    "name": "Prof. Dr. Farid Ul Alam",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/prof-dr-farid-ul-alam.jpg"
+}

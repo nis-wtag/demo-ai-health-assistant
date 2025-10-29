@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Barisal",
+            "address": {
+                "name": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8809666787819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Rahat Anwar Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+                "longitude": 90.374127,
+                "latitude": 22.70566
+            },
+            "contact": "+8801711993953",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "D-Ortho (BSMMU)",
+        "MS (Ortho)",
+        "FWHO (Thailand)"
+    ],
+    "designation": "Assistant Professor, Orthopedic",
+    "name": "Dr. Md. Shihab Uddin",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-md-shihab-uddin.jpg"
+}

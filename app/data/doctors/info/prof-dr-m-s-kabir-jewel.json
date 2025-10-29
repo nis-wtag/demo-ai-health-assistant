@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "Mphil (Neuro-Psychiatry)",
+        "MD (Psychiatry)"
+    ],
+    "designation": "Associate Professor & Head, Psychiatry",
+    "name": "Dr. M.S. Kabir Jewel",
+    "speciality": "Psychiatrist cum Psychotherapist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/prof-dr-m-s-kabir-jewel.jpg"
+}

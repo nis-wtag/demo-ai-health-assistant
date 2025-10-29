@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Chittagong",
+            "address": {
+                "name": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+                "longitude": 91.832552,
+                "latitude": 22.333895
+            },
+            "contact": "+8801908402232",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Dhaka)",
+        "CPR (DMC)",
+        "PGT (BSMMU)"
+    ],
+    "designation": "Oral & Dental Surgeon",
+    "name": "Dr. Nazia Akter Swargo",
+    "speciality": "Dentist",
+    "workplace": "Islami Bank Hospital, Chittagong",
+    "image": "image/dr-nazia-akter-swargo.jpg"
+}

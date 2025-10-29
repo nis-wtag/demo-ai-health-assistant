@@ -1,0 +1,81 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Doyagonj",
+            "address": {
+                "name": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+                "longitude": 90.402917,
+                "latitude": 23.720652
+            },
+            "contact": "+8801878115751",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka – 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Liver & Medicine Specialist",
+    "name": "Dr. Md. Fazal Karim",
+    "speciality": "Liver & Medicine Specialist",
+    "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+    "image": "image/dr-md-fazal-karim.jpg"
+}

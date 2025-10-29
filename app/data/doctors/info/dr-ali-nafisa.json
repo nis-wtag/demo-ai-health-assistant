@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "BRB Hospital, Dhaka",
+            "address": {
+                "name": "77/A, East Rajabazar, West Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801910734568",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (RMC)",
+        "FCPS (Surgery)",
+        "Trained in Oncoplastic Breast Surgery (UK & India)"
+    ],
+    "designation": "Associate Professor, Surgery",
+    "name": "Dr. Ali Nafisa",
+    "speciality": "General & Oncoplastic Breast Surgeon",
+    "workplace": "Anwer Khan Modern Medical College & Hospital",
+    "image": "image/dr-ali-nafisa.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 01)",
+            "address": {
+                "name": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+                "longitude": 90.3755789,
+                "latitude": 23.7521332
+            },
+            "contact": "+8801766662606",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "MS (OBGYN)",
+        "MEd (Canada)"
+    ],
+    "designation": "Associate Professor, Gynecology & Obstetrics",
+    "name": "Dr. Nurun Nahar Khanam",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-nurun-nahar-khanam.jpg"
+}

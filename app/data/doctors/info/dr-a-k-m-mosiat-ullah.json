@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Qrex Diagnostic & Consultation Centre, Chittagong",
+            "address": {
+                "name": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
+                "longitude": 91.7915352,
+                "latitude": 22.3025908
+            },
+            "contact": "+8801882534499",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "19:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine - Final Part)"
+    ],
+    "designation": "Medicine Specialist",
+    "name": "Dr. A.K.M. Mosiat Ullah",
+    "speciality": "Medicine Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-a-k-m-mosiat-ullah.jpg"
+}

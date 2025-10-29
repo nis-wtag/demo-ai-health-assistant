@@ -1,0 +1,98 @@
+{
+    "chambers": [
+        {
+            "place": "Citizen Lab Doctor & Diagnostic",
+            "address": {
+                "name": "22 KDA Aveneu, Islam Tower, Moylapota Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801934-998688",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:30",
+                    "end_time": "17:30"
+                }
+            ]
+        },
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801987595060",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:30",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (ENT)",
+        "Fellowship in ENT (London)",
+        "Fellowship in Face and Micro Ear Surgery (India)"
+    ],
+    "designation": "Resident Surgeon (ENT)",
+    "name": "Dr. Debnath Talukder",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-debnath-talukder.jpg"
+}

@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Medical Center, Sylhet",
+            "address": {
+                "name": "New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801735400204",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "20:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (OBGYN)",
+        "DGO",
+        "MS (OBGYN)"
+    ],
+    "designation": "Assistant Professor, Gynecology & Obstetrics",
+    "name": "Dr. Homaira Begum",
+    "speciality": "Gynecology & Obstetrics Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-homaira-begum.jpg"
+}

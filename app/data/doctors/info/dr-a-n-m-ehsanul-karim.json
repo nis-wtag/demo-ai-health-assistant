@@ -1,0 +1,30 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Bogra",
+            "address": {
+                "name": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+                "longitude": 89.3762146,
+                "latitude": 24.8324806
+            },
+            "contact": "+8809666787812",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Medicine)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Associate Professor & Head, Nephrology",
+    "name": "Dr. A.N.M Ehsanul Karim",
+    "speciality": "Kidney & Medicine Specialist",
+    "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+    "image": "image/dr-a-n-m-ehsanul-karim.jpg"
+}

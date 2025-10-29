@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Universal Medical College Hospital",
+            "address": {
+                "name": "Room 906, Ground Floor, Mohakali (Opposite of RAOWA), Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801841-480000",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Gastroenterology)"
+    ],
+    "designation": "Consultant, Gastroenterology",
+    "name": "Dr. Rajib Dutta",
+    "speciality": "Gastroenterology (Stomach, Intestines, Liver, Gallbladder, Pancreas) Specialist",
+    "workplace": "National Gastroliver Institute & Hospital",
+    "image": "image/dr-rajib-dutta.jpg"
+}

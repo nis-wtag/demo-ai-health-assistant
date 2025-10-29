@@ -1,0 +1,72 @@
+{
+    "chambers": [
+        {
+            "place": "Treatment Centre",
+            "address": {
+                "name": "100 (1st Floor), Panchlaish R/A, Chittagong",
+                "longitude": 77.6211372,
+                "latitude": 12.935918
+            },
+            "contact": "+8801914005082",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "20:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Chevron Clinical Laboratory (EPZ Branch)",
+            "address": {
+                "name": "Barrister Sultan College, Near EPZ, Chattogram",
+                "longitude": 88.559405,
+                "latitude": 26.354251
+            },
+            "contact": "+88016802-23993",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "11:55"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "20:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "DLO",
+        "MS (ENT)"
+    ],
+    "designation": "Assistant Professor, ENT & Head Neck Surgery",
+    "name": "Dr. Syed Muhammed Tipu Sultan",
+    "speciality": "Ear, Nose, Throat, Thyroid, Head Neck Specialist Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-syed-muhammed-tipu-sultan.jpg"
+}

@@ -1,0 +1,50 @@
+{
+    "chambers": [
+        {
+            "place": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+            "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+            "contact": "+8801963951818",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Pediatric Surgery)"
+    ],
+    "designation": "Assistant Professor, Pediatric Surgery",
+    "name": "Dr. Md. Arifur Rahman",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist Surgeon",
+    "workplace": "Central Medical College & Hospital, Comilla",
+    "image": "image/dr-md-arifur-rahman-ped.jpg"
+}

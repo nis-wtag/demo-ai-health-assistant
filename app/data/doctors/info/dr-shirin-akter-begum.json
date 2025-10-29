@@ -1,0 +1,37 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801552321697",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO",
+        "MCPS",
+        "MS (OBGYN)"
+    ],
+    "designation": "Professor, Gynecological Oncology",
+    "name": "Prof. Dr. Shirin Akter Begum",
+    "speciality": "Gynecology, Obstetrics, Gynecological Cancer Specialist & Surgeon",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-shirin-akter-begum.jpg"
+}

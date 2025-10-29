@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Mount Adora Hospital, Akhalia, Sylhet",
+            "address": {
+                "name": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+                "longitude": 91.8685271,
+                "latitude": 24.89922
+            },
+            "contact": "+8801706151852",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "BCS (Health)",
+        "DLO (BSMMU)",
+        "FCPS (ENT)"
+    ],
+    "designation": "Assistant Professor, Otolaryngology",
+    "name": "Dr. Md. Shah Kamal",
+    "speciality": "ENT Specialist & Head Neck Surgeon",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-md-shah-kamal.jpg"
+}

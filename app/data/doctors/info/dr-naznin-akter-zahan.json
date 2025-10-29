@@ -1,0 +1,30 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Consultation Center, Kushtia",
+            "address": {
+                "name": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+                "longitude": 89.1295536,
+                "latitude": 23.8987955
+            },
+            "contact": "+8801759211119",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Naznin Akter Zahan",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "250 Bedded General Hospital, Kushtia",
+    "image": "image/dr-naznin-akter-zahan.jpg"
+}

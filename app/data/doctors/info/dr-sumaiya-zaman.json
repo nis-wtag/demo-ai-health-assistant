@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet - 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801735603075",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DU)",
+        "MPH"
+    ],
+    "designation": "Associate Professor, Dental Surgery",
+    "name": "Dr. Sumaiya Zaman",
+    "speciality": "Dental & Oral Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-sumaiya-zaman.jpg"
+}

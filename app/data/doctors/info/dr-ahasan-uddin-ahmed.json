@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "BRB Hospital, Dhaka",
+            "address": {
+                "name": "77/A, East Rajabazar, West Panthapath, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "10647",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MCPS (Psychiatry)",
+        "FCPS (Psychiatry)"
+    ],
+    "designation": "Associate Professor, Geriatric & Organic Psychiatry",
+    "name": "Dr. Ahsan Uddin Ahmed",
+    "speciality": "Psychiatrist & Psychotherapist",
+    "workplace": "National Institute of Mental Health & Hospital",
+    "image": "image/dr-ahasan-uddin-ahmed.jpg"
+}

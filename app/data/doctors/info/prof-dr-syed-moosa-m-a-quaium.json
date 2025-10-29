@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Hospital, Sylhet",
+            "address": {
+                "name": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+8801715944733",
+            "visiting_hours": null
+        },
+        {
+            "place": "North East Medical College & Hospital",
+            "address": {
+                "name": "Gohorpur Road, South Surma, Sylhet – 3100",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "RCPAS",
+        "FCPS (Pediatrics)"
+    ],
+    "designation": "Former Professor & Head, Pediatrics",
+    "name": "Prof. Dr. Syed Moosa M. A. Quaium",
+    "speciality": "Child Diseases Specialist",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/prof-dr-syed-moosa-m-a-quaium.jpg"
+}

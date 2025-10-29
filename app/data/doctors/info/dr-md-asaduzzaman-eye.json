@@ -1,0 +1,44 @@
+{
+    "chambers": [
+        {
+            "place": "Harun Eye Foundation Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
+                "longitude": 90.384249,
+                "latitude": 23.736461
+            },
+            "contact": "+8801918185620",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (EYE)"
+    ],
+    "designation": "Assistant Professor, Ophthalmology",
+    "name": "Dr. Md. Asaduzzaman",
+    "speciality": "Cataract & General Ophthalmology Specialist",
+    "workplace": "East West Medical College & Hospital",
+    "image": "image/dr-md-asaduzzaman-eye.jpg"
+}

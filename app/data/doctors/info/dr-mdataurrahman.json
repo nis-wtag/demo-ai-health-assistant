@@ -1,0 +1,57 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Barisal",
+            "address": {
+                "name": "Band Road, Chandmari, Barisal – 8200",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801810000121",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Cardiology)",
+        "Advanced Training in Echocardiography (Jrop Institute of Echocardiography - Delhi, India)"
+    ],
+    "designation": "Consultant (Medicine)",
+    "name": "Dr. Md. Ataur Rahman",
+    "speciality": "Medicine Specialist & Cardiologist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/dr-mdataurrahman.jpg"
+}

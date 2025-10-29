@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Decent Oral and Dental Care",
+            "address": {
+                "name": "58, East Stadium Market (1st Floor), Sylhet",
+                "longitude": -73.910672,
+                "latitude": 41.926858
+            },
+            "contact": "+8801711955197",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "MPH"
+    ],
+    "designation": "Assistant Professor, Dental Public Health & Pediatric Dentistry",
+    "name": "Dr. M A Rakib",
+    "speciality": "Tooth Implant & General Dentistry Specialist",
+    "workplace": "Decent Oral and Dental Care",
+    "image": "image/dr-m-a-rakib-dentist.jpg"
+}

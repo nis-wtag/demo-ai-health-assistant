@@ -1,0 +1,78 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.41496999981135,
+                "latitude": 23.76569885
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "15:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Narayanganj",
+            "address": {
+                "name": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+                "longitude": 90.5018612,
+                "latitude": 23.6150847
+            },
+            "contact": "+8809666787804",
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:30",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Surgery)",
+        "D-ORTHO",
+        "MS (ORTHO)",
+        "AAOS (USA)"
+    ],
+    "designation": "Associate Professor, Orthopedic",
+    "name": "Dr. G.M. Reza",
+    "speciality": "Orthopedic Specialist & Trauma Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-g-m-reza.jpg"
+}

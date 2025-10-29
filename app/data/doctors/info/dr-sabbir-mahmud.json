@@ -1,0 +1,58 @@
+{
+    "chambers": [
+        {
+            "place": "Nexus Homeopathic Healthcare, Mirpur",
+            "address": {
+                "name": "Mirpur 14, Dhaka",
+                "longitude": 90.3871115,
+                "latitude": 23.7986707
+            },
+            "contact": "+8801745262382",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS"
+    ],
+    "designation": "Homeopathic Doctor, Homeopathy",
+    "name": "Dr. Sabbir Mahmud",
+    "speciality": "Homeopathic General Physician & Consultant",
+    "workplace": "Nexus Homeopathic Healthcare",
+    "image": "image/dr-sabbir-mahmud.jpg"
+}

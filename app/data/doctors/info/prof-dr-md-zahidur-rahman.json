@@ -1,0 +1,53 @@
+{
+    "chambers": [
+        {
+            "place": "Green Life Hospital, Dhaka",
+            "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+            "contact": "+8801775051124",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "D-ORTHO",
+        "MS (ORTHO)",
+        "Fellowship (Spine Surgery)",
+        "AO Basic (Spine Surgery)"
+    ],
+    "designation": "Professor, Orthopedic Surgery",
+    "name": "Prof. Dr. Md. Zahidur Rahman",
+    "speciality": "Orthopedics, Arthroplasty, Trauma & Spine Surgeon",
+    "workplace": "Green Life Medical College & Hospital",
+    "image": "image/prof-dr-md-zahidur-rahman.jpg"
+}

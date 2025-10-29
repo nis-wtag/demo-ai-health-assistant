@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": {
+                "name": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+                "longitude": 91.83449949999999,
+                "latitude": 22.3657935
+            },
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatrics)"
+    ],
+    "designation": "Assistant Professor, Pediatrics",
+    "name": "Dr. Sanzana Islam",
+    "speciality": "Newborn & Child Diseases Specialist",
+    "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+    "image": "image/dr-sanzana-islam.jpg"
+}

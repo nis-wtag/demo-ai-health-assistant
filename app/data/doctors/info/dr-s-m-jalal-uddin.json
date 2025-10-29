@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Shafait General Hospital & ICU, Barisal",
+            "address": {
+                "name": "Club Road, Barisal",
+                "longitude": 90.3722614,
+                "latitude": 22.6972266
+            },
+            "contact": "+8801794808081",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DA"
+    ],
+    "designation": "Owner, Anesthesiology",
+    "name": "Dr. S.M. Jalal Uddin",
+    "speciality": "Anaesthesia & ICU Specialist",
+    "workplace": "Shafait General Hospital & ICU, Barisal",
+    "image": "image/dr-s-m-jalal-uddin.jpg"
+}

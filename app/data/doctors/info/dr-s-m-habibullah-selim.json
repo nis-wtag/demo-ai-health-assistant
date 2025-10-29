@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Sylhet",
+            "address": {
+                "name": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+                "longitude": 91.8522754,
+                "latitude": 24.8996601
+            },
+            "contact": "+880821710918",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCCP (USA)",
+        "D-CARD (UK)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. S.M. Habibullah Selim",
+    "speciality": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+    "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+    "image": "image/dr-s-m-habibullah-selim.jpg"
+}

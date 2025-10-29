@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Psychiatry)",
+        "International Fellow of American Psychiatric Association (USA)"
+    ],
+    "designation": "Ex. Professor & Chairman, Psychiatry",
+    "name": "Prof. Dr. Jhunu Shamsun Nahar",
+    "speciality": "Psychiatrist & Psychotherapist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/prof-dr-jhunu-shamsun-nahar.jpg"
+}

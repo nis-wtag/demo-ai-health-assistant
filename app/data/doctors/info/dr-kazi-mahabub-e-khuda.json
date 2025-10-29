@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (Medicine)",
+        "MD (Chest Diseases)",
+        "FCCP (USA)"
+    ],
+    "designation": "Former Associate Professor, Respiratory Medicine",
+    "name": "Dr. Kazi Mahabub-E-Khuda",
+    "speciality": "Asthma, Allergy, Tuberculosis, Chest Disease & Medicine Specialist",
+    "workplace": "National Institute of Diseases of the Chest & Hospital",
+    "image": "image/dr-kazi-mahabub-e-khuda.jpg"
+}

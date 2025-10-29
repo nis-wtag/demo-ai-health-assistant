@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:30",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Orthopedic Surgery)",
+        "AO Trauma, Basic (India)",
+        "Fellow in ilizarov (India)"
+    ],
+    "designation": "Associate Professor & Head (Orthopedics)",
+    "name": "Dr. SM. Yousuf Amin",
+    "speciality": "Orthopedics, Spine, Ilizarov & Trauma Surgeon",
+    "workplace": "Barind Medical College & Hospital",
+    "image": "image/dr-sm-yousuf-amin.jpg"
+}

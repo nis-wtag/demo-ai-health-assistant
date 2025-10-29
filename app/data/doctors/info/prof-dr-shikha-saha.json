@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Barisal",
+            "address": {
+                "name": "K Jahan Center, House # 106, Sadar Road, Barisal",
+                "longitude": 90.3466219,
+                "latitude": 22.3629664
+            },
+            "contact": "+8801766663305",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DGO (OBGYN)"
+    ],
+    "designation": "Professor & Head, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Shikha Saha",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/prof-dr-shikha-saha.jpg"
+}

@@ -1,0 +1,76 @@
+{
+    "chambers": [
+        {
+            "place": "International Medical Resource Center (IMRC)",
+            "address": "73/74 Karim’s Icon (7th Floor), Muradpur, Panchlaish, Chittagong",
+            "contact": "+8801771011777",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        },
+        {
+            "place": "Karnafully Diabetic Center, Chittagong",
+            "address": {
+                "name": "Osman Mansion, Fkirniirhat Rastar Mor, Karnafully, Chittagong",
+                "longitude": 91.822045,
+                "latitude": 22.357872
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "CCD in Diabetes (BIRDEM)",
+        "EDC in Diabetes (BIRDEM)",
+        "Diploma in Diabetes (Bradford-London)",
+        "MPH in Public Health (CVASU)",
+        "CCVD in Cardiology (Heart Foundation)",
+        "Enlisted Physician, Ministry of Shipping, Bangladesh"
+    ],
+    "designation": "Consultant",
+    "name": "Dr. Sharmin Akter",
+    "speciality": "Diabetes Specialist",
+    "workplace": "Karnafully Diabetic Center, Chittagong",
+    "image": "image/dr-sharmin-akter.jpg"
+}

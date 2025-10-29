@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Pranto Specialized Hospital, Mymensingh",
+            "address": {
+                "name": "67, Charpara, Mymensingh",
+                "longitude": 90.4023476,
+                "latitude": 24.7606513
+            },
+            "contact": "+8801788222000",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Medicine)",
+        "MD (Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Department of Medicine",
+    "name": "Dr. Md. Ashraf Hossain Bulbul",
+    "speciality": "Medicine & Rheumatology Specialist",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-md-ashraf-hossain-bulbul.jpg"
+}

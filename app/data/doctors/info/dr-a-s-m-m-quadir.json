@@ -1,0 +1,59 @@
+{
+    "chambers": [
+        {
+            "place": "Dhaka Eye Care Hospital, Uttara",
+            "address": {
+                "name": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+                "longitude": 90.3902629,
+                "latitude": 23.7629933
+            },
+            "contact": "+8801787681500",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ophthalmology)"
+    ],
+    "designation": "Consultant, Orbit & Oculoplasty",
+    "name": "Dr. A.S.M.M Quadir",
+    "speciality": "Cataract, Orbit & Oculoplasty Specialist",
+    "workplace": "Dhaka Eye Care Hospital, Uttara",
+    "image": "image/dr-a-s-m-m-quadir.jpg"
+}

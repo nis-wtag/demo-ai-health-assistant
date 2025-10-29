@@ -1,0 +1,41 @@
+{
+    "chambers": [
+        {
+            "place": "National Hospital, Chittagong",
+            "address": {
+                "name": "14/15, Dampara Lane, Mehedibag, Chattogram",
+                "longitude": -73.786337,
+                "latitude": 40.785865
+            },
+            "contact": "+8801822685066",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "DO (BSMMU)",
+        "MCPS (EYE)"
+    ],
+    "designation": "Consultant, Ophthalmology",
+    "name": "Dr. Mohammadul Haque Mezbah",
+    "speciality": "Eye Specialist & Phaco Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-mohammadul-haque-mezbah.jpg"
+}

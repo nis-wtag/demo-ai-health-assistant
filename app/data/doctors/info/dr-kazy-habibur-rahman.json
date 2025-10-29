@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Kazy Homoeopathic Treatment & Private Research Center",
+            "address": {
+                "name": "73, Jonaki Road, Ahmednagar, Paikpara, Mirpur-1, Dhaka - 1216",
+                "longitude": 90.3617557,
+                "latitude": 23.7947293
+            },
+            "contact": "+8801738618894",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "23:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BHMS (DU)",
+        "MPH (Reproductive & Child Health )",
+        "Trained in Anti Diabetic Plants Research (Asian Network of Research in Anti Diabetic Plants)"
+    ],
+    "designation": "Consultant, Homoeopathic",
+    "name": "Dr. Kazy Habibur Rahman",
+    "speciality": "General Homoeopathic Physician",
+    "workplace": "Kazy Homoeopathic Treatment & Private Research Center",
+    "image": "image/dr-kazy-habibur-rahman.jpg"
+}

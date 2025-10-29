@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "SMC Clinic",
+            "address": {
+                "name": "59/C, Darus Salam, Mirpur Road, Dhaka - 1216",
+                "longitude": 90.3850569,
+                "latitude": 23.737713
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Dermatology)"
+    ],
+    "designation": "Assistant Professor, Dermatology & Venereology",
+    "name": "Dr. Asfaq Bin Rahman",
+    "speciality": "Skin, Hair, Nail, Sexual Diseases Specialist & Dermatosurgeon",
+    "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+    "image": "image/dr-asfaq-bin-rahman.jpg"
+}

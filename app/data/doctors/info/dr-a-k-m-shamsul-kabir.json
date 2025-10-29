@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Gulshan",
+            "address": {
+                "name": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
+                "longitude": 90.4069139,
+                "latitude": 23.7927316
+            },
+            "contact": "+8801766662525",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DU)",
+        "FCPS (Medicine)",
+        "MD (Hepatology)"
+    ],
+    "designation": "Professor, Medicine",
+    "name": "Prof. Dr. A.K.M Shamsul Kabir",
+    "speciality": "Liver Diseases & Medicine Specialist",
+    "workplace": "Holy Family Red Crescent Medical College & Hospital",
+    "image": "image/dr-a-k-m-shamsul-kabir.jpg"
+}

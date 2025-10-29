@@ -1,0 +1,39 @@
+{
+    "chambers": [
+        {
+            "place": "TMC Diagnostic & Hospital, Mymensingh",
+            "address": {
+                "name": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
+                "longitude": 90.3951768,
+                "latitude": 24.5823196
+            },
+            "contact": "+8801774955555",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MSC (UK)"
+    ],
+    "designation": "Consultant, Physical Medicine & Rehabilitation",
+    "name": "Dr. Md. Mahbubur Rahman",
+    "speciality": "Pain, Trauma, Physiotherapy & Rehabilitation Specialist",
+    "workplace": "TMC Diagnostic & Hospital, Mymensingh",
+    "image": "image/dr-md-mahbubur-rahman-physical.jpg"
+}

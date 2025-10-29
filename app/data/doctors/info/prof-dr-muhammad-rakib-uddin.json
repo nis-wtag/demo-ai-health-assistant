@@ -1,0 +1,26 @@
+{
+    "chambers": [
+        {
+            "place": "Asgar Ali Hospital, Dhaka",
+            "address": {
+                "name": "111/1/A, Distillery Road, Gandaria, Dhaka",
+                "longitude": 90.423616,
+                "latitude": 23.707838
+            },
+            "contact": "+8801787683333",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Surgery)",
+        "FRCS (Ireland)",
+        "FRCS (Edin)",
+        "FRCS (Glasgow)"
+    ],
+    "designation": "General & Laparoscopic Surgery Specialist",
+    "name": "Prof. Dr. Muhammad Rakib Uddin",
+    "speciality": "General & Laparoscopic Surgery Specialist",
+    "workplace": "Asgar Ali Hospital, Dhaka",
+    "image": "image/prof-dr-muhammad-rakib-uddin.jpg"
+}

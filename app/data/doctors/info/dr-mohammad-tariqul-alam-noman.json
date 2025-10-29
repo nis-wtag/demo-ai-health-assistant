@@ -1,0 +1,61 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Mymensingh",
+            "address": {
+                "name": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+                "longitude": 90.4099158,
+                "latitude": 24.7482129
+            },
+            "contact": "+8809666787814",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "12:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MS (Ortho Surgery)",
+        "Fellow AOAF (India)",
+        "Fellow Pediatric Orthopedic (Korea)"
+    ],
+    "designation": "Assistant Professor, Pediatric Orthopedic",
+    "name": "Dr. Mohammad Tariqul Alam Noman",
+    "speciality": "Pediatric Orthopedic Specialist & Spine Surgeon",
+    "workplace": "Mymensingh Medical College & Hospital",
+    "image": "image/dr-mohammad-tariqul-alam-noman.jpg"
+}

@@ -1,0 +1,60 @@
+{
+    "chambers": [
+        {
+            "place": "Sono Consultation Center, Kushtia",
+            "address": {
+                "name": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+                "longitude": 89.1295536,
+                "latitude": 23.8987955
+            },
+            "contact": "+8801770997352",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "11:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS (ENT)",
+        "DLO (DU)"
+    ],
+    "designation": "Ex. Associate Professor, ENT",
+    "name": "Dr. Md. Mozaharul Islam",
+    "speciality": "Ear, Nose, Throat Diseases Specialist & Surgeon",
+    "workplace": "Kushtia Medical College & Hospital",
+    "image": "image/dr-md-mozaharul-islam.jpg"
+}

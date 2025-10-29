@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Max Hospital & Diagnostic, Chittagong",
+            "address": {
+                "name": "Room no. 402A, 35/36, Mehedibag Road, Chawkbazar, Chattogram",
+                "longitude": -0.225089,
+                "latitude": 51.393389
+            },
+            "contact": "+8801815509244",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Nephrology)",
+        "Diploma (Family Medicine)",
+        "CCD (BIRDEM)"
+    ],
+    "designation": "Associate Professor, Nephrology",
+    "name": "Dr. Satyajit Roy",
+    "speciality": "Kidney-Medicine, Kidney transplant, Dialysis Specialist and Diabetologist",
+    "workplace": "Bangabandhu Memorial Hospital, IAHS, Chittagong",
+    "image": "image/dr-satyajit-roy.jpg"
+}

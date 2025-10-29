@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Comfort Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.38623057722819,
+                "latitude": 23.7492011
+            },
+            "contact": "+8801731956033",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DDV (BSMMU)",
+        "MCPS (BCPS)"
+    ],
+    "designation": "Skin & Sexual Diseases Specialist",
+    "name": "Dr. Shantaj Khondaker",
+    "speciality": "Skin & Sexual Diseases Specialist",
+    "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "image": "image/dr-shantaj-khondaker.jpg"
+}

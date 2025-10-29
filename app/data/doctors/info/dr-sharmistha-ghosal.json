@@ -1,0 +1,56 @@
+{
+    "chambers": [
+        {
+            "place": "Mirpur General Hospital & Diagnostic Center",
+            "address": {
+                "name": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+                "longitude": 90.401863,
+                "latitude": 23.85907
+            },
+            "contact": "+8801610964966",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Pediatrics)",
+        "MD (Pediatric Gastroenterology)"
+    ],
+    "designation": "Consultant (Pediatrics)",
+    "name": "Dr. Sharmistha Ghosal",
+    "speciality": "Newborn, Child Diseases & Child Gastroenterology Specialist",
+    "workplace": "Government Employees Hospital, Dhaka",
+    "image": "image/dr-sharmistha-ghosal.jpg"
+}

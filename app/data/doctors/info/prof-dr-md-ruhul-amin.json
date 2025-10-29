@@ -1,0 +1,45 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+                "longitude": 90.384418,
+                "latitude": 23.742717
+            },
+            "contact": "+8809666787801",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (Pediatrics)",
+        "Fellow Pediatric Pulmonology (UK)"
+    ],
+    "designation": "Former Professor, Pediatrics",
+    "name": "Prof. Dr. Md. Ruhul Amin",
+    "speciality": "Child Diseases & Child Pulmonology Specialist",
+    "workplace": "Bangladesh Institute of Child Health & Dhaka Shishu Hospital",
+    "image": "image/prof-dr-md-ruhul-amin.jpg"
+}

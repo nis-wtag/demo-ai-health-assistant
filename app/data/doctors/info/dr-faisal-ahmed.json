@@ -1,0 +1,91 @@
+{
+    "chambers": [
+        {
+            "place": "Apollo Imperial Hospital, Chittagong",
+            "address": {
+                "name": "Zakir Hossain Road, Pahartali, Chattogram",
+                "longitude": 90.365139,
+                "latitude": 23.757303
+            },
+            "contact": "+8809612247247",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Pediatrics)",
+        "MRCPH (UK)",
+        "Clinical Fellow (NICU, KSA)"
+    ],
+    "designation": "Senior Consultant, Pediatrics and NICU",
+    "name": "Dr. Faisal Ahmed",
+    "speciality": "Neonatal, Adolescent & Child Diseases Specialist",
+    "workplace": "Apollo Imperial Hospital, Chittagong",
+    "image": "image/dr-faisal-ahmed.jpg"
+}

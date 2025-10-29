@@ -1,0 +1,92 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Dhanmondi",
+            "address": {
+                "name": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+                "longitude": 90.401748,
+                "latitude": 23.71778
+            },
+            "contact": "+8801911356298",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "12:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Diagnostic, Kalabagan",
+            "address": {
+                "name": "House – 66, Mirpur Road, Kalabagan, Dhaka – 1205",
+                "longitude": 90.3850461,
+                "latitude": 23.7377492
+            },
+            "contact": "+8801766661331",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "PhD (Liver Medicine, Sydney)",
+        "DSM (Vienna)",
+        "Fellow (Liver & Gastroenterology)"
+    ],
+    "designation": "Former Professor & Head, Gastroenterology",
+    "name": "Prof. Dr. Mahbub H. Khan",
+    "speciality": "Liver & Gastroenterology Specialist",
+    "workplace": "Bangladesh Institute of Health Sciences Hospital",
+    "image": "image/prof-dr-mahbub-h-khan.jpg"
+}

@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Delta Health Care, Chittagong",
+            "address": {
+                "name": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+                "longitude": 91.83449949999999,
+                "latitude": 22.3657935
+            },
+            "contact": "+8801841906010",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "10:00",
+                    "end_time": "13:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DLO (ENT)"
+    ],
+    "designation": "Professor, ENT",
+    "name": "Prof. Dr. Md. Abdul Alim",
+    "speciality": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/prof-dr-md-abdul-alim.jpg"
+}

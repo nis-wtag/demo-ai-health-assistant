@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 1, Road # 4, Dhanmondi, Dhaka",
+                "longitude": 90.4134684,
+                "latitude": 23.7038752
+            },
+            "contact": "+8801521213137",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCP (Clinical Pathology)"
+    ],
+    "designation": "Assistant Professor, Pathology",
+    "name": "Dr. S. M. Masud",
+    "speciality": "Clinical Pathologist",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-s-m-masud.jpg"
+}

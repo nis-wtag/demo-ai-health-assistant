@@ -1,0 +1,97 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": {
+                "name": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+                "longitude": 90.4192256,
+                "latitude": 23.7034989
+            },
+            "contact": "01810-004550",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "21:00",
+                    "end_time": "21:30"
+                }
+            ]
+        },
+        {
+            "place": "Chittagong Square Clinical Laboratory",
+            "address": "195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology)"
+    ],
+    "designation": "Associate Professor (Neurology)",
+    "name": "Dr. Priyotosh Das",
+    "speciality": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-priyotosh-das.jpg"
+}

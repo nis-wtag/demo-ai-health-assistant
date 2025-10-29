@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Mirpur",
+            "address": {
+                "name": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+                "longitude": 90.366833,
+                "latitude": 23.818381
+            },
+            "contact": "+8801992346632",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (DDC)",
+        "PGT (Conservative Dentistry & OMS)"
+    ],
+    "designation": "Consultant, Dental",
+    "name": "Dr. Fazana Iffat Majumder",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Islami Bank Hospital, Mirpur",
+    "image": "image/dr-fazana-iffat-majumder.jpg"
+}

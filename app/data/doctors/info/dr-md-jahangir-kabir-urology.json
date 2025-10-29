@@ -1,0 +1,71 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+                "longitude": 90.4266247,
+                "latitude": 23.7475741
+            },
+            "contact": "+8809666710001",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "16:30"
+                }
+            ]
+        },
+        {
+            "place": "Labaid Cancer Hospital & Super Speciality Center",
+            "address": {
+                "name": "26, Green Road, Dhaka",
+                "longitude": 90.3885991,
+                "latitude": 23.7543065
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS",
+        "FRCS (Glasgow, UK)"
+    ],
+    "designation": "Senior Consultant, Urology",
+    "name": "Dr. Md. Jahangir Kabir",
+    "speciality": "Urologist, Andrologist, Uro-Oncologist & Surgeon",
+    "workplace": "Labaid Specialized Hospital, Dhanmondi",
+    "image": "image/dr-md-jahangir-kabir-urology.jpg"
+}

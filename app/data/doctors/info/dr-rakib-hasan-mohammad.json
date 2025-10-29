@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Medinova Medical Services, Malibagh",
+            "address": {
+                "name": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+                "longitude": 90.413241,
+                "latitude": 23.745206
+            },
+            "contact": "+8801716410062",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Neurology, BSMMU)",
+        "MAAN (USA)"
+    ],
+    "designation": "Assistant Professor, Neurology Department",
+    "name": "Dr. Rakib Hasan Mohammad",
+    "speciality": "Neuromedicine (Brain, Nerve, Stroke, Migraine, Headache) Specialist",
+    "workplace": "Colonel Malek Medical College Hospital, Manikganj",
+    "image": "image/dr-rakib-hasan-mohammad.jpg"
+}

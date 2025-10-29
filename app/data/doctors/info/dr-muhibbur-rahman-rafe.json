@@ -1,0 +1,51 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Dhanmondi",
+            "address": {
+                "name": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3544646,
+                "latitude": 23.7650097
+            },
+            "contact": "+8809610010615",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Physical Medicine)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant & Head, Physical Medicine & Rehabilitation",
+    "name": "Dr. Muhibbur Rahman Rafe",
+    "speciality": "Pain, Arthritis, Paralysis, Stroke & Rehab Specialist",
+    "workplace": "Government Employee Hospital, Dhaka",
+    "image": "image/dr-muhibbur-rahman-rafe.jpg"
+}

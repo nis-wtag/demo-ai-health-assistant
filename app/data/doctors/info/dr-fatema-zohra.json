@@ -1,0 +1,137 @@
+{
+    "chambers": [
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801987595060",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:30",
+                    "end_time": "15:30"
+                }
+            ]
+        },
+        {
+            "place": "Sandhani Clinic & Diagnostic Complex, Khulna",
+            "address": {
+                "name": "58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna",
+                "longitude": 90.39602178911183,
+                "latitude": 24.75389735
+            },
+            "contact": "+88041724819",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        },
+        {
+            "place": "Expert Sample Diagnostic Center, Khulna",
+            "address": {
+                "name": "29/B, KDA Avenue, Khulna (In front of Rashida Memorial Hospital)",
+                "longitude": 89.5595604,
+                "latitude": 22.8111168
+            },
+            "contact": "+8801749891135",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "16:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Consultant, Gynecology & Obstetrics",
+    "name": "Dr. Fatema Zohra",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "General Hospital, Khulna",
+    "image": "image/dr-fatema-zohra.jpg"
+}

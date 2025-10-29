@@ -1,0 +1,19 @@
+{
+    "chambers": [
+        {
+            "place": "Amana Hospital, Rajshahi",
+            "address": "Jhautala More, Laxmipur, Rajpara, Rajshahi",
+            "contact": "+8801705403610",
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Anesthesiology)"
+    ],
+    "designation": "Professor & Head, Anesthesiology",
+    "name": "Prof. Dr. Md. Latifur Rahman Apu",
+    "speciality": "Anesthesiology, Pain Management & Critical Care Medicine Specialist",
+    "workplace": "Rajshahi Medical College & Hospital",
+    "image": "image/dr-md-latifur-rahman-apu.jpg"
+}

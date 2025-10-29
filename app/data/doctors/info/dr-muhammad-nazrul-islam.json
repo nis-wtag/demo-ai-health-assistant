@@ -1,0 +1,47 @@
+{
+    "chambers": [
+        {
+            "place": "Farazy Hospital, Banasree",
+            "address": {
+                "name": "House#15-19, Block-E, Banasree Main Road, Rampura, Dhaka",
+                "longitude": 90.436253,
+                "latitude": 23.762555
+            },
+            "contact": "+8809606990000",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Surgery)",
+        "MS (Colorectal Surgery)",
+        "FACS (America)"
+    ],
+    "designation": "Consultant Surgeon",
+    "name": "Dr. Muhammad Nazrul Islam",
+    "speciality": "Colorectal (Piles, Fissure, Fistula), General & Laparoscopic Surgeon",
+    "workplace": "Farazy Hospital, Banasree",
+    "image": "image/dr-muhammad-nazrul-islam.jpg"
+}

@@ -1,0 +1,75 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Specialized Hospital, Dhanmondi",
+            "address": {
+                "name": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
+                "longitude": 90.3719649,
+                "latitude": 23.7529141
+            },
+            "contact": "+8801823039800",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Ibn Sina Diagnostic Center, Comilla",
+            "address": {
+                "name": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+                "longitude": 139.256238,
+                "latitude": -35.132366
+            },
+            "contact": "+8801841212275",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "19:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (DMC)",
+        "MD (Cardiology)"
+    ],
+    "designation": "Associate Professor, Cardiology",
+    "name": "Dr. AKM Mohiuddin Bhuiyan Masum",
+    "speciality": "Clinical & Interventional Cardiology Specialist",
+    "workplace": "Ibn Sina Medical College & Hospital",
+    "image": "image/dr-akm-mohiuddin-bhuiyan-masum.jpg"
+}

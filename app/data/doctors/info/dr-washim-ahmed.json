@@ -1,0 +1,79 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801722450094",
+            "visiting_hours": null
+        },
+        {
+            "place": "Tanha Health Care Hospital, Shafipur",
+            "address": {
+                "name": "Dhaka – Tangail Highway, Shafipur Bazar, Kaliakoir, Gazipur",
+                "longitude": 90.25936,
+                "latitude": 23.28083
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "11:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (SSMC)",
+        "FCPS (MEDICINE)"
+    ],
+    "designation": "Assistant Professor, Medicine",
+    "name": "Dr. Washim Ahmed",
+    "speciality": "Medicine Specialist",
+    "workplace": "Uttara Adhunik Medical College & Hospital",
+    "image": "image/dr-washim-ahmed.jpg"
+}

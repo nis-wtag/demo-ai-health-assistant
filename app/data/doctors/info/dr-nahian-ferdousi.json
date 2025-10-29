@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Sensiv Private Limited, Chittagong",
+            "address": {
+                "name": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+                "longitude": 74.98151,
+                "latitude": 29.327893
+            },
+            "contact": "+8801714044974",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS",
+        "PGT (Conservative Dentistry)"
+    ],
+    "designation": "Oral & Dental Surgeon",
+    "name": "Dr. Nahian Ferdousi",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-nahian-ferdousi.jpg"
+}

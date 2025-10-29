@@ -1,0 +1,67 @@
+{
+    "chambers": [
+        {
+            "place": "Anwer Khan Modern Medical College Hospital",
+            "address": {
+                "name": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+                "longitude": 90.382072,
+                "latitude": 23.743232
+            },
+            "contact": "+8801771259720",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Institute Of Laser Surgery & Hospital",
+            "address": {
+                "name": "5 New Eskaton Road, Gaous Nagor, Dhaka – 1000",
+                "longitude": 90.39605910515172,
+                "latitude": 23.74591205
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MPhil",
+        "MSc (Rheumatology)",
+        "PhD (Rheumatology)"
+    ],
+    "designation": "Consultant, Orthopedic Surgery",
+    "name": "Dr. Mohammed Yakub Ali",
+    "speciality": "Rheumatologist & Laser Surgery Specialist",
+    "workplace": "Anwer Khan Modern Medical College & Hospital",
+    "image": "image/dr-mohammed-yakub-ali.jpg"
+}

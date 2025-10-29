@@ -1,0 +1,62 @@
+{
+    "chambers": [
+        {
+            "place": "Hena Dental Care",
+            "address": {
+                "name": "House-39, Road -05, Panchlaish R/A (Opposite to Chevron)",
+                "longitude": -8.417731,
+                "latitude": 40.191634
+            },
+            "contact": "+8801878-900190",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Premium Dental Surgery",
+            "address": "G-52, Road-01, CDA, Colonel Hat, Chittagong",
+            "contact": "+8801620581593",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "BDS (Chittagong Medical College)",
+        "PGT",
+        "MPH"
+    ],
+    "designation": "General Dentist",
+    "name": "Dr. Abdur Rahim",
+    "speciality": "Oral & Dental Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-abdur-rahim-dentist.jpg"
+}

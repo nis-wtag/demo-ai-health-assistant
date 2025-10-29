@@ -1,0 +1,130 @@
+{
+    "chambers": [
+        {
+            "place": "Chevron Clinical Laboratory, Chittagong",
+            "address": {
+                "name": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+                "longitude": 91.8301051,
+                "latitude": 22.3635368
+            },
+            "contact": "+8801755666969",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Chevron Clinical Laboratory, Halishahar",
+            "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+            "contact": "+8801701229090",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:30",
+                    "end_time": "22:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Chittagong",
+            "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+            "contact": "+8809666787810",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MS (Neurosurgery)",
+        "FACS (USA)"
+    ],
+    "designation": "Assistant Professor, Neurosurgery",
+    "name": "Dr. Md. Sanaullah Shamim",
+    "speciality": "Neurosurgery (Brain, Spine, Nerve, Stroke) Specialist & Surgeon",
+    "workplace": "Chittagong Medical College & Hospital",
+    "image": "image/dr-md-sanaullah-shamim.jpg"
+}

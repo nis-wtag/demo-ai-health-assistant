@@ -1,0 +1,132 @@
+{
+    "chambers": [
+        {
+            "place": "Islami Bank Hospital, Rajshahi",
+            "address": {
+                "name": "Room - 134, Old Building, Laxmipur Mor, Rajshahi",
+                "longitude": 88.582361,
+                "latitude": 24.375593
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "19:00",
+                    "end_time": "20:30"
+                }
+            ]
+        },
+        {
+            "place": "Islami Bank Medical College & Hospital",
+            "address": {
+                "name": "Room – 103, Airport Road, Nawdapara, Sopura, Rajshahi",
+                "longitude": 88.603999,
+                "latitude": 24.37443
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": null,
+            "visiting_hours": null
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Chest Diseases)",
+        "MACP (USA)"
+    ],
+    "designation": "Consultant, Respiratory Medicine",
+    "name": "Dr. Chitta Ranjan Paul",
+    "speciality": "Chest Diseases, Asthma, Allergy, TB & Respiratory Medicine Specialist",
+    "workplace": "Chest Disease Hospital, Rajshahi",
+    "image": "image/dr-chitta-ranjan-paul.jpg"
+}

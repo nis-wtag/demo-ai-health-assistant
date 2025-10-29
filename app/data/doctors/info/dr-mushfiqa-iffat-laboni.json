@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Top Choice Diagnostic Centre, Khulna",
+            "address": {
+                "name": "37, Shamsur Rahman Road, Shantidham Mor, Khulna",
+                "longitude": 89.540056,
+                "latitude": 22.837283
+            },
+            "contact": "+8801987595060",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "15:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "FCPS (Obs & Gyne)"
+    ],
+    "designation": "Consultant (Gyne & Obs)",
+    "name": "Dr. Mushfiqa Iffat (Laboni)",
+    "speciality": "Gynecology, Obstetrics Specialist & Surgeon",
+    "workplace": "Khulna Medical College & Hospital",
+    "image": "image/dr-mushfiqa-iffat-laboni.jpg"
+}

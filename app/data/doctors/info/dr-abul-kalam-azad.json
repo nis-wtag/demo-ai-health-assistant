@@ -1,0 +1,54 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "19:30",
+                    "end_time": "21:30"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS (Dhaka)",
+        "MS (ORTHO)"
+    ],
+    "designation": "Professor & Head, Orthopedics Surgery",
+    "name": "Prof. Dr. Abul Kalam Azad",
+    "speciality": "Bone, Joint, Injuries, Paralysis, Orthopedics & Trauma Surgeon",
+    "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+    "image": "image/dr-abul-kalam-azad-urologist.jpg"
+}

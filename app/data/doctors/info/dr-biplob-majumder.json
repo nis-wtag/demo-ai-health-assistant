@@ -1,0 +1,133 @@
+{
+    "chambers": [
+        {
+            "place": "Labaid Diagnostic, Uttara (Unit 02)",
+            "address": {
+                "name": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8801676008580",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "19:00"
+                }
+            ]
+        },
+        {
+            "place": "Parkview Hospital, Chittagong",
+            "address": {
+                "name": "94/103, Katalganj Road, Panchlaish, Chattogram",
+                "longitude": 91.837751,
+                "latitude": 22.3589118
+            },
+            "contact": "+8801892962636",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "Comfort Hospital, Chittagong",
+            "address": {
+                "name": "S A Tower, Baraoiar Hat, Mirsarai, Chittagong",
+                "longitude": 91.827634,
+                "latitude": 22.360648
+            },
+            "contact": "+8801847070301",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "12:00",
+                    "end_time": "18:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "D-ORTHO",
+        "MS (Orthopedics)"
+    ],
+    "designation": "Registrar (Pediatric Orthopedic Unit)",
+    "name": "Dr. Biplab Mozumder",
+    "speciality": "Pediatric Orthopedic Surgeon",
+    "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+    "image": "image/dr-biplob-majumder.jpg"
+}

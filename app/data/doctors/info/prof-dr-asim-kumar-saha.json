@@ -1,0 +1,88 @@
+{
+    "chambers": [
+        {
+            "place": "DLAB Medical Services, Barisal",
+            "address": {
+                "name": "109, Birsreshtho Mohiuddin Jahangir Sorok (Sadar Road), Barisal",
+                "longitude": 90.37013,
+                "latitude": 22.70497
+            },
+            "contact": "+8801767683400",
+            "visiting_hours": [
+                {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        },
+        {
+            "place": "Sumi Pathology, Jhalakathi",
+            "address": {
+                "name": "Nilakkho’- 226/1, Station Road, Jhalakathi",
+                "longitude": -1.209046,
+                "latitude": 52.921968
+            },
+            "contact": "+8801721875245",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Friday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:30",
+                    "end_time": "22:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "DCH",
+        "MCPS",
+        "FCPS",
+        "FRCP (Glasgow)"
+    ],
+    "designation": "Former Head of the Department, Pediatrics",
+    "name": "Prof. Dr. Asim Kumar Saha",
+    "speciality": "Newborn, Adolescent & Child Diseases Specialist",
+    "workplace": "Sher-E-Bangla Medical College & Hospital",
+    "image": "image/prof-dr-asim-kumar-saha.jpg"
+}

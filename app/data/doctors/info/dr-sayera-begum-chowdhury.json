@@ -1,0 +1,55 @@
+{
+    "chambers": [
+        {
+            "place": "Ayesha Medicare",
+            "address": {
+                "name": "Mirza Jangal Road, Lamabazar, Sylhet",
+                "longitude": 91.87198,
+                "latitude": 24.89904
+            },
+            "contact": "+880821717222",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "17:00",
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MCPS",
+        "FCPS (OBGYN)"
+    ],
+    "designation": "Residential Surgeon, Obstetrics & Gynecology",
+    "name": "Dr. Sayera Begum Chowdhury",
+    "speciality": "Obstetrics, Gynecology Specialist & Surgeon",
+    "workplace": "North East Medical College & Hospital",
+    "image": "image/dr-sayera-begum-chowdhury.jpg"
+}

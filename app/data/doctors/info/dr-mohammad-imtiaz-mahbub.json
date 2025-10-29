@@ -1,0 +1,70 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "16:00",
+                    "end_time": "18:00"
+                }
+            ]
+        },
+        {
+            "place": "Popular Diagnostic Center, Rajshahi",
+            "address": {
+                "name": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+                "longitude": -79.70258,
+                "latitude": 43.423888
+            },
+            "contact": "+8809666787811",
+            "visiting_hours": [
+                {
+                    "day": "Thursday",
+                    "start_time": null,
+                    "end_time": "20:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "MD (Endocrinology)"
+    ],
+    "designation": "Assistant Professor, Endocrinology",
+    "name": "Dr. Mohammad Imtiaj Mahbub",
+    "speciality": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
+    "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "image": "image/dr-mohammad-imtiaz-mahbub.jpg"
+}

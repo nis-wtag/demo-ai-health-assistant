@@ -1,0 +1,96 @@
+{
+    "chambers": [
+        {
+            "place": "Popular Diagnostic Center, Shyamoli",
+            "address": {
+                "name": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+                "longitude": 90.92904,
+                "latitude": 23.11363
+            },
+            "contact": "+8801819-223231",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "18:00",
+                    "end_time": "21:00"
+                }
+            ]
+        },
+        {
+            "place": "BIRDEM Specialised Chamber Complex",
+            "address": {
+                "name": "Main Building, Room – 224, 122, Kazi Nazrul Islam Avenue, Dhaka",
+                "longitude": 90.3940791,
+                "latitude": 23.748
+            },
+            "contact": null,
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Thursday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Sunday",
+                    "start_time": "15:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "FCPS (OBGYN)",
+        "Fellow (WHO)"
+    ],
+    "designation": "Professor & Head, Gynecology & Obstetrics",
+    "name": "Prof. Dr. Ferdousi Begum Flora",
+    "speciality": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+    "workplace": "Birdem General Hospital & Ibrahim Medical College",
+    "image": "image/prof-dr-ferdousi-begum-flora.jpg"
+}

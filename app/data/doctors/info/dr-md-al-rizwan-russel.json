@@ -1,0 +1,40 @@
+{
+    "chambers": [
+        {
+            "place": "Ibn Sina Diagnostic Center, Uttara",
+            "address": {
+                "name": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+                "longitude": 90.40744,
+                "latitude": 23.7104
+            },
+            "contact": "+8809610009612",
+            "visiting_hours": [
+                {
+                    "day": "Monday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Wednesday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                },
+                {
+                    "day": "Saturday",
+                    "start_time": "14:00",
+                    "end_time": "17:00"
+                }
+            ]
+        }
+    ],
+    "degree": [
+        "MBBS",
+        "BCS (Health)",
+        "MD (Nephrology)"
+    ],
+    "designation": "Assistant Professor, Nephrology",
+    "name": "Dr. Md. Al Rizwan Russel",
+    "speciality": "Kidney Specialist",
+    "workplace": "Kurmitola General Hospital, Dhaka",
+    "image": "image/dr-md-al-rizwan-russel.jpg"
+}
